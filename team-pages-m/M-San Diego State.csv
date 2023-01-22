@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+45,Utah,Loss 2-11,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,0,2,11,-600,-9,1486.48,680.1,886.48,680.1,0,0,San Diego State,1
+6,Cal Poly-SLO,Loss 1-15,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,0,1,15,-600,-14,1985.66,680.1,1385.66,680.1,0,0,San Diego State,2
+63,California-Santa Barbara,Loss 5-9,16.84,Counts,0.0917,2023-02-19,Presidents Day Invite 2022,0,5,9,-529.06,-4,1375.9,663.27,846.8400000000001,646.43,846.8400000000001,77.65522800000002,San Diego State,3
+88,Arizona,Loss 4-12,-7.65,Counts,0.1025,2023-02-19,Presidents Day Invite 2022,0,4,12,-600,-8,1213.12,687.75,613.1199999999999,695.4,613.1199999999999,62.844799999999985,San Diego State,4
+36,California-Santa Cruz,Loss 2-13,0,Ignored,0,2023-02-20,Presidents Day Invite 2022,0,2,13,-600,-11,1524.13,680.1,924.1300000000001,680.1,0,0,San Diego State,5
+61,California-San Diego,Loss 3-15,0,Ignored,0,2023-02-20,Presidents Day Invite 2022,0,3,15,-600,-12,1396.69,680.1,796.69,680.1,0,0,San Diego State,6
+113,California-Davis,Loss 3-15,-20.8,Counts,0.10679999999999999,2023-02-21,Presidents Day Invite 2022,0,3,15,-600,-12,1106.24,700.9,506.24,721.6999999999999,506.24,54.066432,San Diego State,7
+151,Arizona State,Loss 4-12,-37.09,Counts,0.1025,2023-02-21,Presidents Day Invite 2022,0,4,12,-600,-8,955.51,717.19,355.51,754.2800000000001,355.51,36.439775,San Diego State,8
+71,Southern California,Loss 5-11,1.99,Counts,0.1469,2023-04-09,SoCal D I College Mens CC 2022,0,5,11,-600,-6,1291.65,678.11,691.6500000000001,676.12,691.6500000000001,101.60338500000002,San Diego State,9
+61,California-San Diego,Loss 4-13,0,Ignored,0,2023-04-09,SoCal D I College Mens CC 2022,0,4,13,-600,-9,1396.69,680.1,796.69,680.1,0,0,San Diego State,10
+112,Cal State-Long Beach,Loss 6-12,-27.74,Counts,0.1558,2023-04-09,SoCal D I College Mens CC 2022,0,6,12,-579.31,-6,1109.09,707.85,529.78,735.59,529.78,82.53972399999999,San Diego State,11
+29,UCLA,Loss 1-13,0,Ignored,0,2023-04-09,SoCal D I College Mens CC 2022,0,1,13,-600,-12,1597.35,680.1,997.3499999999999,680.1,0,0,San Diego State,12
+167,Loyola Marymount,Loss 8-9,16.33,Counts,0.1514,2023-04-10,SoCal D I College Mens CC 2022,0,8,9,-125,-1,896.64,663.77,771.64,647.4399999999999,771.64,116.826296,San Diego State,13
+244,California-Irvine,Win 9-6,59.81,Counts,0.1422,2023-04-10,SoCal D I College Mens CC 2022,1,9,6,418.57,3,622.19,620.3,1040.76,560.49,1040.76,147.996072,San Diego State,14

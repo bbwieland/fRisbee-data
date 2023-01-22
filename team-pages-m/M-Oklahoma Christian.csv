@@ -1,0 +1,24 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+89,Central Florida,Win 11-7,2.95,Counts,0.0344,2023-03-19,Mens College Centex,1,11,7,466.89,4,1207.83,1588.81,1674.7199999999998,1585.86,1674.7199999999998,57.610367999999994,Oklahoma Christian,1
+95,Iowa State,Win 13-6,7,Counts,0.0353,2023-03-19,Mens College Centex,1,13,6,600,7,1183.14,1584.75,1783.14,1577.75,1783.14,62.944842,Oklahoma Christian,2
+63,California-Santa Barbara,Loss 11-12,-12.47,Counts,0.0353,2023-03-19,Mens College Centex,0,11,12,-125,-1,1375.9,1604.23,1250.9,1616.7,1250.9,44.15677,Oklahoma Christian,3
+17,Texas,Loss 6-13,-15.45,Counts,0.0353,2023-03-19,Mens College Centex,0,6,13,-600,-7,1769.66,1607.2,1169.66,1622.65,1169.66,41.288998,Oklahoma Christian,4
+20,McGill,Loss 10-15,-13.14,Counts,0.0353,2023-03-20,Mens College Centex,0,10,15,-453.6,-5,1686.18,1604.9,1232.58,1618.0400000000002,1232.58,43.510073999999996,Oklahoma Christian,5
+84,Iowa,Win 12-11,-8.34,Counts,0.0353,2023-03-20,Mens College Centex,1,12,11,125,1,1238.75,1600.1,1363.75,1608.4399999999998,1363.75,48.140375,Oklahoma Christian,6
+63,California-Santa Barbara,Win 11-5,12.86,Counts,0.032400000000000005,2023-03-20,Mens College Centex,1,11,5,600,6,1375.9,1578.9,1975.9,1566.0400000000002,1975.9,64.01916000000001,Oklahoma Christian,7
+54,Missouri S&T,Win 10-6,13.27,Counts,0.0385,2023-04-09,Ozarks D III College Mens CC 2022,1,10,6,496.16,4,1426.73,1578.49,1922.89,1565.22,1922.89,74.031265,Oklahoma Christian,8
+103,John Brown,Win 12-6,5.81,Counts,0.0409,2023-04-09,Ozarks D III College Mens CC 2022,1,12,6,579.31,6,1148.73,1585.95,1728.04,1580.14,1728.04,70.676836,Oklahoma Christian,9
+164,Truman State,Win 13-6,-4.09,Counts,0.042,2023-04-09,Ozarks D III College Mens CC 2022,1,13,6,600,7,898.32,1595.85,1498.3200000000002,1599.9399999999998,1498.3200000000002,62.929440000000014,Oklahoma Christian,10
+164,Truman State,Win 11-5,-3.74,Counts,0.0385,2023-04-10,Ozarks D III College Mens CC 2022,1,11,5,600,6,898.32,1595.5,1498.3200000000002,1599.24,1498.3200000000002,57.685320000000004,Oklahoma Christian,11
+103,John Brown,Win 12-6,5.81,Counts,0.0409,2023-04-10,Ozarks D III College Mens CC 2022,1,12,6,579.31,6,1148.73,1585.95,1728.04,1580.14,1728.04,70.676836,Oklahoma Christian,12
+54,Missouri S&T,Loss 9-15,-35.76,Counts,0.0499,2023-04-30,South Central D III College Mens Regionals 2022,0,9,15,-515.48,-6,1426.73,1627.52,911.25,1663.28,911.25,45.471375,Oklahoma Christian,13
+173,Colorado School of Mines,Win 15-6,0,Ignored,0,2023-04-30,South Central D III College Mens Regionals 2022,1,15,6,600,9,856.94,1591.76,1456.94,1591.76,0,0,Oklahoma Christian,14
+103,John Brown,Win 15-5,8.25,Counts,0.0499,2023-04-30,South Central D III College Mens Regionals 2022,1,15,5,600,10,1148.73,1583.51,1748.73,1575.26,1748.73,87.261627,Oklahoma Christian,15
+54,Missouri S&T,Win 15-12,7.12,Counts,0.0499,2023-05-01,South Central D III College Mens Regionals 2022,1,15,12,300.49,3,1426.73,1584.64,1727.22,1577.5200000000002,1727.22,86.188278,Oklahoma Christian,16
+103,John Brown,Win 15-6,8.25,Counts,0.0499,2023-05-01,South Central D III College Mens Regionals 2022,1,15,6,600,9,1148.73,1583.51,1748.73,1575.26,1748.73,87.261627,Oklahoma Christian,17
+128,Scranton,Win 15-9,-1.45,Counts,0.0594,2023-05-21,2022 D III College Championships,1,15,9,515.48,6,1053.29,1593.21,1568.77,1594.66,1568.77,93.184938,Oklahoma Christian,18
+132,Ithaca,Win 15-6,2,Counts,0.0594,2023-05-21,2022 D III College Championships,1,15,6,600,9,1023.44,1589.76,1623.44,1587.76,1623.44,96.432336,Oklahoma Christian,19
+50,Berry,Win 15-14,-1.07,Counts,0.0594,2023-05-21,2022 D III College Championships,1,15,14,125,1,1449.81,1592.83,1574.81,1593.8999999999999,1574.81,93.543714,Oklahoma Christian,20
+35,Middlebury,Win 14-13,4.02,Counts,0.0594,2023-05-22,2022 D III College Championships,1,14,13,125,1,1530.51,1587.73,1655.51,1583.71,1655.51,98.337294,Oklahoma Christian,21
+147,Grace,Win 15-7,-1.91,Counts,0.0594,2023-05-22,2022 D III College Championships,1,15,7,600,8,961.54,1593.66,1561.54,1595.5700000000002,1561.54,92.755476,Oklahoma Christian,22
+34,St. Olaf,Win 15-11,20.49,Counts,0.0594,2023-05-23,2022 D III College Championships,1,15,11,381.16,4,NA,1571.26,NA,1550.77,NA,NA,Oklahoma Christian,23

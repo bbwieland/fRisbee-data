@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+94,Princeton,Loss 6-10,-22.47,Counts,0.0548,2023-03-26,Rodeo,0,6,10,-496.16,-4,1189.13,1102.69,692.97,1125.16,692.97,37.974756,Tennessee-Chattanooga,1
+87,Richmond,Loss 8-9,0.95,Counts,0.0565,2023-03-26,Rodeo,0,8,9,-125,-1,1221.1,1079.26,1096.1,1078.31,1096.1,61.929649999999995,Tennessee-Chattanooga,2
+34,St. Olaf,Loss 8-13,-2.61,Counts,0.059800000000000006,2023-03-26,Rodeo,0,8,13,-496.16,-5,NA,1082.83,NA,1085.4399999999998,NA,NA,Tennessee-Chattanooga,3
+215,North Carolina-B,Win 13-4,14.1,Counts,0.059800000000000006,2023-03-26,Rodeo,1,13,4,600,9,702.02,1066.11,1302.02,1052.01,1302.02,77.86079600000001,Tennessee-Chattanooga,4
+215,North Carolina-B,Win 13-7,11.4,Counts,0.059800000000000006,2023-03-27,Rodeo,1,13,7,557.53,6,702.02,1068.81,1259.55,1057.4099999999999,1259.55,75.32109,Tennessee-Chattanooga,5
+149,SUNY-Binghamton,Loss 9-11,-23.66,Counts,0.059800000000000006,2023-03-27,Rodeo,0,9,11,-249.21,-2,957.14,1103.88,707.93,1127.5400000000002,707.93,42.334214,Tennessee-Chattanooga,6
+8,Georgia,Loss 6-13,17.97,Counts,0.06709999999999999,2023-04-09,Southern Appalachian D I College Mens CC 2022,0,6,13,-600,-7,1930.07,1062.25,1330.07,1044.28,1330.07,89.24769699999999,Tennessee-Chattanooga,7
+274,Georgia Southern,Win 12-4,0,Ignored,0,2023-04-09,Southern Appalachian D I College Mens CC 2022,1,12,4,600,8,479.62,1080.21,1079.62,1080.21,0,0,Tennessee-Chattanooga,8
+44,Georgia Tech,Loss 7-11,-4.05,Counts,0.0653,2023-04-09,Southern Appalachian D I College Mens CC 2022,0,7,11,-466.89,-4,1489.18,1084.26,1022.2900000000001,1088.31,1022.2900000000001,66.755537,Tennessee-Chattanooga,9
+134,Tennessee,Win 12-11,4.51,Counts,0.06709999999999999,2023-04-09,Southern Appalachian D I College Mens CC 2022,1,12,11,125,1,1017.86,1075.71,1142.8600000000001,1071.2,1142.8600000000001,76.685906,Tennessee-Chattanooga,10
+168,Kennesaw State,Win 13-10,9.99,Counts,0.06709999999999999,2023-04-10,Southern Appalachian D I College Mens CC 2022,1,13,10,328.14,3,890.93,1070.23,1219.07,1060.24,1219.07,81.79959699999999,Tennessee-Chattanooga,11
+8,Georgia,Loss 5-15,0,Ignored,0,2023-04-10,Southern Appalachian D I College Mens CC 2022,0,5,15,-600,-10,1930.07,1080.21,1330.07,1080.21,0,0,Tennessee-Chattanooga,12
+102,Emory,Loss 8-13,-30.65,Counts,0.06709999999999999,2023-04-10,Southern Appalachian D I College Mens CC 2022,0,8,13,-496.16,-5,1150.1,1110.87,653.9399999999998,1141.52,653.9399999999998,43.879373999999984,Tennessee-Chattanooga,13
+158,South Florida,Win 13-11,5.72,Counts,0.07980000000000001,2023-04-30,Southeast D I College Mens Regionals 2022,1,13,11,228.84,2,917.32,1074.5,1146.16,1068.78,1146.16,91.46356800000002,Tennessee-Chattanooga,14
+92,Alabama-Huntsville,Loss 9-10,-0.76,Counts,0.07980000000000001,2023-04-30,Southeast D I College Mens Regionals 2022,0,9,10,-125,-1,1196.4,1080.98,1071.4,1081.74,1071.4,85.49772000000002,Tennessee-Chattanooga,15
+222,Florida Gulf Coast,Win 12-5,17.41,Counts,0.0766,2023-04-30,Southeast D I College Mens Regionals 2022,1,12,5,600,7,690.23,1062.8,1290.23,1045.3899999999999,1290.23,98.831618,Tennessee-Chattanooga,16
+53,Tulane,Loss 10-13,2.75,Counts,0.07980000000000001,2023-04-30,Southeast D I College Mens Regionals 2022,0,10,13,-328.14,-3,1440.12,1077.46,1111.98,1074.71,1111.98,88.73600400000001,Tennessee-Chattanooga,17

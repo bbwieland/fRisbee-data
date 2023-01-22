@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+122,Denver,Loss 4-11,-8.13,Counts,0.1199,2023-03-12,Big Sky Brawl,0,4,11,-600,-7,1075.81,543.64,475.80999999999995,551.77,475.80999999999995,57.049619,Colorado Mesa,1
+159,Boise State,Loss 5-10,-25.58,Counts,0.1161,2023-03-12,Big Sky Brawl,0,5,10,-573.9,-5,914.58,561.09,340.68000000000006,586.6700000000001,340.68000000000006,39.55294800000001,Colorado Mesa,2
+NA,Brigham Young-B,Loss 2-11,23.15,Counts,0.1199,2023-03-12,Big Sky Brawl,0,2,11,-600,-9,1305.48,512.37,705.48,489.22,705.48,84.587052,Colorado Mesa,3
+15,Utah State,Loss 2-11,0,Ignored,0,2023-03-13,Big Sky Brawl,0,2,11,-600,-9,1823.82,535.51,1223.82,535.51,0,0,Colorado Mesa,4
+208,Nevada-Reno,Win 10-9,46.87,Counts,0.1306,2023-03-13,Big Sky Brawl,1,10,9,125,1,722.46,488.65,847.46,441.78,847.46,110.678276,Colorado Mesa,5
+40,Colorado State,Loss 2-15,0,Ignored,0,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,2,15,-600,-13,1509.55,535.51,909.55,535.51,0,0,Colorado Mesa,6
+122,Denver,Loss 4-15,-12.61,Counts,0.1743,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,4,15,-600,-11,1075.81,548.12,475.80999999999995,560.73,475.80999999999995,82.933683,Colorado Mesa,7
+135,Colorado-B,Loss 5-15,-25.36,Counts,0.1743,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,5,15,-600,-10,1015.4,560.88,415.4,586.24,415.4,72.40422,Colorado Mesa,8
+NA,Denver-B,Win 11-6,0,Counts,0.1649,2023-04-17,Rocky Mountain D I College Mens CC 2022,1,11,6,546.69,5,11.18,535.51,557.87,535.51,557.87,91.992763,Colorado Mesa,9

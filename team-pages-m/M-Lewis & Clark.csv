@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Puget Sound,Loss 8-9,-20.22,Counts,0.3211,2023-04-16,Northwest D III College Mens CC 2022,0,8,9,-125,-1,196.4,134.36,71.4,154.58,71.4,22.926540000000003,Lewis & Clark,1
+NA,Portland,Win 15-10,0,Counts,0.3395,2023-04-16,Northwest D III College Mens CC 2022,1,15,10,453.6,5,339.46,114.14,793.06,114.14,793.06,269.24387,Lewis & Clark,2
+NA,Whitworth,Loss 11-13,20.78,Counts,0.3395,2023-04-16,Northwest D III College Mens CC 2022,0,11,13,-228.84,-2,383.42,93.37,154.58,72.59,154.58,52.47991000000001,Lewis & Clark,3

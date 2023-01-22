@@ -1,0 +1,26 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+127,Jacksonville State,Loss 2-5,-23.59,Counts,0.0258,2023-03-12,Tally Classic XVI,0,2,5,-600,-3,704.84,1017.78,104.84000000000003,1041.37,104.84000000000003,2.704872000000001,South Carolina,1
+123,Tulane,Win 6-4,3.13,Counts,0.030899999999999997,2023-03-12,Tally Classic XVI,1,6,4,365.61,2,726.7,991.06,1092.31,987.93,1092.31,33.752379,South Carolina,2
+213,Notre Dame-B,Win 11-0,0,Ignored,0,2023-03-12,Tally Classic XVI,1,11,0,600,11,81.16,994.19,681.16,994.19,0,0,South Carolina,3
+47,Florida,Loss 4-12,-13,Counts,0.0409,2023-03-12,Tally Classic XVI,0,4,12,-600,-8,1288.97,1007.19,688.97,1020.19,688.97,28.178873,South Carolina,4
+154,Harvard,Win 9-7,-7.2,Counts,0.0391,2023-03-13,Tally Classic XVI,1,9,7,279.34,2,537.68,1001.39,817.02,1008.59,817.02,31.945482000000002,South Carolina,5
+14,Florida State,Loss 6-14,0,Ignored,0,2023-03-13,Tally Classic XVI,0,6,14,-600,-8,1708.29,994.19,1108.29,994.19,0,0,South Carolina,6
+47,Florida,Loss 4-6,-2.26,Counts,0.030899999999999997,2023-03-13,Tally Classic XVI,0,4,6,-365.61,-2,1288.97,996.45,923.36,998.71,923.36,28.531823999999997,South Carolina,7
+42,North Carolina State,Loss 7-8,9.35,Counts,0.0425,2023-03-26,Rodeo,0,7,8,-125,-1,1329.97,984.84,1204.97,975.49,1204.97,51.211225000000006,South Carolina,8
+15,Georgia,Loss 2-9,0,Ignored,0,2023-03-26,Rodeo,0,2,9,-600,-7,1707.34,994.19,1107.34,994.19,0,0,South Carolina,9
+59,St. Olaf,Win 7-3,28.17,Counts,0.0347,2023-03-26,Rodeo,1,7,3,600,4,NA,966.02,NA,937.85,NA,NA,South Carolina,10
+31,SUNY-Binghamton,Loss 4-11,-6.53,Counts,0.0438,2023-03-27,Rodeo,0,4,11,-600,-7,1451.86,1000.72,851.8599999999999,1007.25,851.8599999999999,37.311468,South Carolina,11
+63,Duke,Win 8-5,24.99,Counts,0.0395,2023-03-27,Rodeo,1,8,5,453.6,3,1147.99,969.2,1601.5900000000001,944.21,1601.5900000000001,63.26280500000001,South Carolina,12
+42,North Carolina State,Loss 4-9,-10.87,Counts,0.0395,2023-03-27,Rodeo,0,4,9,-600,-5,1329.97,1005.06,729.97,1015.93,729.97,28.833815,South Carolina,13
+1,North Carolina,Loss 1-13,0,Ignored,0,2023-04-23,Carolina D I College Womens CC 2022,0,1,13,-600,-12,2343.45,994.19,1743.4499999999998,994.19,0,0,South Carolina,14
+42,North Carolina State,Loss 3-13,-16.93,Counts,0.0602,2023-04-23,Carolina D I College Womens CC 2022,0,3,13,-600,-10,1329.97,1011.11,729.97,1028.04,729.97,43.944193999999996,South Carolina,15
+109,Clemson,Win 10-6,18.4,Counts,0.0552,2023-04-23,Carolina D I College Womens CC 2022,1,10,6,496.16,4,812.78,975.79,1308.94,957.39,1308.94,72.253488,South Carolina,16
+149,North Carolina-Wilmington,Win 11-6,8.51,Counts,0.056900000000000006,2023-04-24,Carolina D I College Womens CC 2022,1,11,6,546.69,5,588.46,985.68,1135.15,977.17,1135.15,64.59003500000001,South Carolina,17
+63,Duke,Loss 5-13,-28.58,Counts,0.0602,2023-04-24,Carolina D I College Womens CC 2022,0,5,13,-600,-8,1147.99,1022.77,547.99,1051.35,547.99,32.988997999999995,South Carolina,18
+193,Wake Forest,Win 9-3,0,Ignored,0,2023-04-24,Carolina D I College Womens CC 2022,1,9,3,600,6,282,994.19,882,994.19,0,0,South Carolina,19
+55,James Madison,Loss 8-12,-15.44,Counts,0.0676,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,8,12,-441.15,-4,1222.28,1009.63,781.13,1025.07,781.13,52.804387999999996,South Carolina,20
+56,Liberty,Loss 5-11,-24.7,Counts,0.062,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,5,11,-600,-6,1220.56,1018.89,620.56,1043.59,620.56,38.47472,South Carolina,21
+20,Virginia,Loss 6-13,-0.34,Counts,0.0676,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,6,13,-600,-7,1589.46,994.53,989.46,994.87,989.46,66.887496,South Carolina,22
+128,George Washington,Win 15-6,22.07,Counts,0.0676,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,6,600,9,698.73,972.12,1298.73,950.05,1298.73,87.79414799999999,South Carolina,23
+159,Towson,Win 15-1,7.97,Counts,0.0676,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,1,600,14,504.17,986.22,1104.17,978.25,1104.17,74.641892,South Carolina,24
+117,Virginia Commonwealth,Win 15-2,27.12,Counts,0.0676,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,2,600,13,768.41,967.07,1368.4099999999999,939.95,1368.4099999999999,92.50451599999998,South Carolina,25

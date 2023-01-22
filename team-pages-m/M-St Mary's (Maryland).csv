@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+87,Richmond,Loss 4-15,0,Ignored,0,2023-04-09,Northern Atlantic Coast D III College Mens CC 2022,0,4,15,-600,-11,1221.1,366.43,621.0999999999999,366.43,0,0,St Mary's (Maryland),1
+188,Mary Washington,Loss 3-15,0,Ignored,0,2023-04-09,Northern Atlantic Coast D III College Mens CC 2022,0,3,15,-600,-12,798.38,366.43,198.38,366.43,0,0,St Mary's (Maryland),2
+74,Navy,Loss 0-15,0,Ignored,0,2023-04-09,Northern Atlantic Coast D III College Mens CC 2022,0,0,15,-600,-15,1277.32,366.43,677.3199999999999,366.43,0,0,St Mary's (Maryland),3
+NA,Shenandoah University,Loss 5-15,NA,Counts,1,2023-04-10,Northern Atlantic Coast D III College Mens CC 2022,0,5,15,-600,-10,233.57,NA,-366.43,NA,-366.43,-366.43,St Mary's (Maryland),4

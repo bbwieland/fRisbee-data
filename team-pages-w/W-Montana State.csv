@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+179,Boise State,Win 9-3,5.68,Counts,0.0583,2023-03-12,Big Sky Brawl,1,9,3,600,6,378.1,880.8,978.1,875.12,978.1,57.02323,Montana State,1
+95,Denver,Loss 5-6,-3.87,Counts,0.0537,2023-03-12,Big Sky Brawl,0,5,6,-125,-1,943.26,890.34,818.26,894.21,818.26,43.940562,Montana State,2
+96,Montana,Win 7-6,10.89,Counts,0.0583,2023-03-12,Big Sky Brawl,1,7,6,125,1,937.17,875.59,1062.17,864.7,1062.17,61.924511,Montana State,3
+97,Utah,Win 10-4,42.46,Counts,0.0616,2023-03-12,Big Sky Brawl,1,10,4,600,6,933.13,844.01,1533.13,801.55,1533.13,94.440808,Montana State,4
+52,Portland,Loss 4-10,-16.63,Counts,0.0616,2023-03-13,Big Sky Brawl,0,4,10,-600,-6,1233.18,903.11,633.1800000000001,919.74,633.1800000000001,39.003888,Montana State,5
+12,Brigham Young,Loss 7-15,33.49,Counts,0.0941,2023-04-16,Big Sky D I College Womens CC 2022,0,7,15,-600,-8,1808.7,852.98,1208.7,819.49,1208.7,113.73867000000001,Montana State,6
+96,Montana,Loss 10-11,-7.72,Counts,0.0941,2023-04-16,Big Sky D I College Womens CC 2022,0,10,11,-125,-1,937.17,894.2,812.17,901.9200000000001,812.17,76.425197,Montana State,7
+97,Utah,Loss 9-10,-8.14,Counts,0.0941,2023-04-16,Big Sky D I College Womens CC 2022,0,9,10,-125,-1,933.13,894.62,808.13,902.76,808.13,76.045033,Montana State,8
+40,Whitman,Loss 5-15,-15.17,Counts,0.0941,2023-04-17,Big Sky D I College Womens CC 2022,0,5,15,-600,-10,1340.5,901.65,740.5,916.8199999999999,740.5,69.68105,Montana State,9
+46,Victoria,Loss 5-15,-24.01,Counts,0.11199999999999999,2023-05-07,Northwest D I College Womens Regionals 2022,0,5,15,-600,-10,1296.01,910.49,696.01,934.5,696.01,77.95311999999998,Montana State,10
+6,Washington,Loss 2-13,0,Ignored,0,2023-05-07,Northwest D I College Womens Regionals 2022,0,2,13,-600,-11,2068.65,886.47,1468.65,886.47,0,0,Montana State,11
+16,Western Washington,Loss 5-13,0,Ignored,0,2023-05-07,Northwest D I College Womens Regionals 2022,0,5,13,-600,-8,1700.37,886.47,1100.37,886.47,0,0,Montana State,12
+97,Utah,Loss 8-9,-9.28,Counts,0.1059,2023-05-07,Northwest D I College Womens Regionals 2022,0,8,9,-125,-1,933.13,895.75,808.13,905.03,808.13,85.580967,Montana State,13
+97,Utah,Loss 12-13,-9.88,Counts,0.11199999999999999,2023-05-08,Northwest D I College Womens Regionals 2022,0,12,13,-125,-1,933.13,896.35,808.13,906.23,808.13,90.51055999999998,Montana State,14

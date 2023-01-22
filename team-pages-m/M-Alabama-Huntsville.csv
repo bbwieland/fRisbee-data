@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+161,Mississippi State,Win 8-6,0.34,Counts,0.041100000000000005,2023-03-12,Tally Classic XVI,1,8,6,300.49,2,903.76,1196.07,1204.25,1195.73,1204.25,49.49467500000001,Alabama-Huntsville,1
+111,Georgia State,Loss 6-8,-16.56,Counts,0.041100000000000005,2023-03-12,Tally Classic XVI,0,6,8,-300.49,-2,1110.77,1212.96,810.28,1229.52,810.28,33.302508,Alabama-Huntsville,2
+26,Auburn,Loss 6-12,-7.73,Counts,0.0466,2023-03-12,Tally Classic XVI,0,6,12,-579.31,-6,1617.76,1204.13,1038.45,1211.8600000000001,1038.45,48.39177000000001,Alabama-Huntsville,3
+274,Georgia Southern,Win 15-6,0,Ignored,0,2023-03-13,Tally Classic XVI,1,15,6,600,9,479.62,1196.4,1079.62,1196.4,0,0,Alabama-Huntsville,4
+111,Georgia State,Win 15-11,14.87,Counts,0.0479,2023-03-13,Tally Classic XVI,1,15,11,381.16,4,1110.77,1181.53,1491.93,1166.66,1491.93,71.463447,Alabama-Huntsville,5
+161,Mississippi State,Win 13-4,22.34,Counts,0.0678,2023-04-23,Gulf Coast D I College Mens CC 2022,1,13,4,600,9,903.76,1174.06,1503.76,1151.72,1503.76,101.954928,Alabama-Huntsville,6
+57,Alabama,Loss 8-9,6.34,Counts,0.0641,2023-04-23,Gulf Coast D I College Mens CC 2022,0,8,9,-125,-1,1414,1190.06,1289,1183.72,1289,82.62490000000001,Alabama-Huntsville,7
+26,Auburn,Loss 6-12,-11.15,Counts,0.0659,2023-04-23,Gulf Coast D I College Mens CC 2022,0,6,12,-579.31,-6,1617.76,1207.55,1038.45,1218.7,1038.45,68.43385500000001,Alabama-Huntsville,8
+106,LSU,Win 10-9,5.11,Counts,0.0678,2023-04-24,Gulf Coast D I College Mens CC 2022,1,10,9,125,1,1141.7,1191.29,1266.7,1186.18,1266.7,85.88226,Alabama-Huntsville,9
+152,Jacksonville State,Loss 7-12,-55.43,Counts,0.0678,2023-04-24,Gulf Coast D I College Mens CC 2022,0,7,12,-520.51,-5,954.29,1251.83,433.78,1307.26,433.78,29.410283999999997,Alabama-Huntsville,10
+144,Alabama-Birmingham,Win 12-4,26.01,Counts,0.065,2023-04-24,Gulf Coast D I College Mens CC 2022,1,12,4,600,8,970.46,1170.39,1570.46,1144.38,1570.46,102.07990000000001,Alabama-Huntsville,11
+89,Central Florida,Win 10-9,10.55,Counts,0.0718,2023-04-30,Southeast D I College Mens Regionals 2022,1,10,9,125,1,1207.83,1185.85,1332.83,1175.3,1332.83,95.697194,Alabama-Huntsville,12
+57,Alabama,Loss 7-10,-12.53,Counts,0.0679,2023-04-30,Southeast D I College Mens Regionals 2022,0,7,10,-389.67,-3,1414,1208.94,1024.33,1221.47,1024.33,69.552007,Alabama-Huntsville,13
+121,Tennessee-Chattanooga,Win 10-9,0.68,Counts,0.0718,2023-04-30,Southeast D I College Mens Regionals 2022,1,10,9,125,1,1080.21,1195.72,1205.21,1195.04,1205.21,86.53407800000001,Alabama-Huntsville,14
+47,Florida,Win 12-8,55.81,Counts,0.0718,2023-04-30,Southeast D I College Mens Regionals 2022,1,12,8,441.15,4,1476.89,1140.59,1918.04,1084.78,1918.04,137.715272,Alabama-Huntsville,15
+57,Alabama,Loss 7-11,-18.73,Counts,0.0699,2023-05-01,Southeast D I College Mens Regionals 2022,0,7,11,-466.89,-4,1414,1215.13,947.11,1233.8600000000001,947.11,66.202989,Alabama-Huntsville,16
+53,Tulane,Loss 8-13,-19.52,Counts,0.0718,2023-05-01,Southeast D I College Mens Regionals 2022,0,8,13,-496.16,-5,1440.12,1215.92,943.9599999999998,1235.44,943.9599999999998,67.77632799999999,Alabama-Huntsville,17

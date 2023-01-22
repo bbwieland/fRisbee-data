@@ -1,0 +1,25 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+170,Stanford-B,Win 7-4,4.32,Counts,0.0344,2023-02-05,Stanford Open 2022,1,7,4,496.16,3,420.77,791.28,916.9300000000001,786.9599999999999,916.9300000000001,31.542392000000003,California-San Diego-B,1
+187,UCLA-B,Win 8-4,3.45,Counts,0.0359,2023-02-05,Stanford Open 2022,1,8,4,564.81,4,323.32,792.15,888.1299999999999,788.6999999999999,888.1299999999999,31.883867,California-San Diego-B,2
+78,Southern California,Loss 5-7,-3.13,Counts,0.0359,2023-02-05,Stanford Open 2022,0,5,7,-328.14,-2,1039.77,798.73,711.63,801.86,711.63,25.547517,California-San Diego-B,3
+176,Chico State,Win 7-6,-11.02,Counts,0.0374,2023-02-06,Stanford Open 2022,1,7,6,125,1,386.79,806.62,511.79,817.64,511.79,19.140946000000003,California-San Diego-B,4
+124,Occidental,Loss 5-6,-7.08,Counts,0.0344,2023-02-06,Stanford Open 2022,0,5,6,-125,-1,721.86,802.68,596.86,809.76,596.86,20.531984,California-San Diego-B,5
+160,Sonoma State,Loss 4-7,-28.43,Counts,0.0344,2023-02-06,Stanford Open 2022,0,4,7,-496.16,-3,493.28,824.03,-2.8800000000000523,852.4599999999999,-2.8800000000000523,-0.0990720000000018,California-San Diego-B,6
+94,UCSC,Win 7-6,10.98,Counts,0.0374,2023-02-06,Stanford Open 2022,1,7,6,125,1,953.42,784.62,1078.42,773.64,1078.42,40.332908,California-San Diego-B,7
+4,California-Santa Barbara,Loss 3-15,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,0,3,15,-600,-12,2159.38,795.6,1559.38,795.6,0,0,California-San Diego-B,8
+2,Colorado,Loss 1-15,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,0,1,15,-600,-14,2239.23,795.6,1639.23,795.6,0,0,California-San Diego-B,9
+60,Cal Poly-SLO,Loss 4-12,-11.22,Counts,0.0487,2023-02-20,Presidents Day Invite 2022,0,4,12,-600,-8,1176.39,806.82,576.3900000000001,818.0400000000001,576.3900000000001,28.070193000000003,California-San Diego-B,10
+97,Utah,Loss 5-8,-13.84,Counts,0.042,2023-02-20,Presidents Day Invite 2022,0,5,8,-453.6,-3,933.13,809.44,479.53,823.2800000000001,479.53,20.14026,California-San Diego-B,11
+8,Stanford,Loss 2-15,0,Ignored,0,2023-02-20,Presidents Day Invite 2022,0,2,15,-600,-13,1985.87,795.6,1385.87,795.6,0,0,California-San Diego-B,12
+41,Colorado College,Loss 5-9,0.37,Counts,0.0435,2023-02-21,Presidents Day Invite 2022,0,5,9,-529.06,-4,1332.86,795.23,803.8,794.86,803.8,34.9653,California-San Diego-B,13
+78,Southern California,Win 6-5,14.82,Counts,0.038599999999999995,2023-02-21,Presidents Day Invite 2022,1,6,5,125,1,1039.77,780.78,1164.77,765.9599999999999,1164.77,44.96012199999999,California-San Diego-B,14
+239,Arizona-B,Win 15-0,0,Ignored,0,2023-04-16,Southwest Dev College Womens CC 2022,1,15,0,600,15,NA,795.6,NA,795.6,0,NA,California-San Diego-B,15
+170,Stanford-B,Win 9-3,16.07,Counts,0.0666,2023-04-16,Southwest Dev College Womens CC 2022,1,9,3,600,6,420.77,779.53,1020.77,763.4599999999999,1020.77,67.983282,California-San Diego-B,16
+187,UCLA-B,Win 10-5,7.83,Counts,0.07150000000000001,2023-04-16,Southwest Dev College Womens CC 2022,1,10,5,573.9,5,323.32,787.77,897.22,779.9399999999999,897.22,64.15123000000001,California-San Diego-B,17
+239,Arizona-B,Win 13-1,0,Ignored,0,2023-04-17,Southwest Dev College Womens CC 2022,1,13,1,600,12,NA,795.6,NA,795.6,0,NA,California-San Diego-B,18
+170,Stanford-B,Win 13-2,19.72,Counts,0.0805,2023-04-17,Southwest Dev College Womens CC 2022,1,13,2,600,11,420.77,775.88,1020.77,756.16,1020.77,82.171985,California-San Diego-B,19
+134,Arizona State,Loss 9-10,-28.97,Counts,0.0958,2023-05-07,Southwest D I College Womens Regionals 2022,0,9,10,-125,-1,647.05,824.57,522.05,853.5400000000001,522.05,50.012389999999996,California-San Diego-B,20
+27,California,Loss 6-13,11.07,Counts,0.0958,2023-05-07,Southwest D I College Womens Regionals 2022,0,6,13,-600,-7,1500.15,784.53,900.1500000000001,773.4599999999999,900.1500000000001,86.23437,California-San Diego-B,21
+8,Stanford,Loss 4-13,0,Ignored,0,2023-05-07,Southwest D I College Womens Regionals 2022,0,4,13,-600,-9,1985.87,795.6,1385.87,795.6,0,0,California-San Diego-B,22
+131,Arizona,Win 8-6,15.04,Counts,0.08220000000000001,2023-05-08,Southwest D I College Womens Regionals 2022,1,8,6,300.49,2,663.02,780.56,963.51,765.52,963.51,79.200522,California-San Diego-B,23
+129,Nevada-Reno,Win 8-7,1.27,Counts,0.0851,2023-05-08,Southwest D I College Womens Regionals 2022,1,8,7,125,1,684.23,794.33,809.23,793.0600000000001,809.23,68.865473,California-San Diego-B,24

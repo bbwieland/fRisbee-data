@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+260,Colorado Mesa,Win 11-2,-82.48,Counts,0.3267,2023-03-12,Big Sky Brawl,1,11,2,600,9,535.51,1387.96,1135.51,1470.44,1135.51,370.971117,Brigham Young-B,1
+15,Utah State,Loss 3-11,-39.62,Counts,0.3267,2023-03-12,Big Sky Brawl,0,3,11,-600,-8,1823.82,1345.1,1223.82,1384.7199999999998,1223.82,399.82199399999996,Brigham Young-B,2
+122,Denver,Win 11-7,125.81,Counts,0.3465,2023-03-12,Big Sky Brawl,1,11,7,466.89,4,1075.81,1179.67,1542.6999999999998,1053.8600000000001,1542.6999999999998,534.5455499999999,Brigham Young-B,3

@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+356,Clark,Win 12-5,0,Ignored,0,2023-04-02,New England Open,1,12,5,600,7,134.02,810.14,734.02,810.14,0,0,Northeastern-B,1
+313,Boston University-B,Win 12-2,7.14,Counts,0.1281,2023-04-02,New England Open,1,12,2,600,10,258.75,802.99,858.75,795.85,858.75,110.00587499999999,Northeastern-B,2
+146,Brandeis,Loss 9-10,4.09,Counts,0.1335,2023-04-02,New England Open,0,9,10,-125,-1,961.68,806.05,836.68,801.9599999999999,836.68,111.69678,Northeastern-B,3
+180,Connecticut College,Loss 6-10,-66.71,Counts,0.1225,2023-04-02,New England Open,0,6,10,-496.16,-4,828.33,876.84,332.17,943.5500000000001,332.17,40.690825000000004,Northeastern-B,4
+146,Brandeis,Loss 9-11,-15.04,Counts,0.1335,2023-04-03,New England Open,0,9,11,-249.21,-2,961.68,825.18,712.4699999999999,840.2199999999999,712.4699999999999,95.114745,Northeastern-B,5
+180,Connecticut College,Win 9-8,20.69,Counts,0.12619999999999998,2023-04-03,New England Open,1,9,8,125,1,828.33,789.45,953.33,768.76,953.33,120.31024599999998,Northeastern-B,6
+7,Massachusetts,Loss 2-13,0,Ignored,0,2023-05-07,New England D I College Mens Regionals 2022,0,2,13,-600,-11,1936.21,810.14,1336.21,810.14,0,0,Northeastern-B,7
+75,Boston College,Loss 12-13,73.9,Counts,0.17809999999999998,2023-05-07,New England D I College Mens Regionals 2022,0,12,13,-125,-1,1276.09,736.23,1151.09,662.33,1151.09,205.00912899999997,Northeastern-B,8
+18,Tufts,Loss 1-13,0,Ignored,0,2023-05-07,New England D I College Mens Regionals 2022,0,1,13,-600,-12,1715.78,810.14,1115.78,810.14,0,0,Northeastern-B,9
+9,Vermont,Loss 4-13,0,Ignored,0,2023-05-07,New England D I College Mens Regionals 2022,0,4,13,-600,-9,1901.02,810.14,1301.02,810.14,0,0,Northeastern-B,10
+86,Maine,Loss 9-15,-20.7,Counts,0.17809999999999998,2023-05-08,New England D I College Mens Regionals 2022,0,9,15,-515.48,-6,1230.11,830.84,714.6299999999999,851.5400000000001,714.6299999999999,127.27560299999996,Northeastern-B,11

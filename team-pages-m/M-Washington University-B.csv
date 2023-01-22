@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+259,Minnesota-Duluth,Loss 5-8,-13.01,Counts,0.0673,2023-03-05,Midwest Throwdown 2022,0,5,8,-453.6,-3,538.52,278.16,84.91999999999996,291.17,84.91999999999996,5.715115999999997,Washington University-B,1
+306,Carleton College-Karls,Loss 7-8,-7.45,Counts,0.0723,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,294.57,272.6,169.57,280.05,169.57,12.259911,Washington University-B,2
+216,DePaul,Loss 6-12,-12.27,Counts,0.07919999999999999,2023-03-05,Midwest Throwdown 2022,0,6,12,-579.31,-6,701.9,277.42,122.59000000000003,289.69,122.59000000000003,9.709128000000002,Washington University-B,3
+189,Wisconsin-Eau Claire,Loss 3-9,-4.83,Counts,0.0673,2023-03-05,Midwest Throwdown 2022,0,3,9,-600,-6,798.26,269.98,198.26,274.81,198.26,13.342898,Washington University-B,4
+322,Purdue-B,Loss 6-10,-44.89,Counts,0.0747,2023-03-06,Midwest Throwdown 2022,0,6,10,-496.16,-4,205.19,310.04,-290.97,354.93,-290.97,-21.735459000000002,Washington University-B,5
+306,Carleton College-Karls,Loss 9-11,-19.47,Counts,0.0814,2023-03-06,Midwest Throwdown 2022,0,9,11,-249.21,-2,294.57,284.62,45.359999999999985,304.09000000000003,45.359999999999985,3.6923039999999987,Washington University-B,6
+348,Southeast Missouri State,Win 13-8,22.09,Counts,0.0814,2023-03-06,Midwest Throwdown 2022,1,13,8,496.16,5,18.35,243.06,514.51,220.97,514.51,41.881114,Washington University-B,7
+169,Kansas,Loss 6-7,43.49,Counts,0.0801,2023-03-26,Old Capital Open 2022,0,6,7,-125,-1,889.88,221.66,764.88,178.17,764.88,61.266888,Washington University-B,8
+147,Grace,Loss 6-9,26.14,Counts,0.086,2023-03-26,Old Capital Open 2022,0,6,9,-418.57,-3,961.54,239.01,542.97,212.87,542.97,46.69542,Washington University-B,9
+264,Wisconsin-B,Win 7-6,33.47,Counts,0.0801,2023-03-26,Old Capital Open 2022,1,7,6,125,1,524.67,231.68,649.67,198.21,649.67,52.038567,Washington University-B,10
+130,Saint Louis,Loss 6-15,0,Ignored,0,2023-04-10,Ozarks D I College Mens CC 2022,0,6,15,-600,-9,1044.85,265.15,444.8499999999999,265.15,0,0,Washington University-B,11
+232,Oklahoma,Loss 6-13,-26.63,Counts,0.1151,2023-04-16,Ozarks D I College Mens CC 2022,0,6,13,-600,-7,660.44,291.78,60.440000000000055,318.40999999999997,60.440000000000055,6.956644000000006,Washington University-B,12
+169,Kansas,Loss 6-13,3.22,Counts,0.1151,2023-04-16,Ozarks D I College Mens CC 2022,0,6,13,-600,-7,889.88,261.93,289.88,258.71,289.88,33.365187999999996,Washington University-B,13
+32,Washington University,Loss 1-13,0,Ignored,0,2023-04-16,Ozarks D I College Mens CC 2022,0,1,13,-600,-12,1590.18,265.15,990.1800000000001,265.15,0,0,Washington University-B,14

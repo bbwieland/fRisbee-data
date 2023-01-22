@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+123,Williams,Loss 0-13,0,Ignored,0,2023-03-19,Oak Creek Invite,0,0,13,-600,-13,1073.97,240.8,473.97,240.8,0,0,American-B,1
+41,North Carolina-Charlotte,Loss 2-13,0,Ignored,0,2023-03-19,Oak Creek Invite,0,2,13,-600,-11,1508.52,240.8,908.52,240.8,0,0,American-B,2
+118,Virginia Commonwealth,Loss 1-13,0,Ignored,0,2023-03-19,Oak Creek Invite,0,1,13,-600,-12,1082.14,240.8,482.1400000000001,240.8,0,0,American-B,3
+188,Mary Washington,Loss 3-15,0,Ignored,0,2023-03-20,Oak Creek Invite,0,3,15,-600,-12,798.38,240.8,198.38,240.8,0,0,American-B,4
+85,Cornell,Loss 1-15,0,Ignored,0,2023-03-20,Oak Creek Invite,0,1,15,-600,-14,1232.33,240.8,632.3299999999999,240.8,0,0,American-B,5
+316,George Washington-B,Loss 2-15,-38.74,Counts,0.257,2023-04-23,Colonial Dev College Mens CC 2022,0,2,15,-600,-13,247.2,202.05,-352.8,240.79000000000002,-352.8,-90.6696,American-B,6
+354,Towson -B,Loss 8-10,-50.88,Counts,0.2501,2023-04-23,Colonial Dev College Mens CC 2022,0,8,10,-262.67,-2,130.65,189.91,-132.02,240.79,-132.02,-33.018202,American-B,7
+359,Georgetown-B,Win 10-6,178.72,Counts,0.23579999999999998,2023-04-24,Colonial Dev College Mens CC 2022,1,10,6,496.16,4,157.89,419.51,654.05,240.79,654.05,154.22499,American-B,8
+352,Delaware-B,Loss 10-15,-93.72,Counts,0.257,2023-04-24,Colonial Dev College Mens CC 2022,0,10,15,-453.6,-5,58.12,147.08,-395.48,240.8,-395.48,-101.63836,American-B,9

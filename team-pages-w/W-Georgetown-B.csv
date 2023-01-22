@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+220,William & Mary-B,Loss 3-8,-26.05,Counts,0.06709999999999999,2023-02-26,Cherry Blossom Classic,0,3,8,-600,-5,36.96,174.89,-563.04,200.94,-563.04,-37.77998399999999,Georgetown-B,1
+198,Miami,Loss 3-7,-11.3,Counts,0.0626,2023-02-26,Cherry Blossom Classic,0,3,7,-600,-4,229.78,189.63,-370.22,200.93,-370.22,-23.175772000000002,Georgetown-B,2
+217,American-B,Loss 4-5,8.22,Counts,0.0594,2023-02-27,Cherry Blossom Classic,0,4,5,-125,-1,54.25,209.15,-70.75,200.93,-70.75,-4.2025500000000005,Georgetown-B,3
+217,American-B,Loss 2-3,6.03,Counts,0.0443,2023-02-27,Cherry Blossom Classic,0,2,3,-125,-1,54.25,206.96,-70.75,200.93,-70.75,-3.134225,Georgetown-B,4
+175,Pittsburgh-B,Loss 3-6,3.01,Counts,0.0594,2023-02-27,Cherry Blossom Classic,0,3,6,-546.69,-3,393.49,203.95,-153.20000000000005,200.94,-153.20000000000005,-9.100080000000004,Georgetown-B,5
+193,Wake Forest,Loss 4-10,-12.28,Counts,0.0949,2023-03-26,Rodeo,0,4,10,-600,-6,282,188.65,-318,200.93,-318,-30.1782,Georgetown-B,6
+56,Liberty,Loss 3-8,0,Ignored,0,2023-03-26,Rodeo,0,3,8,-600,-5,1220.56,200.93,620.56,200.93,0,0,Georgetown-B,7
+152,North Carolina-B,Loss 6-7,61.68,Counts,0.08990000000000001,2023-03-26,Rodeo,0,6,7,-125,-1,548.48,262.61,423.48,200.93,423.48,38.070852,Georgetown-B,8
+115,Georgetown,Loss 1-12,0,Ignored,0,2023-03-27,Rodeo,0,1,12,-600,-11,775.98,200.93,175.98000000000002,200.93,0,0,Georgetown-B,9
+189,Virginia-B,Loss 6-7,39.12,Counts,0.08990000000000001,2023-03-27,Rodeo,0,6,7,-125,-1,320.06,240.05,195.06,200.93,195.06,17.535894000000003,Georgetown-B,10
+193,Wake Forest,Loss 5-6,32.27,Counts,0.0827,2023-03-27,Rodeo,0,5,6,-125,-1,282,233.2,157,200.92999999999998,157,12.983899999999998,Georgetown-B,11
+217,American-B,Loss 6-9,-22.63,Counts,0.1217,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,6,9,-418.57,-3,54.25,178.3,-364.32,200.93,-364.32,-44.337744,Georgetown-B,12
+212,George Washington-B,Loss 5-10,-37.79,Counts,0.1217,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,5,10,-573.9,-5,100.13,163.14,-473.77,200.92999999999998,-473.77,-57.657809,Georgetown-B,13
+220,William & Mary-B,Loss 3-8,-43.18,Counts,0.1065,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,3,8,-600,-5,36.96,157.76,-563.04,200.94,-563.04,-59.96375999999999,Georgetown-B,14
+152,North Carolina-B,Loss 4-12,0,Ignored,0,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,4,12,-600,-8,548.48,200.93,-51.51999999999998,200.93,0,-0,Georgetown-B,15

@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+370,Chicago-B,Win 15-0,3.95,Counts,0.20440000000000003,2023-04-09,Great Lakes Dev College Mens CC 2022,1,15,0,600,15,410.5,170.2,1010.5,166.25,1010.5,206.54620000000003,Michigan State-B,1
+137,Michigan-B,Loss 6-12,57.77,Counts,0.1989,2023-04-09,Great Lakes Dev College Mens CC 2022,0,6,12,-579.31,-6,986.06,116.38,406.75,58.60999999999999,406.75,80.902575,Michigan State-B,2
+286,Notre Dame-B,Loss 8-15,-88.37,Counts,0.20440000000000003,2023-04-09,Great Lakes Dev College Mens CC 2022,0,8,15,-564.81,-7,394.95,262.52,-169.85999999999996,350.89,-169.85999999999996,-34.719384,Michigan State-B,3
+340,Illinois-B,Win 10-8,41.02,Counts,0.1989,2023-04-10,Great Lakes Dev College Mens CC 2022,1,10,8,262.67,2,76.66,133.13,339.33000000000004,92.10999999999999,339.33000000000004,67.492737,Michigan State-B,4
+137,Michigan-B,Loss 4-15,0,Ignored,0,2023-04-10,Great Lakes Dev College Mens CC 2022,0,4,15,-600,-11,986.06,174.15,386.05999999999995,174.15,0,0,Michigan State-B,5
+319,Northwestern-B,Loss 8-9,-14.83,Counts,0.19329999999999997,2023-04-10,Great Lakes Dev College Mens CC 2022,0,8,9,-125,-1,237.27,188.98,112.27000000000001,203.81,112.27000000000001,21.701791,Michigan State-B,6

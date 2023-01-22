@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+153,Minnesota-Duluth,Loss 2-8,-31.57,Counts,0.054000000000000006,2023-03-05,Midwest Throwdown 2022,0,2,8,-600,-6,538.31,523.33,-61.690000000000055,554.9000000000001,-61.690000000000055,-3.3312600000000034,Wisconsin-Oshkosh,1
+130,Nebraska,Loss 4-8,-21.82,Counts,0.055099999999999996,2023-03-05,Midwest Throwdown 2022,0,4,8,-564.81,-4,682.47,513.58,117.66000000000008,535.4000000000001,117.66000000000008,6.483066000000004,Wisconsin-Oshkosh,2
+142,Luther,Win 10-6,43.75,Counts,0.0636,2023-03-06,Midwest Throwdown 2022,1,10,6,496.16,4,639.35,448.01,1135.51,404.26,1135.51,72.218436,Wisconsin-Oshkosh,3
+145,Macalester,Loss 7-11,-25.79,Counts,0.0675,2023-03-06,Midwest Throwdown 2022,0,7,11,-466.89,-4,602.33,517.56,135.44000000000005,543.3499999999999,135.44000000000005,9.142200000000004,Wisconsin-Oshkosh,4
+225,Wisconsin-La Crosse,Win 12-9,-18.07,Counts,0.0926,2023-04-09,Lake Superior D I College Womens CC 2022,1,12,9,345.37,3,30.74,509.83,376.11,527.9,376.11,34.827786,Wisconsin-Oshkosh,5
+38,Wisconsin,Loss 2-15,0,Ignored,0,2023-04-09,Lake Superior D I College Womens CC 2022,0,2,15,-600,-13,1365.5,491.76,765.5,491.76,0,0,Wisconsin-Oshkosh,6
+200,Wisconsin-B,Win 10-6,20.62,Counts,0.085,2023-04-10,Lake Superior D I College Womens CC 2022,1,10,6,496.16,4,217.67,471.15,713.83,450.53,713.83,60.67555000000001,Wisconsin-Oshkosh,7
+116,Wisconsin-Eau Claire,Loss 4-8,-22.69,Counts,0.0736,2023-04-10,Lake Superior D I College Womens CC 2022,0,4,8,-564.81,-4,770.8,514.46,205.99,537.1500000000001,205.99,15.160864,Wisconsin-Oshkosh,8
+178,Wisconsin-Milwaukee,Win 11-10,1.48,Counts,0.0926,2023-04-10,Lake Superior D I College Womens CC 2022,1,11,10,125,1,381.26,490.28,506.26,488.79999999999995,506.26,46.879676,Wisconsin-Oshkosh,9
+64,Iowa,Loss 7-9,41.6,Counts,0.10099999999999999,2023-04-30,North Central D I College Womens Regionals 2022,0,7,9,-279.34,-2,1141.3,450.16,861.96,408.56,861.96,87.05796,Wisconsin-Oshkosh,10
+3,Carleton College,Loss 2-12,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,0,2,12,-600,-10,2173.45,491.76,1573.4499999999998,491.76,0,0,Wisconsin-Oshkosh,11
+83,Marquette,Loss 5-13,-10.51,Counts,0.1101,2023-04-30,North Central D I College Womens Regionals 2022,0,5,13,-600,-8,1006.83,502.27,406.83000000000004,512.78,406.83000000000004,44.79198300000001,Wisconsin-Oshkosh,12
+130,Nebraska,Loss 7-8,7.12,Counts,0.0978,2023-04-30,North Central D I College Womens Regionals 2022,0,7,8,-125,-1,682.47,484.64,557.47,477.52,557.47,54.520566,Wisconsin-Oshkosh,13
+178,Wisconsin-Milwaukee,Win 10-8,18.26,Counts,0.1072,2023-05-01,North Central D I College Womens Regionals 2022,1,10,8,262.67,2,381.26,473.5,643.9300000000001,455.24,643.9300000000001,69.029296,Wisconsin-Oshkosh,14

@@ -1,0 +1,20 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+7,Massachusetts,Loss 5-15,0,Ignored,0,2023-03-05,Smoky Mountain Invite 2022,0,5,15,-600,-10,1936.21,1017.86,1336.21,1017.86,0,0,Tennessee,1
+24,Ohio State,Loss 3-12,0,Ignored,0,2023-03-05,Smoky Mountain Invite 2022,0,3,12,-600,-9,1662.49,1017.86,1062.49,1017.86,0,0,Tennessee,2
+1,Brown,Loss 4-13,0,Ignored,0,2023-03-05,Smoky Mountain Invite 2022,0,4,13,-600,-9,2209.79,1017.86,1609.79,1017.86,0,0,Tennessee,3
+17,Texas,Loss 3-13,0,Ignored,0,2023-03-05,Smoky Mountain Invite 2022,0,3,13,-600,-10,1769.66,1017.86,1169.66,1017.86,0,0,Tennessee,4
+40,Colorado State,Loss 5-15,-6.58,Counts,0.057300000000000004,2023-03-06,Smoky Mountain Invite 2022,0,5,15,-600,-10,1509.55,1024.44,909.55,1031.02,909.55,52.117215,Tennessee,5
+8,Georgia,Loss 5-15,0,Ignored,0,2023-03-06,Smoky Mountain Invite 2022,0,5,15,-600,-10,1930.07,1017.86,1330.07,1017.86,0,0,Tennessee,6
+29,UCLA,Loss 5-15,-1.25,Counts,0.057300000000000004,2023-03-06,Smoky Mountain Invite 2022,0,5,15,-600,-10,1597.35,1019.11,997.3499999999999,1020.36,997.3499999999999,57.148154999999996,Tennessee,7
+136,American,Win 12-11,9.33,Counts,0.0722,2023-04-02,Atlantic Coast Open,1,12,11,125,1,1012.78,1008.54,1137.78,999.2099999999999,1137.78,82.147716,Tennessee,8
+238,George Mason,Win 13-9,3.58,Counts,0.0722,2023-04-02,Atlantic Coast Open,1,13,9,418.57,4,645.39,1014.28,1063.96,1010.6999999999999,1063.96,76.817912,Tennessee,9
+214,Wooster,Loss 11-13,-42.35,Counts,0.0722,2023-04-02,Atlantic Coast Open,0,11,13,-228.84,-2,702.25,1060.21,473.40999999999997,1102.56,473.40999999999997,34.180202,Tennessee,10
+27,William & Mary,Loss 6-15,-0.18,Counts,0.0722,2023-04-02,Atlantic Coast Open,0,6,15,-600,-9,1615.6,1018.04,1015.5999999999999,1018.2199999999999,1015.5999999999999,73.32632,Tennessee,11
+93,Harvard,Win 14-12,30.72,Counts,0.0722,2023-04-03,Atlantic Coast Open,1,14,12,220.96,2,1191.89,987.14,1412.8500000000001,956.42,1412.8500000000001,102.00777000000001,Tennessee,12
+198,George Washington,Win 15-12,3.53,Counts,0.0722,2023-04-03,Atlantic Coast Open,1,15,12,300.49,3,762.77,1014.33,1063.26,1010.8000000000001,1063.26,76.767372,Tennessee,13
+168,Kennesaw State,Win 9-7,11.5,Counts,0.0702,2023-04-09,Southern Appalachian D I College Mens CC 2022,1,9,7,279.34,2,890.93,1006.36,1170.27,994.86,1170.27,82.152954,Tennessee,14
+111,Georgia State,Loss 8-12,-28.83,Counts,0.0765,2023-04-09,Southern Appalachian D I College Mens CC 2022,0,8,12,-441.15,-4,1110.77,1046.69,669.62,1075.52,669.62,51.22593,Tennessee,15
+102,Emory,Win 13-7,57.1,Counts,0.0765,2023-04-09,Southern Appalachian D I College Mens CC 2022,1,13,7,557.53,6,1150.1,960.76,1707.6299999999999,903.66,1707.6299999999999,130.633695,Tennessee,16
+121,Tennessee-Chattanooga,Loss 11-12,-5.19,Counts,0.0765,2023-04-09,Southern Appalachian D I College Mens CC 2022,0,11,12,-125,-1,1080.21,1023.05,955.21,1028.24,955.21,73.073565,Tennessee,17
+168,Kennesaw State,Loss 11-13,-29.45,Counts,0.0765,2023-04-10,Southern Appalachian D I College Mens CC 2022,0,11,13,-228.84,-2,890.93,1047.32,662.0899999999999,1076.77,662.0899999999999,50.64988499999999,Tennessee,18
+274,Georgia Southern,Win 15-9,-1.88,Counts,0.0765,2023-04-10,Southern Appalachian D I College Mens CC 2022,1,15,9,515.48,6,479.62,1019.75,995.1,1021.63,995.1,76.12515,Tennessee,19

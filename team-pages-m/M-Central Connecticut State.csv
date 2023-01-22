@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+247,SUNY-Albany,Loss 10-11,-23.42,Counts,0.1805,2023-04-09,Hudson Valley D I College Mens CC 2022,0,10,11,-125,-1,612.9,617.66,487.9,641.0799999999999,487.9,88.06594999999999,Central Connecticut State,1
+125,Yale,Loss 6-12,-22.04,Counts,0.1757,2023-04-09,Hudson Valley D I College Mens CC 2022,0,6,12,-579.31,-6,1070.13,616.28,490.82000000000016,638.3199999999999,490.82000000000016,86.23707400000002,Central Connecticut State,2
+373,Sacred Heart,Win 15-0,0,Ignored,0,2023-04-10,Hudson Valley D I College Mens CC 2022,1,15,0,600,15,477.6,594.24,1077.6,594.24,0,0,Central Connecticut State,3
+125,Yale,Loss 9-12,35.67,Counts,0.2146,2023-04-30,Metro East D I College Mens Regionals 2022,0,9,12,-345.37,-3,1070.13,558.57,724.7600000000001,522.9000000000001,724.7600000000001,155.53349600000004,Central Connecticut State,4
+149,SUNY-Binghamton,Loss 9-14,-30.32,Counts,0.2146,2023-04-30,Metro East D I College Mens Regionals 2022,0,9,14,-473.87,-5,957.14,624.57,483.27,654.8900000000001,483.27,103.709742,Central Connecticut State,5
+76,Columbia,Loss 9-15,42.22,Counts,0.2146,2023-04-30,Metro East D I College Mens Regionals 2022,0,9,15,-515.48,-6,1264.23,552.02,748.75,509.79999999999995,748.75,160.68175000000002,Central Connecticut State,6

@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+213,Luther,Loss 3-12,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,0,3,12,-600,-9,706.18,18.35,106.17999999999995,18.35,0,0,Southeast Missouri State,1
+249,St John's,Loss 3-13,-0.89,Counts,0.1054,2023-03-05,Midwest Throwdown 2022,0,3,13,-600,-10,610.8,19.24,10.799999999999955,20.13,10.799999999999955,1.1383199999999951,Southeast Missouri State,2
+190,Illinois State,Loss 2-8,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,0,2,8,-600,-6,796.31,18.35,196.30999999999995,18.35,0,0,Southeast Missouri State,3
+319,Northwestern-B,Loss 7-12,-35.52,Counts,0.1054,2023-03-06,Midwest Throwdown 2022,0,7,12,-520.51,-5,237.27,53.87,-283.24,89.39,-283.24,-29.853496,Southeast Missouri State,4
+312,Washington University-B,Loss 8-13,-29.37,Counts,0.1054,2023-03-06,Midwest Throwdown 2022,0,8,13,-496.16,-5,265.15,47.72,-231.01000000000005,77.09,-231.01000000000005,-24.348454000000004,Southeast Missouri State,5
+142,Nebraska,Loss 4-13,0,Ignored,0,2023-03-06,Midwest Throwdown 2022,0,4,13,-600,-9,979.53,18.35,379.53,18.35,0,0,Southeast Missouri State,6
+220,Minnesota-B,Loss 6-7,63.64,Counts,0.1036,2023-03-26,Old Capital Open 2022,0,6,7,-125,-1,693.75,45.29,568.75,-18.35,568.75,58.9225,Southeast Missouri State,7
+259,Minnesota-Duluth,Loss 6-7,45.69,Counts,0.1036,2023-03-26,Old Capital Open 2022,0,6,7,-125,-1,538.52,27.34,413.52,-18.349999999999998,413.52,42.840672,Southeast Missouri State,8
+346,Iowa State-B,Win 9-8,19.21,Counts,0.1185,2023-03-26,Old Capital Open 2022,1,9,8,125,1,36.25,0.86,161.25,-18.35,161.25,19.108124999999998,Southeast Missouri State,9
+249,St John's,Loss 4-13,-1.08,Counts,0.1253,2023-03-27,Old Capital Open 2022,0,4,13,-600,-9,610.8,19.43,10.799999999999955,20.509999999999998,10.799999999999955,1.3532399999999942,Southeast Missouri State,10
+263,Northern Iowa,Loss 0-13,-12.59,Counts,0.1253,2023-03-27,Old Capital Open 2022,0,0,13,-600,-13,530.43,30.94,-69.57000000000005,43.53,-69.57000000000005,-8.717121000000006,Southeast Missouri State,11
+330,University of Iowa-B,Loss 5-9,-49.44,Counts,0.1076,2023-03-27,Old Capital Open 2022,0,5,9,-529.06,-4,137.12,67.79,-391.93999999999994,117.23,-391.93999999999994,-42.172743999999994,Southeast Missouri State,12

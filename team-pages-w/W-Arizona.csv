@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+134,Arizona State,Loss 8-11,-34.24,Counts,0.0823,2023-03-19,Uomo Donna,0,8,11,-365.61,-3,647.05,697.26,281.43999999999994,731.5,281.43999999999994,23.162511999999996,Arizona,1
+210,Northern Arizona,Win 12-5,3.69,Counts,0.079,2023-03-19,Uomo Donna,1,12,5,600,7,106.08,659.32,706.08,655.63,706.08,55.78032,Arizona,2
+239,Arizona-B,Win 13-0,0,Ignored,0,2023-03-19,Uomo Donna,1,13,0,600,13,NA,663.02,NA,663.02,0,NA,Arizona,3
+210,Northern Arizona,Win 10-7,-14.13,Counts,0.0779,2023-03-20,Uomo Donna,1,10,7,389.67,3,106.08,677.15,495.75,691.28,495.75,38.618925,Arizona,4
+134,Arizona State,Win 7-6,7.97,Counts,0.0681,2023-03-20,Uomo Donna,1,7,6,125,1,647.05,655.05,772.05,647.0799999999999,772.05,52.576604999999994,Arizona,5
+210,Northern Arizona,Win 14-6,5.32,Counts,0.1099,2023-04-23,Desert D I College Womens CC 2022,1,14,6,600,8,106.08,657.7,706.08,652.38,706.08,77.598192,Arizona,6
+134,Arizona State,Win 12-8,52.51,Counts,0.1099,2023-04-23,Desert D I College Womens CC 2022,1,12,8,441.15,4,647.05,610.51,1088.1999999999998,558,1088.1999999999998,119.59317999999998,Arizona,7
+4,California-Santa Barbara,Loss 1-13,0,Ignored,0,2023-05-07,Southwest D I College Womens Regionals 2022,0,1,13,-600,-12,2159.38,663.02,1559.38,663.02,0,0,Arizona,8
+94,UCSC,Loss 8-12,-21.22,Counts,0.1234,2023-05-07,Southwest D I College Womens Regionals 2022,0,8,12,-441.15,-4,953.42,684.24,512.27,705.46,512.27,63.214118,Arizona,9
+129,Nevada-Reno,Loss 7-11,-60.83,Counts,0.1201,2023-05-07,Southwest D I College Womens Regionals 2022,0,7,11,-466.89,-4,684.23,723.84,217.34000000000003,784.6700000000001,217.34000000000003,26.102534000000002,Arizona,10
+134,Arizona State,Win 13-6,82.2,Counts,0.1234,2023-05-08,Southwest D I College Womens Regionals 2022,1,13,6,600,7,647.05,580.82,1247.05,498.62000000000006,1247.05,153.88597,Arizona,11
+112,California-San Diego-B,Loss 6-8,-19.89,Counts,0.1059,2023-05-08,Southwest D I College Womens Regionals 2022,0,6,8,-300.49,-2,795.6,682.91,495.11,702.8,495.11,52.432148999999995,Arizona,12

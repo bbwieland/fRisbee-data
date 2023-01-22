@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+130,Saint Louis,Loss 9-10,9.89,Counts,0.065,2023-03-26,Old Capital Open 2022,0,9,10,-125,-1,1044.85,767.71,919.8499999999999,757.82,919.8499999999999,59.79024999999999,Western Michigan,1
+84,Iowa,Loss 9-10,23.37,Counts,0.065,2023-03-26,Old Capital Open 2022,0,9,10,-125,-1,1238.75,754.23,1113.75,730.86,1113.75,72.39375,Western Michigan,2
+142,Nebraska,Win 9-7,30.53,Counts,0.0596,2023-03-26,Old Capital Open 2022,1,9,7,279.34,2,979.53,747.08,1258.87,716.5500000000001,1258.87,75.028652,Western Michigan,3
+259,Minnesota-Duluth,Win 11-10,-7.93,Counts,0.065,2023-03-27,Old Capital Open 2022,1,11,10,125,1,538.52,785.53,663.52,793.4599999999999,663.52,43.1288,Western Michigan,4
+142,Nebraska,Loss 9-10,5.35,Counts,0.065,2023-03-27,Old Capital Open 2022,0,9,10,-125,-1,979.53,772.25,854.53,766.9,854.53,55.54445,Western Michigan,5
+147,Grace,Loss 8-10,-5.32,Counts,0.0633,2023-03-27,Old Capital Open 2022,0,8,10,-262.67,-2,961.54,782.92,698.8699999999999,788.24,698.8699999999999,44.23847099999999,Western Michigan,6
+16,Michigan,Loss 4-13,0,Ignored,0,2023-04-09,Michigan D I College Mens CC 2022,0,4,13,-600,-9,1807.83,777.6,1207.83,777.6,0,0,Western Michigan,7
+108,Michigan State,Loss 6-10,-10.35,Counts,0.0669,2023-04-09,Michigan D I College Mens CC 2022,0,6,10,-496.16,-4,1129.58,787.95,633.4199999999998,798.3000000000001,633.4199999999998,42.37579799999999,Western Michigan,8
+120,Grand Valley State,Loss 7-11,-12.56,Counts,0.071,2023-04-09,Michigan D I College Mens CC 2022,0,7,11,-466.89,-4,1080.22,790.16,613.33,802.7199999999999,613.33,43.54643,Western Michigan,9
+278,Eastern Michigan,Win 12-9,1.17,Counts,0.073,2023-04-09,Michigan D I College Mens CC 2022,1,12,9,345.37,3,447.05,776.44,792.4200000000001,775.2700000000001,792.4200000000001,57.84666,Western Michigan,10
+120,Grand Valley State,Loss 8-12,-10.9,Counts,0.073,2023-04-10,Michigan D I College Mens CC 2022,0,8,12,-441.15,-4,1080.22,788.5,639.07,799.4,639.07,46.65211,Western Michigan,11
+278,Eastern Michigan,Win 13-5,21.2,Counts,0.073,2023-04-10,Michigan D I College Mens CC 2022,1,13,5,600,8,447.05,756.4,1047.05,735.1999999999999,1047.05,76.43464999999999,Western Michigan,12
+16,Michigan,Loss 2-15,0,Ignored,0,2023-04-30,Great Lakes D I College Mens Regionals 2022,0,2,15,-600,-13,1807.83,777.6,1207.83,777.6,0,0,Western Michigan,13
+91,Kentucky,Loss 5-15,-17.07,Counts,0.0868,2023-04-30,Great Lakes D I College Mens Regionals 2022,0,5,15,-600,-10,1197.89,794.67,597.8900000000001,811.74,597.8900000000001,51.89685200000001,Western Michigan,14
+120,Grand Valley State,Loss 8-12,-13.16,Counts,0.0868,2023-04-30,Great Lakes D I College Mens Regionals 2022,0,8,12,-441.15,-4,1080.22,790.76,639.07,803.92,639.07,55.471276,Western Michigan,15
+91,Kentucky,Loss 7-14,-15.45,Counts,0.0868,2023-05-01,Great Lakes D I College Mens Regionals 2022,0,7,14,-582.89,-7,1197.89,793.05,615.0000000000001,808.5,615.0000000000001,53.38200000000001,Western Michigan,16

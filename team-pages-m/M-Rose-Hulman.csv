@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+116,Butler,Loss 2-15,0,Ignored,0,2023-03-26,D III Midwestern Invite,0,2,15,-600,-13,1085.54,480.09,485.53999999999996,480.09,0,0,Rose-Hulman,1
+160,Carthage,Loss 8-12,-1.04,Counts,0.1167,2023-03-26,D III Midwestern Invite,0,8,12,-441.15,-4,913.35,481.13,472.20000000000005,482.17,472.20000000000005,55.105740000000004,Rose-Hulman,2
+323,Indiana-B,Win 11-8,10.38,Counts,0.1167,2023-03-26,D III Midwestern Invite,1,11,8,365.61,3,192.99,469.71,558.6,459.33,558.6,65.18862,Rose-Hulman,3
+163,Michigan Tech,Loss 7-15,-23.82,Counts,0.1167,2023-03-27,D III Midwestern Invite,0,7,15,-600,-8,899.82,503.91,299.82000000000005,527.73,299.82000000000005,34.988994000000005,Rose-Hulman,4
+182,Kalamazoo,Loss 5-12,-37.64,Counts,0.1257,2023-04-09,East Plains D III College Mens CC 2022,0,5,12,-600,-7,818.37,517.73,218.37,555.37,218.37,27.449109000000004,Rose-Hulman,5
+116,Butler,Loss 4-13,0,Ignored,0,2023-04-09,East Plains D III College Mens CC 2022,0,4,13,-600,-9,1085.54,480.09,485.53999999999996,480.09,0,0,Rose-Hulman,6
+203,Valparaiso,Loss 9-13,-25.73,Counts,0.131,2023-04-09,East Plains D III College Mens CC 2022,0,9,13,-418.57,-4,728.01,505.82,309.44,531.55,309.44,40.53664,Rose-Hulman,7
+147,Grace,Loss 9-10,53.74,Counts,0.131,2023-04-09,East Plains D III College Mens CC 2022,0,9,10,-125,-1,961.54,426.34,836.54,372.59999999999997,836.54,109.58674,Rose-Hulman,8
+147,Grace,Loss 10-12,36.69,Counts,0.131,2023-04-10,East Plains D III College Mens CC 2022,0,10,12,-238.12,-2,961.54,443.4,723.42,406.71,723.42,94.76801999999999,Rose-Hulman,9
+182,Kalamazoo,Loss 9-13,-12.1,Counts,0.131,2023-04-10,East Plains D III College Mens CC 2022,0,9,13,-418.57,-4,818.37,492.19,399.8,504.29,399.8,52.3738,Rose-Hulman,10

@@ -1,0 +1,23 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+143,Illinois,Loss 2-4,-22.62,Counts,0.0341,2023-03-05,Midwest Throwdown 2022,0,2,4,-496.16,-2,626.49,793.41,130.32999999999998,816.03,130.32999999999998,4.444252999999999,Wisconsin-Eau Claire,1
+23,Carleton College-Eclipse,Loss 4-8,9.33,Counts,0.0482,2023-03-05,Midwest Throwdown 2022,0,4,8,-564.81,-4,1519.75,761.46,954.94,752.13,954.94,46.028108,Wisconsin-Eau Claire,2
+114,Missouri,Loss 3-9,-31.26,Counts,0.050199999999999995,2023-03-05,Midwest Throwdown 2022,0,3,9,-600,-6,779.51,802.05,179.51,833.31,179.51,9.011401999999999,Wisconsin-Eau Claire,3
+29,Purdue,Loss 2-9,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,0,2,9,-600,-7,1473.48,770.8,873.48,770.8,0,0,Wisconsin-Eau Claire,4
+143,Illinois,Win 6-3,17.54,Counts,0.0418,2023-03-06,Midwest Throwdown 2022,1,6,3,546.69,3,626.49,753.25,1173.18,735.71,1173.18,49.038924,Wisconsin-Eau Claire,5
+141,Grinnell,Win 9-5,21.87,Counts,0.0521,2023-03-06,Midwest Throwdown 2022,1,9,5,529.06,4,639.67,748.92,1168.73,727.05,1168.73,60.890833,Wisconsin-Eau Claire,6
+145,Macalester,Win 13-2,27.88,Counts,0.060700000000000004,2023-03-06,Midwest Throwdown 2022,1,13,2,600,11,602.33,742.91,1202.33,715.03,1202.33,72.981431,Wisconsin-Eau Claire,7
+211,Washington University-B,Win 12-1,0,Ignored,0,2023-03-06,Midwest Throwdown 2022,1,12,1,600,11,104.15,770.8,704.15,770.8,0,0,Wisconsin-Eau Claire,8
+69,Charleston,Loss 3-9,-15.6,Counts,0.0564,2023-03-19,College Southerns XX,0,3,9,-600,-6,1109.51,786.4,509.51,802,509.51,28.736364,Wisconsin-Eau Claire,9
+183,Florida-B,Win 13-1,12.54,Counts,0.0681,2023-03-19,College Southerns XX,1,13,1,600,12,342.29,758.26,942.29,745.72,942.29,64.16994899999999,Wisconsin-Eau Claire,10
+22,Middlebury,Loss 3-11,0,Ignored,0,2023-03-19,College Southerns XX,0,3,11,-600,-8,1540.81,770.8,940.81,770.8,0,0,Wisconsin-Eau Claire,11
+139,Auburn,Loss 7-10,-35.83,Counts,0.0644,2023-03-20,College Southerns XX,0,7,10,-389.67,-3,640.3,806.63,250.62999999999994,842.46,250.62999999999994,16.140571999999995,Wisconsin-Eau Claire,12
+183,Florida-B,Win 10-0,10.85,Counts,0.059500000000000004,2023-03-20,College Southerns XX,1,10,0,600,10,342.29,759.94,942.29,749.09,942.29,56.066255000000005,Wisconsin-Eau Claire,13
+83,Marquette,Loss 9-14,-20.97,Counts,0.081,2023-04-09,Lake Superior D I College Womens CC 2022,0,9,14,-473.87,-5,1006.83,791.76,532.96,812.73,532.96,43.169760000000004,Wisconsin-Eau Claire,14
+178,Wisconsin-Milwaukee,Win 15-4,18.55,Counts,0.081,2023-04-09,Lake Superior D I College Womens CC 2022,1,15,4,600,11,381.26,752.24,981.26,733.69,981.26,79.48206,Wisconsin-Eau Claire,15
+225,Wisconsin-La Crosse,Win 13-2,0,Ignored,0,2023-04-10,Lake Superior D I College Womens CC 2022,1,13,2,600,11,30.74,770.8,630.74,770.8,0,0,Wisconsin-Eau Claire,16
+161,Wisconsin-Oshkosh,Win 8-4,19.67,Counts,0.0644,2023-04-10,Lake Superior D I College Womens CC 2022,1,8,4,564.81,4,491.76,751.13,1056.57,731.46,1056.57,68.04310799999999,Wisconsin-Eau Claire,17
+75,Iowa State,Loss 3-9,-27.34,Counts,0.0797,2023-04-30,North Central D I College Womens Regionals 2022,0,3,9,-600,-6,1055.14,798.13,455.1400000000001,825.47,455.1400000000001,36.274658,Wisconsin-Eau Claire,18
+33,Minnesota,Loss 2-11,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,0,2,11,-600,-9,1420.67,770.8,820.6700000000001,770.8,0,0,Wisconsin-Eau Claire,19
+38,Wisconsin,Loss 1-11,-0.51,Counts,0.08839999999999999,2023-04-30,North Central D I College Womens Regionals 2022,0,1,11,-600,-10,1365.5,771.31,765.5,771.8199999999999,765.5,67.6702,Wisconsin-Eau Claire,20
+178,Wisconsin-Milwaukee,Win 7-3,15.82,Counts,0.0699,2023-04-30,North Central D I College Womens Regionals 2022,1,7,3,600,4,381.26,754.98,981.26,739.16,981.26,68.590074,Wisconsin-Eau Claire,21
+3,Carleton College,Loss 2-11,0,Ignored,0,2023-05-01,North Central D I College Womens Regionals 2022,0,2,11,-600,-9,2173.45,770.8,1573.4499999999998,770.8,0,0,Wisconsin-Eau Claire,22

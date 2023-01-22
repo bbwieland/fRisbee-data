@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+30,North Carolina-Wilmington,Loss 5-13,0,Ignored,0,2023-03-12,Tally Classic XVI,0,5,13,-600,-8,1594.83,954.29,994.8299999999999,954.29,0,0,Jacksonville State,1
+44,Georgia Tech,Loss 6-11,-0.98,Counts,0.0766,2023-03-12,Tally Classic XVI,0,6,11,-546.69,-5,1489.18,955.27,942.49,956.25,942.49,72.194734,Jacksonville State,2
+274,Georgia Southern,Win 12-3,10.56,Counts,0.07769999999999999,2023-03-12,Tally Classic XVI,1,12,3,600,9,479.62,943.73,1079.62,933.1700000000001,1079.62,83.88647399999998,Jacksonville State,3
+26,Auburn,Loss 11-14,30.84,Counts,0.081,2023-03-13,Tally Classic XVI,0,11,14,-313.34,-3,1617.76,923.45,1304.42,892.61,1304.42,105.65802000000001,Jacksonville State,4
+114,Florida State,Loss 5-15,-40.24,Counts,0.081,2023-03-13,Tally Classic XVI,0,5,15,-600,-10,1097.48,994.52,497.48,1034.76,497.48,40.295880000000004,Jacksonville State,5
+106,LSU,Loss 7-12,-43.06,Counts,0.11449999999999999,2023-04-23,Gulf Coast D I College Mens CC 2022,0,7,12,-520.51,-5,1141.7,997.35,621.19,1040.41,621.19,71.126255,Jacksonville State,6
+144,Alabama-Birmingham,Loss 11-13,-27.49,Counts,0.11449999999999999,2023-04-23,Gulf Coast D I College Mens CC 2022,0,11,13,-228.84,-2,970.46,981.78,741.62,1009.27,741.62,84.91548999999999,Jacksonville State,7
+109,Vanderbilt,Loss 7-11,-37.62,Counts,0.1114,2023-04-23,Gulf Coast D I College Mens CC 2022,0,7,11,-466.89,-4,1121.15,991.91,654.2600000000001,1029.53,654.2600000000001,72.88456400000001,Jacksonville State,8
+53,Tulane,Loss 3-13,-14.76,Counts,0.11449999999999999,2023-04-23,Gulf Coast D I College Mens CC 2022,0,3,13,-600,-10,1440.12,969.05,840.1199999999999,983.81,840.1199999999999,96.19373999999998,Jacksonville State,9
+161,Mississippi State,Win 12-10,24.25,Counts,0.11449999999999999,2023-04-24,Gulf Coast D I College Mens CC 2022,1,12,10,238.12,2,903.76,930.04,1141.88,905.79,1141.88,130.74526,Jacksonville State,10
+92,Alabama-Huntsville,Win 12-7,98.59,Counts,0.11449999999999999,2023-04-24,Gulf Coast D I College Mens CC 2022,1,12,7,520.51,5,1196.4,855.69,1716.91,757.1,1716.91,196.586195,Jacksonville State,11

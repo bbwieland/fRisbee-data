@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+179,Boise State,Win 6-4,-18.81,Counts,0.0862,2023-03-12,Big Sky Brawl,1,6,4,365.61,2,378.1,962.07,743.71,980.88,743.71,64.107802,Denver,1
+97,Utah,Win 6-4,33.51,Counts,0.0862,2023-03-12,Big Sky Brawl,1,6,4,365.61,2,933.13,909.75,1298.74,876.24,1298.74,111.951388,Denver,2
+104,Montana State,Win 6-5,6.78,Counts,0.0904,2023-03-12,Big Sky Brawl,1,6,5,125,1,886.47,936.48,1011.47,929.7,1011.47,91.436888,Denver,3
+52,Portland,Win 8-4,89.08,Counts,0.0944,2023-03-12,Big Sky Brawl,1,8,4,564.81,4,1233.18,854.18,1797.99,765.0999999999999,1797.99,169.730256,Denver,4
+96,Montana,Loss 5-7,-34.83,Counts,0.0944,2023-03-13,Big Sky Brawl,0,5,7,-328.14,-2,937.17,978.09,609.03,1012.9200000000001,609.03,57.492431999999994,Denver,5
+52,Portland,Loss 6-9,-15.18,Counts,0.10550000000000001,2023-03-13,Big Sky Brawl,0,6,9,-418.57,-3,1233.18,958.44,814.6100000000001,973.62,814.6100000000001,85.94135500000002,Denver,6
+2,Colorado,Loss 0-13,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,0,13,-600,-13,2239.23,943.26,1639.23,943.26,0,0,Denver,7
+41,Colorado College,Loss 3-13,-39.64,Counts,0.1585,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,3,13,-600,-10,1332.86,982.9,732.8599999999999,1022.54,732.8599999999999,116.15830999999999,Denver,8
+35,Colorado State,Loss 4-13,-25.9,Counts,0.1585,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,4,13,-600,-9,1405.77,969.16,805.77,995.06,805.77,127.714545,Denver,9
+NA,Colorado-B,Win 8-4,0,Counts,0.126,2023-04-16,Rocky Mountain D I College Womens CC 2022,1,8,4,564.81,4,378.45,943.26,943.26,943.26,943.26,118.85076,Denver,10

@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+257,Alabama-B,Win 10-6,44.83,Counts,0.1936,2023-04-23,Southeast Dev College Mens CC 2022,1,10,6,496.16,4,566.95,831.61,1063.1100000000001,786.78,1063.1100000000001,205.81809600000003,Georgia-B,1
+204,Georgia Tech-B,Loss 8-10,-106.51,Counts,0.2054,2023-04-23,Southeast Dev College Mens CC 2022,0,8,10,-262.67,-2,726.99,982.94,464.32,1089.45,464.32,95.37132799999999,Georgia-B,2
+294,Tulane-B,Win 12-3,23.05,Counts,0.2025,2023-04-23,Southeast Dev College Mens CC 2022,1,12,3,600,9,367.22,853.38,967.22,830.33,967.22,195.86205,Georgia-B,3
+257,Alabama-B,Win 14-9,43.96,Counts,0.21100000000000002,2023-04-24,Southeast Dev College Mens CC 2022,1,14,9,473.87,5,566.95,832.47,1040.8200000000002,788.51,1040.8200000000002,219.61302000000006,Georgia-B,4
+204,Georgia Tech-B,Win 8-7,-5.64,Counts,0.1875,2023-04-24,Southeast Dev College Mens CC 2022,1,8,7,125,1,726.99,882.07,851.99,887.71,851.99,159.74812500000002,Georgia-B,5

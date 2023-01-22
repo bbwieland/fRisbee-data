@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+136,American,Loss 4-15,-24.31,Counts,0.0946,2023-04-02,Atlantic Coast Open,0,4,15,-600,-11,1012.78,669.7,412.78,694.01,412.78,39.048988,George Mason,1
+27,William & Mary,Loss 7-15,38.69,Counts,0.0946,2023-04-02,Atlantic Coast Open,0,7,15,-600,-8,1615.6,606.69,1015.5999999999999,568,1015.5999999999999,96.07575999999999,George Mason,2
+214,Wooster,Loss 6-15,-56.77,Counts,0.0946,2023-04-02,Atlantic Coast Open,0,6,15,-600,-9,702.25,702.16,102.25,758.93,102.25,9.67285,George Mason,3
+134,Tennessee,Loss 9-13,-4.82,Counts,0.0946,2023-04-02,Atlantic Coast Open,0,9,13,-418.57,-4,1017.86,650.21,599.29,655.0300000000001,599.29,56.692834,George Mason,4
+157,Liberty,Loss 0-15,-33.04,Counts,0.0946,2023-04-03,Atlantic Coast Open,0,0,15,-600,-15,929.3,678.42,329.29999999999995,711.4599999999999,329.29999999999995,31.151779999999995,George Mason,5
+236,Shippensburg,Win 13-8,52.63,Counts,0.0946,2023-04-03,Atlantic Coast Open,1,13,8,496.16,5,652.75,592.76,1148.91,540.13,1148.91,108.68688600000002,George Mason,6
+74,Navy,Loss 8-15,7.02,Counts,0.0946,2023-04-03,Atlantic Coast Open,0,8,15,-564.81,-7,1277.32,638.37,712.51,631.35,712.51,67.403446,George Mason,7
+157,Liberty,Loss 9-11,4.4,Counts,0.1125,2023-04-23,Virginia D I College Mens CC 2022,0,9,11,-249.21,-2,929.3,640.99,680.0899999999999,636.59,680.0899999999999,76.51012499999999,George Mason,8
+67,James Madison,Loss 4-13,0,Ignored,0,2023-04-23,Virginia D I College Mens CC 2022,0,4,13,-600,-9,1340.98,645.39,740.98,645.39,0,0,George Mason,9
+27,William & Mary,Loss 2-13,0,Ignored,0,2023-04-23,Virginia D I College Mens CC 2022,0,2,13,-600,-11,1615.6,645.39,1015.5999999999999,645.39,0,0,George Mason,10
+37,Virginia,Loss 1-13,0,Ignored,0,2023-04-23,Virginia D I College Mens CC 2022,0,1,13,-600,-12,1514.83,645.39,914.8299999999999,645.39,0,0,George Mason,11
+239,Radford,Win 15-12,37.31,Counts,0.1125,2023-04-24,Virginia D I College Mens CC 2022,1,15,12,300.49,3,639.15,608.08,939.64,570.77,939.64,105.7095,George Mason,12
+118,Virginia Commonwealth,Loss 7-15,-20.7,Counts,0.1125,2023-04-24,Virginia D I College Mens CC 2022,0,7,15,-600,-8,1082.14,666.09,482.1400000000001,686.7900000000001,482.1400000000001,54.24075000000001,George Mason,13

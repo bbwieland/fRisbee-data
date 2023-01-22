@@ -1,0 +1,36 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+12,Brigham Young,Win 12-10,-2.88,Counts,0.025,2023-01-28,Santa Barbara Invite 2022,1,12,10,238.12,2,1808.7,2162.26,2046.8200000000002,2165.1400000000003,2046.8200000000002,51.170500000000004,California-Santa Barbara,1
+78,Southern California,Win 11-3,0,Ignored,0,2023-01-29,Santa Barbara Invite 2022,1,11,3,600,8,1039.77,2159.38,1639.77,2159.38,0,0,California-Santa Barbara,2
+94,UCSC,Win 13-5,0,Ignored,0,2023-01-29,Santa Barbara Invite 2022,1,13,5,600,8,953.42,2159.38,1553.42,2159.38,0,0,California-Santa Barbara,3
+18,UCLA,Win 9-8,-10.06,Counts,0.0236,2023-01-29,Santa Barbara Invite 2022,1,9,8,125,1,1618.64,2169.44,1743.64,2179.5,1743.64,41.149904,California-Santa Barbara,4
+60,Cal Poly-SLO,Win 11-7,-12.86,Counts,0.024300000000000002,2023-01-30,Santa Barbara Invite 2022,1,11,7,466.89,4,1176.39,2172.24,1643.2800000000002,2185.1,1643.2800000000002,39.93170400000001,California-Santa Barbara,5
+9,California-San Diego,Win 11-9,1.23,Counts,0.025,2023-01-30,Santa Barbara Invite 2022,1,11,9,249.21,2,1958.09,2158.15,2207.2999999999997,2156.92,2207.2999999999997,55.1825,California-Santa Barbara,6
+60,Cal Poly-SLO,Win 11-3,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,1,11,3,600,8,1176.39,2159.38,1776.39,2159.38,0,0,California-Santa Barbara,7
+112,California-San Diego-B,Win 15-3,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,1,15,3,600,12,795.6,2159.38,1395.6,2159.38,0,0,California-Santa Barbara,8
+97,Utah,Win 13-2,0,Ignored,0,2023-02-19,Presidents Day Invite 2022,1,13,2,600,11,933.13,2159.38,1533.13,2159.38,0,0,California-Santa Barbara,9
+27,California,Win 12-5,0,Ignored,0,2023-02-20,Presidents Day Invite 2022,1,12,5,600,7,1500.15,2159.38,2100.15,2159.38,0,0,California-Santa Barbara,10
+2,Colorado,Win 11-8,13.64,Counts,0.0297,2023-02-20,Presidents Day Invite 2022,1,11,8,365.61,3,2239.23,2145.74,2604.84,2132.1,2604.84,77.363748,California-Santa Barbara,11
+9,California-San Diego,Win 8-5,6.36,Counts,0.0246,2023-02-21,Presidents Day Invite 2022,1,8,5,453.6,3,1958.09,2153.02,2411.69,2146.66,2411.69,59.327574000000006,California-Santa Barbara,12
+17,Oregon,Win 11-7,-1.25,Counts,0.028900000000000002,2023-02-21,Presidents Day Invite 2022,1,11,7,466.89,4,1650.51,2160.63,2117.4,2161.88,2117.4,61.19286000000001,California-Santa Barbara,13
+8,Stanford,Win 9-5,10.48,Counts,0.0286,2023-03-05,Stanford Invite 2022,1,9,5,529.06,4,1985.87,2148.9,2514.93,2138.42,2514.93,71.926998,California-Santa Barbara,14
+16,Western Washington,Win 11-6,2.86,Counts,0.0315,2023-03-05,Stanford Invite 2022,1,11,6,546.69,5,1700.37,2156.52,2247.06,2153.66,2247.06,70.78238999999999,California-Santa Barbara,15
+2,Colorado,Win 9-6,15.22,Counts,0.0296,2023-03-05,Stanford Invite 2022,1,9,6,418.57,3,2239.23,2144.16,2657.8,2128.94,2657.8,78.67088000000001,California-Santa Barbara,16
+19,Texas,Win 12-8,-3.57,Counts,0.0333,2023-03-06,Stanford Invite 2022,1,12,8,441.15,4,1614.63,2162.95,2055.78,2166.52,2055.78,68.45747400000002,California-Santa Barbara,17
+3,Carleton College,Loss 8-12,-14.73,Counts,0.0333,2023-03-06,Stanford Invite 2022,0,8,12,-441.15,-4,2173.45,2174.11,1732.2999999999997,2188.84,1732.2999999999997,57.68559,California-Santa Barbara,18
+6,Washington,Win 9-6,10.01,Counts,0.0296,2023-03-06,Stanford Invite 2022,1,9,6,418.57,3,2068.65,2149.37,2487.2200000000003,2139.3599999999997,2487.2200000000003,73.62171200000002,California-Santa Barbara,19
+60,Cal Poly-SLO,Win 12-3,0,Ignored,0,2023-04-23,SoCal D I College Womens CC 2022,1,12,3,600,9,1176.39,2159.38,1776.39,2159.38,0,0,California-Santa Barbara,20
+78,Southern California,Win 13-3,0,Ignored,0,2023-04-23,SoCal D I College Womens CC 2022,1,13,3,600,10,1039.77,2159.38,1639.77,2159.38,0,0,California-Santa Barbara,21
+18,UCLA,Win 9-7,-12.56,Counts,0.0458,2023-04-23,SoCal D I College Womens CC 2022,1,9,7,279.34,2,1618.64,2171.94,1897.98,2184.5,1897.98,86.927484,California-Santa Barbara,22
+9,California-San Diego,Loss 8-10,-23.71,Counts,0.048600000000000004,2023-04-24,SoCal D I College Womens CC 2022,0,8,10,-262.67,-2,1958.09,2183.09,1695.4199999999998,2206.8,1695.4199999999998,82.397412,California-Santa Barbara,23
+9,California-San Diego,Win 12-9,7.58,Counts,0.05,2023-04-24,SoCal D I College Womens CC 2022,1,12,9,345.37,3,1958.09,2151.8,2303.46,2144.2200000000003,2303.46,115.173,California-Santa Barbara,24
+18,UCLA,Win 8-6,-10.76,Counts,0.0429,2023-04-24,SoCal D I College Womens CC 2022,1,8,6,300.49,2,1618.64,2170.14,1919.13,2180.9,1919.13,82.33067700000001,California-Santa Barbara,25
+131,Arizona,Win 13-1,0,Ignored,0,2023-05-07,Southwest D I College Womens Regionals 2022,1,13,1,600,12,663.02,2159.38,1263.02,2159.38,0,0,California-Santa Barbara,26
+11,California-Davis,Win 13-12,-8.15,Counts,0.056100000000000004,2023-05-07,Southwest D I College Womens Regionals 2022,1,13,12,125,1,1897.16,2167.53,2022.16,2175.6800000000003,2022.16,113.44317600000001,California-Santa Barbara,27
+94,UCSC,Win 13-4,0,Ignored,0,2023-05-07,Southwest D I College Womens Regionals 2022,1,13,4,600,9,953.42,2159.38,1553.42,2159.38,0,0,California-Santa Barbara,28
+9,California-San Diego,Win 13-6,23.68,Counts,0.056100000000000004,2023-05-08,Southwest D I College Womens Regionals 2022,1,13,6,600,7,1958.09,2135.7,2558.09,2112.02,2558.09,143.50884900000003,California-Santa Barbara,29
+44,William & Mary,Win 15-5,0,Ignored,0,2023-05-27,2022 D I College Championships,1,15,5,600,10,1326.51,2159.38,1926.51,2159.38,0,0,California-Santa Barbara,30
+6,Washington,Win 15-13,8.82,Counts,0.0667,2023-05-27,2022 D I College Championships,1,15,13,214.18,2,2068.65,2150.56,2282.83,2141.74,2282.83,152.264761,California-Santa Barbara,31
+31,SUNY-Binghamton,Win 15-8,-10.2,Counts,0.0667,2023-05-28,2022 D I College Championships,1,15,8,564.81,7,1451.86,2169.58,2016.6699999999998,2179.7799999999997,2016.6699999999998,134.51188899999997,California-Santa Barbara,32
+10,Vermont,Win 15-7,26.59,Counts,0.0667,2023-05-28,2022 D I College Championships,1,15,7,600,8,1931.61,2132.79,2531.6099999999997,2106.2,2531.6099999999997,168.85838699999996,California-Santa Barbara,33
+7,Tufts,Win 14-11,11.66,Counts,0.0667,2023-05-29,2022 D I College Championships,1,14,11,313.34,3,2009.18,2147.72,2322.52,2136.06,2322.52,154.912084,California-Santa Barbara,34
+1,North Carolina,Loss 8-15,-27.2,Counts,0.0667,2023-05-29,2022 D I College Championships,0,8,15,-564.81,-7,2343.45,2186.58,1778.6399999999999,2213.7799999999997,1778.6399999999999,118.63528799999999,California-Santa Barbara,35

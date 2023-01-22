@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+120,Cedarville,Loss 0-7,-21.33,Counts,0.08310000000000001,2023-02-19,Commonwealth Cup Weekend 1,0,0,7,-600,-7,760.52,417.31,160.51999999999998,438.64,160.51999999999998,13.339212,Michigan-B,1
+183,Florida-B,Loss 2-6,-54.22,Counts,0.0766,2023-02-19,Commonwealth Cup Weekend 1,0,2,6,-600,-4,342.29,450.19,-257.71,504.40999999999997,-257.71,-19.740586,Michigan-B,2
+107,Mary Washington,Win 5-3,69.55,Counts,0.07429999999999999,2023-02-19,Commonwealth Cup Weekend 1,1,5,3,418.57,2,843.9,326.42,1262.47,256.87,1262.47,93.801521,Michigan-B,3
+189,Virginia-B,Loss 5-6,-19.18,Counts,0.08710000000000001,2023-02-19,Commonwealth Cup Weekend 1,0,5,6,-125,-1,320.06,415.15,195.06,434.33,195.06,16.989726,Michigan-B,4
+152,North Carolina-B,Win 6-5,26.49,Counts,0.08710000000000001,2023-02-20,Commonwealth Cup Weekend 1,1,6,5,125,1,548.48,369.49,673.48,343,673.48,58.66010800000001,Michigan-B,5
+61,Ohio State,Loss 2-11,0,Ignored,0,2023-02-20,Commonwealth Cup Weekend 1,0,2,11,-600,-9,1173.55,395.97,573.55,395.97,0,0,Michigan-B,6
+213,Notre Dame-B,Win 9-4,47.17,Counts,0.1419,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,1,9,4,600,5,81.16,348.81,681.16,301.64,681.16,96.65660399999999,Michigan-B,7
+223,Purdue-B,Win 15-1,43.96,Counts,0.1716,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,1,15,1,600,14,8.23,352.01,608.23,308.05,608.23,104.372268,Michigan-B,8
+213,Notre Dame-B,Loss 5-7,-101.51,Counts,0.1364,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,0,5,7,-328.14,-2,81.16,497.48,-246.98,598.99,-246.98,-33.688072,Michigan-B,9
+223,Purdue-B,Win 8-5,10.89,Counts,0.1419,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,1,8,5,453.6,3,8.23,385.08,461.83000000000004,374.19,461.83000000000004,65.53367700000001,Michigan-B,10

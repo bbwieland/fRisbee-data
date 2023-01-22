@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+131,Arizona,Loss 0-13,0,Ignored,0,2023-03-19,Uomo Donna,0,0,13,-600,-13,663.02,0,63.01999999999998,0,0,0,Arizona-B,1
+134,Arizona State,Loss 1-13,0,Ignored,0,2023-03-19,Uomo Donna,0,1,13,-600,-12,647.05,0,47.049999999999955,0,0,0,Arizona-B,2
+210,Northern Arizona,Loss 1-13,0,Ignored,0,2023-03-19,Uomo Donna,0,1,13,-600,-12,106.08,0,-493.92,0,0,-0,Arizona-B,3
+134,Arizona State,Loss 0-13,0,Ignored,0,2023-03-20,Uomo Donna,0,0,13,-600,-13,647.05,0,47.049999999999955,0,0,0,Arizona-B,4
+112,California-San Diego-B,Loss 0-15,0,Ignored,0,2023-04-16,Southwest Dev College Womens CC 2022,0,0,15,-600,-15,795.6,0,195.60000000000002,0,0,0,Arizona-B,5
+187,UCLA-B,Loss 0-15,0,Ignored,0,2023-04-16,Southwest Dev College Womens CC 2022,0,0,15,-600,-15,323.32,0,-276.68,0,0,-0,Arizona-B,6
+170,Stanford-B,Loss 3-15,0,Ignored,0,2023-04-16,Southwest Dev College Womens CC 2022,0,3,15,-600,-12,420.77,0,-179.23000000000002,0,0,-0,Arizona-B,7
+112,California-San Diego-B,Loss 1-13,0,Ignored,0,2023-04-17,Southwest Dev College Womens CC 2022,0,1,13,-600,-12,795.6,0,195.60000000000002,0,0,0,Arizona-B,8
+187,UCLA-B,Loss 1-14,0,Ignored,0,2023-04-17,Southwest Dev College Womens CC 2022,0,1,14,-600,-13,323.32,0,-276.68,0,0,-0,Arizona-B,9

@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+352,Delaware-B,Win 13-2,0,Ignored,0,2023-03-05,Smellfish Invite,1,13,2,600,11,58.12,1057.1,658.12,1057.1,0,0,South Carolina-B,1
+268,James Madison-B,Win 13-6,4.26,Counts,0.0843,2023-03-05,Smellfish Invite,1,13,6,600,7,503.34,1052.84,1103.34,1048.58,1103.34,93.011562,South Carolina-B,2
+200,ETSU,Win 13-8,17.51,Counts,0.0843,2023-03-05,Smellfish Invite,1,13,8,496.16,5,751.08,1039.59,1247.24,1022.0799999999999,1247.24,105.142332,South Carolina-B,3
+316,George Washington-B,Win 12-8,-33.96,Counts,0.0843,2023-03-06,Smellfish Invite,1,12,8,441.15,4,247.2,1091.05,688.3499999999999,1125.01,688.3499999999999,58.02790499999999,South Carolina-B,4
+200,ETSU,Win 12-9,3.62,Counts,0.0843,2023-03-06,Smellfish Invite,1,12,9,345.37,3,751.08,1053.47,1096.45,1049.8500000000001,1096.45,92.430735,South Carolina-B,5
+268,James Madison-B,Win 8-4,0.96,Counts,0.0797,2023-03-26,Hoos Huckin,1,8,4,564.81,4,503.34,1056.14,1068.1499999999999,1055.18,1068.1499999999999,85.13155499999998,South Carolina-B,6
+359,Georgetown-B,Win 11-2,0,Ignored,0,2023-03-26,Hoos Huckin,1,11,2,600,9,157.89,1057.1,757.89,1057.1,0,0,South Carolina-B,7
+318,Virginia-B,Win 11-3,0,Ignored,0,2023-03-26,Hoos Huckin,1,11,3,600,8,242.62,1057.1,842.62,1057.1,0,0,South Carolina-B,8
+345,William & Mary-B,Win 11-3,0,Ignored,0,2023-03-27,Hoos Huckin,1,11,3,600,8,46.4,1057.1,646.4,1057.1,0,0,South Carolina-B,9
+307,Virginia Tech-B,Win 10-6,-27.11,Counts,0.092,2023-03-27,Hoos Huckin,1,10,6,496.16,4,293.39,1084.21,789.55,1111.32,789.55,72.6386,South Carolina-B,10
+233,Navy-B,Win 15-6,22.26,Counts,0.1003,2023-03-27,Hoos Huckin,1,15,6,600,9,656.78,1034.84,1256.78,1012.5799999999999,1256.78,126.05503399999999,South Carolina-B,11
+307,Virginia Tech-B,Win 15-7,-23.67,Counts,0.1263,2023-04-23,Southern Atlantic Coast Dev College Mens CC 2022,1,15,7,600,8,293.39,1080.77,893.39,1104.44,893.39,112.835157,South Carolina-B,12
+281,North Carolina State-B,Win 15-5,0,Ignored,0,2023-04-23,Southern Atlantic Coast Dev College Mens CC 2022,1,15,5,600,10,432.72,1057.1,1032.72,1057.1,0,0,South Carolina-B,13
+215,North Carolina-B,Win 15-9,23.2,Counts,0.1263,2023-04-23,Southern Atlantic Coast Dev College Mens CC 2022,1,15,9,515.48,6,702.02,1033.9,1217.5,1010.7,1217.5,153.77025,South Carolina-B,14
+354,Towson -B,Win 15-1,0,Ignored,0,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,1,15,1,600,14,130.65,1057.1,730.65,1057.1,0,0,South Carolina-B,15
+318,Virginia-B,Win 15-2,0,Ignored,0,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,1,15,2,600,13,242.62,1057.1,842.62,1057.1,0,0,South Carolina-B,16
+228,Maryland-B,Win 11-7,13.89,Counts,0.138,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,1,11,7,466.89,4,676.95,1043.2,1143.8400000000001,1029.31,1143.8400000000001,157.84992000000003,South Carolina-B,17
+354,Towson -B,Win 15-2,0,Ignored,0,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,1,15,2,600,13,130.65,1057.1,730.65,1057.1,0,0,South Carolina-B,18

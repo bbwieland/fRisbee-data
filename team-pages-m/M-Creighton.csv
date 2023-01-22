@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+97,Marquette,Loss 4-13,-1.57,Counts,0.0993,2023-04-02,Clash in the Cornfields,0,4,13,-600,-9,1170.37,586.23,570.3699999999999,587.8000000000001,570.3699999999999,56.63774099999999,Creighton,1
+155,Grinnell,Loss 8-10,10.92,Counts,0.0966,2023-04-02,Clash in the Cornfields,0,8,10,-262.67,-2,949.42,573.73,686.75,562.8100000000001,686.75,66.34005,Creighton,2
+NA,Grinnell-B,Win 13-3,0,Ignored,0,2023-04-02,Clash in the Cornfields,1,13,3,600,10,NA,584.65,NA,584.65,0,NA,Creighton,3
+292,Drake University,Win 13-8,31.68,Counts,0.0993,2023-04-02,Clash in the Cornfields,1,13,8,496.16,5,375.93,552.97,872.09,521.2900000000001,872.09,86.59853700000001,Creighton,4
+221,Loyola-Chicago,Win 10-9,25.55,Counts,0.0993,2023-04-03,Clash in the Cornfields,1,10,9,125,1,691.51,559.1,816.51,533.5500000000001,816.51,81.079443,Creighton,5
+227,Macalester College,Loss 6-9,-31.3,Counts,0.0882,2023-04-03,Clash in the Cornfields,0,6,9,-418.57,-3,679.73,615.95,261.16,647.25,261.16,23.034312000000003,Creighton,6
+80,Wisconsin-Platteville,Loss 8-10,43.05,Counts,0.0966,2023-04-03,Clash in the Cornfields,0,8,10,-262.67,-2,1249.81,541.6,987.1399999999999,498.55,987.1399999999999,95.35772399999999,Creighton,7
+84,Iowa,Loss 3-13,0,Ignored,0,2023-04-09,West Plains D I College Mens CC 2022,0,3,13,-600,-10,1238.75,584.65,638.75,584.65,0,0,Creighton,8
+95,Iowa State,Loss 2-13,-0.18,Counts,0.1052,2023-04-09,West Plains D I College Mens CC 2022,0,2,13,-600,-11,1183.14,584.83,583.1400000000001,585.01,583.1400000000001,61.346328000000014,Creighton,9
+142,Nebraska,Loss 2-13,-24.11,Counts,0.1052,2023-04-09,West Plains D I College Mens CC 2022,0,2,13,-600,-11,979.53,608.77,379.53,632.88,379.53,39.926556,Creighton,10
+263,Northern Iowa,Loss 11-12,-21.07,Counts,0.1052,2023-04-09,West Plains D I College Mens CC 2022,0,11,12,-125,-1,530.43,605.72,405.42999999999995,626.7900000000001,405.42999999999995,42.651236,Creighton,11
+263,Northern Iowa,Loss 11-13,-33.27,Counts,0.1052,2023-04-10,West Plains D I College Mens CC 2022,0,11,13,-228.84,-2,530.43,617.93,301.5899999999999,651.1999999999999,301.5899999999999,31.72726799999999,Creighton,12

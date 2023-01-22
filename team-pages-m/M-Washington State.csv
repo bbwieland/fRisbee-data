@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+296,Central Washington,Win 15-13,-16.94,Counts,0.0587,2023-03-12,Palouse Open 2022,1,15,13,214.18,2,356.07,859.04,570.25,875.98,570.25,33.473675,Washington State,1
+302,Idaho,Loss 11-12,-40.74,Counts,0.0587,2023-03-12,Palouse Open 2022,0,11,12,-125,-1,313.39,882.84,188.39,923.58,188.39,11.058493,Washington State,2
+223,Montana,Win 15-10,18.69,Counts,0.0587,2023-03-12,Palouse Open 2022,1,15,10,453.6,5,688.49,823.41,1142.0900000000001,804.7199999999999,1142.0900000000001,67.04068300000002,Washington State,3
+296,Central Washington,Win 13-6,7.1,Counts,0.0587,2023-03-13,Palouse Open 2022,1,13,6,600,7,356.07,835,956.0699999999999,827.9,956.0699999999999,56.121309,Washington State,4
+296,Central Washington,Win 12-8,-2.8,Counts,0.0587,2023-03-13,Palouse Open 2022,1,12,8,441.15,4,356.07,844.9,797.22,847.6999999999999,797.22,46.796814000000005,Washington State,5
+223,Montana,Loss 9-10,-17.36,Counts,0.0587,2023-03-13,Palouse Open 2022,0,9,10,-125,-1,688.49,859.46,563.49,876.82,563.49,33.076863,Washington State,6
+223,Montana,Loss 6-11,-41.14,Counts,0.0555,2023-03-13,Palouse Open 2022,0,6,11,-546.69,-5,688.49,883.24,141.79999999999995,924.38,141.79999999999995,7.869899999999998,Washington State,7
+159,Boise State,Loss 11-13,-13.28,Counts,0.0783,2023-04-16,Big Sky D I College Mens CC 2022,0,11,13,-228.84,-2,914.58,855.38,685.74,868.66,685.74,53.693442,Washington State,8
+15,Utah State,Loss 3-15,0,Ignored,0,2023-04-16,Big Sky D I College Mens CC 2022,0,3,15,-600,-12,1823.82,842.1,1223.82,842.1,0,0,Washington State,9
+302,Idaho,Win 15-5,6.06,Counts,0.0783,2023-04-17,Big Sky D I College Mens CC 2022,1,15,5,600,10,313.39,836.04,913.39,829.98,913.39,71.51843699999999,Washington State,10
+223,Montana,Win 14-8,32.49,Counts,0.0783,2023-04-17,Big Sky D I College Mens CC 2022,1,14,8,536.03,6,688.49,809.61,1224.52,777.12,1224.52,95.879916,Washington State,11
+178,Montana State,Win 15-10,38.23,Counts,0.0783,2023-04-17,Big Sky D I College Mens CC 2022,1,15,10,453.6,5,838.48,803.87,1292.08,765.64,1292.08,101.16986399999999,Washington State,12
+38,Oregon State,Loss 6-13,7.36,Counts,0.0931,2023-05-07,Northwest D I College Mens Regionals 2022,0,6,13,-600,-7,1513.79,834.74,913.79,827.38,913.79,85.073849,Washington State,13
+45,Utah,Loss 5-13,0,Ignored,0,2023-05-07,Northwest D I College Mens Regionals 2022,0,5,13,-600,-8,1486.48,842.1,886.48,842.1,0,0,Washington State,14
+11,Washington,Loss 2-13,0,Ignored,0,2023-05-07,Northwest D I College Mens Regionals 2022,0,2,13,-600,-11,1847.95,842.1,1247.95,842.1,0,0,Washington State,15
+302,Idaho,Win 13-3,7.32,Counts,0.0931,2023-05-08,Northwest D I College Mens Regionals 2022,1,13,3,600,10,313.39,834.78,913.39,827.4599999999999,913.39,85.036609,Washington State,16
+82,Whitman,Loss 11-13,17.66,Counts,0.0931,2023-05-08,Northwest D I College Mens Regionals 2022,0,11,13,-228.84,-2,1242.91,824.44,1014.07,806.7800000000001,1014.07,94.40991700000001,Washington State,17

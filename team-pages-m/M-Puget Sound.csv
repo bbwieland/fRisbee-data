@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+196,Pacific Lutheran,Loss 4-11,-15.32,Counts,0.3235,2023-04-16,Northwest D III College Mens CC 2022,0,4,11,-600,-7,764.37,211.71,164.37,227.03,164.37,53.173695,Puget Sound,1
+82,Whitman,Loss 1-15,0,Ignored,0,2023-04-16,Northwest D III College Mens CC 2022,0,1,15,-600,-14,1242.91,196.4,642.9100000000001,196.4,0,0,Puget Sound,2
+NA,Lewis & Clark,Win 9-8,21.38,Counts,0.33340000000000003,2023-04-16,Northwest D III College Mens CC 2022,1,9,8,125,1,114.14,175.01,239.14,153.63,239.14,79.729276,Puget Sound,3
+196,Pacific Lutheran,Loss 6-12,-5.92,Counts,0.3431,2023-04-17,Northwest D III College Mens CC 2022,0,6,12,-579.31,-6,764.37,202.32,185.06000000000006,208.23999999999998,185.06000000000006,63.494086000000024,Puget Sound,4

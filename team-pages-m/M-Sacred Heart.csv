@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+283,Stevens Tech,Loss 7-15,143.43,Counts,0.3333,2023-04-02,Fuego,0,7,15,-600,-8,409.26,621.03,-190.74,477.59999999999997,-190.74,-63.573642,Sacred Heart,1
+355,Syracuse-B,Loss 4-15,-127.23,Counts,0.3333,2023-04-02,Fuego,0,4,15,-600,-11,132.07,350.37,-467.93,477.6,-467.93,-155.961069,Sacred Heart,2
+NA,Suny Oswego,Loss 4-15,-16.2,Counts,0.3333,2023-04-02,Fuego,0,4,15,-600,-11,90.01,461.4,-509.99,477.59999999999997,-509.99,-169.979667,Sacred Heart,3
+247,SUNY-Albany,Loss 2-15,0,Ignored,0,2023-04-09,Hudson Valley D I College Mens CC 2022,0,2,15,-600,-13,612.9,477.6,12.899999999999977,477.6,0,0,Sacred Heart,4
+125,Yale,Loss 4-15,0,Ignored,0,2023-04-09,Hudson Valley D I College Mens CC 2022,0,4,15,-600,-11,1070.13,477.6,470.1300000000001,477.6,0,0,Sacred Heart,5
+254,Central Connecticut State,Loss 0-15,0,Ignored,0,2023-04-10,Hudson Valley D I College Mens CC 2022,0,0,15,-600,-15,594.24,477.6,-5.759999999999991,477.6,0,-0,Sacred Heart,6

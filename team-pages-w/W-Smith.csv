@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+76,Amherst,Loss 2-5,-20.73,Counts,0.0969,2023-04-10,South New England D III College Womens CC 2022,0,2,5,-600,-3,1055.04,669.06,455.03999999999996,689.79,455.03999999999996,44.093376,Smith,1
+80,Mount Holyoke,Win 7-6,77.34,Counts,0.132,2023-04-10,South New England D III College Womens CC 2022,1,7,6,125,1,1031.85,570.98,1156.85,493.64,1156.85,152.7042,Smith,2
+NA,Worcester Polytechnic,Win 11-2,0,Ignored,0,2023-04-10,South New England D III College Womens CC 2022,1,11,2,600,9,NA,648.32,NA,648.32,0,NA,Smith,3
+28,Williams,Loss 2-10,0,Ignored,0,2023-04-10,South New England D III College Womens CC 2022,0,2,10,-600,-8,1490.38,648.32,890.3800000000001,648.32,0,0,Smith,4
+76,Amherst,Loss 0-9,-35.99,Counts,0.157,2023-04-30,New England D III College Womens Regionals 2022,0,0,9,-600,-9,1055.04,684.32,455.03999999999996,720.3100000000001,455.03999999999996,71.44127999999999,Smith,5
+80,Mount Holyoke,Loss 4-9,-40.31,Counts,0.157,2023-04-30,New England D III College Womens Regionals 2022,0,4,9,-600,-5,1031.85,688.64,431.8499999999999,728.95,431.8499999999999,67.80044999999998,Smith,6
+146,Stonehill,Win 7-5,48.96,Counts,0.1508,2023-04-30,New England D III College Womens Regionals 2022,1,7,5,328.14,2,595.83,599.36,923.97,550.4,923.97,139.334676,Smith,7
+28,Williams,Loss 3-7,38.65,Counts,0.1377,2023-04-30,New England D III College Womens Regionals 2022,0,3,7,-600,-4,1490.38,609.67,890.3800000000001,571.02,890.3800000000001,122.605326,Smith,8
+125,Bates,Loss 6-9,-70.95,Counts,0.1686,2023-05-01,New England D III College Womens Regionals 2022,0,6,9,-418.57,-3,717.11,719.27,298.54,790.22,298.54,50.333844000000006,Smith,9

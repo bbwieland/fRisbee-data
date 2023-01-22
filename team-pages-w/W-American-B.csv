@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+220,William & Mary-B,Loss 2-6,-39.75,Counts,0.0605,2023-02-26,Cherry Blossom Classic,0,2,6,-600,-4,36.96,94,-563.04,133.75,-563.04,-34.063919999999996,American-B,1
+198,Miami,Loss 1-9,-34.33,Counts,0.0748,2023-02-26,Cherry Blossom Classic,0,1,9,-600,-8,229.78,88.58,-370.22,122.91,-370.22,-27.692456000000004,American-B,2
+158,American,Loss 4-5,21.62,Counts,0.0623,2023-02-27,Cherry Blossom Classic,0,4,5,-125,-1,504.99,32.63,379.99,11.010000000000002,379.99,23.673377000000002,American-B,3
+230,Georgetown-B,Win 5-4,-8.64,Counts,0.0623,2023-02-27,Cherry Blossom Classic,1,5,4,125,1,200.93,62.9,325.93,71.53999999999999,325.93,20.305439,American-B,4
+230,Georgetown-B,Win 3-2,-6.33,Counts,0.0464,2023-02-27,Cherry Blossom Classic,1,3,2,125,1,200.93,60.59,325.93,66.92,325.93,15.123152,American-B,5
+230,Georgetown-B,Win 9-6,23.89,Counts,0.1276,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,9,6,418.57,3,200.93,30.36,619.5,6.469999999999999,619.5,79.0482,American-B,6
+152,North Carolina-B,Loss 5-11,-16.05,Counts,0.1318,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,5,11,-600,-6,548.48,70.31,-51.51999999999998,86.36,-51.51999999999998,-6.790335999999997,American-B,7
+220,William & Mary-B,Win 5-4,11.81,Counts,0.09880000000000001,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,5,4,125,1,36.96,42.44,161.96,30.629999999999995,161.96,16.001648000000003,American-B,8
+212,George Washington-B,Loss 5-6,-9.7,Counts,0.1092,2023-04-24,Atlantic Coast Dev College Womens CC 2022,0,5,6,-125,-1,100.13,63.96,-24.870000000000005,73.66,-24.870000000000005,-2.7158040000000008,American-B,9
+212,George Washington-B,Win 9-6,67.91,Counts,0.1276,2023-04-24,Atlantic Coast Dev College Womens CC 2022,1,9,6,418.57,3,100.13,13.66,518.7,-54.25,518.7,66.18612,American-B,10
+152,North Carolina-B,Loss 3-6,-5.75,Counts,0.09880000000000001,2023-04-24,Atlantic Coast Dev College Womens CC 2022,0,3,6,-546.69,-3,548.48,60.01,1.7899999999999636,65.75999999999999,1.7899999999999636,0.17685199999999643,American-B,11

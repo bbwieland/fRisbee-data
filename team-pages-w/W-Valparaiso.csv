@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Kalamazoo College,Loss 5-13,-181.65,Counts,0.5,2023-04-23,Great Lakes D III College Womens CC 2022,0,5,13,-600,-8,287.35,524.06,-312.65,705.7099999999999,-312.65,-156.325,Valparaiso,1
+155,Knox,Loss 4-13,0,Ignored,0,2023-04-23,Great Lakes D III College Womens CC 2022,0,4,13,-600,-9,527.72,705.71,-72.27999999999997,705.71,0,-0,Valparaiso,2
+214,Wheaton (Illinois),Loss 2-13,181.65,Counts,0.5,2023-04-23,Great Lakes D III College Womens CC 2022,0,2,13,-600,-11,75.94,887.35,-524.06,705.7,-524.06,-262.03,Valparaiso,3
+155,Knox,Loss 2-13,0,Ignored,0,2023-04-24,Great Lakes D III College Womens CC 2022,0,2,13,-600,-11,527.72,705.71,-72.27999999999997,705.71,0,-0,Valparaiso,4

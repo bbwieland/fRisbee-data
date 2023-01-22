@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+197,Rice,Loss 6-13,-62.79,Counts,0.25,2023-04-23,Texas D III College Mens CC 2022,0,6,13,-600,-7,764.1,415.27,164.10000000000002,478.06,164.10000000000002,41.025000000000006,LeTourneau University,1
+131,Sul Ross State,Loss 7-13,39.13,Counts,0.25,2023-04-23,Texas D III College Mens CC 2022,0,7,13,-557.53,-6,1027.4,313.35,469.8700000000001,274.22,469.8700000000001,117.46750000000003,LeTourneau University,2
+349,Trinity University,Win 13-4,80.03,Counts,0.25,2023-04-23,Texas D III College Mens CC 2022,1,13,4,600,9,7.44,272.45,607.44,192.42,607.44,151.86,LeTourneau University,3
+NA,Dallas,Loss 10-13,-56.36,Counts,0.25,2023-04-23,Texas D III College Mens CC 2022,0,10,13,-328.14,-3,511.53,408.84,183.39,465.2,183.39,45.8475,LeTourneau University,4

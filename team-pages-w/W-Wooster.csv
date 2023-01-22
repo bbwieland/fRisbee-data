@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+191,Indiana,Loss 4-13,-38.61,Counts,0.2134,2023-03-05,Huckleberry Flick 2022,0,4,13,-600,-9,297.14,121.89,-302.86,160.5,-302.86,-64.630324,Wooster,1
+135,Dayton,Loss 1-8,0,Ignored,0,2023-03-05,Huckleberry Flick 2022,0,1,8,-600,-7,646.33,160.5,46.33000000000004,160.5,0,0,Wooster,2
+207,Miami (Ohio),Loss 6-8,-3.22,Counts,0.1832,2023-03-05,Huckleberry Flick 2022,0,6,8,-300.49,-2,125.64,157.28,-174.85000000000002,160.5,-174.85000000000002,-32.032520000000005,Wooster,3
+181,Kenyon,Loss 9-11,114.72,Counts,0.3017,2023-04-16,Ohio D III College Womens CC 2022,0,9,11,-249.21,-2,354.19,275.22,104.97999999999999,160.50000000000003,104.97999999999999,31.672466,Wooster,4
+120,Cedarville,Loss 1-13,0,Ignored,0,2023-04-16,Ohio D III College Womens CC 2022,0,1,13,-600,-12,760.52,160.5,160.51999999999998,160.5,0,0,Wooster,5
+192,Oberlin,Loss 4-13,-67.46,Counts,0.3017,2023-04-16,Ohio D III College Womens CC 2022,0,4,13,-600,-9,283.4,93.04,-316.6,160.5,-316.6,-95.51822000000001,Wooster,6

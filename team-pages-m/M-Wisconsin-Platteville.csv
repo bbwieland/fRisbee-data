@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+227,Macalester College,Win 10-6,-8.04,Counts,0.0981,2023-04-02,Clash in the Cornfields,1,10,6,496.16,4,679.73,1257.85,1175.89,1265.8899999999999,1175.89,115.35480900000002,Wisconsin-Platteville,1
+97,Marquette,Win 10-8,21.29,Counts,0.1041,2023-04-02,Clash in the Cornfields,1,10,8,262.67,2,1170.37,1228.52,1433.04,1207.23,1433.04,149.179464,Wisconsin-Platteville,2
+155,Grinnell,Win 9-7,-2.29,Counts,0.0981,2023-04-02,Clash in the Cornfields,1,9,7,279.34,2,949.42,1252.1,1228.76,1254.3899999999999,1228.76,120.54135600000001,Wisconsin-Platteville,3
+NA,Grinnell-B,Win 10-1,0,Ignored,0,2023-04-02,Clash in the Cornfields,1,10,1,600,9,NA,1249.81,NA,1249.81,0,NA,Wisconsin-Platteville,4
+221,Loyola-Chicago,Win 13-5,4.99,Counts,0.107,2023-04-03,Clash in the Cornfields,1,13,5,600,8,691.51,1244.81,1291.51,1239.82,1291.51,138.19156999999998,Wisconsin-Platteville,5
+255,Creighton,Win 10-8,-46.77,Counts,0.1041,2023-04-03,Clash in the Cornfields,1,10,8,262.67,2,584.65,1296.58,847.3199999999999,1343.35,847.3199999999999,88.20601199999999,Wisconsin-Platteville,6
+292,Drake University,Win 13-6,-32.8,Counts,0.107,2023-04-03,Clash in the Cornfields,1,13,6,600,7,375.93,1282.61,975.9300000000001,1315.4099999999999,975.9300000000001,104.42451,Wisconsin-Platteville,7
+163,Michigan Tech,Win 13-7,30.25,Counts,0.1272,2023-04-23,Lake Superior D III College Mens CC 2022,1,13,7,557.53,6,899.82,1219.56,1457.35,1189.31,1457.35,185.37492,Wisconsin-Platteville,8
+305,Milwaukee School of Engineering,Win 13-2,0,Ignored,0,2023-04-23,Lake Superior D III College Mens CC 2022,1,13,2,600,11,294.7,1249.81,894.7,1249.81,0,0,Wisconsin-Platteville,9
+213,Luther,Win 12-7,-3.37,Counts,0.1272,2023-04-23,Lake Superior D III College Mens CC 2022,1,12,7,520.51,5,706.18,1253.18,1226.69,1256.55,1226.69,156.03496800000002,Wisconsin-Platteville,10
+160,Carthage,Win 13-6,38.41,Counts,0.1272,2023-04-23,Lake Superior D III College Mens CC 2022,1,13,6,600,7,913.35,1211.4,1513.35,1172.99,1513.35,192.49812,Wisconsin-Platteville,11

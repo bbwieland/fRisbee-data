@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+307,Virginia Tech-B,Win 13-7,16.66,Counts,0.0874,2023-03-05,Smellfish Invite,1,13,7,557.53,6,293.39,660.3,850.92,643.64,850.92,74.370408,Maryland-B,1
+345,William & Mary-B,Win 13-6,-2.92,Counts,0.0874,2023-03-05,Smellfish Invite,1,13,6,600,7,46.4,679.88,646.4,682.8,646.4,56.49536,Maryland-B,2
+316,George Washington-B,Win 11-6,10.54,Counts,0.08259999999999999,2023-03-05,Smellfish Invite,1,11,6,546.69,5,247.2,666.42,793.8900000000001,655.88,793.8900000000001,65.575314,Maryland-B,3
+200,ETSU,Loss 11-13,-14.81,Counts,0.0874,2023-03-06,Smellfish Invite,0,11,13,-228.84,-2,751.08,691.77,522.24,706.5799999999999,522.24,45.643776,Maryland-B,4
+316,George Washington-B,Win 11-10,-29.18,Counts,0.0874,2023-03-06,Smellfish Invite,1,11,10,125,1,247.2,706.13,372.2,735.31,372.2,32.53028,Maryland-B,5
+352,Delaware-B,Win 14-6,0,Ignored,0,2023-04-23,Colonial Dev College Mens CC 2022,1,14,6,600,8,58.12,676.95,658.12,676.95,0,0,Maryland-B,6
+359,Georgetown-B,Win 15-3,0,Ignored,0,2023-04-23,Colonial Dev College Mens CC 2022,1,15,3,600,12,157.89,676.95,757.89,676.95,0,0,Maryland-B,7
+233,Navy-B,Loss 11-12,-21.87,Counts,0.1309,2023-04-23,Colonial Dev College Mens CC 2022,0,11,12,-125,-1,656.78,698.82,531.78,720.69,531.78,69.610002,Maryland-B,8
+352,Delaware-B,Win 15-2,0,Ignored,0,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,1,15,2,600,13,58.12,676.95,658.12,676.95,0,0,Maryland-B,9
+316,George Washington-B,Win 15-6,29.33,Counts,0.1469,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,1,15,6,600,9,247.2,647.63,847.2,618.3,847.2,124.45368,Maryland-B,10
+318,Virginia-B,Win 15-6,28.54,Counts,0.1469,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,1,15,6,600,9,242.62,648.41,842.62,619.87,842.62,123.780878,Maryland-B,11
+127,South Carolina-B,Loss 7-11,-14.48,Counts,0.14300000000000002,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,0,7,11,-466.89,-4,1057.1,691.43,590.2099999999999,705.91,590.2099999999999,84.40003,Maryland-B,12

@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+192,Oberlin,Win 10-9,10.34,Counts,0.1602,2023-04-16,Ohio D III College Womens CC 2022,1,10,9,125,1,283.4,343.84,408.4,333.5,408.4,65.42568,Kenyon,1
+229,Wooster,Win 11-9,-50.64,Counts,0.1602,2023-04-16,Ohio D III College Womens CC 2022,1,11,9,249.21,2,160.5,404.83,409.71000000000004,455.46999999999997,409.71000000000004,65.63554200000002,Kenyon,2
+120,Cedarville,Loss 7-13,-28.84,Counts,0.1602,2023-04-16,Ohio D III College Womens CC 2022,0,7,13,-557.53,-6,760.52,383.03,202.99,411.86999999999995,202.99,32.518998,Kenyon,3
+65,Haverford,Loss 5-12,0,Ignored,0,2023-04-30,Ohio Valley D III College Womens Regionals 2022,0,5,12,-600,-7,1138.76,354.19,538.76,354.19,0,0,Kenyon,4
+192,Oberlin,Win 13-5,116.02,Counts,0.17980000000000002,2023-04-30,Ohio Valley D III College Womens Regionals 2022,1,13,5,600,8,283.4,238.16,883.4,122.14,883.4,158.83532,Kenyon,5
+147,Swarthmore,Loss 7-8,21.96,Counts,0.1598,2023-05-01,Ohio Valley D III College Womens Regionals 2022,0,7,8,-125,-1,594.68,332.22,469.67999999999995,310.26000000000005,469.67999999999995,75.054864,Kenyon,6
+192,Oberlin,Loss 10-12,-67.73,Counts,0.17980000000000002,2023-05-01,Ohio Valley D III College Womens Regionals 2022,0,10,12,-238.12,-2,283.4,421.91,45.27999999999997,489.64000000000004,45.27999999999997,8.141343999999997,Kenyon,7

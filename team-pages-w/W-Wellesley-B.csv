@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+119,Catholic,Loss 2-13,-18.39,Counts,0.2094,2023-03-19,Jersey Devil,0,2,13,-600,-11,760.72,248.57,160.72000000000003,266.96,160.72000000000003,33.654768000000004,Wellesley-B,1
+185,Princeton,Loss 4-9,-103.75,Counts,0.1732,2023-03-19,Jersey Devil,0,4,9,-600,-5,334.9,333.93,-265.1,437.68,-265.1,-45.91532,Wellesley-B,2
+119,Catholic,Loss 0-13,-18.39,Counts,0.2094,2023-03-20,Jersey Devil,0,0,13,-600,-13,760.72,248.57,160.72000000000003,266.96,160.72000000000003,33.654768000000004,Wellesley-B,3
+188,Northeastern-B,Win 5-4,48.14,Counts,0.1816,2023-04-16,New England Dev College Womens CC 2022,1,5,4,125,1,322.17,182.04,447.17,133.89999999999998,447.17,81.206072,Wellesley-B,4
+99,Vermont-B,Loss 1-13,0,Ignored,0,2023-04-16,New England Dev College Womens CC 2022,0,1,13,-600,-12,909.32,230.18,309.32000000000005,230.18,0,0,Wellesley-B,5
+221,Boston University-B,Win 9-5,97.56,Counts,0.22649999999999998,2023-04-17,New England Dev College Womens CC 2022,1,9,5,529.06,4,34.38,132.61,563.4399999999999,35.05000000000001,563.4399999999999,127.61915999999998,Wellesley-B,6

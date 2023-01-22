@@ -1,0 +1,24 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+42,North Carolina State,Win 13-1,17.23,Counts,0.038900000000000004,2023-02-12,Queen City Tune Up 2022,1,13,1,600,12,1329.97,1486.95,1929.97,1469.72,1929.97,75.075833,Appalachian State,1
+61,Ohio State,Win 11-6,8.25,Counts,0.0368,2023-02-12,Queen City Tune Up 2022,1,11,6,546.69,5,1173.55,1495.93,1720.24,1487.68,1720.24,63.304832,Appalachian State,2
+13,Pittsburgh,Win 11-6,29.09,Counts,0.0368,2023-02-12,Queen City Tune Up 2022,1,11,6,546.69,5,1719.32,1475.08,2266.01,1445.99,2266.01,83.38916800000001,Appalachian State,3
+228,Elon,Win 15-0,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,0,600,15,113.74,1504.18,713.74,1504.18,0,0,Appalachian State,4
+237,Emory-B,Win 15-0,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,0,600,15,634.24,1504.18,1234.24,1504.18,0,0,Appalachian State,5
+102,Berry,Win 15-2,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,2,600,13,900.79,1504.18,1500.79,1504.18,0,0,Appalachian State,6
+238,University of North Carolina - Asheville,Win 15-0,0,Ignored,0,2023-03-27,Needle in a Ho Stack,1,15,0,600,15,735.54,1504.18,1335.54,1504.18,0,0,Appalachian State,7
+81,Emory,Win 12-5,6.25,Counts,0.0528,2023-03-27,Needle in a Ho Stack,1,12,5,600,7,1016.31,1497.93,1616.31,1491.68,1616.31,85.341168,Appalachian State,8
+22,Middlebury,Loss 10-12,-11.73,Counts,0.055,2023-03-27,Needle in a Ho Stack,0,10,12,-238.12,-2,1540.81,1515.9,1302.69,1527.63,1302.69,71.64795000000001,Appalachian State,9
+149,North Carolina-Wilmington,Win 12-6,-24.33,Counts,0.0674,2023-04-23,Carolina D I College Womens CC 2022,1,12,6,579.31,6,588.46,1528.51,1167.77,1552.84,1167.77,78.70769800000001,Appalachian State,10
+63,Duke,Win 11-8,0.7,Counts,0.0693,2023-04-23,Carolina D I College Womens CC 2022,1,11,8,365.61,3,1147.99,1503.48,1513.6,1502.78,1513.6,104.89247999999999,Appalachian State,11
+193,Wake Forest,Win 13-1,0,Ignored,0,2023-04-23,Carolina D I College Womens CC 2022,1,13,1,600,12,282,1504.18,882,1504.18,0,0,Appalachian State,12
+69,Charleston,Win 13-2,15.29,Counts,0.0693,2023-04-23,Carolina D I College Womens CC 2022,1,13,2,600,11,1109.51,1488.89,1709.51,1473.6000000000001,1709.51,118.469043,Appalachian State,13
+42,North Carolina State,Win 9-6,16.03,Counts,0.0616,2023-04-24,Carolina D I College Womens CC 2022,1,9,6,418.57,3,1329.97,1488.15,1748.54,1472.1200000000001,1748.54,107.710064,Appalachian State,14
+1,North Carolina,Loss 7-12,23.73,Counts,0.0693,2023-04-24,Carolina D I College Womens CC 2022,0,7,12,-520.51,-5,2343.45,1480.45,1822.9399999999998,1456.72,1822.9399999999998,126.329742,Appalachian State,15
+42,North Carolina State,Win 11-7,21.17,Counts,0.0674,2023-04-24,Carolina D I College Womens CC 2022,1,11,7,466.89,4,1329.97,1483.01,1796.8600000000001,1461.84,1796.8600000000001,121.10836400000001,Appalachian State,16
+159,Towson,Win 13-4,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,4,600,9,504.17,1504.18,1104.17,1504.18,0,0,Appalachian State,17
+55,James Madison,Win 13-7,23.25,Counts,0.07780000000000001,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,7,557.53,6,1222.28,1480.93,1779.81,1457.68,1779.81,138.469218,Appalachian State,18
+20,Virginia,Loss 8-12,-30.01,Counts,0.07780000000000001,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,8,12,-441.15,-4,1589.46,1534.19,1148.31,1564.2,1148.31,89.33851800000001,Appalachian State,19
+42,North Carolina State,Loss 8-13,-56.54,Counts,0.07780000000000001,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,8,13,-496.16,-5,1329.97,1560.71,833.81,1617.25,833.81,64.870418,Appalachian State,20
+105,Delaware,Win 12-3,0,Ignored,0,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,12,3,600,9,856.75,1504.18,1456.75,1504.18,0,0,Appalachian State,21
+44,William & Mary,Loss 10-15,-53.24,Counts,0.07780000000000001,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,10,15,-453.6,-5,1326.51,1557.42,872.91,1610.66,872.91,67.91239800000001,Appalachian State,22
+55,James Madison,Win 8-5,11.81,Counts,0.0643,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,8,5,453.6,3,1222.28,1492.37,1675.88,1480.56,1675.88,107.759084,Appalachian State,23

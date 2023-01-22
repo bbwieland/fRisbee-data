@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+315,Knox,Win 9-2,9.5,Counts,0.054000000000000006,2023-03-26,Illinois Invite,1,9,2,600,7,257.91,682.02,857.9100000000001,672.52,857.9100000000001,46.32714000000001,Loyola-Chicago,1
+334,Bradley,Win 11-1,2.04,Counts,0.0599,2023-03-26,Illinois Invite,1,11,1,600,10,123.56,689.47,723.56,687.4300000000001,723.56,43.341243999999996,Loyola-Chicago,2
+340,Illinois-B,Win 13-5,0,Ignored,0,2023-03-26,Illinois Invite,1,13,5,600,8,76.66,691.51,676.66,691.51,0,0,Loyola-Chicago,3
+230,North Park,Loss 8-9,-9.88,Counts,0.0617,2023-03-27,Illinois Invite,0,8,9,-125,-1,666.39,701.39,541.39,711.27,541.39,33.403763,Loyola-Chicago,4
+286,Notre Dame-B,Win 15-7,21.19,Counts,0.0653,2023-03-27,Illinois Invite,1,15,7,600,8,394.95,670.33,994.95,649.14,994.95,64.970235,Loyola-Chicago,5
+230,North Park,Win 13-9,27.47,Counts,0.0653,2023-03-27,Illinois Invite,1,13,9,418.57,4,666.39,664.04,1084.96,636.5699999999999,1084.96,70.847888,Loyola-Chicago,6
+97,Marquette,Loss 5-13,-9,Counts,0.0691,2023-04-02,Clash in the Cornfields,0,5,13,-600,-8,1170.37,700.51,570.3699999999999,709.51,570.3699999999999,39.41256699999999,Loyola-Chicago,7
+292,Drake University,Win 9-8,-13.34,Counts,0.0654,2023-04-02,Clash in the Cornfields,1,9,8,125,1,375.93,704.85,500.93,718.19,500.93,32.760822,Loyola-Chicago,8
+155,Grinnell,Loss 7-10,-9.22,Counts,0.0654,2023-04-02,Clash in the Cornfields,0,7,10,-389.67,-3,949.42,700.73,559.75,709.95,559.75,36.60765,Loyola-Chicago,9
+227,Macalester College,Win 8-5,26.8,Counts,0.0572,2023-04-02,Clash in the Cornfields,1,8,5,453.6,3,679.73,664.71,1133.33,637.9100000000001,1133.33,64.826476,Loyola-Chicago,10
+255,Creighton,Loss 9-10,-17.22,Counts,0.0691,2023-04-03,Clash in the Cornfields,0,9,10,-125,-1,584.65,708.74,459.65,725.96,459.65,31.761814999999995,Loyola-Chicago,11
+80,Wisconsin-Platteville,Loss 5-13,-3.1,Counts,0.0691,2023-04-03,Clash in the Cornfields,0,5,13,-600,-8,1249.81,694.61,649.81,697.71,649.81,44.90187099999999,Loyola-Chicago,12
+190,Illinois State,Loss 8-9,-1.7,Counts,0.07780000000000001,2023-04-23,Illinois D I College Mens CC 2022,0,8,9,-125,-1,796.31,693.22,671.31,694.9200000000001,671.31,52.227918,Loyola-Chicago,13
+49,Illinois,Loss 2-15,0,Ignored,0,2023-04-23,Illinois D I College Mens CC 2022,0,2,15,-600,-13,1456.25,691.51,856.25,691.51,0,0,Loyola-Chicago,14
+70,Chicago,Loss 7-14,4.76,Counts,0.08220000000000001,2023-04-23,Illinois D I College Mens CC 2022,0,7,14,-582.89,-7,1327.52,686.75,744.63,681.99,744.63,61.208586000000004,Loyola-Chicago,15
+NA,University of Illinois at Chicago,Win 7-5,3.22,Counts,0.0653,2023-04-24,Illinois D I College Mens CC 2022,1,7,5,328.14,2,409.49,688.29,737.63,685.0699999999999,737.63,48.167238999999995,Loyola-Chicago,16
+216,DePaul,Loss 6-9,-32.17,Counts,0.0731,2023-04-24,Illinois D I College Mens CC 2022,0,6,9,-418.57,-3,701.9,723.69,283.33,755.86,283.33,20.711423,Loyola-Chicago,17

@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+4,Brigham Young,Loss 2-11,0,Ignored,0,2023-03-12,Big Sky Brawl,0,2,11,-600,-9,2039.12,897.05,1439.12,897.05,0,0,Northern Arizona,1
+178,Montana State,Win 11-5,53.94,Counts,0.0906,2023-03-12,Big Sky Brawl,1,11,5,600,6,838.48,843.11,1438.48,789.1700000000001,1438.48,130.326288,Northern Arizona,2
+208,Nevada-Reno,Win 9-8,-5.11,Counts,0.0934,2023-03-12,Big Sky Brawl,1,9,8,125,1,722.46,902.16,847.46,907.27,847.46,79.152764,Northern Arizona,3
+45,Utah,Loss 7-9,30.89,Counts,0.0906,2023-03-12,Big Sky Brawl,0,7,9,-279.34,-2,1486.48,866.16,1207.14,835.27,1207.14,109.36688400000001,Northern Arizona,4
+122,Denver,Loss 6-11,-37.9,Counts,0.0934,2023-03-13,Big Sky Brawl,0,6,11,-546.69,-5,1075.81,934.96,529.1199999999999,972.86,529.1199999999999,49.41980799999999,Northern Arizona,5
+15,Utah State,Loss 5-11,32.56,Counts,0.0906,2023-03-13,Big Sky Brawl,0,5,11,-600,-6,1823.82,864.5,1223.82,831.94,1223.82,110.878092,Northern Arizona,6
+NA,New Mexico,Win 13-7,20.33,Counts,0.1396,2023-04-24,Desert D I College Mens CC 2022,1,13,7,557.53,6,464.76,876.73,1022.29,856.4,1022.29,142.711684,Northern Arizona,7
+88,Arizona,Loss 4-12,-43.94,Counts,0.134,2023-04-24,Desert D I College Mens CC 2022,0,4,12,-600,-8,1213.12,940.99,613.1199999999999,984.9300000000001,613.1199999999999,82.15807999999998,Northern Arizona,8
+151,Arizona State,Loss 5-11,-79.59,Counts,0.1281,2023-04-24,Desert D I College Mens CC 2022,0,5,11,-600,-6,955.51,976.64,355.51,1056.23,355.51,45.540831,Northern Arizona,9
+55,Grand Canyon,Loss 8-11,25.79,Counts,0.1396,2023-04-24,Desert D I College Mens CC 2022,0,8,11,-365.61,-3,1421.57,871.26,1055.96,845.47,1055.96,147.412016,Northern Arizona,10

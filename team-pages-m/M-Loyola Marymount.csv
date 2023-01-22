@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+39,Western Washington,Loss 2-13,0,Ignored,0,2023-02-05,Stanford Open 2022,0,2,13,-600,-11,1510.39,896.64,910.3900000000001,896.64,0,0,Loyola Marymount,1
+280,Southern California-B,Win 10-7,-4.55,Counts,0.0688,2023-02-05,Stanford Open 2022,1,10,7,389.67,3,445.42,901.19,835.09,905.74,835.09,57.454192,Loyola Marymount,2
+176,"California State University, Chico",Loss 6-9,-32.5,Counts,0.0646,2023-02-05,Stanford Open 2022,0,6,9,-418.57,-3,844.82,929.14,426.25000000000006,961.64,426.25000000000006,27.535750000000007,Loyola Marymount,3
+113,California-Davis,Win 9-5,49.19,Counts,0.062400000000000004,2023-02-06,Stanford Open 2022,1,9,5,529.06,4,1106.24,847.45,1635.3,798.26,1635.3,102.04272,Loyola Marymount,4
+81,Santa Clara,Loss 10-11,17.44,Counts,0.0727,2023-02-06,Stanford Open 2022,0,10,11,-125,-1,1243.95,879.2,1118.95,861.76,1118.95,81.347665,Loyola Marymount,5
+176,"California State University, Chico",Win 11-10,5.74,Counts,0.0727,2023-02-06,Stanford Open 2022,1,11,10,125,1,844.82,890.9,969.82,885.16,969.82,70.505914,Loyola Marymount,6
+241,Cal Poly-SLO-B,Win 11-3,24.05,Counts,0.0667,2023-02-06,Stanford Open 2022,1,11,3,600,8,632.84,872.6,1232.8400000000001,848.5500000000001,1232.8400000000001,82.230428,Loyola Marymount,7
+6,Cal Poly-SLO,Loss 4-13,0,Ignored,0,2023-04-09,SoCal D I College Mens CC 2022,0,4,13,-600,-9,1985.66,896.64,1385.66,896.64,0,0,Loyola Marymount,8
+63,California-Santa Barbara,Loss 7-11,1.67,Counts,0.1191,2023-04-09,SoCal D I College Mens CC 2022,0,7,11,-466.89,-4,1375.9,894.97,909.0100000000001,893.3000000000001,909.0100000000001,108.26309100000002,Loyola Marymount,9
+244,California-Irvine,Win 10-7,15.08,Counts,0.1157,2023-04-09,SoCal D I College Mens CC 2022,1,10,7,389.67,3,622.19,881.56,1011.8600000000001,866.4799999999999,1011.8600000000001,117.07220200000002,Loyola Marymount,10
+226,San Diego State,Win 9-8,-11.98,Counts,0.1157,2023-04-10,SoCal D I College Mens CC 2022,1,9,8,125,1,680.1,908.62,805.1,920.6,805.1,93.15007,Loyola Marymount,11
+71,Southern California,Loss 6-12,-24.91,Counts,0.1191,2023-04-10,SoCal D I College Mens CC 2022,0,6,12,-579.31,-6,1291.65,921.55,712.3400000000001,946.4599999999999,712.3400000000001,84.83969400000001,Loyola Marymount,12
+112,Cal State-Long Beach,Loss 7-12,-42.94,Counts,0.1223,2023-04-10,SoCal D I College Mens CC 2022,0,7,12,-520.51,-5,1109.09,939.58,588.5799999999999,982.52,588.5799999999999,71.983334,Loyola Marymount,13

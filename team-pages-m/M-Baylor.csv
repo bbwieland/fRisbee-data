@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Southern Methodist,Win 10-9,-39.99,Counts,0.1182,2023-04-16,North Texas D I College Mens CC 2022,1,10,9,125,1,324.23,787.53,449.23,827.52,449.23,53.098986000000004,Baylor,1
+331,Texas Tech,Win 14-8,-10.46,Counts,0.1182,2023-04-16,North Texas D I College Mens CC 2022,1,14,8,536.03,6,133.47,758,669.5,768.46,669.5,79.1349,Baylor,2
+270,North Texas,Win 13-7,41.57,Counts,0.1182,2023-04-17,North Texas D I College Mens CC 2022,1,13,7,557.53,6,500.12,705.97,1057.65,664.4,1057.65,125.01423000000001,Baylor,3
+66,Texas-Dallas,Loss 3-15,-0.43,Counts,0.1182,2023-04-17,North Texas D I College Mens CC 2022,0,3,15,-600,-12,1344.32,747.98,744.3199999999999,748.41,744.3199999999999,87.978624,Baylor,4
+135,Colorado-B,Loss 6-12,-46.19,Counts,0.1291,2023-04-30,South Central D I College Mens Regionals 2022,0,6,12,-579.31,-6,1015.4,793.73,436.09000000000003,839.9200000000001,436.09000000000003,56.299219,Baylor,5
+169,Kansas,Win 13-4,113.56,Counts,0.13269999999999998,2023-04-30,South Central D I College Mens Regionals 2022,1,13,4,600,9,889.88,633.98,1489.88,520.4200000000001,1489.88,197.707076,Baylor,6
+17,Texas,Loss 4-13,0,Ignored,0,2023-04-30,South Central D I College Mens Regionals 2022,0,4,13,-600,-9,1769.66,747.54,1169.66,747.54,0,0,Baylor,7
+122,Denver,Loss 9-15,-28.64,Counts,0.13269999999999998,2023-05-01,South Central D I College Mens Regionals 2022,0,9,15,-515.48,-6,1075.81,776.18,560.3299999999999,804.8199999999999,560.3299999999999,74.35579099999998,Baylor,8
+124,Texas State,Loss 9-15,-29.08,Counts,0.13269999999999998,2023-05-01,South Central D I College Mens Regionals 2022,0,9,15,-515.48,-6,1072.93,776.62,557.45,805.7,557.45,73.973615,Baylor,9

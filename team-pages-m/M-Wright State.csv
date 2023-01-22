@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+99,Oberlin,Win 11-7,87.25,Counts,0.0787,2023-03-12,Boogienights,1,11,7,466.89,4,1159.9,518.78,1626.79,431.53,1626.79,128.02837300000002,Wright State,1
+115,Miami (Ohio),Loss 4-13,-14.67,Counts,0.1144,2023-04-23,Ohio D I College Mens CC 2022,0,4,13,-600,-9,1092.5,620.7,492.5,635.37,492.5,56.342,Wright State,2
+48,Case Western Reserve,Loss 3-13,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,3,13,-600,-10,1464.33,606.03,864.3299999999999,606.03,0,0,Wright State,3
+353,Cleveland State,Win 9-6,-28.91,Counts,0.1017,2023-04-23,Ohio D I College Mens CC 2022,1,9,6,418.57,3,68.06,634.94,486.63,663.85,486.63,49.490271,Wright State,4
+101,Dayton,Loss 1-13,-7.15,Counts,0.1144,2023-04-23,Ohio D I College Mens CC 2022,0,1,13,-600,-12,1150.68,613.18,550.6800000000001,620.3299999999999,550.6800000000001,62.99779200000001,Wright State,5
+170,Ohio,Loss 5-13,-42.22,Counts,0.1144,2023-04-24,Ohio D I College Mens CC 2022,0,5,13,-600,-8,879.22,648.25,279.22,690.47,279.22,31.942768000000004,Wright State,6
+285,Akron,Win 11-4,46.09,Counts,0.105,2023-04-24,Ohio D I College Mens CC 2022,1,11,4,600,7,398.95,559.94,998.95,513.85,998.95,104.88975,Wright State,7
+51,Penn State,Loss 4-13,0,Ignored,0,2023-05-07,Ohio Valley D I College Mens Regionals 2022,0,4,13,-600,-9,1449.51,606.03,849.51,606.03,0,0,Wright State,8
+242,Drexel,Loss 8-9,-14.55,Counts,0.1215,2023-05-07,Ohio Valley D I College Mens Regionals 2022,0,8,9,-125,-1,625.81,620.58,500.80999999999995,635.13,500.80999999999995,60.84841499999999,Wright State,9
+256,Penn State-B,Win 12-11,15.16,Counts,0.1284,2023-05-08,Ohio Valley D I College Mens Regionals 2022,1,12,11,125,1,583.9,590.87,708.9,575.71,708.9,91.02275999999999,Wright State,10
+179,West Virginia,Loss 6-11,-44.82,Counts,0.1215,2023-05-08,Ohio Valley D I College Mens Regionals 2022,0,6,11,-546.69,-5,828.6,650.85,281.90999999999997,695.6700000000001,281.90999999999997,34.252064999999995,Wright State,11

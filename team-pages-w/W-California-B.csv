@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+187,UCLA-B,Loss 7-10,-100.17,Counts,0.2774,2023-02-19,Santa Clara RAGE Ultimate Tournament,0,7,10,-389.67,-3,323.32,294.73,-66.35000000000002,394.90000000000003,-66.35000000000002,-18.405490000000004,California-B,1
+57,Santa Clara,Loss 3-12,0,Ignored,0,2023-02-19,Santa Clara RAGE Ultimate Tournament,0,3,12,-600,-9,1214.91,194.55,614.9100000000001,194.55,0,0,California-B,2
+94,UCSC,Loss 5-9,77.33,Counts,0.2518,2023-02-19,Santa Clara RAGE Ultimate Tournament,0,5,9,-529.06,-4,953.42,117.22,424.36,39.89,424.36,106.85384800000001,California-B,3
+113,Claremont,Loss 3-8,-2.32,Counts,0.22820000000000001,2023-02-20,Santa Clara RAGE Ultimate Tournament,0,3,8,-600,-5,786.71,196.87,186.71000000000004,199.19,186.71000000000004,42.607222000000014,California-B,4
+176,Chico State,Loss 6-7,21.54,Counts,0.2426,2023-02-20,Santa Clara RAGE Ultimate Tournament,0,6,7,-125,-1,386.79,173.01,261.79,151.47,261.79,63.51025400000001,California-B,5

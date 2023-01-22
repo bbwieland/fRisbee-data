@@ -1,0 +1,20 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+78,Missouri,Loss 6-9,7.29,Counts,0.045,2023-03-05,Midwest Throwdown 2022,0,6,9,-418.57,-3,1253.01,672.44,834.44,665.1500000000001,834.44,37.5498,Macalester College,1
+322,Purdue-B,Win 9-3,5.48,Counts,0.04190000000000001,2023-03-05,Midwest Throwdown 2022,1,9,3,600,6,205.19,674.24,805.19,668.76,805.19,33.73746100000001,Macalester College,2
+155,Grinnell,Loss 7-8,6.81,Counts,0.045,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,949.42,672.91,824.42,666.1,824.42,37.09889999999999,Macalester College,3
+340,Illinois-B,Win 6-5,-19.15,Counts,0.0385,2023-03-05,Midwest Throwdown 2022,1,6,5,125,1,76.66,698.88,201.66,718.03,201.66,7.76391,Macalester College,4
+259,Minnesota-Duluth,Win 9-7,6.73,Counts,0.0464,2023-03-06,Midwest Throwdown 2022,1,9,7,279.34,2,538.52,673,817.8599999999999,666.27,817.8599999999999,37.94870399999999,Macalester College,5
+315,Knox,Win 10-5,7.16,Counts,0.045,2023-03-06,Midwest Throwdown 2022,1,10,5,573.9,5,257.91,672.57,831.81,665.4100000000001,831.81,37.43145,Macalester College,6
+189,Wisconsin-Eau Claire,Loss 8-10,-7.47,Counts,0.0493,2023-03-06,Midwest Throwdown 2022,0,8,10,-262.67,-2,798.26,687.2,535.5899999999999,694.6700000000001,535.5899999999999,26.404586999999996,Macalester College,7
+221,Loyola-Chicago,Loss 5-8,-24.6,Counts,0.0527,2023-04-02,Clash in the Cornfields,0,5,8,-453.6,-3,691.51,704.33,237.90999999999997,728.9300000000001,237.90999999999997,12.537856999999997,Macalester College,8
+80,Wisconsin-Platteville,Loss 6-10,4.59,Counts,0.058499999999999996,2023-04-02,Clash in the Cornfields,0,6,10,-496.16,-4,1249.81,675.13,753.6499999999999,670.54,753.6499999999999,44.08852499999999,Macalester College,9
+NA,Grinnell-B,Win 13-0,0,Ignored,0,2023-04-02,Clash in the Cornfields,1,13,0,600,13,NA,679.73,NA,679.73,0,NA,Macalester College,10
+97,Marquette,Loss 5-12,-7.13,Counts,0.061200000000000004,2023-04-02,Clash in the Cornfields,0,5,12,-600,-7,1170.37,686.86,570.3699999999999,693.99,570.3699999999999,34.90664399999999,Macalester College,11
+292,Drake University,Win 13-7,17.28,Counts,0.0638,2023-04-03,Clash in the Cornfields,1,13,7,557.53,6,375.93,662.44,933.46,645.1600000000001,933.46,59.554748,Macalester College,12
+155,Grinnell,Loss 8-9,9.29,Counts,0.0603,2023-04-03,Clash in the Cornfields,0,8,9,-125,-1,949.42,670.44,824.42,661.1500000000001,824.42,49.712526,Macalester College,13
+255,Creighton,Win 9-6,19.43,Counts,0.0567,2023-04-03,Clash in the Cornfields,1,9,6,418.57,3,584.65,660.3,1003.22,640.87,1003.22,56.882574000000005,Macalester College,14
+90,Carleton College-CHOP,Loss 6-11,-1.91,Counts,0.0677,2023-04-16,Northwoods D III College Mens CC 2022,0,6,11,-546.69,-5,1200.18,681.63,653.49,683.54,653.49,44.241273,Macalester College,15
+249,St John's,Win 12-10,13.04,Counts,0.0716,2023-04-16,Northwoods D III College Mens CC 2022,1,12,10,238.12,2,610.8,666.68,848.92,653.64,848.92,60.782672,Macalester College,16
+155,Grinnell,Loss 7-9,-0.68,Counts,0.06570000000000001,2023-04-16,Northwoods D III College Mens CC 2022,0,7,9,-279.34,-2,949.42,680.41,670.0799999999999,681.0899999999999,670.0799999999999,44.024256,Macalester College,17
+253,St. Thomas,Loss 6-15,-52.66,Counts,0.0716,2023-04-17,Northwoods D III College Mens CC 2022,0,6,15,-600,-9,NA,732.39,NA,785.05,NA,NA,Macalester College,18
+272,Winona State,Win 8-5,16.12,Counts,0.0592,2023-04-17,Northwoods D III College Mens CC 2022,1,8,5,453.6,3,482.21,663.61,935.81,647.49,935.81,55.399952,Macalester College,19

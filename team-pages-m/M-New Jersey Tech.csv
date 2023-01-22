@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+360,Rutgers-B,Loss 10-11,-64.21,Counts,0.17550000000000002,2023-03-26,Garden State 2022,0,10,11,-125,-1,192.65,48.13,67.65,112.34,67.65,11.872575000000003,New Jersey Tech,1
+290,Stockton University -Upper,Loss 5-12,-41.61,Counts,0.1685,2023-03-26,Garden State 2022,0,5,12,-600,-7,378.52,25.53,-221.48000000000002,67.14,-221.48000000000002,-37.31938,New Jersey Tech,2
+358,Lehigh-B,Win 10-6,69.94,Counts,0.1611,2023-03-26,Garden State 2022,1,10,6,496.16,4,147.99,86.02,644.1500000000001,16.08,644.1500000000001,103.77256500000001,New Jersey Tech,3
+368,Muhlenberg College,Win 9-8,-41.01,Counts,0.166,2023-03-26,Garden State 2022,1,9,8,125,1,347.05,24.93,472.05,65.94,472.05,78.36030000000001,New Jersey Tech,4
+192,Rowan,Loss 2-10,0,Ignored,0,2023-03-27,Garden State 2022,0,2,10,-600,-8,788.03,16.08,188.02999999999997,16.08,0,0,New Jersey Tech,5
+275,College of New Jersey,Loss 3-10,-22.57,Counts,0.1533,2023-03-27,Garden State 2022,0,3,10,-600,-7,459.33,6.48,-140.67000000000002,29.05,-140.67000000000002,-21.564711000000003,New Jersey Tech,6
+358,Lehigh-B,Win 13-0,99.66,Counts,0.17550000000000002,2023-03-27,Garden State 2022,1,13,0,600,13,147.99,115.74,747.99,16.08,747.99,131.27224500000003,New Jersey Tech,7

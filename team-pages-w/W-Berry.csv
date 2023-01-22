@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+25,Appalachian State,Loss 2-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,2,15,-600,-13,1504.18,900.79,904.1800000000001,900.79,0,0,Berry,1
+237,Emory-B,Win 15-1,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,1,600,14,634.24,900.79,1234.24,900.79,0,0,Berry,2
+228,Elon,Win 15-1,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,1,600,14,113.74,900.79,713.74,900.79,0,0,Berry,3
+149,North Carolina-Wilmington,Win 12-5,27.08,Counts,0.086,2023-03-27,Needle in a Ho Stack,1,12,5,600,7,588.46,873.71,1188.46,846.63,1188.46,102.20756,Berry,4
+22,Middlebury,Loss 5-15,0,Ignored,0,2023-03-27,Needle in a Ho Stack,0,5,15,-600,-10,1540.81,900.79,940.81,900.79,0,0,Berry,5
+81,Emory,Loss 4-14,-47.7,Counts,0.08960000000000001,2023-03-27,Needle in a Ho Stack,0,4,14,-600,-10,1016.31,948.49,416.30999999999995,996.19,416.30999999999995,37.301376,Berry,6
+72,Union (Tennessee),Win 11-8,68.45,Counts,0.11289999999999999,2023-04-23,Southeast D III College Womens CC 2022,1,11,8,365.61,3,1072.88,832.33,1438.4900000000002,763.88,1438.4900000000002,162.405521,Berry,7
+124,Occidental,Win 12-10,9.82,Counts,0.1423,2023-05-21,2022 D III College Championships,1,12,10,238.12,2,721.86,890.97,959.98,881.15,959.98,136.605154,Berry,8
+93,SUNY-Geneseo,Loss 9-12,-47.42,Counts,0.1423,2023-05-21,2022 D III College Championships,0,9,12,-345.37,-3,960.28,948.21,614.91,995.63,614.91,87.501693,Berry,9
+22,Middlebury,Loss 3-13,0,Ignored,0,2023-05-21,2022 D III College Championships,0,3,13,-600,-10,1540.81,900.79,940.81,900.79,0,0,Berry,10
+37,Wellesley,Loss 6-15,-21.98,Counts,0.1423,2023-05-22,2022 D III College Championships,0,6,15,-600,-9,1368.3,922.76,768.3,944.74,768.3,109.32909000000001,Berry,11
+98,Rice,Loss 7-12,-81.61,Counts,0.1423,2023-05-22,2022 D III College Championships,0,7,12,-520.51,-5,929.32,982.4,408.81000000000006,1064.01,408.81000000000006,58.17366300000001,Berry,12
+93,SUNY-Geneseo,Win 13-8,92.17,Counts,0.1423,2023-05-23,2022 D III College Championships,1,13,8,496.16,5,960.28,808.61,1456.44,716.44,1456.44,207.25141200000002,Berry,13

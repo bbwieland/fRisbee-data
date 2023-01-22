@@ -1,0 +1,30 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+96,RIT,Loss 9-11,-5.51,Counts,0.0285,2023-02-26,Oak Creek Challenge,0,9,11,-249.21,-2,1175.71,1119.65,926.5,1125.16,926.5,26.405250000000002,Christopher Newport,1
+100,Lehigh,Loss 4-13,-16.43,Counts,0.0285,2023-02-26,Oak Creek Challenge,0,4,13,-600,-9,1154.27,1130.57,554.27,1147,554.27,15.796695,Christopher Newport,2
+139,Towson,Win 13-10,5.87,Counts,0.0285,2023-02-26,Oak Creek Challenge,1,13,10,328.14,3,985.92,1108.28,1314.06,1102.41,1314.06,37.45071,Christopher Newport,3
+73,Delaware,Loss 4-13,-12.64,Counts,0.0285,2023-02-26,Oak Creek Challenge,0,4,13,-600,-9,1283.29,1126.79,683.29,1139.43,683.29,19.473765,Christopher Newport,4
+215,North Carolina-B,Loss 11-12,-15.76,Counts,0.0285,2023-02-27,Oak Creek Challenge,0,11,12,-125,-1,702.02,1129.91,577.02,1145.67,577.02,16.44507,Christopher Newport,5
+242,Drexel,Win 13-5,3.28,Counts,0.0285,2023-02-27,Oak Creek Challenge,1,13,5,600,8,625.81,1110.87,1225.81,1107.59,1225.81,34.935585,Christopher Newport,6
+229,West Chester,Win 13-9,-0.69,Counts,0.0285,2023-02-27,Oak Creek Challenge,1,13,9,418.57,4,671.94,1114.84,1090.51,1115.53,1090.51,31.079535,Christopher Newport,7
+231,Messiah,Win 13-7,3.35,Counts,0.0302,2023-03-05,FCS D III Tune Up,1,13,7,557.53,6,664.18,1110.8,1221.71,1107.45,1221.71,36.895642,Christopher Newport,8
+174,Rochester,Win 11-9,-0.47,Counts,0.0302,2023-03-05,FCS D III Tune Up,1,11,9,249.21,2,849.91,1114.61,1099.12,1115.08,1099.12,33.193424,Christopher Newport,9
+99,Oberlin,Loss 12-13,-2.47,Counts,0.0302,2023-03-05,FCS D III Tune Up,0,12,13,-125,-1,1159.9,1116.61,1034.9,1119.08,1034.9,31.253980000000006,Christopher Newport,10
+214,Wooster,Win 13-9,0.21,Counts,0.0302,2023-03-05,FCS D III Tune Up,1,13,9,418.57,4,702.25,1113.94,1120.82,1113.73,1120.82,33.848764,Christopher Newport,11
+181,Davidson,Win 13-5,9.72,Counts,0.0302,2023-03-06,FCS D III Tune Up,1,13,5,600,8,826.39,1104.42,1426.3899999999999,1094.7,1426.3899999999999,43.076978,Christopher Newport,12
+50,Berry,Loss 8-13,-5,Counts,0.0302,2023-03-06,FCS D III Tune Up,0,8,13,-496.16,-5,1449.81,1119.14,953.6499999999999,1124.14,953.6499999999999,28.800229999999996,Christopher Newport,13
+206,Kenyon,Win 13-7,5.26,Counts,0.0302,2023-03-06,FCS D III Tune Up,1,13,7,557.53,6,725.52,1108.89,1283.05,1103.63,1283.05,38.74811,Christopher Newport,14
+282,High Point,Win 15-9,-6.52,Counts,0.0359,2023-03-26,Needle in a Ho Stack,1,15,9,515.48,6,423.59,1120.67,939.0699999999999,1127.19,939.0699999999999,33.712613,Christopher Newport,15
+218,Samford,Win 15-5,6.79,Counts,0.0359,2023-03-26,Needle in a Ho Stack,1,15,5,600,10,696.34,1107.36,1296.3400000000001,1100.57,1296.3400000000001,46.53860600000001,Christopher Newport,16
+117,Appalachian State,Win 14-3,21.21,Counts,0.0359,2023-03-26,Needle in a Ho Stack,1,14,3,600,11,1083.57,1092.93,1683.57,1071.72,1683.57,60.440163,Christopher Newport,17
+191,Wake Forest,Win 15-7,10.32,Counts,0.0359,2023-03-27,Needle in a Ho Stack,1,15,7,600,8,791.08,1103.83,1391.08,1093.51,1391.08,49.939772,Christopher Newport,18
+181,Davidson,Win 15-9,8.48,Counts,0.0359,2023-03-27,Needle in a Ho Stack,1,15,9,515.48,6,826.39,1105.66,1341.87,1097.18,1341.87,48.173133,Christopher Newport,19
+50,Berry,Loss 11-14,0.83,Counts,0.0359,2023-03-27,Needle in a Ho Stack,0,11,14,-313.34,-3,1449.81,1113.31,1136.47,1112.48,1136.47,40.799273,Christopher Newport,20
+NA,Shenandoah University,Win 15-3,0,Ignored,0,2023-04-09,Northern Atlantic Coast D III College Mens CC 2022,1,15,3,600,12,233.57,1114.15,833.5699999999999,1114.15,0,0,Christopher Newport,21
+74,Navy,Win 15-13,15.85,Counts,0.0403,2023-04-09,Northern Atlantic Coast D III College Mens CC 2022,1,15,13,214.18,2,1277.32,1098.29,1491.5,1082.44,1491.5,60.10745000000001,Christopher Newport,22
+188,Mary Washington,Win 14-9,6.64,Counts,0.0403,2023-04-10,Northern Atlantic Coast D III College Mens CC 2022,1,14,9,473.87,5,798.38,1107.5,1272.25,1100.86,1272.25,51.271675,Christopher Newport,23
+74,Navy,Loss 14-15,1.6,Counts,0.0403,2023-04-10,Northern Atlantic Coast D III College Mens CC 2022,0,14,15,-125,-1,1277.32,1112.54,1152.32,1110.94,1152.32,46.438496,Christopher Newport,24
+87,Richmond,Loss 12-13,-0.97,Counts,0.0508,2023-05-07,Atlantic Coast D III College Mens Regionals 2022,0,12,13,-125,-1,1221.1,1115.11,1096.1,1116.08,1096.1,55.68187999999999,Christopher Newport,25
+188,Mary Washington,Win 14-12,-5.07,Counts,0.0508,2023-05-07,Atlantic Coast D III College Mens Regionals 2022,1,14,12,220.96,2,798.38,1119.22,1019.34,1124.29,1019.34,51.782472,Christopher Newport,26
+243,Elon,Win 15-10,-1.9,Counts,0.0508,2023-05-07,Atlantic Coast D III College Mens Regionals 2022,1,15,10,453.6,5,624.96,1116.05,1078.56,1117.95,1078.56,54.790848,Christopher Newport,27
+188,Mary Washington,Win 10-8,-2.76,Counts,0.049400000000000006,2023-05-08,Atlantic Coast D III College Mens Regionals 2022,1,10,8,262.67,2,798.38,1116.91,1061.05,1119.67,1061.05,52.415870000000005,Christopher Newport,28
+74,Navy,Loss 5-15,-23.37,Counts,0.0508,2023-05-08,Atlantic Coast D III College Mens Regionals 2022,0,5,15,-600,-10,1277.32,1137.52,677.3199999999999,1160.8899999999999,677.3199999999999,34.407855999999995,Christopher Newport,29

@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+69,Charleston,Loss 4-13,-36.86,Counts,0.2163,2023-02-26,Cutlass Classic 2022,0,4,13,-600,-9,1109.51,679.88,509.51,716.74,509.51,110.20701299999999,East Carolina,1
+128,George Washington,Loss 5-8,-86.73,Counts,0.179,2023-02-26,Cutlass Classic 2022,0,5,8,-453.6,-3,698.73,729.75,245.13,816.48,245.13,43.87827,East Carolina,2
+193,Wake Forest,Win 12-3,62.62,Counts,0.2076,2023-02-26,Cutlass Classic 2022,1,12,3,600,9,282,580.4,882,517.78,882,183.10320000000002,East Carolina,3
+56,Liberty,Loss 3-11,-5.56,Counts,0.1985,2023-02-26,Cutlass Classic 2022,0,3,11,-600,-8,1220.56,648.58,620.56,654.14,620.56,123.18115999999999,East Carolina,4
+138,Navy,Win 9-7,68.53,Counts,0.1985,2023-02-27,Cutlass Classic 2022,1,9,7,279.34,2,640.35,574.49,919.69,505.96000000000004,919.69,182.558465,East Carolina,5

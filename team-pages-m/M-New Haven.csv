@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+320,Rensselaer Polytechnic Institute,Loss 7-12,7.22,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,7,12,-520.51,-5,228.64,320.74,-291.87,313.52,-291.87,-72.9675,New Haven,1
+337,Siena,Loss 1-13,-57.99,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,1,13,-600,-12,112.49,255.53,-487.51,313.52,-487.51,-121.8775,New Haven,2
+300,Union,Loss 6-13,12.24,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,6,13,-600,-7,323.19,325.77,-276.81,313.53,-276.81,-69.2025,New Haven,3
+183,Wesleyan,Loss 1-13,0,Ignored,0,2023-04-23,Hudson Valley D III College Mens CC 2022,0,1,13,-600,-12,815.88,313.53,215.88,313.53,0,0,New Haven,4
+303,Skidmore College,Loss 8-13,38.54,Counts,0.25,2023-04-24,Hudson Valley D III College Mens CC 2022,0,8,13,-496.16,-5,298.24,352.06,-197.92000000000002,313.52,-197.92000000000002,-49.480000000000004,New Haven,5

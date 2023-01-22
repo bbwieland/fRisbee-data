@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+249,St John's,Loss 3-13,0,Ignored,0,2023-03-26,Old Capital Open 2022,0,3,13,-600,-10,610.8,420.41,10.799999999999955,420.41,0,0,Coe,1
+164,Truman State,Loss 0-13,0,Ignored,0,2023-03-26,Old Capital Open 2022,0,0,13,-600,-13,898.32,420.41,298.32000000000005,420.41,0,0,Coe,2
+330,University of Iowa-B,Loss 7-13,NA,Counts,1,2023-03-26,Old Capital Open 2022,0,7,13,-557.53,-6,137.12,NA,-420.40999999999997,NA,-420.40999999999997,-420.40999999999997,Coe,3

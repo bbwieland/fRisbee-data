@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+36,California-Santa Cruz,Loss 6-13,332.88,Counts,0.3333,2023-02-05,Stanford Open 2022,0,6,13,-600,-7,1524.13,74.51,924.1300000000001,-258.37,924.1300000000001,308.01252900000003,Santa Clara-B,1
+265,Cal Poly Humboldt,Loss 5-13,-174.81,Counts,0.3333,2023-02-05,Stanford Open 2022,0,5,13,-600,-8,508.74,433.18,-91.25999999999999,607.99,-91.25999999999999,-30.416957999999994,Santa Clara-B,2
+258,California-B,Loss 1-13,-158.07,Counts,0.3333,2023-02-05,Stanford Open 2022,0,1,13,-600,-12,542.24,416.43,-57.75999999999999,574.5,-57.75999999999999,-19.251407999999998,Santa Clara-B,3

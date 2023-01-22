@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+11,California-Davis,Loss 2-12,0,Ignored,0,2023-04-16,NorCal D I College Womens CC 2022,0,2,12,-600,-10,1897.16,762.56,1297.16,762.56,0,0,Humboldt State,1
+94,UCSC,Loss 11-13,-9.8,Counts,0.2052,2023-04-16,NorCal D I College Womens CC 2022,0,11,13,-228.84,-2,953.42,772.36,724.5799999999999,782.16,724.5799999999999,148.68381599999998,Humboldt State,2
+57,Santa Clara,Loss 2-13,-38.12,Counts,0.2052,2023-04-16,NorCal D I College Womens CC 2022,0,2,13,-600,-11,1214.91,800.67,614.9100000000001,838.79,614.9100000000001,126.17953200000001,Humboldt State,3
+160,Sonoma State,Win 10-3,72.23,Counts,0.17920000000000003,2023-04-16,NorCal D I College Womens CC 2022,1,10,3,600,7,493.28,690.33,1093.28,618.1,1093.28,195.91577600000002,Humboldt State,4
+129,Nevada-Reno,Loss 9-11,-84.56,Counts,0.2052,2023-04-17,NorCal D I College Womens CC 2022,0,9,11,-249.21,-2,684.23,847.11,435.02,931.6700000000001,435.02,89.266104,Humboldt State,5
+176,Chico State,Win 13-4,57.89,Counts,0.2052,2023-04-17,NorCal D I College Womens CC 2022,1,13,4,600,9,386.79,704.67,986.79,646.78,986.79,202.489308,Humboldt State,6

@@ -1,0 +1,26 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+11,California-Davis,Win 12-4,13.34,Counts,0.039599999999999996,2023-03-05,Stanford Invite 2022,1,12,4,600,8,1897.16,2160.11,2497.16,2146.77,2497.16,98.88753599999998,Carleton College,1
+17,Oregon,Win 13-3,3.32,Counts,0.041299999999999996,2023-03-05,Stanford Invite 2022,1,13,3,600,10,1650.51,2170.14,2250.51,2166.8199999999997,2250.51,92.946063,Carleton College,2
+40,Whitman,Win 13-1,0,Ignored,0,2023-03-05,Stanford Invite 2022,1,13,1,600,12,1340.5,2173.45,1940.5,2173.45,0,0,Carleton College,3
+9,California-San Diego,Win 12-10,0.98,Counts,0.041299999999999996,2023-03-06,Stanford Invite 2022,1,12,10,238.12,2,1958.09,2172.47,2196.21,2171.49,2196.21,90.70347299999999,Carleton College,4
+4,California-Santa Barbara,Win 12-8,18.38,Counts,0.041299999999999996,2023-03-06,Stanford Invite 2022,1,12,8,441.15,4,2159.38,2155.08,2600.53,2136.7,2600.53,107.401889,Carleton College,5
+7,Tufts,Win 13-7,16.92,Counts,0.041299999999999996,2023-03-06,Stanford Invite 2022,1,13,7,557.53,6,2009.18,2156.53,2566.71,2139.61,2566.71,106.005123,Carleton College,6
+5,British Columbia,Win 14-12,7.96,Counts,0.049100000000000005,2023-03-26,Northwest Challenge,1,14,12,220.96,2,2106.72,2165.5,2327.68,2157.54,2327.68,114.289088,Carleton College,7
+9,California-San Diego,Win 15-10,12.29,Counts,0.049100000000000005,2023-03-26,Northwest Challenge,1,15,10,453.6,5,1958.09,2161.16,2411.69,2148.87,2411.69,118.41397900000001,Carleton College,8
+8,Stanford,Win 14-12,1.72,Counts,0.049100000000000005,2023-03-26,Northwest Challenge,1,14,12,220.96,2,1985.87,2171.73,2206.83,2170.01,2206.83,108.35535300000001,Carleton College,9
+5,British Columbia,Loss 13-15,-14.49,Counts,0.049100000000000005,2023-03-27,Northwest Challenge,0,13,15,-214.18,-2,2106.72,2187.95,1892.5399999999997,2202.4399999999996,1892.5399999999997,92.92371399999999,Carleton College,10
+2,Colorado,Loss 4-15,-27.56,Counts,0.049100000000000005,2023-03-27,Northwest Challenge,0,4,15,-600,-11,2239.23,2201.01,1639.23,2228.57,1639.23,80.48619300000001,Carleton College,11
+75,Iowa State,Win 15-2,0,Ignored,0,2023-04-09,Western North Central D I College Womens CC 2022,1,15,2,600,13,1055.14,2173.45,1655.14,2173.45,0,0,Carleton College,12
+130,Nebraska,Win 13-3,0,Ignored,0,2023-04-09,Western North Central D I College Womens CC 2022,1,13,3,600,10,682.47,2173.45,1282.47,2173.45,0,0,Carleton College,13
+33,Minnesota,Win 15-9,-13.83,Counts,0.055099999999999996,2023-04-09,Western North Central D I College Womens CC 2022,1,15,9,515.48,6,1420.67,2187.28,1936.15,2201.11,1936.15,106.681865,Carleton College,14
+64,Iowa,Win 12-0,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,1,12,0,600,12,1141.3,2173.45,1741.3,2173.45,0,0,Carleton College,15
+83,Marquette,Win 13-1,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,1,13,1,600,12,1006.83,2173.45,1606.83,2173.45,0,0,Carleton College,16
+161,Wisconsin-Oshkosh,Win 12-2,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,1,12,2,600,10,491.76,2173.45,1091.76,2173.45,0,0,Carleton College,17
+116,Wisconsin-Eau Claire,Win 11-2,0,Ignored,0,2023-05-01,North Central D I College Womens Regionals 2022,1,11,2,600,9,770.8,2173.45,1370.8,2173.45,0,0,Carleton College,18
+83,Marquette,Win 12-0,0,Ignored,0,2023-05-01,North Central D I College Womens Regionals 2022,1,12,0,600,12,1006.83,2173.45,1606.83,2173.45,0,0,Carleton College,19
+5,British Columbia,Win 15-14,5.24,Counts,0.0825,2023-05-27,2022 D I College Championships,1,15,14,125,1,2106.72,2168.21,2231.72,2162.9700000000003,2231.72,184.1169,Carleton College,20
+35,Colorado State,Win 15-7,-15.08,Counts,0.0825,2023-05-27,2022 D I College Championships,1,15,7,600,8,1405.77,2188.53,2005.77,2203.61,2005.77,165.476025,Carleton College,21
+9,California-San Diego,Win 15-8,31.42,Counts,0.0825,2023-05-28,2022 D I College Championships,1,15,8,564.81,7,1958.09,2142.03,2522.8999999999996,2110.61,2522.8999999999996,208.13924999999998,Carleton College,22
+20,Virginia,Win 12-10,-31.1,Counts,0.0825,2023-05-28,2022 D I College Championships,1,12,10,238.12,2,1589.46,2204.56,1827.58,2235.66,1827.58,150.77535,Carleton College,23
+6,Washington,Win 15-12,17.6,Counts,0.0825,2023-05-29,2022 D I College Championships,1,15,12,300.49,3,2068.65,2155.86,2369.1400000000003,2138.26,2369.1400000000003,195.45405000000002,Carleton College,24
+2,Colorado,Loss 11-15,-28.36,Counts,0.0825,2023-05-29,2022 D I College Championships,0,11,15,-381.16,-4,2239.23,2201.81,1858.07,2230.17,1858.07,153.290775,Carleton College,25

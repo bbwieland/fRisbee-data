@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+3,Colorado,Loss 0-15,0,Ignored,0,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,0,15,-600,-15,2144.95,11.18,1544.9499999999998,11.18,0,0,Denver-B,1
+135,Colorado-B,Loss 1-15,0,Ignored,0,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,1,15,-600,-14,1015.4,11.18,415.4,11.18,0,0,Denver-B,2
+122,Denver,Loss 1-15,0,Ignored,0,2023-04-16,Rocky Mountain D I College Mens CC 2022,0,1,15,-600,-14,1075.81,11.18,475.80999999999995,11.18,0,0,Denver-B,3
+260,Colorado Mesa,Loss 6-11,NA,Counts,1,2023-04-17,Rocky Mountain D I College Mens CC 2022,0,6,11,-546.69,-5,535.51,NA,-11.180000000000064,NA,-11.180000000000064,-11.180000000000064,Denver-B,4

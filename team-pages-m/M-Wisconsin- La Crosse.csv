@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+108,Michigan State,Loss 9-13,2.14,Counts,0.069,2023-03-19,Missouri Loves Company MLC,0,9,13,-418.57,-4,1129.58,679.98,711.01,677.84,711.01,49.05969,Wisconsin- La Crosse,1
+269,Oklahoma State University,Win 11-8,13.63,Counts,0.069,2023-03-19,Missouri Loves Company MLC,1,11,8,365.61,3,500.56,668.48,866.1700000000001,654.85,866.1700000000001,59.76573000000001,Wisconsin- La Crosse,2
+133,Wisconsin-Milwaukee,Loss 9-11,6.82,Counts,0.069,2023-03-19,Missouri Loves Company MLC,0,9,11,-249.21,-2,1023.38,675.3,774.17,668.4799999999999,774.17,53.41773,Wisconsin- La Crosse,3
+137,Michigan-B,Loss 10-15,-11.08,Counts,0.069,2023-03-20,Missouri Loves Company MLC,0,10,15,-453.6,-5,986.06,693.2,532.4599999999999,704.2800000000001,532.4599999999999,36.73974,Wisconsin- La Crosse,4
+164,Truman State,Loss 11-13,-0.94,Counts,0.069,2023-03-20,Missouri Loves Company MLC,0,11,13,-228.84,-2,898.32,683.05,669.48,683.99,669.48,46.194120000000005,Wisconsin- La Crosse,5
+97,Marquette,Win 15-14,62.17,Counts,0.092,2023-04-23,Lake Superior D I College Mens CC 2022,1,15,14,125,1,1170.37,619.95,1295.37,557.7800000000001,1295.37,119.17403999999999,Wisconsin- La Crosse,6
+133,Wisconsin-Milwaukee,Loss 6-15,-26.23,Counts,0.092,2023-04-23,Lake Superior D I College Mens CC 2022,0,6,15,-600,-9,1023.38,708.34,423.38,734.57,423.38,38.95096,Wisconsin- La Crosse,7
+326,Wisconsin-Stevens Point,Win 15-4,9.85,Counts,0.092,2023-04-23,Lake Superior D I College Mens CC 2022,1,15,4,600,11,179.24,672.27,779.24,662.42,779.24,71.69008,Wisconsin- La Crosse,8
+172,Wisconsin-Whitewater,Loss 6-15,-41.13,Counts,0.092,2023-04-24,Lake Superior D I College Mens CC 2022,0,6,15,-600,-9,876.37,723.25,276.37,764.38,276.37,25.42604,Wisconsin- La Crosse,9
+189,Wisconsin-Eau Claire,Win 12-11,24.45,Counts,0.092,2023-04-24,Lake Superior D I College Mens CC 2022,1,12,11,125,1,798.26,657.67,923.26,633.2199999999999,923.26,84.93992,Wisconsin- La Crosse,10
+13,Minnesota,Loss 3-13,0,Ignored,0,2023-04-30,North Central D I College Mens Regionals 2022,0,3,13,-600,-10,1834.48,682.12,1234.48,682.12,0,0,Wisconsin- La Crosse,11
+97,Marquette,Loss 6-13,-12.07,Counts,0.0975,2023-04-30,North Central D I College Mens Regionals 2022,0,6,13,-600,-7,1170.37,694.19,570.3699999999999,706.2600000000001,570.3699999999999,55.61107499999999,Wisconsin- La Crosse,12
+142,Nebraska,Loss 7-13,-28.11,Counts,0.0975,2023-04-30,North Central D I College Mens Regionals 2022,0,7,13,-557.53,-6,979.53,710.22,422,738.33,422,41.145,Wisconsin- La Crosse,13

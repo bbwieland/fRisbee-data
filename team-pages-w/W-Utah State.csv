@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+40,Whitman,Loss 9-15,-2.85,Counts,0.3333,2023-04-16,Big Sky D I College Womens CC 2022,0,9,15,-515.48,-6,1340.5,833.58,825.02,836.4300000000001,825.02,274.97916599999996,Utah State,1
+96,Montana,Loss 10-13,-110.85,Counts,0.3333,2023-04-16,Big Sky D I College Womens CC 2022,0,10,13,-328.14,-3,937.17,941.57,609.03,1052.42,609.03,202.98969899999997,Utah State,2
+97,Utah,Win 12-11,113.7,Counts,0.3333,2023-04-16,Big Sky D I College Womens CC 2022,1,12,11,125,1,933.13,717.02,1058.13,603.3199999999999,1058.13,352.674729,Utah State,3

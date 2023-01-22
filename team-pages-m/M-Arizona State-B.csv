@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+280,Southern California-B,Loss 1-13,0,Ignored,0,2023-02-26,Magic Mountain Melee,0,1,13,-600,-12,445.42,414.95,-154.57999999999998,414.95,0,-0,Arizona State-B,1
+244,California-Irvine,Loss 4-12,0,Ignored,0,2023-02-26,Magic Mountain Melee,0,4,12,-600,-8,622.19,414.95,22.190000000000055,414.95,0,0,Arizona State-B,2
+288,California-San Diego-B,Loss 2-13,0,Ignored,0,2023-02-26,Magic Mountain Melee,0,2,13,-600,-11,389.37,414.95,-210.63,414.95,0,-0,Arizona State-B,3
+333,UCLA-B,Loss 6-10,22.57,Counts,0.3283,2023-02-26,Magic Mountain Melee,0,6,10,-496.16,-4,127.38,437.52,-368.78000000000003,414.95,-368.78000000000003,-121.070474,Arizona State-B,4
+377,California-San Diego-C,Win 12-4,0,Counts,0.34340000000000004,2023-02-27,Magic Mountain Melee,1,12,4,600,8,1014.95,414.95,1614.95,414.95,1614.95,554.57383,Arizona State-B,5
+347,California-Santa Barbara-B,Loss 6-10,-22.57,Counts,0.3283,2023-02-27,Magic Mountain Melee,0,6,10,-496.16,-4,35.04,392.38,-461.12,414.95,-461.12,-151.385696,Arizona State-B,6

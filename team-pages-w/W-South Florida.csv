@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+47,Florida,Loss 2-12,0,Ignored,0,2023-01-15,Florida Winter Classic 2022,0,2,12,-600,-10,1288.97,243.9,688.97,243.9,0,0,South Florida,1
+194,Florida Tech,Win 6-5,12.84,Counts,0.0885,2023-01-15,Florida Winter Classic 2022,1,6,5,125,1,251.26,231.06,376.26,218.22,376.26,33.299009999999996,South Florida,2
+183,Florida-B,Loss 6-7,-2.83,Counts,0.0962,2023-01-15,Florida Winter Classic 2022,0,6,7,-125,-1,342.29,246.73,217.29000000000002,249.56,217.29000000000002,20.903298,South Florida,3
+14,Florida State,Loss 2-11,0,Ignored,0,2023-01-15,Florida Winter Classic 2022,0,2,11,-600,-9,1708.29,243.9,1108.29,243.9,0,0,South Florida,4
+154,Harvard,Loss 1-6,-43.12,Counts,0.1234,2023-03-12,Tally Classic XVI,0,1,6,-600,-5,537.68,287.02,-62.32000000000005,330.14,-62.32000000000005,-7.690288000000006,South Florida,5
+73,Notre Dame,Loss 0-6,0,Ignored,0,2023-03-12,Tally Classic XVI,0,0,6,-600,-6,1070.39,243.9,470.3900000000001,243.9,0,0,South Florida,6
+194,Florida Tech,Win 6-5,21.62,Counts,0.1404,2023-03-12,Tally Classic XVI,1,6,5,125,1,251.26,222.28,376.26,200.66,376.26,52.826904,South Florida,7
+14,Florida State,Loss 0-11,0,Ignored,0,2023-03-12,Tally Classic XVI,0,0,11,-600,-11,1708.29,243.9,1108.29,243.9,0,0,South Florida,8
+213,Notre Dame-B,Win 7-6,-6.8,Counts,0.15259999999999999,2023-03-13,Tally Classic XVI,1,7,6,125,1,81.16,250.7,206.16,257.5,206.16,31.460015999999996,South Florida,9
+53,Central Florida,Loss 0-13,0,Ignored,0,2023-04-09,Florida D I College Womens CC 2022,0,0,13,-600,-13,1229.71,243.9,629.71,243.9,0,0,South Florida,10
+47,Florida,Loss 4-13,0,Ignored,0,2023-04-09,Florida D I College Womens CC 2022,0,4,13,-600,-9,1288.97,243.9,688.97,243.9,0,0,South Florida,11
+183,Florida-B,Loss 7-8,-6.93,Counts,0.2066,2023-04-10,Florida D I College Womens CC 2022,0,7,8,-125,-1,342.29,250.83,217.29000000000002,257.76,217.29000000000002,44.89211400000001,South Florida,12
+198,Miami,Win 7-6,26.4,Counts,0.1923,2023-04-10,Florida D I College Womens CC 2022,1,7,6,125,1,229.78,217.5,354.78,191.1,354.78,68.224194,South Florida,13

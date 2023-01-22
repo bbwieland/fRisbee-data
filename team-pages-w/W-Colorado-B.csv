@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+2,Colorado,Loss 0-13,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,0,13,-600,-13,2239.23,378.45,1639.23,378.45,0,0,Colorado-B,1
+41,Colorado College,Loss 4-13,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,4,13,-600,-9,1332.86,378.45,732.8599999999999,378.45,0,0,Colorado-B,2
+35,Colorado State,Loss 4-13,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,4,13,-600,-9,1405.77,378.45,805.77,378.45,0,0,Colorado-B,3
+95,Denver,Loss 4-8,NA,Counts,1,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,4,8,-564.81,-4,943.26,NA,378.45000000000005,NA,378.45000000000005,378.45000000000005,Colorado-B,4

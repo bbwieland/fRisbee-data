@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+239,Radford,Loss 3-13,-41.36,Counts,0.2211,2023-03-26,Riddle Rumble,0,3,13,-600,-10,639.15,226.23,39.14999999999998,267.59,39.14999999999998,8.656064999999995,Central Florida-B,1
+266,East Carolina,Win 11-8,194.42,Counts,0.2211,2023-03-26,Riddle Rumble,1,11,8,365.61,3,504.16,9.55,869.77,-184.86999999999998,869.77,192.30614699999998,Central Florida-B,2
+361,South Florida-B,Win 8-3,44.94,Counts,0.172,2023-03-26,Riddle Rumble,1,8,3,600,5,198.81,139.93,798.81,94.99000000000001,798.81,137.39531999999997,Central Florida-B,3
+297,Miami,Loss 3-9,-96.32,Counts,0.18289999999999998,2023-03-27,Riddle Rumble,0,3,9,-600,-6,354.54,281.19,-245.45999999999998,377.51,-245.45999999999998,-44.89463399999999,Central Florida-B,4
+140,Florida Tech,Loss 3-13,0,Ignored,0,2023-03-27,Riddle Rumble,0,3,13,-600,-10,985.58,184.87,385.58000000000004,184.87,0,0,Central Florida-B,5
+304,Embry-Riddle,Loss 6-10,-97.5,Counts,0.2029,2023-03-27,Riddle Rumble,0,6,10,-496.16,-4,297.97,282.37,-198.19,379.87,-198.19,-40.212751,Central Florida-B,6

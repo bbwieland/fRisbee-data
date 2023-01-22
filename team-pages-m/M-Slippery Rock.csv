@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+115,Miami (Ohio),Loss 3-13,0,Ignored,0,2023-03-05,Huckin in the Hills,0,3,13,-600,-10,1092.5,117.58,492.5,117.58,0,0,Slippery Rock,1
+NA,Dayton-B,Win 10-7,0,Counts,0.2169,2023-03-05,Huckin in the Hills,1,10,7,389.67,3,272.08,117.58,661.75,117.58,661.75,143.533575,Slippery Rock,2
+170,Ohio,Loss 6-13,48.1,Counts,0.22940000000000002,2023-03-05,Huckin in the Hills,0,6,13,-600,-7,879.22,69.48,279.22,21.380000000000003,279.22,64.05306800000001,Slippery Rock,3
+145,SUNY-Buffalo,Loss 2-15,0,Ignored,0,2023-03-06,Huckin in the Hills,0,2,15,-600,-13,968.61,117.58,368.61,117.58,0,0,Slippery Rock,4
+285,Akron,Loss 6-15,-94.83,Counts,0.22940000000000002,2023-03-06,Huckin in the Hills,0,6,15,-600,-9,398.95,212.41,-201.05,307.24,-201.05,-46.120870000000004,Slippery Rock,5
+62,Carnegie Mellon,Loss 1-13,0,Ignored,0,2023-04-16,West Penn D I College Mens CC 2022,0,1,13,-600,-12,1384.97,117.58,784.97,117.58,0,0,Slippery Rock,6
+179,West Virginia,Loss 6-13,53.29,Counts,0.32439999999999997,2023-04-16,West Penn D I College Mens CC 2022,0,6,13,-600,-7,828.6,64.29,228.60000000000002,11.000000000000007,228.60000000000002,74.15784,Slippery Rock,7

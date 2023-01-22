@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+90,Carleton College-CHOP,Loss 1-13,0,Ignored,0,2023-03-19,College Southerns XX,0,1,13,-600,-12,1200.18,131.83,600.1800000000001,131.83,0,0,Florida-B,1
+117,Appalachian State,Loss 3-13,0,Ignored,0,2023-03-19,College Southerns XX,0,3,13,-600,-10,1083.57,131.83,483.56999999999994,131.83,0,0,Florida-B,2
+374,Wisconsin-Eau Claire-B,Win 13-2,-6.86,Counts,0.3427,2023-03-19,College Southerns XX,1,13,2,600,11,481.32,138.7,1081.32,145.56,1081.32,370.568364,Florida-B,3
+306,Carleton College-Karls,Win 10-9,150.05,Counts,0.3427,2023-03-20,College Southerns XX,1,10,9,125,1,294.57,18.21,419.57,-131.84,419.57,143.786639,Florida-B,4
+299,North Florida,Loss 6-10,-137.29,Counts,0.3145,2023-03-20,College Southerns XX,0,6,10,-496.16,-4,328.78,269.12,-167.38000000000005,406.40999999999997,-167.38000000000005,-52.641010000000016,Florida-B,5

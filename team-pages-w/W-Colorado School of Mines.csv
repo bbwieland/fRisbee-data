@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+150,Truman State,Loss 9-10,12.4,Counts,0.20329999999999998,2023-04-30,South Central D III College Womens Regionals 2022,0,9,10,-125,-1,567.5,381.53,442.5,369.13,442.5,89.96024999999999,Colorado School of Mines,1
+98,Rice,Loss 2-15,-16.49,Counts,0.20329999999999998,2023-04-30,South Central D III College Womens Regionals 2022,0,2,15,-600,-13,929.32,410.43,329.32000000000005,426.92,329.32000000000005,66.950756,Colorado School of Mines,2
+132,Trinity,Loss 3-13,-85.5,Counts,0.20329999999999998,2023-04-30,South Central D III College Womens Regionals 2022,0,3,13,-600,-10,658.98,479.43,58.98000000000002,564.9300000000001,58.98000000000002,11.990634000000002,Colorado School of Mines,3
+98,Rice,Loss 1-15,-16.49,Counts,0.20329999999999998,2023-05-01,South Central D III College Womens Regionals 2022,0,1,15,-600,-14,929.32,410.43,329.32000000000005,426.92,329.32000000000005,66.950756,Colorado School of Mines,4
+150,Truman State,Win 9-7,103.9,Counts,0.1866,2023-05-01,South Central D III College Womens Regionals 2022,1,9,7,279.34,2,567.5,290.03,846.8399999999999,186.12999999999997,846.8399999999999,158.02034399999997,Colorado School of Mines,5

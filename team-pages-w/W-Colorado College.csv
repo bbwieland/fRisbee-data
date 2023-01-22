@@ -1,0 +1,22 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+11,California-Davis,Loss 3-13,-1.81,Counts,0.0482,2023-02-19,Presidents Day Invite 2022,0,3,13,-600,-10,1897.16,1334.67,1297.16,1336.48,1297.16,62.523112000000005,Colorado College,1
+18,UCLA,Loss 2-10,-13.8,Counts,0.0421,2023-02-19,Presidents Day Invite 2022,0,2,10,-600,-8,1618.64,1346.66,1018.6400000000001,1360.46,1018.6400000000001,42.884744000000005,Colorado College,2
+78,Southern California,Loss 7-9,-26.47,Counts,0.044199999999999996,2023-02-20,Presidents Day Invite 2022,0,7,9,-279.34,-2,1039.77,1359.33,760.4300000000001,1385.8,760.4300000000001,33.611006,Colorado College,3
+97,Utah,Win 15-5,10.13,Counts,0.0482,2023-02-20,Presidents Day Invite 2022,1,15,5,600,10,933.13,1322.73,1533.13,1312.6,1533.13,73.896866,Colorado College,4
+112,California-San Diego-B,Win 9-5,-0.35,Counts,0.041299999999999996,2023-02-21,Presidents Day Invite 2022,1,9,5,529.06,4,795.6,1333.22,1324.6599999999999,1333.57,1324.6599999999999,54.708457999999986,Colorado College,5
+78,Southern California,Win 8-5,6.66,Counts,0.0398,2023-02-21,Presidents Day Invite 2022,1,8,5,453.6,3,1039.77,1326.21,1493.37,1319.55,1493.37,59.436126,Colorado College,6
+8,Stanford,Loss 5-8,8.27,Counts,0.0398,2023-02-21,Presidents Day Invite 2022,0,5,8,-453.6,-3,1985.87,1324.59,1532.27,1316.32,1532.27,60.984346,Colorado College,7
+19,Texas,Loss 9-10,10.13,Counts,0.060700000000000004,2023-03-19,Womens Centex,0,9,10,-125,-1,1614.63,1322.74,1489.63,1312.61,1489.63,90.42054100000001,Colorado College,8
+34,Michigan,Win 15-10,34.11,Counts,0.060700000000000004,2023-03-19,Womens Centex,1,15,10,453.6,5,1407.34,1298.75,1860.94,1264.64,1860.94,112.95905800000001,Colorado College,9
+61,Ohio State,Win 13-5,28.46,Counts,0.060700000000000004,2023-03-19,Womens Centex,1,13,5,600,8,1173.55,1304.4,1773.55,1275.94,1773.55,107.65448500000001,Colorado College,10
+51,Chicago,Loss 6-7,-11.39,Counts,0.050199999999999995,2023-03-20,Womens Centex,0,6,7,-125,-1,1242.24,1344.26,1117.24,1355.65,1117.24,56.08544799999999,Colorado College,11
+7,Tufts,Loss 5-13,0,Ignored,0,2023-03-20,Womens Centex,0,5,13,-600,-8,2009.18,1332.86,1409.18,1332.86,0,0,Colorado College,12
+21,Northeastern,Loss 5-10,-20.44,Counts,0.053899999999999997,2023-03-20,Womens Centex,0,5,10,-573.9,-5,1548.06,1353.3,974.16,1373.74,974.16,52.507223999999994,Colorado College,13
+2,Colorado,Loss 2-13,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,2,13,-600,-11,2239.23,1332.86,1639.23,1332.86,0,0,Colorado College,14
+35,Colorado State,Loss 9-12,-22.55,Counts,0.0764,2023-04-16,Rocky Mountain D I College Womens CC 2022,0,9,12,-345.37,-3,1405.77,1355.42,1060.4,1377.97,1060.4,81.01456,Colorado College,15
+95,Denver,Win 13-3,17.41,Counts,0.0764,2023-04-16,Rocky Mountain D I College Womens CC 2022,1,13,3,600,10,943.26,1315.45,1543.26,1298.04,1543.26,117.905064,Colorado College,16
+NA,Colorado-B,Win 13-4,0,Ignored,0,2023-04-16,Rocky Mountain D I College Womens CC 2022,1,13,4,600,9,378.45,1332.86,978.45,1332.86,0,0,Colorado College,17
+68,Kansas,Win 13-2,36.53,Counts,0.0858,2023-04-30,South Central D I College Womens Regionals 2022,1,13,2,600,11,1122.06,1296.34,1722.06,1259.81,1722.06,147.752748,Colorado College,18
+121,Saint Louis,Win 13-1,1.67,Counts,0.0858,2023-04-30,South Central D I College Womens Regionals 2022,1,13,1,600,12,750.63,1331.2,1350.63,1329.53,1350.63,115.884054,Colorado College,19
+2,Colorado,Loss 2-15,0,Ignored,0,2023-04-30,South Central D I College Womens Regionals 2022,0,2,15,-600,-13,2239.23,1332.86,1639.23,1332.86,0,0,Colorado College,20
+62,Washington University,Loss 8-12,-56.57,Counts,0.0858,2023-05-01,South Central D I College Womens Regionals 2022,0,8,12,-441.15,-4,1171.36,1389.43,730.2099999999999,1446,730.2099999999999,62.65201799999999,Colorado College,21

@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+96,RIT,Loss 6-13,-6.86,Counts,0.20329999999999998,2023-04-02,Northeast Classic,0,6,13,-600,-7,1175.71,609.44,575.71,616.3000000000001,575.71,117.041843,New Hampshire,1
+125,Yale,Loss 6-10,-6.56,Counts,0.1866,2023-04-02,Northeast Classic,0,6,10,-496.16,-4,1070.13,609.14,573.97,615.6999999999999,573.97,107.102802,New Hampshire,2
+234,Amherst,Loss 10-13,-70.2,Counts,0.20329999999999998,2023-04-02,Northeast Classic,0,10,13,-328.14,-3,655.72,672.77,327.58000000000004,742.97,327.58000000000004,66.597014,New Hampshire,3
+119,Connecticut,Loss 10-12,61.22,Counts,0.20329999999999998,2023-04-02,Northeast Classic,0,10,12,-238.12,-2,1080.53,541.36,842.41,480.14,842.41,171.26195299999998,New Hampshire,4
+183,Wesleyan,Loss 11-12,22.54,Counts,0.20329999999999998,2023-04-03,Northeast Classic,0,11,12,-125,-1,815.88,580.04,690.88,557.5,690.88,140.45590399999998,New Hampshire,5
+86,Maine,Loss 2-13,0,Ignored,0,2023-04-16,Greater New England D I College Mens CC 2022,0,2,13,-600,-11,1230.11,602.58,630.1099999999999,602.58,0,0,New Hampshire,6
+7,Massachusetts,Loss 4-15,0,Ignored,0,2023-04-16,Greater New England D I College Mens CC 2022,0,4,15,-600,-11,1936.21,602.58,1336.21,602.58,0,0,New Hampshire,7
+9,Vermont,Loss 1-13,0,Ignored,0,2023-04-16,Greater New England D I College Mens CC 2022,0,1,13,-600,-12,1901.02,602.58,1301.02,602.58,0,0,New Hampshire,8
+1,Brown,Loss 4-13,0,Ignored,0,2023-04-16,Greater New England D I College Mens CC 2022,0,4,13,-600,-9,2209.79,602.58,1609.79,602.58,0,0,New Hampshire,9

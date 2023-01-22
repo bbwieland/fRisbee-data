@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+21,Northeastern,Win 11-9,77.89,Counts,0.15039999999999998,2023-04-23,Metro Boston D I College Womens CC 2022,1,11,9,249.21,2,1548.06,1279.22,1797.27,1201.33,1797.27,270.30940799999996,Boston University,1
+79,MIT,Win 12-9,3.78,Counts,0.15039999999999998,2023-04-23,Metro Boston D I College Womens CC 2022,1,12,9,345.37,3,1033.13,1353.33,1378.5,1349.55,1378.5,207.32639999999998,Boston University,2
+79,MIT,Win 10-4,41.74,Counts,0.13140000000000002,2023-04-24,Metro Boston D I College Womens CC 2022,1,10,4,600,6,1033.13,1315.37,1633.13,1273.6299999999999,1633.13,214.59328200000004,Boston University,3
+7,Tufts,Loss 5-13,0,Ignored,0,2023-04-24,Metro Boston D I College Womens CC 2022,0,5,13,-600,-8,2009.18,1357.11,1409.18,1357.11,0,0,Boston University,4
+43,Dartmouth,Loss 7-8,-27.25,Counts,0.15,2023-05-07,New England D I College Womens Regionals 2022,0,7,8,-125,-1,1327.67,1384.36,1202.67,1411.61,1202.67,180.4005,Boston University,5
+79,MIT,Win 7-6,-32.28,Counts,0.1396,2023-05-07,New England D I College Womens Regionals 2022,1,7,6,125,1,1033.13,1389.4,1158.13,1421.68,1158.13,161.67494800000003,Boston University,6
+26,Brown,Loss 7-8,3.46,Counts,0.15,2023-05-07,New England D I College Womens Regionals 2022,0,7,8,-125,-1,1501.72,1353.65,1376.72,1350.19,1376.72,206.508,Boston University,7
+79,MIT,Loss 5-6,-66.15,Counts,0.1284,2023-05-08,New England D I College Womens Regionals 2022,0,5,6,-125,-1,1033.13,1423.26,908.1300000000001,1489.41,908.1300000000001,116.603892,Boston University,8

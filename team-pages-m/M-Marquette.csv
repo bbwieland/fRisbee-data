@@ -1,0 +1,24 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+259,Minnesota-Duluth,Win 9-6,-7.62,Counts,0.0345,2023-03-05,Midwest Throwdown 2022,1,9,6,418.57,3,538.52,1178,957.0899999999999,1185.62,957.0899999999999,33.019605,Marquette,1
+70,Chicago,Loss 8-9,1.23,Counts,0.036699999999999997,2023-03-05,Midwest Throwdown 2022,0,8,9,-125,-1,1327.52,1169.15,1202.52,1167.92,1202.52,44.132484,Marquette,2
+32,Washington University,Loss 6-9,0.04,Counts,0.0345,2023-03-05,Midwest Throwdown 2022,0,6,9,-418.57,-3,1590.18,1170.33,1171.6100000000001,1170.29,1171.6100000000001,40.42054500000001,Marquette,3
+133,Wisconsin-Milwaukee,Win 7-5,5.77,Counts,0.030899999999999997,2023-03-05,Midwest Throwdown 2022,1,7,5,328.14,2,1023.38,1164.6,1351.52,1158.83,1351.52,41.761967999999996,Marquette,4
+84,Iowa,Loss 8-11,-12.01,Counts,0.0388,2023-03-06,Midwest Throwdown 2022,0,8,11,-365.61,-3,1238.75,1182.38,873.14,1194.39,873.14,33.877832,Marquette,5
+103,John Brown,Loss 8-10,-11.17,Counts,0.0378,2023-03-06,Midwest Throwdown 2022,0,8,10,-262.67,-2,1148.73,1181.54,886.06,1192.71,886.06,33.493068,Marquette,6
+190,Illinois State,Win 12-4,8.75,Counts,0.0373,2023-03-06,Midwest Throwdown 2022,1,12,4,600,8,796.31,1161.63,1396.31,1152.88,1396.31,52.082363,Marquette,7
+169,Kansas,Loss 4-9,-29.22,Counts,0.0321,2023-03-06,Midwest Throwdown 2022,0,4,9,-600,-5,889.88,1199.59,289.88,1228.81,289.88,9.305147999999999,Marquette,8
+221,Loyola-Chicago,Win 13-5,6.23,Counts,0.0489,2023-04-02,Clash in the Cornfields,1,13,5,600,8,691.51,1164.14,1291.51,1157.91,1291.51,63.154838999999996,Marquette,9
+227,Macalester College,Win 12-5,5.39,Counts,0.047,2023-04-02,Clash in the Cornfields,1,12,5,600,7,679.73,1164.99,1279.73,1159.6,1279.73,60.147310000000004,Marquette,10
+255,Creighton,Win 13-4,0.73,Counts,0.0489,2023-04-02,Clash in the Cornfields,1,13,4,600,9,584.65,1169.64,1184.65,1168.91,1184.65,57.929385,Marquette,11
+80,Wisconsin-Platteville,Loss 8-10,-9.16,Counts,0.047599999999999996,2023-04-02,Clash in the Cornfields,0,8,10,-262.67,-2,1249.81,1179.53,987.1399999999999,1188.69,987.1399999999999,46.98786399999999,Marquette,12
+155,Grinnell,Win 11-9,1.45,Counts,0.0489,2023-04-03,Clash in the Cornfields,1,11,9,249.21,2,949.42,1168.92,1198.6299999999999,1167.47,1198.6299999999999,58.613006999999996,Marquette,13
+225,Wisconsin- La Crosse,Loss 14-15,-37.88,Counts,0.0582,2023-04-23,Lake Superior D I College Mens CC 2022,0,14,15,-125,-1,682.12,1208.26,557.12,1246.14,557.12,32.424384,Marquette,14
+326,Wisconsin-Stevens Point,Win 15-6,0,Ignored,0,2023-04-23,Lake Superior D I College Mens CC 2022,1,15,6,600,9,179.24,1170.37,779.24,1170.37,0,0,Marquette,15
+189,Wisconsin-Eau Claire,Win 15-9,8.86,Counts,0.0582,2023-04-24,Lake Superior D I College Mens CC 2022,1,15,9,515.48,6,798.26,1161.52,1313.74,1152.66,1313.74,76.45966800000001,Marquette,16
+172,Wisconsin-Whitewater,Win 14-11,1.19,Counts,0.0582,2023-04-24,Lake Superior D I College Mens CC 2022,1,14,11,313.34,3,876.37,1169.18,1189.71,1167.99,1189.71,69.241122,Marquette,17
+13,Minnesota,Loss 4-13,0,Ignored,0,2023-04-30,North Central D I College Mens Regionals 2022,0,4,13,-600,-9,1834.48,1170.37,1234.48,1170.37,0,0,Marquette,18
+225,Wisconsin- La Crosse,Win 13-6,7.34,Counts,0.0616,2023-04-30,North Central D I College Mens Regionals 2022,1,13,6,600,7,682.12,1163.03,1282.12,1155.69,1282.12,78.97859199999999,Marquette,19
+189,Wisconsin-Eau Claire,Win 12-7,9.75,Counts,0.0616,2023-04-30,North Central D I College Mens Regionals 2022,1,12,7,520.51,5,798.26,1160.62,1318.77,1150.87,1318.77,81.236232,Marquette,20
+133,Wisconsin-Milwaukee,Win 9-7,7.94,Counts,0.056600000000000004,2023-05-01,North Central D I College Mens Regionals 2022,1,9,7,279.34,2,1023.38,1162.44,1302.72,1154.5,1302.72,73.733952,Marquette,21
+84,Iowa,Win 11-7,34.16,Counts,0.06,2023-05-01,North Central D I College Mens Regionals 2022,1,11,7,466.89,4,1238.75,1136.21,1705.6399999999999,1102.05,1705.6399999999999,102.3384,Marquette,22
+21,Wisconsin,Loss 8-11,9.44,Counts,0.0616,2023-05-01,North Central D I College Mens Regionals 2022,0,8,11,-365.61,-3,1679.64,1160.94,1314.0300000000002,1151.5,1314.0300000000002,80.94424800000002,Marquette,23

@@ -1,0 +1,21 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+50,Carnegie Mellon,Loss 3-15,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,0,3,15,-600,-12,1270.24,640.3,670.24,640.3,0,0,Auburn,1
+26,Brown,Loss 2-15,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,0,2,15,-600,-13,1501.72,640.3,901.72,640.3,0,0,Auburn,2
+48,Penn State,Loss 5-11,1.71,Counts,0.0464,2023-02-26,Commonwealth Cup Weekend 2,0,5,11,-600,-6,1275.52,638.59,675.52,636.88,675.52,31.344127999999998,Auburn,3
+100,Case Western Reserve,Loss 9-13,-8.14,Counts,0.050499999999999996,2023-02-27,Commonwealth Cup Weekend 2,0,9,13,-418.57,-4,905.86,648.45,487.29,656.59,487.29,24.608145,Auburn,4
+48,Penn State,Loss 4-7,5.56,Counts,0.0384,2023-02-27,Commonwealth Cup Weekend 2,0,4,7,-496.16,-3,1275.52,634.74,779.3599999999999,629.1800000000001,779.3599999999999,29.927423999999995,Auburn,5
+69,Charleston,Loss 5-11,-7.63,Counts,0.055099999999999996,2023-03-19,College Southerns XX,0,5,11,-600,-6,1109.51,647.94,509.51,655.57,509.51,28.074001,Auburn,6
+23,Carleton College-Eclipse,Loss 5-13,0,Ignored,0,2023-03-19,College Southerns XX,0,5,13,-600,-8,1519.75,640.3,919.75,640.3,0,0,Auburn,7
+183,Florida-B,Win 11-3,17.62,Counts,0.055099999999999996,2023-03-19,College Southerns XX,1,11,3,600,8,342.29,622.68,942.29,605.06,942.29,51.920179,Auburn,8
+116,Wisconsin-Eau Claire,Win 10-7,31.35,Counts,0.056799999999999996,2023-03-20,College Southerns XX,1,10,7,389.67,3,770.8,608.96,1160.47,577.61,1160.47,65.91469599999999,Auburn,9
+23,Carleton College-Eclipse,Loss 1-15,0,Ignored,0,2023-03-20,College Southerns XX,0,1,15,-600,-14,1519.75,640.3,919.75,640.3,0,0,Auburn,10
+69,Charleston,Loss 3-11,-7.63,Counts,0.055099999999999996,2023-03-20,College Southerns XX,0,3,11,-600,-8,1109.51,647.94,509.51,655.57,509.51,28.074001,Auburn,11
+166,LSU,Loss 10-11,-26.76,Counts,0.0802,2023-04-23,Gulf Coast D I College Womens CC 2022,0,10,11,-125,-1,458.41,667.06,333.41,693.8199999999999,333.41,26.739482,Auburn,12
+127,Jacksonville State,Win 8-7,14.54,Counts,0.0713,2023-04-23,Gulf Coast D I College Womens CC 2022,1,8,7,125,1,704.84,625.76,829.84,611.22,829.84,59.167592000000006,Auburn,13
+218,Vanderbilt,Win 15-2,0.3,Counts,0.0802,2023-04-23,Gulf Coast D I College Womens CC 2022,1,15,2,600,13,43.69,640.01,643.69,639.71,643.69,51.623938,Auburn,14
+86,Alabama,Loss 10-13,2.54,Counts,0.0802,2023-04-24,Gulf Coast D I College Womens CC 2022,0,10,13,-328.14,-3,997.55,637.76,669.41,635.22,669.41,53.68668199999999,Auburn,15
+123,Tulane,Loss 7-12,-37.85,Counts,0.0802,2023-04-24,Gulf Coast D I College Womens CC 2022,0,7,12,-520.51,-5,726.7,678.16,206.19000000000005,716.01,206.19000000000005,16.536438000000004,Auburn,16
+47,Florida,Loss 5-12,0,Ignored,0,2023-04-30,Southeast D I College Womens Regionals 2022,0,5,12,-600,-7,1288.97,640.3,688.97,640.3,0,0,Auburn,17
+166,LSU,Win 13-7,34.88,Counts,0.085,2023-04-30,Southeast D I College Womens Regionals 2022,1,13,7,557.53,6,458.41,605.42,1015.94,570.54,1015.94,86.35490000000001,Auburn,18
+81,Emory,Loss 9-11,11.78,Counts,0.085,2023-04-30,Southeast D I College Womens Regionals 2022,0,9,11,-249.21,-2,1016.31,628.53,767.0999999999999,616.75,767.0999999999999,65.20349999999999,Auburn,19
+110,Tennessee-Chattanooga,Loss 6-11,-33.07,Counts,0.08039999999999999,2023-04-30,Southeast D I College Womens Regionals 2022,0,6,11,-546.69,-5,808.59,673.38,261.9,706.45,261.9,21.056759999999993,Auburn,20

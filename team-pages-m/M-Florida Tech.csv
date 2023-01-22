@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+297,Miami,Win 13-3,0,Ignored,0,2023-03-26,Riddle Rumble,1,13,3,600,10,354.54,985.58,954.54,985.58,0,0,Florida Tech,1
+361,South Florida-B,Win 13-0,0,Ignored,0,2023-03-26,Riddle Rumble,1,13,0,600,13,198.81,985.58,798.81,985.58,0,0,Florida Tech,2
+304,Embry-Riddle,Win 13-1,0,Ignored,0,2023-03-26,Riddle Rumble,1,13,1,600,12,297.97,985.58,897.97,985.58,0,0,Florida Tech,3
+239,Radford,Win 12-7,29.33,Counts,0.1442,2023-03-27,Riddle Rumble,1,12,7,520.51,5,639.15,956.25,1159.6599999999999,926.92,1159.6599999999999,167.22297199999997,Florida Tech,4
+325,Central Florida-B,Win 13-3,0,Ignored,0,2023-03-27,Riddle Rumble,1,13,3,600,10,184.87,985.58,784.87,985.58,0,0,Florida Tech,5
+266,East Carolina,Win 14-7,17.09,Counts,0.1442,2023-03-27,Riddle Rumble,1,14,7,582.89,7,504.16,968.49,1087.05,951.4,1087.05,156.75260999999998,Florida Tech,6
+50,Berry,Loss 4-13,-30.14,Counts,0.18170000000000003,2023-04-23,Southeast D III College Mens CC 2022,0,4,13,-600,-9,1449.81,1015.72,849.81,1045.8600000000001,849.81,154.41047700000001,Florida Tech,7
+195,Georgia College,Win 10-6,57.31,Counts,0.16670000000000001,2023-04-23,Southeast D III College Mens CC 2022,1,10,6,496.16,4,775.91,928.27,1272.07,870.96,1272.07,212.054069,Florida Tech,8
+83,Union (Tennessee),Loss 7-13,-66.91,Counts,0.18170000000000003,2023-04-23,Southeast D III College Mens CC 2022,0,7,13,-557.53,-6,1241.67,1052.49,684.1400000000001,1119.4,684.1400000000001,124.30823800000003,Florida Tech,9
+304,Embry-Riddle,Win 13-1,0,Ignored,0,2023-04-24,Southeast D III College Mens CC 2022,1,13,1,600,12,297.97,985.58,897.97,985.58,0,0,Florida Tech,10
+83,Union (Tennessee),Loss 12-15,-9.86,Counts,0.18170000000000003,2023-04-24,Southeast D III College Mens CC 2022,0,12,15,-300.49,-3,1241.67,995.44,941.1800000000001,1005.3000000000001,941.1800000000001,171.01240600000003,Florida Tech,11

@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+75,Iowa State,Loss 7-8,-37.25,Counts,0.0788,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,1055.14,1402.75,930.1400000000001,1440,930.1400000000001,73.295032,Wisconsin,1
+71,Northwestern,Win 11-2,28.46,Counts,0.0814,2023-03-05,Midwest Throwdown 2022,1,11,2,600,9,1086.61,1337.04,1686.61,1308.58,1686.61,137.290054,Wisconsin,2
+83,Marquette,Win 13-0,23.49,Counts,0.08869999999999999,2023-03-05,Midwest Throwdown 2022,1,13,0,600,13,1006.83,1342,1606.83,1318.51,1606.83,142.52582099999998,Wisconsin,3
+59,St. Olaf,Win 8-5,21.13,Counts,0.07339999999999999,2023-03-06,Midwest Throwdown 2022,1,8,5,453.6,3,NA,1344.37,NA,1323.2399999999998,NA,NA,Wisconsin,4
+62,Washington University,Loss 7-8,-27.31,Counts,0.0788,2023-03-06,Midwest Throwdown 2022,0,7,8,-125,-1,1171.36,1392.81,1046.36,1420.12,1046.36,82.45316799999999,Wisconsin,5
+150,Truman State,Win 13-2,0,Ignored,0,2023-03-06,Midwest Throwdown 2022,1,13,2,600,11,567.5,1365.5,1167.5,1365.5,0,0,Wisconsin,6
+83,Marquette,Win 15-3,32.42,Counts,0.1184,2023-04-09,Lake Superior D I College Womens CC 2022,1,15,3,600,12,1006.83,1333.08,1606.83,1300.6599999999999,1606.83,190.248672,Wisconsin,7
+225,Wisconsin-La Crosse,Win 15-1,0,Ignored,0,2023-04-09,Lake Superior D I College Womens CC 2022,1,15,1,600,14,30.74,1365.5,630.74,1365.5,0,0,Wisconsin,8
+161,Wisconsin-Oshkosh,Win 15-2,0,Ignored,0,2023-04-09,Lake Superior D I College Womens CC 2022,1,15,2,600,13,491.76,1365.5,1091.76,1365.5,0,0,Wisconsin,9
+75,Iowa State,Win 8-3,35.64,Counts,0.1096,2023-04-30,North Central D I College Womens Regionals 2022,1,8,3,600,5,1055.14,1329.86,1655.14,1294.2199999999998,1655.14,181.403344,Wisconsin,10
+33,Minnesota,Loss 6-7,-9.21,Counts,0.1165,2023-04-30,North Central D I College Womens Regionals 2022,0,6,7,-125,-1,1420.67,1374.71,1295.67,1383.92,1295.67,150.945555,Wisconsin,11
+116,Wisconsin-Eau Claire,Win 11-1,0.79,Counts,0.1292,2023-04-30,North Central D I College Womens Regionals 2022,1,11,1,600,10,770.8,1364.71,1370.8,1363.92,1370.8,177.10736,Wisconsin,12
+178,Wisconsin-Milwaukee,Win 13-0,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,1,13,0,600,13,381.26,1365.5,981.26,1365.5,0,0,Wisconsin,13
+83,Marquette,Loss 7-8,-69.18,Counts,0.1251,2023-05-01,North Central D I College Womens Regionals 2022,0,7,8,-125,-1,1006.83,1434.68,881.83,1503.8600000000001,881.83,110.31693299999999,Wisconsin,14

@@ -1,0 +1,22 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+67,Virginia Tech,Loss 5-8,-3.96,Counts,0.0366,2023-02-19,Commonwealth Cup Weekend 1,0,5,8,-453.6,-3,1125.52,779.93,671.92,783.89,671.92,24.592271999999998,Georgetown,1
+63,Duke,Loss 2-8,-8.13,Counts,0.0344,2023-02-19,Commonwealth Cup Weekend 1,0,2,8,-600,-6,1147.99,784.11,547.99,792.24,547.99,18.850856,Georgetown,2
+56,Liberty,Loss 4-8,-4.38,Counts,0.0352,2023-02-19,Commonwealth Cup Weekend 1,0,4,8,-564.81,-4,1220.56,780.36,655.75,784.74,655.75,23.0824,Georgetown,3
+55,James Madison,Loss 6-13,-7.12,Counts,0.0443,2023-02-20,Commonwealth Cup Weekend 1,0,6,13,-600,-7,1222.28,783.1,622.28,790.22,622.28,27.567003999999997,Georgetown,4
+120,Cedarville,Win 10-5,22.87,Counts,0.0393,2023-02-20,Commonwealth Cup Weekend 1,1,10,5,573.9,5,760.52,753.11,1334.42,730.24,1334.42,52.44270600000001,Georgetown,5
+79,MIT,Loss 5-9,-10.74,Counts,0.038,2023-02-20,Commonwealth Cup Weekend 1,0,5,9,-529.06,-4,1033.13,786.72,504.07000000000016,797.46,504.07000000000016,19.154660000000007,Georgetown,6
+107,Mary Washington,Win 4-2,14.39,Counts,0.024900000000000002,2023-02-20,Commonwealth Cup Weekend 1,1,4,2,496.16,2,843.9,761.58,1340.06,747.19,1340.06,33.367494,Georgetown,7
+189,Virginia-B,Win 9-3,7.41,Counts,0.0489,2023-03-26,Rodeo,1,9,3,600,6,320.06,768.57,920.06,761.1600000000001,920.06,44.990933999999996,Georgetown,8
+99,Vermont-B,Loss 4-7,-17.09,Counts,0.045,2023-03-26,Rodeo,0,4,7,-496.16,-3,909.32,793.06,413.16,810.15,413.16,18.592200000000002,Georgetown,9
+63,Duke,Loss 1-11,-13.07,Counts,0.0542,2023-03-26,Rodeo,0,1,11,-600,-10,1147.99,789.05,547.99,802.12,547.99,29.701058,Georgetown,10
+230,Georgetown-B,Win 12-1,0,Ignored,0,2023-03-27,Rodeo,1,12,1,600,11,200.93,775.98,800.9300000000001,775.98,0,0,Georgetown,11
+193,Wake Forest,Loss 6-7,-31.82,Counts,0.0489,2023-03-27,Rodeo,0,6,7,-125,-1,282,807.79,157,839.61,157,7.6773,Georgetown,12
+189,Virginia-B,Win 9-5,3.91,Counts,0.0507,2023-03-27,Rodeo,1,9,5,529.06,4,320.06,772.07,849.1199999999999,768.1600000000001,849.1199999999999,43.050383999999994,Georgetown,13
+158,American,Win 8-3,17.91,Counts,0.0516,2023-04-09,Colonial D I College Womens CC 2022,1,8,3,600,5,504.99,758.07,1104.99,740.1600000000001,1104.99,57.017484,Georgetown,14
+159,Towson,Win 10-1,20.19,Counts,0.057999999999999996,2023-04-09,Colonial D I College Womens CC 2022,1,10,1,600,9,504.17,755.78,1104.17,735.5899999999999,1104.17,64.04186,Georgetown,15
+171,Maryland,Win 8-7,-14.69,Counts,0.058899999999999994,2023-04-09,Colonial D I College Womens CC 2022,1,8,7,125,1,416.54,790.66,541.54,805.35,541.54,31.896705999999995,Georgetown,16
+128,George Washington,Win 13-4,47.68,Counts,0.0836,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,4,600,9,698.73,728.3,1298.73,680.62,1298.73,108.57382799999999,Georgetown,17
+42,North Carolina State,Loss 6-13,-4.2,Counts,0.0836,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,6,13,-600,-7,1329.97,780.17,729.97,784.37,729.97,61.025492,Georgetown,18
+44,William & Mary,Loss 5-12,-4.31,Counts,0.0802,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,5,12,-600,-7,1326.51,780.29,726.51,784.5999999999999,726.51,58.266102,Georgetown,19
+20,Virginia,Loss 5-12,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,5,12,-600,-7,1589.46,775.98,989.46,775.98,0,0,Georgetown,20
+55,James Madison,Loss 7-15,-14.02,Counts,0.0836,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,7,15,-600,-8,1222.28,789.99,622.28,804.01,622.28,52.02260799999999,Georgetown,21

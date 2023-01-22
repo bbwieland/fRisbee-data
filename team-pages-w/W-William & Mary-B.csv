@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+217,American-B,Win 6-2,41.01,Counts,0.0623,2023-02-26,Cherry Blossom Classic,1,6,2,600,4,54.25,4.05,654.25,-36.96,654.25,40.759775,William & Mary-B,1
+230,Georgetown-B,Win 8-3,28.29,Counts,0.0725,2023-02-26,Cherry Blossom Classic,1,8,3,600,5,200.93,8.67,800.9300000000001,-19.619999999999997,800.9300000000001,58.067425,William & Mary-B,2
+198,Miami,Loss 1-5,-24.4,Counts,0.0565,2023-02-26,Cherry Blossom Classic,0,1,5,-600,-4,229.78,61.36,-370.22,85.75999999999999,-370.22,-20.917430000000003,William & Mary-B,3
+159,Towson,Loss 2-5,-7.96,Counts,0.0565,2023-02-27,Cherry Blossom Classic,0,2,5,-600,-3,504.17,44.92,-95.82999999999998,52.88,-95.82999999999998,-5.414394999999999,William & Mary-B,4
+217,American-B,Loss 4-5,-12.2,Counts,0.1017,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,4,5,-125,-1,54.25,49.16,-70.75,61.36,-70.75,-7.195275,William & Mary-B,5
+212,George Washington-B,Loss 5-7,-35.27,Counts,0.1175,2023-04-23,Atlantic Coast Dev College Womens CC 2022,0,5,7,-328.14,-2,100.13,72.23,-228.01,107.5,-228.01,-26.791175,William & Mary-B,6
+230,Georgetown-B,Win 8-3,47.06,Counts,0.115,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,8,3,600,5,200.93,10.1,800.9300000000001,-36.96,800.9300000000001,92.10695000000001,William & Mary-B,7
+212,George Washington-B,Loss 6-7,-8.61,Counts,0.1223,2023-04-24,Atlantic Coast Dev College Womens CC 2022,0,6,7,-125,-1,100.13,45.57,-24.870000000000005,54.18,-24.870000000000005,-3.041601000000001,William & Mary-B,8
+152,North Carolina-B,Loss 2-13,-15.35,Counts,0.1478,2023-04-24,Atlantic Coast Dev College Womens CC 2022,0,2,13,-600,-11,548.48,52.31,-51.51999999999998,67.66,-51.51999999999998,-7.6146559999999965,William & Mary-B,9
+152,North Carolina-B,Loss 1-13,-15.35,Counts,0.1478,2023-04-24,Atlantic Coast Dev College Womens CC 2022,0,1,13,-600,-12,548.48,52.31,-51.51999999999998,67.66,-51.51999999999998,-7.6146559999999965,William & Mary-B,10

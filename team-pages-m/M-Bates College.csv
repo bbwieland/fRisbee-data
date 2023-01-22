@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+138,Bowdoin,Loss 10-11,-5.47,Counts,0.053,2023-03-26,Layout Pigout 2022,0,10,11,-125,-1,986.01,964.3,861.01,969.77,861.01,45.63353,Bates College,1
+284,Bentley,Win 14-9,-4.46,Counts,0.053,2023-03-26,Layout Pigout 2022,1,14,9,473.87,5,405.14,963.29,879.01,967.75,879.01,46.58753,Bates College,2
+295,Haverford,Win 12-6,-0.67,Counts,0.0516,2023-03-26,Layout Pigout 2022,1,12,6,579.31,6,367.14,959.5,946.4499999999999,960.17,946.4499999999999,48.836819999999996,Bates College,3
+123,Williams,Loss 14-15,-0.55,Counts,0.053,2023-03-27,Layout Pigout 2022,0,14,15,-125,-1,1073.97,959.38,948.97,959.93,948.97,50.29541,Bates College,4
+317,Stonehill,Win 12-4,0,Ignored,0,2023-04-02,New England Open,1,12,4,600,8,243.34,958.83,843.34,958.83,0,0,Bates College,5
+372,Northeastern-C,Win 13-2,0,Ignored,0,2023-04-02,New England Open,1,13,2,600,11,426.45,958.83,1026.45,958.83,0,0,Bates College,6
+248,Worcester Polytechnic Institute,Win 13-1,15,Counts,0.056100000000000004,2023-04-02,New England Open,1,13,1,600,12,611.08,943.83,1211.08,928.83,1211.08,67.941588,Bates College,7
+187,Bryant,Loss 7-9,-23.63,Counts,0.051500000000000004,2023-04-02,New England Open,0,7,9,-279.34,-2,802.93,982.45,523.5899999999999,1006.08,523.5899999999999,26.964885,Bates College,8
+35,Middlebury,Loss 12-15,18.23,Counts,0.063,2023-04-17,North New England D III College Mens CC 2022,0,12,15,-300.49,-3,1530.51,940.6,1230.02,922.37,1230.02,77.49126,Bates College,9
+267,Colby,Win 13-11,-15.2,Counts,0.063,2023-04-17,North New England D III College Mens CC 2022,1,13,11,228.84,2,503.92,974.02,732.76,989.22,732.76,46.16388,Bates College,10
+138,Bowdoin,Win 10-9,10.23,Counts,0.063,2023-04-17,North New England D III College Mens CC 2022,1,10,9,125,1,986.01,948.6,1111.01,938.37,1111.01,69.99363,Bates College,11
+187,Bryant,Win 10-8,7.89,Counts,0.0688,2023-04-30,New England D III College Mens Regionals 2022,1,10,8,262.67,2,802.93,950.94,1065.6,943.0500000000001,1065.6,73.31327999999999,Bates College,12
+146,Brandeis,Loss 12-13,-9.29,Counts,0.0707,2023-04-30,New England D III College Mens Regionals 2022,0,12,13,-125,-1,961.68,968.12,836.68,977.41,836.68,59.153276,Bates College,13
+138,Bowdoin,Loss 9-10,-7.44,Counts,0.0707,2023-04-30,New England D III College Mens Regionals 2022,0,9,10,-125,-1,986.01,966.27,861.01,973.71,861.01,60.873407,Bates College,14
+284,Bentley,Win 12-9,-15.85,Counts,0.0707,2023-04-30,New England D III College Mens Regionals 2022,1,12,9,345.37,3,405.14,974.67,750.51,990.52,750.51,53.061057,Bates College,15
+35,Middlebury,Loss 9-15,4.28,Counts,0.0707,2023-05-01,New England D III College Mens Regionals 2022,0,9,15,-515.48,-6,1530.51,954.55,1015.03,950.27,1015.03,71.762621,Bates College,16
+138,Bowdoin,Win 15-10,36.58,Counts,0.0707,2023-05-01,New England D III College Mens Regionals 2022,1,15,10,453.6,5,986.01,922.25,1439.6100000000001,885.67,1439.6100000000001,101.780427,Bates College,17
+146,Brandeis,Loss 13-14,-9.29,Counts,0.0707,2023-05-01,New England D III College Mens Regionals 2022,0,13,14,-125,-1,961.68,968.12,836.68,977.41,836.68,59.153276,Bates College,18

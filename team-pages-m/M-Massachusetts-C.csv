@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+320,Rensselaer Polytechnic Institute,Win 13-8,-6.64,Counts,0.0704,2023-04-02,Northeast Classic,1,13,8,496.16,5,228.64,819.05,724.8,825.6899999999999,724.8,51.02592,Massachusetts-C,1
+309,SUNY-Binghamton-B,Win 13-1,5.25,Counts,0.0704,2023-04-02,Northeast Classic,1,13,1,600,12,281.65,807.16,881.65,801.91,881.65,62.06816,Massachusetts-C,2
+338,SUNY-Oneonta,Win 13-7,-12.05,Counts,0.0704,2023-04-02,Northeast Classic,1,13,7,557.53,6,95.79,824.46,653.3199999999999,836.51,653.3199999999999,45.993728,Massachusetts-C,3
+369,SUNY-Albany-B,Win 13-2,0,Ignored,0,2023-04-02,Northeast Classic,1,13,2,600,11,388.05,812.41,988.05,812.41,0,0,Massachusetts-C,4
+256,Penn State-B,Win 13-9,14.4,Counts,0.0704,2023-04-03,Northeast Classic,1,13,9,418.57,4,583.9,798.01,1002.47,783.61,1002.47,70.57388800000001,Massachusetts-C,5
+193,Vermont-C,Win 12-6,40.75,Counts,0.06860000000000001,2023-04-03,Northeast Classic,1,12,6,579.31,6,786.67,771.66,1365.98,730.91,1365.98,93.70622800000001,Massachusetts-C,6
+125,Yale,Loss 6-12,-23.67,Counts,0.06860000000000001,2023-04-03,Northeast Classic,0,6,12,-579.31,-6,1070.13,836.08,490.82000000000016,859.75,490.82000000000016,33.67025200000001,Massachusetts-C,7
+119,Connecticut,Loss 6-13,-25.15,Counts,0.0704,2023-04-03,Northeast Classic,0,6,13,-600,-7,1080.53,837.56,480.53,862.7099999999999,480.53,33.829312,Massachusetts-C,8
+NA,Amherst College-B,Win 12-1,0,Ignored,0,2023-04-16,Greater New England Dev College Mens CC 2022,1,12,1,600,11,NA,812.41,NA,812.41,0,NA,Massachusetts-C,9
+240,Dartmouth-B,Win 13-7,32.58,Counts,0.0791,2023-04-16,Greater New England Dev College Mens CC 2022,1,13,7,557.53,6,634.41,779.83,1191.94,747.25,1191.94,94.28245400000002,Massachusetts-C,10
+193,Vermont-C,Win 9-8,8.02,Counts,0.0748,2023-04-17,Greater New England Dev College Mens CC 2022,1,9,8,125,1,786.67,804.39,911.67,796.37,911.67,68.192916,Massachusetts-C,11
+104,Brown-B,Loss 6-11,-17.37,Counts,0.0748,2023-04-17,Greater New England Dev College Mens CC 2022,0,6,11,-546.69,-5,1144.17,829.78,597.48,847.15,597.48,44.691504,Massachusetts-C,12
+240,Dartmouth-B,Win 13-6,43.8,Counts,0.094,2023-05-07,New England Dev College Mens Regionals 2022,1,13,6,600,7,634.41,768.61,1234.4099999999999,724.8100000000001,1234.4099999999999,116.03453999999999,Massachusetts-C,13
+NA,Tufts-B,Win 14-12,-32.26,Counts,0.094,2023-05-08,New England Dev College Mens Regionals 2022,1,14,12,220.96,2,280.57,844.67,501.53,876.93,501.53,47.14382,Massachusetts-C,14
+104,Brown-B,Loss 6-15,-27.84,Counts,0.094,2023-05-08,New England Dev College Mens Regionals 2022,0,6,15,-600,-9,1144.17,840.25,544.1700000000001,868.09,544.1700000000001,51.15198000000001,Massachusetts-C,15

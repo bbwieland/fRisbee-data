@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+168,St Benedict,Win 8-1,10.4,Counts,0.14150000000000001,2023-04-16,North Central D III College Womens CC 2022,1,8,1,600,7,427.15,953.64,1027.15,943.24,1027.15,145.34172500000003,Winona State,1
+59,St. Olaf,Loss 8-10,-10.32,Counts,0.177,2023-04-16,North Central D III College Womens CC 2022,0,8,10,-262.67,-2,NA,974.36,NA,984.6800000000001,NA,NA,Winona State,2
+145,Macalester,Win 15-1,52.98,Counts,0.1819,2023-04-16,North Central D III College Womens CC 2022,1,15,1,600,14,602.33,911.06,1202.33,858.0799999999999,1202.33,218.703827,Winona State,3
+59,St. Olaf,Loss 5-8,-42.31,Counts,0.1505,2023-04-17,North Central D III College Womens CC 2022,0,5,8,-453.6,-3,NA,1006.35,NA,1048.66,NA,NA,Winona State,4
+141,Grinnell,Win 9-8,-41.43,Counts,0.1721,2023-04-17,North Central D III College Womens CC 2022,1,9,8,125,1,639.67,1005.47,764.67,1046.9,764.67,131.599707,Winona State,5
+106,Michigan Tech,Win 10-8,32.16,Counts,0.177,2023-04-17,North Central D III College Womens CC 2022,1,10,8,262.67,2,850.86,931.88,1113.53,899.72,1113.53,197.09481,Winona State,6

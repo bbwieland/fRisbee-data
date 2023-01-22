@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+97,Marquette,Loss 6-15,0,Ignored,0,2023-04-23,Lake Superior D I College Mens CC 2022,0,6,15,-600,-9,1170.37,179.24,570.3699999999999,179.24,0,0,Wisconsin-Stevens Point,1
+225,Wisconsin- La Crosse,Loss 4-15,-97.13,Counts,0.5,2023-04-23,Lake Superior D I College Mens CC 2022,0,4,15,-600,-11,682.12,276.37,82.12,373.5,82.12,41.06,Wisconsin-Stevens Point,2
+133,Wisconsin-Milwaukee,Loss 1-15,0,Ignored,0,2023-04-23,Lake Superior D I College Mens CC 2022,0,1,15,-600,-14,1023.38,179.24,423.38,179.24,0,0,Wisconsin-Stevens Point,3
+189,Wisconsin-Eau Claire,Loss 1-15,0,Ignored,0,2023-04-24,Lake Superior D I College Mens CC 2022,0,1,15,-600,-14,798.26,179.24,198.26,179.24,0,0,Wisconsin-Stevens Point,4
+172,Wisconsin-Whitewater,Loss 7-15,97.13,Counts,0.5,2023-04-24,Lake Superior D I College Mens CC 2022,0,7,15,-600,-8,876.37,82.12,276.37,-15.009999999999991,276.37,138.185,Wisconsin-Stevens Point,5

@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+35,Middlebury,Loss 1-13,0,Ignored,0,2023-03-19,College Southerns XX,0,1,13,-600,-12,1530.51,328.78,930.51,328.78,0,0,North Florida,1
+79,Charleston,Loss 1-13,0,Ignored,0,2023-03-19,College Southerns XX,0,1,13,-600,-12,1252.6,328.78,652.5999999999999,328.78,0,0,North Florida,2
+204,Georgia Tech-B,Loss 6-9,-3.48,Counts,0.1459,2023-03-19,College Southerns XX,0,6,9,-418.57,-3,726.99,332.26,308.42,335.74,308.42,44.998478000000006,North Florida,3
+204,Georgia Tech-B,Loss 5-15,-39.65,Counts,0.1642,2023-03-20,College Southerns XX,0,5,15,-600,-10,726.99,368.43,126.99000000000001,408.08,126.99000000000001,20.851758000000004,North Florida,4
+332,Florida-B,Win 10-6,53.1,Counts,0.1507,2023-03-20,College Southerns XX,1,10,6,496.16,4,131.83,275.68,627.99,222.58,627.99,94.638093,North Florida,5
+374,Wisconsin-Eau Claire-B,Win 10-3,0,Ignored,0,2023-03-20,College Southerns XX,1,10,3,600,7,481.32,328.78,1081.32,328.78,0,0,North Florida,6
+222,Florida Gulf Coast,Loss 6-7,45.56,Counts,0.1616,2023-04-09,Florida D I College Mens CC 2022,0,6,7,-125,-1,690.23,283.22,565.23,237.66000000000003,565.23,91.341168,North Florida,7
+114,Florida State,Loss 3-13,0,Ignored,0,2023-04-09,Florida D I College Mens CC 2022,0,3,13,-600,-10,1097.48,328.78,497.48,328.78,0,0,North Florida,8
+297,Miami,Loss 8-10,-55.61,Counts,0.19010000000000002,2023-04-10,Florida D I College Mens CC 2022,0,8,10,-262.67,-2,354.54,384.39,91.87,440,91.87,17.464487000000002,North Florida,9
+89,Central Florida,Loss 3-13,0,Ignored,0,2023-04-10,Florida D I College Mens CC 2022,0,3,13,-600,-10,1207.83,328.78,607.8299999999999,328.78,0,0,North Florida,10
+158,South Florida,Loss 2-12,-2.64,Counts,0.18739999999999998,2023-04-10,Florida D I College Mens CC 2022,0,2,12,-600,-10,917.32,331.42,317.32000000000005,334.06,317.32000000000005,59.465768000000004,North Florida,11

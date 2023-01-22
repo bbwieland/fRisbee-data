@@ -1,0 +1,23 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+259,Minnesota-Duluth,Win 9-3,14.48,Counts,0.0408,2023-03-05,Midwest Throwdown 2022,1,9,3,600,6,538.52,783.78,1138.52,769.3,1138.52,46.451616,Wisconsin-Eau Claire,1
+306,Carleton College-Karls,Win 10-2,4.34,Counts,0.0431,2023-03-05,Midwest Throwdown 2022,1,10,2,600,8,294.57,793.92,894.5699999999999,789.5799999999999,894.5699999999999,38.555966999999995,Wisconsin-Eau Claire,2
+312,Washington University-B,Win 9-3,2.85,Counts,0.0408,2023-03-05,Midwest Throwdown 2022,1,9,3,600,6,265.15,795.41,865.15,792.56,865.15,35.298120000000004,Wisconsin-Eau Claire,3
+133,Wisconsin-Milwaukee,Loss 7-8,4.59,Counts,0.043899999999999995,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,1023.38,793.67,898.38,789.0799999999999,898.38,39.43888199999999,Wisconsin-Eau Claire,4
+227,Macalester College,Win 10-8,7.27,Counts,0.048,2023-03-06,Midwest Throwdown 2022,1,10,8,262.67,2,679.73,790.99,942.4000000000001,783.72,942.4000000000001,45.235200000000006,Wisconsin-Eau Claire,5
+142,Nebraska,Loss 4-10,-18.87,Counts,0.0431,2023-03-06,Midwest Throwdown 2022,0,4,10,-600,-6,979.53,817.13,379.53,836,379.53,16.357743,Wisconsin-Eau Claire,6
+216,DePaul,Win 13-12,1.49,Counts,0.049400000000000006,2023-03-06,Midwest Throwdown 2022,1,13,12,125,1,701.9,796.78,826.9,795.29,826.9,40.84886,Wisconsin-Eau Claire,7
+319,Northwestern-B,Win 10-7,-8.39,Counts,0.0467,2023-03-06,Midwest Throwdown 2022,1,10,7,389.67,3,237.27,806.65,626.94,815.04,626.94,29.278098,Wisconsin-Eau Claire,8
+35,Middlebury,Loss 4-13,0,Ignored,0,2023-03-19,College Southerns XX,0,4,13,-600,-9,1530.51,798.26,930.51,798.26,0,0,Wisconsin-Eau Claire,9
+79,Charleston,Loss 6-12,-7.12,Counts,0.053899999999999997,2023-03-19,College Southerns XX,0,6,12,-579.31,-6,1252.6,805.39,673.29,812.51,673.29,36.290330999999995,Wisconsin-Eau Claire,10
+204,Georgia Tech-B,Win 13-8,24.92,Counts,0.0554,2023-03-19,College Southerns XX,1,13,8,496.16,5,726.99,773.34,1223.15,748.4200000000001,1223.15,67.76251,Wisconsin-Eau Claire,11
+213,Luther,Win 14-7,28.79,Counts,0.0554,2023-03-20,College Southerns XX,1,14,7,582.89,7,706.18,769.48,1289.07,740.69,1289.07,71.41447799999999,Wisconsin-Eau Claire,12
+90,Carleton College-CHOP,Loss 5-15,-11.62,Counts,0.0554,2023-03-20,College Southerns XX,0,5,15,-600,-10,1200.18,809.88,600.1800000000001,821.5,600.1800000000001,33.249972,Wisconsin-Eau Claire,13
+274,Georgia Southern,Win 13-7,14.01,Counts,0.0554,2023-03-20,College Southerns XX,1,13,7,557.53,6,479.62,784.25,1037.15,770.24,1037.15,57.458110000000005,Wisconsin-Eau Claire,14
+21,Wisconsin,Loss 6-15,0,Ignored,0,2023-04-23,Lake Superior D I College Mens CC 2022,0,6,15,-600,-9,1679.64,798.26,1079.64,798.26,0,0,Wisconsin-Eau Claire,15
+172,Wisconsin-Whitewater,Win 13-12,16.22,Counts,0.07400000000000001,2023-04-23,Lake Superior D I College Mens CC 2022,1,13,12,125,1,876.37,782.04,1001.37,765.8199999999999,1001.37,74.10138,Wisconsin-Eau Claire,16
+97,Marquette,Loss 9-15,-11.45,Counts,0.07400000000000001,2023-04-24,Lake Superior D I College Mens CC 2022,0,9,15,-515.48,-6,1170.37,809.71,654.8899999999999,821.1600000000001,654.8899999999999,48.461859999999994,Wisconsin-Eau Claire,17
+225,Wisconsin- La Crosse,Loss 11-12,-19.26,Counts,0.07400000000000001,2023-04-24,Lake Superior D I College Mens CC 2022,0,11,12,-125,-1,682.12,817.52,557.12,836.78,557.12,41.22688000000001,Wisconsin-Eau Claire,18
+326,Wisconsin-Stevens Point,Win 15-1,0,Ignored,0,2023-04-24,Lake Superior D I College Mens CC 2022,1,15,1,600,14,179.24,798.26,779.24,798.26,0,0,Wisconsin-Eau Claire,19
+97,Marquette,Loss 7-12,-12.62,Counts,0.0783,2023-04-30,North Central D I College Mens Regionals 2022,0,7,12,-520.51,-5,1170.37,810.88,649.8599999999999,823.5,649.8599999999999,50.88403799999999,Wisconsin-Eau Claire,20
+22,Carleton College,Loss 3-13,0,Ignored,0,2023-04-30,North Central D I College Mens Regionals 2022,0,3,13,-600,-10,1672.93,798.26,1072.93,798.26,0,0,Wisconsin-Eau Claire,21
+142,Nebraska,Loss 3-10,-30.77,Counts,0.0684,2023-04-30,North Central D I College Mens Regionals 2022,0,3,10,-600,-7,979.53,829.03,379.53,859.8,379.53,25.959851999999998,Wisconsin-Eau Claire,22

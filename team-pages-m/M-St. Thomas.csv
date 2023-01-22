@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+34,St. Olaf,Loss 4-13,0,Ignored,0,2023-04-16,Northwoods D III College Mens CC 2022,0,4,13,-600,-9,NA,596.7,NA,596.7,0,NA,St. Thomas,1
+272,Winona State,Win 10-8,18.79,Counts,0.11259999999999999,2023-04-16,Northwoods D III College Mens CC 2022,1,10,8,262.67,2,482.21,577.91,744.88,559.12,744.88,83.873488,St. Thomas,2
+227,Macalester College,Win 15-6,89.31,Counts,0.11560000000000001,2023-04-17,Northwoods D III College Mens CC 2022,1,15,6,600,9,679.73,507.39,1279.73,418.08,1279.73,147.936788,St. Thomas,3
+249,St John's,Loss 14-15,-14.5,Counts,0.11560000000000001,2023-04-17,Northwoods D III College Mens CC 2022,0,14,15,-125,-1,610.8,611.2,485.79999999999995,625.7,485.79999999999995,56.15848,St. Thomas,4
+155,Grinnell,Loss 4-11,-29.35,Counts,0.1061,2023-04-17,Northwoods D III College Mens CC 2022,0,4,11,-600,-7,949.42,626.06,349.41999999999996,655.41,349.41999999999996,37.07346199999999,St. Thomas,5
+163,Michigan Tech,Loss 9-13,-18.41,Counts,0.1375,2023-05-07,North Central D III College Mens Regionals 2022,0,9,13,-418.57,-4,899.82,615.11,481.25000000000006,633.52,481.25000000000006,66.17187500000001,St. Thomas,6
+213,Luther,Loss 9-13,-49.28,Counts,0.1375,2023-05-07,North Central D III College Mens Regionals 2022,0,9,13,-418.57,-4,706.18,645.98,287.60999999999996,695.26,287.60999999999996,39.546375,St. Thomas,7
+34,St. Olaf,Loss 3-13,0,Ignored,0,2023-05-07,North Central D III College Mens Regionals 2022,0,3,13,-600,-10,NA,596.7,NA,596.7,0,NA,St. Thomas,8
+155,Grinnell,Loss 11-13,19.75,Counts,0.1375,2023-05-07,North Central D III College Mens Regionals 2022,0,11,13,-228.84,-2,949.42,576.95,720.5799999999999,557.2,720.5799999999999,99.07975,St. Thomas,9
+249,St John's,Loss 12-13,-17.68,Counts,0.1375,2023-05-08,North Central D III College Mens Regionals 2022,0,12,13,-125,-1,610.8,614.38,485.79999999999995,632.06,485.79999999999995,66.7975,St. Thomas,10

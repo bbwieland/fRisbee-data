@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+127,Jacksonville State,Loss 2-10,0,Ignored,0,2023-03-12,Tally Classic XVI,0,2,10,-600,-8,704.84,81.16,104.84000000000003,81.16,0,0,Notre Dame-B,1
+88,South Carolina,Loss 0-11,0,Ignored,0,2023-03-12,Tally Classic XVI,0,0,11,-600,-11,994.19,81.16,394.19000000000005,81.16,0,0,Notre Dame-B,2
+47,Florida,Loss 1-9,0,Ignored,0,2023-03-12,Tally Classic XVI,0,1,9,-600,-8,1288.97,81.16,688.97,81.16,0,0,Notre Dame-B,3
+123,Tulane,Loss 2-10,0,Ignored,0,2023-03-12,Tally Classic XVI,0,2,10,-600,-8,726.7,81.16,126.70000000000005,81.16,0,0,Notre Dame-B,4
+195,South Florida,Loss 6-7,3.49,Counts,0.08449999999999999,2023-03-13,Tally Classic XVI,0,6,7,-125,-1,243.9,77.67,118.9,74.18,118.9,10.047049999999999,Notre Dame-B,5
+155,Knox,Loss 2-9,-16.08,Counts,0.0949,2023-03-26,Illinois Invite,0,2,9,-600,-7,527.72,97.24,-72.27999999999997,113.32,-72.27999999999997,-6.859371999999997,Notre Dame-B,6
+211,Washington University-B,Loss 9-10,-13.22,Counts,0.11470000000000001,2023-03-26,Illinois Invite,0,9,10,-125,-1,104.15,94.37,-20.849999999999994,107.59,-20.849999999999994,-2.3914949999999995,Notre Dame-B,7
+180,Loyola-Chicago,Win 7-6,43.79,Counts,0.0949,2023-03-26,Illinois Invite,1,7,6,125,1,373.89,37.37,498.89,-6.420000000000002,498.89,47.344660999999995,Notre Dame-B,8
+143,Illinois,Loss 3-12,-6.76,Counts,0.1101,2023-03-27,Illinois Invite,0,3,12,-600,-9,626.49,87.92,26.49000000000001,94.68,26.49000000000001,2.916549000000001,Notre Dame-B,9
+83,Marquette,Loss 1-15,0,Ignored,0,2023-03-27,Illinois Invite,0,1,15,-600,-14,1006.83,81.16,406.83000000000004,81.16,0,0,Notre Dame-B,10
+180,Loyola-Chicago,Loss 4-11,-36.15,Counts,0.10529999999999999,2023-03-27,Illinois Invite,0,4,11,-600,-7,373.89,117.31,-226.11,153.46,-226.11,-23.809383,Notre Dame-B,11
+223,Purdue-B,Loss 3-7,-69.33,Counts,0.0934,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,0,3,7,-600,-4,8.23,150.49,-591.77,219.82,-591.77,-55.271317999999994,Notre Dame-B,12
+173,Michigan-B,Loss 4-9,-33.99,Counts,0.1065,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,0,4,9,-600,-5,395.97,115.15,-204.02999999999997,149.14000000000001,-204.02999999999997,-21.729194999999997,Notre Dame-B,13
+223,Purdue-B,Win 7-3,54.31,Counts,0.0934,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,1,7,3,600,4,8.23,26.85,608.23,-27.46,608.23,56.808682,Notre Dame-B,14
+173,Michigan-B,Win 7-5,73.29,Counts,0.1023,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,1,7,5,328.14,2,395.97,7.87,724.11,-65.42,724.11,74.076453,Notre Dame-B,15

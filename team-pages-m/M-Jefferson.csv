@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+129,Boston University,Loss 1-13,0,Ignored,0,2023-03-26,Hucktastic 2022,0,1,13,-600,-12,1050.21,341.43,450.21000000000004,341.43,0,0,Jefferson,1
+277,Villanova,Loss 1-13,188.74,Counts,0.5,2023-03-26,Hucktastic 2022,0,1,13,-600,-12,447.31,530.17,-152.69,341.42999999999995,-152.69,-76.345,Jefferson,2
+98,Pennsylvania,Loss 1-13,0,Ignored,0,2023-03-26,Hucktastic 2022,0,1,13,-600,-12,1165.17,341.43,565.1700000000001,341.43,0,0,Jefferson,3
+341,Temple-B,Loss 0-13,-188.74,Counts,0.5,2023-03-26,Hucktastic 2022,0,0,13,-600,-13,69.83,152.69,-530.17,341.43,-530.17,-265.085,Jefferson,4
+154,NYU,Loss 0-13,0,Ignored,0,2023-03-26,Hucktastic 2022,0,0,13,-600,-13,950.57,341.43,350.57000000000005,341.43,0,0,Jefferson,5
+98,Pennsylvania,Loss 3-13,0,Ignored,0,2023-03-26,Hucktastic 2022,0,3,13,-600,-10,1165.17,341.43,565.1700000000001,341.43,0,0,Jefferson,6

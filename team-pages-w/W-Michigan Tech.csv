@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+215,Carleton College-C,Win 13-3,0,Ignored,0,2023-02-26,Forever Winter Tournament,1,13,3,600,10,66.31,850.86,666.31,850.86,0,0,Michigan Tech,1
+59,St. Olaf,Loss 2-13,-27.61,Counts,0.09210000000000002,2023-02-26,Forever Winter Tournament,0,2,13,-600,-11,NA,878.47,NA,906.08,NA,NA,Michigan Tech,2
+201,St. Olaf-B,Win 13-1,0,Ignored,0,2023-02-26,Forever Winter Tournament,1,13,1,600,12,NA,850.86,NA,850.86,0,NA,Michigan Tech,3
+23,Carleton College-Eclipse,Loss 3-13,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,3,13,-600,-10,1519.75,850.86,919.75,850.86,0,0,Michigan Tech,4
+64,Iowa,Loss 2-11,-30.45,Counts,0.08960000000000001,2023-03-05,Midwest Throwdown 2022,0,2,11,-600,-9,1141.3,881.31,541.3,911.76,541.3,48.50048,Michigan Tech,5
+142,Luther,Win 10-3,36.21,Counts,0.08529999999999999,2023-03-05,Midwest Throwdown 2022,1,10,3,600,7,639.35,814.65,1239.35,778.4399999999999,1239.35,105.71655499999997,Michigan Tech,6
+33,Minnesota,Loss 1-11,-2.97,Counts,0.08960000000000001,2023-03-05,Midwest Throwdown 2022,0,1,11,-600,-10,1420.67,853.83,820.6700000000001,856.8000000000001,820.6700000000001,73.53203200000002,Michigan Tech,7
+150,Truman State,Win 6-4,6.27,Counts,0.0708,2023-03-05,Midwest Throwdown 2022,1,6,4,365.61,2,567.5,844.59,933.11,838.32,933.11,66.064188,Michigan Tech,8
+83,Marquette,Loss 7-12,-39.43,Counts,0.09759999999999999,2023-03-06,Midwest Throwdown 2022,0,7,12,-520.51,-5,1006.83,890.29,486.32000000000005,929.7199999999999,486.32000000000005,47.464832,Michigan Tech,9
+29,Purdue,Loss 2-13,0,Ignored,0,2023-03-06,Midwest Throwdown 2022,0,2,13,-600,-11,1473.48,850.86,873.48,850.86,0,0,Michigan Tech,10
+114,Missouri,Win 9-5,41.85,Counts,0.08380000000000001,2023-03-06,Midwest Throwdown 2022,1,9,5,529.06,4,779.51,809.01,1308.57,767.16,1308.57,109.65816600000001,Michigan Tech,11
+215,Carleton College-C,Win 13-0,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,13,0,600,13,66.31,850.86,666.31,850.86,0,0,Michigan Tech,12
+201,St. Olaf-B,Win 11-3,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,11,3,600,8,NA,850.86,NA,850.86,0,NA,Michigan Tech,13
+23,Carleton College-Eclipse,Loss 5-13,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,0,5,13,-600,-8,1519.75,850.86,919.75,850.86,0,0,Michigan Tech,14
+141,Grinnell,Win 8-7,-12.05,Counts,0.1226,2023-04-16,North Central D III College Womens CC 2022,1,8,7,125,1,639.67,862.91,764.67,874.9599999999999,764.67,93.748542,Michigan Tech,15
+145,Macalester,Win 12-6,51.33,Counts,0.1343,2023-04-17,North Central D III College Womens CC 2022,1,12,6,579.31,6,602.33,799.53,1181.6399999999999,748.1999999999999,1181.6399999999999,158.69425199999998,Michigan Tech,16
+92,Winona State,Loss 8-10,-23.2,Counts,0.1343,2023-04-17,North Central D III College Womens CC 2022,0,8,10,-262.67,-2,964.04,874.06,701.3699999999999,897.26,701.3699999999999,94.19399099999998,Michigan Tech,17

@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+87,Lehigh,Loss 2-15,0,Ignored,0,2023-02-26,Bring The Huckus 12,0,2,15,-600,-13,994.47,497.94,394.47,497.94,0,0,College of New Jersey,1
+147,Swarthmore,Loss 2-15,0,Ignored,0,2023-02-26,Bring The Huckus 12,0,2,15,-600,-13,594.68,497.94,-5.32000000000005,497.94,0,-0,College of New Jersey,2
+84,West Chester,Loss 2-15,0,Ignored,0,2023-02-26,Bring The Huckus 12,0,2,15,-600,-13,1002.51,497.94,402.51,497.94,0,0,College of New Jersey,3
+93,SUNY-Geneseo,Loss 2-15,0,Ignored,0,2023-02-26,Bring The Huckus 12,0,2,15,-600,-13,960.28,497.94,360.28,497.94,0,0,College of New Jersey,4
+65,Haverford,Loss 0-15,0,Ignored,0,2023-02-27,Bring The Huckus 12,0,0,15,-600,-15,1138.76,497.94,538.76,497.94,0,0,College of New Jersey,5
+140,Ithaca,Loss 2-11,0,Ignored,0,2023-02-27,Bring The Huckus 12,0,2,11,-600,-9,639.82,497.94,39.82000000000005,497.94,0,0,College of New Jersey,6
+233,Messiah,Loss 9-10,21.46,Counts,0.1935,2023-03-26,Garden State 2022,0,9,10,-125,-1,283.45,519.4,158.45,497.94,158.45,30.660075,College of New Jersey,7
+232,Dickinson,Win 4-3,49.28,Counts,0.1174,2023-03-26,Garden State 2022,1,4,3,125,1,252.53,547.22,377.53,497.94000000000005,377.53,44.322022,College of New Jersey,8
+235,Temple -B,Loss 5-6,3.62,Counts,0.1472,2023-03-26,Garden State 2022,0,5,6,-125,-1,351.94,501.56,226.94,497.94,226.94,33.405568,College of New Jersey,9
+108,Connecticut,Loss 0-12,0,Ignored,0,2023-03-27,Garden State 2022,0,0,12,-600,-12,840.71,497.94,240.71000000000004,497.94,0,0,College of New Jersey,10
+NA,Bard,Loss 4-8,-101.52,Counts,0.18280000000000002,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,4,8,-564.81,-4,386.88,396.42,-177.92999999999995,497.94,-177.92999999999995,-32.525603999999994,College of New Jersey,11
+NA,Vassar,Loss 1-6,-33.73,Counts,0.1539,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,1,6,-600,-5,83.42,464.21,-516.58,497.94,-516.58,-79.50166200000001,College of New Jersey,12
+199,Connecticut College,Loss 3-12,0,Ignored,0,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,3,12,-600,-9,228.91,497.94,-371.09000000000003,497.94,0,-0,College of New Jersey,13
+140,Ithaca,Loss 0-13,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,0,0,13,-600,-13,639.82,497.94,39.82000000000005,497.94,0,0,College of New Jersey,14
+93,SUNY-Geneseo,Loss 0-13,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,0,0,13,-600,-13,960.28,497.94,360.28,497.94,0,0,College of New Jersey,15
+199,Connecticut College,Loss 0-13,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,0,0,13,-600,-13,228.91,497.94,-371.09000000000003,497.94,0,-0,College of New Jersey,16
+190,Hamilton,Loss 4-8,59.9,Counts,0.2052,2023-04-30,Metro East D III College Womens Regionals 2022,0,4,8,-564.81,-4,298.84,557.83,-265.96999999999997,497.93000000000006,-265.96999999999997,-54.577043999999994,College of New Jersey,17

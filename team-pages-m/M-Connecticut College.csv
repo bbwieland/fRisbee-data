@@ -1,0 +1,25 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+356,Clark,Win 13-5,0,Ignored,0,2023-04-02,New England Open,1,13,5,600,8,134.02,828.33,734.02,828.33,0,0,Connecticut College,1
+313,Boston University-B,Win 10-8,-11.09,Counts,0.0349,2023-04-02,New England Open,1,10,8,262.67,2,258.75,839.42,521.4200000000001,850.51,521.4200000000001,18.197558000000004,Connecticut College,2
+146,Brandeis,Loss 7-10,-8.99,Counts,0.0339,2023-04-02,New England Open,0,7,10,-389.67,-3,961.68,837.32,572.01,846.3100000000001,572.01,19.391139,Connecticut College,3
+185,Northeastern-B,Win 10-6,16.25,Counts,0.0329,2023-04-02,New England Open,1,10,6,496.16,4,810.14,812.09,1306.3,795.84,1306.3,42.97727,Connecticut College,4
+187,Bryant,Loss 6-13,-23.24,Counts,0.0358,2023-04-03,New England Open,0,6,13,-600,-7,802.93,851.57,202.92999999999995,874.8100000000001,202.92999999999995,7.264893999999998,Connecticut College,5
+248,Worcester Polytechnic Institute,Win 10-8,1.64,Counts,0.0349,2023-04-03,New England Open,1,10,8,262.67,2,611.08,826.69,873.75,825.0500000000001,873.75,30.493875,Connecticut College,6
+185,Northeastern-B,Loss 8-9,-5.02,Counts,0.0339,2023-04-03,New England Open,0,8,9,-125,-1,810.14,833.35,685.14,838.37,685.14,23.226246,Connecticut College,7
+303,Skidmore College,Win 10-6,-1.38,Counts,0.0391,2023-04-23,Hudson Valley D III College Mens CC 2022,1,10,6,496.16,4,298.24,829.71,794.4000000000001,831.09,794.4000000000001,31.061040000000006,Connecticut College,8
+344,Hartford,Win 13-6,-8.06,Counts,0.0426,2023-04-23,Hudson Valley D III College Mens CC 2022,1,13,6,600,7,47.12,836.39,647.12,844.4499999999999,647.12,27.567312,Connecticut College,9
+224,Army,Win 13-7,18.46,Counts,0.0426,2023-04-23,Hudson Valley D III College Mens CC 2022,1,13,7,557.53,6,685.65,809.87,1243.1799999999998,791.41,1243.1799999999998,52.959467999999994,Connecticut College,10
+210,Vassar,Win 10-9,0.54,Counts,0.0426,2023-04-23,Hudson Valley D III College Mens CC 2022,1,10,9,125,1,715.56,827.79,840.56,827.25,840.56,35.807855999999994,Connecticut College,11
+300,Union,Win 15-5,4.22,Counts,0.0426,2023-04-24,Hudson Valley D III College Mens CC 2022,1,15,5,600,10,323.19,824.11,923.19,819.89,923.19,39.327894,Connecticut College,12
+183,Wesleyan,Loss 7-15,-27.25,Counts,0.0426,2023-04-24,Hudson Valley D III College Mens CC 2022,0,7,15,-600,-8,815.88,855.58,215.88,882.83,215.88,9.196488,Connecticut College,13
+175,SUNY Cortland,Win 14-13,6.9,Counts,0.0451,2023-04-30,Metro East D III College Mens Regionals 2022,1,14,13,125,1,849.35,821.43,974.35,814.53,974.35,43.943185,Connecticut College,14
+298,Colgate,Win 13-6,5.62,Counts,0.0451,2023-04-30,Metro East D III College Mens Regionals 2022,1,13,6,600,7,347.3,822.71,947.3,817.09,947.3,42.72323,Connecticut College,15
+275,College of New Jersey,Win 13-5,10.92,Counts,0.0451,2023-04-30,Metro East D III College Mens Regionals 2022,1,13,5,600,8,459.33,817.41,1059.33,806.49,1059.33,47.775783,Connecticut College,16
+175,SUNY Cortland,Win 15-5,29.35,Counts,0.0451,2023-05-01,Metro East D III College Mens Regionals 2022,1,15,5,600,10,849.35,798.98,1449.35,769.63,1449.35,65.365685,Connecticut College,17
+132,Ithaca,Loss 4-15,-19.14,Counts,0.0451,2023-05-01,Metro East D III College Mens Regionals 2022,0,4,15,-600,-11,1023.44,847.47,423.44000000000005,866.61,423.44000000000005,19.097144000000004,Connecticut College,18
+68,Colorado College,Loss 9-15,-0.16,Counts,0.0537,2023-05-21,2022 D III College Championships,0,9,15,-515.48,-6,1340.93,828.49,825.45,828.65,825.45,44.326665,Connecticut College,19
+74,Navy,Loss 8-15,-6.57,Counts,0.0537,2023-05-21,2022 D III College Championships,0,8,15,-564.81,-7,1277.32,834.9,712.51,841.47,712.51,38.261787,Connecticut College,20
+123,Williams,Loss 14-15,6.84,Counts,0.0537,2023-05-21,2022 D III College Championships,0,14,15,-125,-1,1073.97,821.49,948.97,814.65,948.97,50.959689,Connecticut College,21
+196,Pacific Lutheran,Loss 10-12,-17.13,Counts,0.0537,2023-05-22,2022 D III College Championships,0,10,12,-238.12,-2,764.37,845.46,526.25,862.59,526.25,28.259625,Connecticut College,22
+132,Ithaca,Win 10-5,38.51,Counts,0.04769999999999999,2023-05-22,2022 D III College Championships,1,10,5,573.9,5,1023.44,789.82,1597.3400000000001,751.3100000000001,1597.3400000000001,76.193118,Connecticut College,23
+146,Brandeis,Loss 10-13,-11.05,Counts,0.0537,2023-05-22,2022 D III College Championships,0,10,13,-328.14,-3,961.68,839.38,633.54,850.43,633.54,34.021097999999995,Connecticut College,24

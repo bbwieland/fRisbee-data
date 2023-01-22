@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+81,Emory,Loss 0-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,0,15,-600,-15,1016.31,735.54,416.30999999999995,735.54,0,0,University of North Carolina - Asheville,1
+149,North Carolina-Wilmington,Loss 1-12,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,1,12,-600,-11,588.46,735.54,-11.539999999999964,735.54,0,-0,University of North Carolina - Asheville,2
+22,Middlebury,Loss 1-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,1,15,-600,-14,1540.81,735.54,940.81,735.54,0,0,University of North Carolina - Asheville,3
+25,Appalachian State,Loss 0-15,0,Ignored,0,2023-03-27,Needle in a Ho Stack,0,0,15,-600,-15,1504.18,735.54,904.1800000000001,735.54,0,0,University of North Carolina - Asheville,4
+237,Emory-B,Loss 5-6,-21.8,Counts,0.47909999999999997,2023-03-27,Needle in a Ho Stack,0,5,6,-125,-1,634.24,713.74,509.24,735.54,509.24,243.97688399999998,University of North Carolina - Asheville,5
+228,Elon,Loss 4-9,23.7,Counts,0.5209,2023-03-27,Needle in a Ho Stack,0,4,9,-600,-5,113.74,759.24,-486.26,735.54,-486.26,-253.292834,University of North Carolina - Asheville,6

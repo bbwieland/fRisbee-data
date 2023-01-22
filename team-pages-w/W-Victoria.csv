@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+5,British Columbia,Loss 4-13,0,Ignored,0,2023-04-16,Cascadia D I College Womens CC 2022,0,4,13,-600,-9,2106.72,1296.01,1506.7199999999998,1296.01,0,0,Victoria,1
+17,Oregon,Loss 6-8,7.46,Counts,0.1213,2023-04-16,Cascadia D I College Womens CC 2022,0,6,8,-300.49,-2,1650.51,1288.56,1350.02,1281.1,1350.02,163.757426,Victoria,2
+16,Western Washington,Loss 6-10,-13.68,Counts,0.1297,2023-04-16,Cascadia D I College Womens CC 2022,0,6,10,-496.16,-4,1700.37,1309.7,1204.2099999999998,1323.38,1204.2099999999998,156.186037,Victoria,3
+NA,Washington-B,Win 13-1,0,Ignored,0,2023-04-17,Cascadia D I College Womens CC 2022,1,13,1,600,12,NA,1296.01,NA,1296.01,0,NA,Victoria,4
+5,British Columbia,Loss 3-11,0,Ignored,0,2023-05-07,Northwest D I College Womens Regionals 2022,0,3,11,-600,-8,2106.72,1296.01,1506.7199999999998,1296.01,0,0,Victoria,5
+17,Oregon,Loss 7-9,13.71,Counts,0.1543,2023-05-07,Northwest D I College Womens Regionals 2022,0,7,9,-279.34,-2,1650.51,1282.31,1371.17,1268.6,1371.17,211.571531,Victoria,6
+40,Whitman,Win 5-3,56.7,Counts,0.1091,2023-05-07,Northwest D I College Womens Regionals 2022,1,5,3,418.57,2,1340.5,1239.32,1759.07,1182.62,1759.07,191.914537,Victoria,7
+104,Montana State,Win 15-5,38.49,Counts,0.1681,2023-05-07,Northwest D I College Womens Regionals 2022,1,15,5,600,10,886.47,1257.53,1486.47,1219.04,1486.47,249.875607,Victoria,8
+16,Western Washington,Loss 5-14,-39.54,Counts,0.1681,2023-05-08,Northwest D I College Womens Regionals 2022,0,5,14,-600,-9,1700.37,1335.55,1100.37,1375.09,1100.37,184.972197,Victoria,9
+40,Whitman,Loss 6-9,-65.69,Counts,0.1494,2023-05-08,Northwest D I College Womens Regionals 2022,0,6,9,-418.57,-3,1340.5,1361.7,921.9300000000001,1427.39,921.9300000000001,137.736342,Victoria,10

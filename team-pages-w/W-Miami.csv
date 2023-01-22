@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+217,American-B,Win 9-1,35.78,Counts,0.07769999999999999,2023-02-26,Cherry Blossom Classic,1,9,1,600,8,54.25,194,654.25,158.22,654.25,50.835224999999994,Miami,1
+230,Georgetown-B,Win 7-3,12.39,Counts,0.0682,2023-02-26,Cherry Blossom Classic,1,7,3,600,4,200.93,217.39,800.9300000000001,205,800.9300000000001,54.623426,Miami,2
+220,William & Mary-B,Win 5-1,24.63,Counts,0.057,2023-02-26,Cherry Blossom Classic,1,5,1,600,4,36.96,205.15,636.96,180.52,636.96,36.306720000000006,Miami,3
+117,Virginia Commonwealth,Loss 1-10,-5.49,Counts,0.0821,2023-02-27,Cherry Blossom Classic,0,1,10,-600,-9,768.41,235.27,168.40999999999997,240.76000000000002,168.40999999999997,13.826460999999998,Miami,4
+175,Pittsburgh-B,Win 8-6,40.73,Counts,0.08070000000000001,2023-02-27,Cherry Blossom Classic,1,8,6,300.49,2,393.49,189.05,693.98,148.32000000000002,693.98,56.004186000000004,Miami,5
+65,Haverford,Loss 2-15,0,Ignored,0,2023-03-26,Garden State 2022,0,2,15,-600,-13,1138.76,229.78,538.76,229.78,0,0,Miami,6
+49,Columbia,Loss 0-15,0,Ignored,0,2023-03-26,Garden State 2022,0,0,15,-600,-15,1271.44,229.78,671.44,229.78,0,0,Miami,7
+NA,Syracuse,Win 8-7,61.1,Counts,0.1052,2023-03-26,Garden State 2022,1,8,7,125,1,624.51,168.68,749.51,107.58000000000001,749.51,78.848452,Miami,8
+80,Mount Holyoke,Loss 3-10,0,Ignored,0,2023-03-27,Garden State 2022,0,3,10,-600,-7,1031.85,229.78,431.8499999999999,229.78,0,0,Miami,9
+14,Florida State,Loss 0-13,0,Ignored,0,2023-04-09,Florida D I College Womens CC 2022,0,0,13,-600,-13,1708.29,229.78,1108.29,229.78,0,0,Miami,10
+183,Florida-B,Loss 1-10,-64.03,Counts,0.1161,2023-04-09,Florida D I College Womens CC 2022,0,1,10,-600,-9,342.29,293.81,-257.71,357.84000000000003,-257.71,-29.920130999999998,Miami,11
+195,South Florida,Loss 6-7,-13.69,Counts,0.1099,2023-04-10,Florida D I College Womens CC 2022,0,6,7,-125,-1,243.9,243.47,118.9,257.16,118.9,13.06711,Miami,12
+53,Central Florida,Loss 0-15,0,Ignored,0,2023-04-10,Florida D I College Womens CC 2022,0,0,15,-600,-15,1229.71,229.78,629.71,229.78,0,0,Miami,13
+30,Georgia Tech,Loss 0-13,0,Ignored,0,2023-04-30,Southeast D I College Womens Regionals 2022,0,0,13,-600,-13,1458.95,229.78,858.95,229.78,0,0,Miami,14
+182,Georgia Tech-B,Loss 3-11,-81.6,Counts,0.145,2023-04-30,Southeast D I College Womens Regionals 2022,0,3,11,-600,-8,348.71,311.38,-251.29000000000002,392.98,-251.29000000000002,-36.43705,Miami,15
+123,Tulane,Loss 1-13,-19.35,Counts,0.158,2023-04-30,Southeast D I College Womens Regionals 2022,0,1,13,-600,-12,726.7,249.13,126.70000000000005,268.48,126.70000000000005,20.018600000000006,Miami,16

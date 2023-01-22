@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+157,Liberty,Win 13-12,9.1,Counts,0.0827,2023-04-02,Atlantic Coast Open,1,13,12,125,1,929.3,944.19,1054.3,935.09,1054.3,87.19060999999999,Johns Hopkins,1
+51,Penn State,Loss 8-15,-6.18,Counts,0.0827,2023-04-02,Atlantic Coast Open,0,8,15,-564.81,-7,1449.51,959.48,884.7,965.66,884.7,73.16469,Johns Hopkins,2
+37,Virginia,Loss 3-15,-3.47,Counts,0.0827,2023-04-02,Atlantic Coast Open,0,3,15,-600,-12,1514.83,956.76,914.8299999999999,960.23,914.8299999999999,75.65644099999999,Johns Hopkins,3
+351,Cornell-B,Win 15-2,0,Ignored,0,2023-04-02,Atlantic Coast Open,1,15,2,600,13,52.51,953.29,652.51,953.29,0,0,Johns Hopkins,4
+93,Harvard,Loss 5-12,-31.15,Counts,0.0793,2023-04-03,Atlantic Coast Open,0,5,12,-600,-7,1191.89,984.44,591.8900000000001,1015.59,591.8900000000001,46.936877,Johns Hopkins,5
+198,George Washington,Win 12-11,-5.91,Counts,0.0827,2023-04-03,Atlantic Coast Open,1,12,11,125,1,762.77,959.2,887.77,965.11,887.77,73.418579,Johns Hopkins,6
+287,Maryland-Baltimore County,Win 13-7,-0.6,Counts,0.0983,2023-04-23,Colonial D I College Mens CC 2022,1,13,7,557.53,6,390.29,953.89,947.8199999999999,954.49,947.8199999999999,93.170706,Johns Hopkins,7
+289,Salisbury,Win 13-10,-26.35,Counts,0.0983,2023-04-23,Colonial D I College Mens CC 2022,1,13,10,328.14,3,383.54,979.64,711.6800000000001,1005.99,711.6800000000001,69.958144,Johns Hopkins,8
+59,Georgetown,Loss 9-13,3.42,Counts,0.0983,2023-04-23,Colonial D I College Mens CC 2022,0,9,13,-418.57,-4,1403.18,949.88,984.6100000000001,946.46,984.6100000000001,96.787163,Johns Hopkins,9
+73,Delaware,Win 13-12,49.61,Counts,0.0983,2023-04-23,Colonial D I College Mens CC 2022,1,13,12,125,1,1283.29,903.68,1408.29,854.0699999999999,1408.29,138.43490699999998,Johns Hopkins,10
+139,Towson,Loss 13-14,-10.07,Counts,0.0983,2023-04-24,Colonial D I College Mens CC 2022,0,13,14,-125,-1,985.92,963.37,860.92,973.44,860.92,84.628436,Johns Hopkins,11
+73,Delaware,Loss 9-10,22.35,Counts,0.0983,2023-04-24,Colonial D I College Mens CC 2022,0,9,10,-125,-1,1283.29,930.94,1158.29,908.59,1158.29,113.85990699999999,Johns Hopkins,12

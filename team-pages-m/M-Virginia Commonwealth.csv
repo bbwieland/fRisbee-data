@@ -1,0 +1,25 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+100,Lehigh,Loss 11-13,-5.27,Counts,0.0325,2023-02-26,Oak Creek Challenge,0,11,13,-228.84,-2,1154.27,1087.4,925.43,1092.67,925.43,30.076475,Virginia Commonwealth,1
+73,Delaware,Loss 11-12,2.56,Counts,0.0325,2023-02-26,Oak Creek Challenge,0,11,12,-125,-1,1283.29,1079.58,1158.29,1077.02,1158.29,37.644425,Virginia Commonwealth,2
+242,Drexel,Win 12-4,4.63,Counts,0.031200000000000002,2023-02-26,Oak Creek Challenge,1,12,4,600,8,625.81,1077.51,1225.81,1072.8799999999999,1225.81,38.245272,Virginia Commonwealth,3
+215,North Carolina-B,Win 10-5,5.77,Counts,0.028900000000000002,2023-02-26,Oak Creek Challenge,1,10,5,573.9,5,702.02,1076.37,1275.92,1070.6,1275.92,36.87408800000001,Virginia Commonwealth,4
+96,RIT,Loss 9-12,-8.47,Counts,0.0325,2023-02-27,Oak Creek Challenge,0,9,12,-345.37,-3,1175.71,1090.6,830.34,1099.07,830.34,26.986050000000002,Virginia Commonwealth,5
+139,Towson,Loss 6-10,-18.23,Counts,0.0298,2023-02-27,Oak Creek Challenge,0,6,10,-496.16,-4,985.92,1100.36,489.75999999999993,1118.59,489.75999999999993,14.594847999999999,Virginia Commonwealth,6
+229,West Chester,Win 13-9,0.28,Counts,0.0325,2023-02-27,Oak Creek Challenge,1,13,9,418.57,4,671.94,1081.85,1090.51,1081.57,1090.51,35.441575,Virginia Commonwealth,7
+165,MIT,Win 12-5,16.04,Counts,0.0371,2023-03-19,Oak Creek Invite,1,12,5,600,7,898.08,1066.1,1498.08,1050.06,1498.08,55.578768,Virginia Commonwealth,8
+362,American-B,Win 13-1,0,Ignored,0,2023-03-19,Oak Creek Invite,1,13,1,600,12,240.8,1082.14,840.8,1082.14,0,0,Virginia Commonwealth,9
+41,North Carolina-Charlotte,Loss 7-11,-1.58,Counts,0.0377,2023-03-19,Oak Creek Invite,0,7,11,-466.89,-4,1508.52,1083.72,1041.63,1085.3,1041.63,39.269451000000004,Virginia Commonwealth,10
+123,Williams,Win 9-8,4.44,Counts,0.0366,2023-03-19,Oak Creek Invite,1,9,8,125,1,1073.97,1077.7,1198.97,1073.26,1198.97,43.882302,Virginia Commonwealth,11
+62,Carnegie Mellon,Loss 7-10,-3.3,Counts,0.0366,2023-03-20,Oak Creek Invite,0,7,10,-389.67,-3,1384.97,1085.43,995.3,1088.73,995.3,36.42798,Virginia Commonwealth,12
+59,Georgetown,Win 12-10,22.5,Counts,0.0387,2023-03-20,Oak Creek Invite,1,12,10,238.12,2,1403.18,1059.64,1641.3000000000002,1037.14,1641.3000000000002,63.51831000000001,Virginia Commonwealth,13
+239,Radford,Win 13-7,6.24,Counts,0.0516,2023-04-23,Virginia D I College Mens CC 2022,1,13,7,557.53,6,639.15,1075.9,1196.6799999999998,1069.66,1196.6799999999998,61.748687999999994,Virginia Commonwealth,14
+67,James Madison,Loss 7-13,-16.26,Counts,0.0516,2023-04-23,Virginia D I College Mens CC 2022,0,7,13,-557.53,-6,1340.98,1098.4,783.45,1114.66,783.45,40.42602,Virginia Commonwealth,15
+37,Virginia,Loss 7-13,-6.8,Counts,0.0516,2023-04-23,Virginia D I College Mens CC 2022,0,7,13,-557.53,-6,1514.83,1088.93,957.3,1095.73,957.3,49.396679999999996,Virginia Commonwealth,16
+69,Virginia Tech,Loss 8-13,-13.52,Counts,0.0516,2023-04-23,Virginia D I College Mens CC 2022,0,8,13,-496.16,-5,1329.97,1095.66,833.81,1109.18,833.81,43.024595999999995,Virginia Commonwealth,17
+157,Liberty,Win 15-7,24.35,Counts,0.0516,2023-04-24,Virginia D I College Mens CC 2022,1,15,7,600,8,929.3,1057.79,1529.3,1033.44,1529.3,78.91188,Virginia Commonwealth,18
+238,George Mason,Win 15-7,8.89,Counts,0.0516,2023-04-24,Virginia D I College Mens CC 2022,1,15,7,600,8,645.39,1073.25,1245.3899999999999,1064.36,1245.3899999999999,64.262124,Virginia Commonwealth,19
+69,Virginia Tech,Loss 6-15,-19.17,Counts,0.0516,2023-04-24,Virginia D I College Mens CC 2022,0,6,15,-600,-9,1329.97,1101.31,729.97,1120.48,729.97,37.666452,Virginia Commonwealth,20
+139,Towson,Win 13-10,14.27,Counts,0.057999999999999996,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,1,13,10,328.14,3,985.92,1067.87,1314.06,1053.6,1314.06,76.21547999999999,Virginia Commonwealth,21
+27,William & Mary,Loss 5-13,-4.09,Counts,0.057999999999999996,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,0,5,13,-600,-8,1615.6,1086.23,1015.5999999999999,1090.32,1015.5999999999999,58.90479999999999,Virginia Commonwealth,22
+69,Virginia Tech,Loss 12-13,7.56,Counts,0.057999999999999996,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,0,12,13,-125,-1,1329.97,1074.58,1204.97,1067.02,1204.97,69.88826,Virginia Commonwealth,23
+67,James Madison,Loss 2-15,-20.99,Counts,0.057999999999999996,2023-05-08,Atlantic Coast D I College Mens Regionals 2022,0,2,15,-600,-13,1340.98,1103.12,740.98,1124.11,740.98,42.976839999999996,Virginia Commonwealth,24

@@ -1,0 +1,23 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+236,College of New Jersey,Win 15-2,0,Ignored,0,2023-02-26,Bring The Huckus 12,1,15,2,600,13,497.94,1002.51,1097.94,1002.51,0,0,West Chester,1
+87,Lehigh,Win 9-4,25.19,Counts,0.0408,2023-02-26,Bring The Huckus 12,1,9,4,600,5,994.47,977.32,1594.47,952.13,1594.47,65.054376,West Chester,2
+93,SUNY-Geneseo,Loss 10-15,-25.74,Counts,0.0493,2023-02-26,Bring The Huckus 12,0,10,15,-453.6,-5,960.28,1028.25,506.67999999999995,1053.99,506.67999999999995,24.979323999999995,West Chester,3
+65,Haverford,Loss 7-9,-6.79,Counts,0.0453,2023-02-27,Bring The Huckus 12,0,7,9,-279.34,-2,1138.76,1009.29,859.4200000000001,1016.0799999999999,859.4200000000001,38.931726000000005,West Chester,4
+147,Swarthmore,Win 8-6,-4.75,Counts,0.0424,2023-02-27,Bring The Huckus 12,1,8,6,300.49,2,594.68,1007.26,895.17,1012.01,895.17,37.955208,West Chester,5
+93,SUNY-Geneseo,Loss 5-7,-15.12,Counts,0.0392,2023-02-27,Bring The Huckus 12,0,5,7,-328.14,-2,960.28,1017.63,632.14,1032.75,632.14,24.779888,West Chester,6
+108,Connecticut,Win 11-5,26.51,Counts,0.0571,2023-03-26,Garden State 2022,1,11,5,600,6,840.71,975.99,1440.71,949.48,1440.71,82.264541,West Chester,7
+80,Mount Holyoke,Win 9-6,26.19,Counts,0.0552,2023-03-26,Garden State 2022,1,9,6,418.57,3,1031.85,976.32,1450.4199999999998,950.13,1450.4199999999998,80.06318399999999,West Chester,8
+147,Swarthmore,Win 10-6,5.34,Counts,0.0571,2023-03-26,Garden State 2022,1,10,6,496.16,4,594.68,997.16,1090.84,991.8199999999999,1090.84,62.28696399999999,West Chester,9
+235,Temple -B,Win 13-0,0,Ignored,0,2023-03-27,Garden State 2022,1,13,0,600,13,351.94,1002.51,951.94,1002.51,0,0,West Chester,10
+50,Carnegie Mellon,Loss 8-10,0.39,Counts,0.07200000000000001,2023-04-16,Pennsylvania D I College Womens CC 2022,0,8,10,-262.67,-2,1270.24,1002.11,1007.5699999999999,1001.72,1007.5699999999999,72.54504,West Chester,11
+235,Temple -B,Win 15-1,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,1,15,1,600,14,351.94,1002.51,951.94,1002.51,0,0,West Chester,12
+48,Penn State,Loss 9-11,1.9,Counts,0.0739,2023-04-16,Pennsylvania D I College Womens CC 2022,0,9,11,-249.21,-2,1275.52,1000.61,1026.31,998.71,1026.31,75.844309,West Chester,13
+13,Pittsburgh,Loss 0-15,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,0,15,-600,-15,1719.32,1002.51,1119.32,1002.51,0,0,West Chester,14
+175,Pittsburgh-B,Win 11-5,-0.66,Counts,0.0679,2023-04-17,Pennsylvania D I College Womens CC 2022,1,11,5,600,6,393.49,1003.16,993.49,1003.8199999999999,993.49,67.457971,West Chester,15
+58,Temple,Loss 8-9,4.56,Counts,0.0699,2023-04-17,Pennsylvania D I College Womens CC 2022,0,8,9,-125,-1,1188.14,997.95,1063.14,993.3900000000001,1063.14,74.31348600000001,West Chester,16
+175,Pittsburgh-B,Win 13-3,0,Ignored,0,2023-04-17,Pennsylvania D I College Womens CC 2022,1,13,3,600,10,393.49,1002.51,993.49,1002.51,0,0,West Chester,17
+100,Case Western Reserve,Win 10-7,26.58,Counts,0.0832,2023-05-07,Ohio Valley D I College Womens Regionals 2022,1,10,7,389.67,3,905.86,975.93,1295.53,949.3499999999999,1295.53,107.788096,West Chester,18
+61,Ohio State,Loss 7-8,3.9,Counts,0.0781,2023-05-07,Ohio Valley D I College Womens Regionals 2022,0,7,8,-125,-1,1173.55,998.61,1048.55,994.71,1048.55,81.891755,West Chester,19
+58,Temple,Loss 4-11,-36.37,Counts,0.08070000000000001,2023-05-07,Ohio Valley D I College Womens Regionals 2022,0,4,11,-600,-7,1188.14,1038.88,588.1400000000001,1075.25,588.1400000000001,47.46289800000001,West Chester,20
+13,Pittsburgh,Loss 3-11,0,Ignored,0,2023-05-07,Ohio Valley D I College Womens Regionals 2022,0,3,11,-600,-8,1719.32,1002.51,1119.32,1002.51,0,0,West Chester,21
+50,Carnegie Mellon,Loss 4-13,-32.03,Counts,0.08789999999999999,2023-05-08,Ohio Valley D I College Womens Regionals 2022,0,4,13,-600,-9,1270.24,1034.54,670.24,1066.57,670.24,58.914095999999994,West Chester,22

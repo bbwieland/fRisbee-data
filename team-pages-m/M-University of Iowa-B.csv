@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+249,St John's,Loss 4-13,-44.19,Counts,0.25920000000000004,2023-03-26,Old Capital Open 2022,0,4,13,-600,-9,610.8,181.31,10.799999999999955,225.5,10.799999999999955,2.7993599999999885,University of Iowa-B,1
+NA,Coe,Win 13-7,0,Counts,0.25920000000000004,2023-03-26,Old Capital Open 2022,1,13,7,557.53,6,420.41,137.12,977.94,137.12,977.94,253.48204800000005,University of Iowa-B,2
+164,Truman State,Loss 0-13,0,Ignored,0,2023-03-26,Old Capital Open 2022,0,0,13,-600,-13,898.32,137.12,298.32000000000005,137.12,0,0,University of Iowa-B,3
+348,Southeast Missouri State,Win 9-5,117.4,Counts,0.2225,2023-03-27,Old Capital Open 2022,1,9,5,529.06,4,18.35,19.72,547.41,-97.68,547.41,121.79872499999999,University of Iowa-B,4
+346,Iowa State-B,Loss 9-10,-79.02,Counts,0.25920000000000004,2023-03-27,Old Capital Open 2022,0,9,10,-125,-1,36.25,216.14,-88.75,295.15999999999997,-88.75,-23.004000000000005,University of Iowa-B,5
+169,Kansas,Loss 3-13,0,Ignored,0,2023-03-27,Old Capital Open 2022,0,3,13,-600,-10,889.88,137.12,289.88,137.12,0,0,University of Iowa-B,6

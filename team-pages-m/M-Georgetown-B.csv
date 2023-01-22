@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+127,South Carolina-B,Loss 2-11,0,Ignored,0,2023-03-26,Hoos Huckin,0,2,11,-600,-9,1057.1,157.89,457.0999999999999,157.89,0,0,Georgetown-B,1
+268,James Madison-B,Loss 6-7,53.18,Counts,0.0902,2023-03-26,Hoos Huckin,0,6,7,-125,-1,503.34,211.07,378.34,157.89,378.34,34.126267999999996,Georgetown-B,2
+318,Virginia-B,Loss 5-7,6.87,Counts,0.0867,2023-03-26,Hoos Huckin,0,5,7,-328.14,-2,242.62,164.76,-85.51999999999998,157.89,-85.51999999999998,-7.414583999999999,Georgetown-B,3
+233,Navy-B,Loss 5-10,25.84,Counts,0.0969,2023-03-27,Hoos Huckin,0,5,10,-573.9,-5,656.78,183.73,82.88,157.89,82.88,8.031072,Georgetown-B,4
+316,George Washington-B,Win 8-7,56.89,Counts,0.0969,2023-03-27,Hoos Huckin,1,8,7,125,1,247.2,214.78,372.2,157.89,372.2,36.066179999999996,Georgetown-B,5
+318,Virginia-B,Loss 6-12,-21.24,Counts,0.10619999999999999,2023-03-27,Hoos Huckin,0,6,12,-579.31,-6,242.62,136.65,-336.68999999999994,157.89000000000001,-336.68999999999994,-35.75647799999999,Georgetown-B,6
+228,Maryland-B,Loss 3-15,0,Ignored,0,2023-04-23,Colonial Dev College Mens CC 2022,0,3,15,-600,-12,676.95,157.89,76.95000000000005,157.89,0,0,Georgetown-B,7
+352,Delaware-B,Loss 9-10,-4.02,Counts,0.1374,2023-04-23,Colonial Dev College Mens CC 2022,0,9,10,-125,-1,58.12,153.87,-66.88,157.89000000000001,-66.88,-9.189312,Georgetown-B,8
+362,American-B,Loss 6-10,-83.57,Counts,0.1261,2023-04-24,Colonial Dev College Mens CC 2022,0,6,10,-496.16,-4,240.8,74.32,-255.36,157.89,-255.36,-32.200896,Georgetown-B,9
+316,George Washington-B,Loss 8-15,-25.45,Counts,0.1374,2023-04-24,Colonial Dev College Mens CC 2022,0,8,15,-564.81,-7,247.2,132.44,-317.60999999999996,157.89,-317.60999999999996,-43.639613999999995,Georgetown-B,10
+354,Towson -B,Loss 7-8,-13.6,Counts,0.12210000000000001,2023-04-24,Colonial Dev College Mens CC 2022,0,7,8,-125,-1,130.65,144.29,5.650000000000006,157.89,5.650000000000006,0.6898650000000007,Georgetown-B,11

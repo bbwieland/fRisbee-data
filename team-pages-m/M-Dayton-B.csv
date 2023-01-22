@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+115,Miami (Ohio),Loss 0-13,0,Ignored,0,2023-03-05,Huckin in the Hills,0,0,13,-600,-13,1092.5,272.08,492.5,272.08,0,0,Dayton-B,1
+336,Slippery Rock,Loss 7-10,NA,Counts,1,2023-03-05,Huckin in the Hills,0,7,10,-389.67,-3,117.58,NA,-272.09000000000003,NA,-272.09000000000003,-272.09000000000003,Dayton-B,2
+285,Akron,Loss 5-12,0,Ignored,0,2023-03-05,Huckin in the Hills,0,5,12,-600,-7,398.95,272.08,-201.05,272.08,0,-0,Dayton-B,3
+145,SUNY-Buffalo,Loss 5-13,0,Ignored,0,2023-03-05,Huckin in the Hills,0,5,13,-600,-8,968.61,272.08,368.61,272.08,0,0,Dayton-B,4

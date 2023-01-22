@@ -1,0 +1,30 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+122,Colby,Win 13-8,-5.02,Counts,0.038599999999999995,2023-03-05,No Sleep Till Brooklyn 2022,1,13,8,496.16,5,747.13,1373.32,1243.29,1378.34,1243.29,47.99099399999999,Wellesley,1
+185,Princeton,Win 13-1,0,Ignored,0,2023-03-05,No Sleep Till Brooklyn 2022,1,13,1,600,12,334.9,1368.3,934.9,1368.3,0,0,Wellesley,2
+49,Columbia,Loss 9-10,-8.9,Counts,0.038599999999999995,2023-03-06,No Sleep Till Brooklyn 2022,0,9,10,-125,-1,1271.44,1377.21,1146.44,1386.1100000000001,1146.44,44.252584,Wellesley,3
+31,SUNY-Binghamton,Loss 6-8,-7.43,Counts,0.0331,2023-03-06,No Sleep Till Brooklyn 2022,0,6,8,-300.49,-2,1451.86,1375.74,1151.37,1383.17,1151.37,38.11034699999999,Wellesley,4
+28,Williams,Loss 5-8,-10.93,Counts,0.0319,2023-03-06,No Sleep Till Brooklyn 2022,0,5,8,-453.6,-3,1490.38,1379.23,1036.7800000000002,1390.16,1036.7800000000002,33.073282000000006,Wellesley,5
+65,Haverford,Loss 7-9,-21.06,Counts,0.0397,2023-03-19,Jersey Devil,0,7,9,-279.34,-2,1138.76,1389.37,859.4200000000001,1410.4299999999998,859.4200000000001,34.118974,Wellesley,6
+147,Swarthmore,Win 13-0,0,Ignored,0,2023-03-19,Jersey Devil,1,13,0,600,13,594.68,1368.3,1194.6799999999998,1368.3,0,0,Wellesley,7
+136,Rochester,Win 13-3,0,Ignored,0,2023-03-19,Jersey Devil,1,13,3,600,10,645.42,1368.3,1245.42,1368.3,0,0,Wellesley,8
+26,Brown,Loss 11-12,0.38,Counts,0.0433,2023-03-20,Jersey Devil,0,11,12,-125,-1,1501.72,1367.92,1376.72,1367.54,1376.72,59.611976,Wellesley,9
+122,Colby,Win 11-2,0,Ignored,0,2023-04-02,New England Open,1,11,2,600,9,747.13,1368.3,1347.13,1368.3,0,0,Wellesley,10
+188,Northeastern-B,Win 15-3,0,Ignored,0,2023-04-02,New England Open,1,15,3,600,12,322.17,1368.3,922.1700000000001,1368.3,0,0,Wellesley,11
+163,Tufts-B,Win 15-3,0,Ignored,0,2023-04-02,New England Open,1,15,3,600,12,479.82,1368.3,1079.82,1368.3,0,0,Wellesley,12
+221,Boston University-B,Win 13-0,0,Ignored,0,2023-04-03,New England Open,1,13,0,600,13,34.38,1368.3,634.38,1368.3,0,0,Wellesley,13
+89,Brandeis,Win 14-4,11.5,Counts,0.048600000000000004,2023-04-03,New England Open,1,14,4,600,10,993.33,1356.81,1593.33,1345.31,1593.33,77.435838,Wellesley,14
+146,Stonehill,Win 12-4,0,Ignored,0,2023-04-03,New England Open,1,12,4,600,8,595.83,1368.3,1195.83,1368.3,0,0,Wellesley,15
+NA,Bentley,Win 15-1,0,Ignored,0,2023-04-23,Metro Boston D III College Womens CC 2022,1,15,1,600,14,NA,1368.3,NA,1368.3,0,NA,Wellesley,16
+89,Brandeis,Win 15-4,13.81,Counts,0.057800000000000004,2023-04-23,Metro Boston D III College Womens CC 2022,1,15,4,600,11,993.33,1354.5,1593.33,1340.69,1593.33,92.094474,Wellesley,17
+125,Bates,Win 13-3,0,Ignored,0,2023-04-30,New England D III College Womens Regionals 2022,1,13,3,600,10,717.11,1368.3,1317.1100000000001,1368.3,0,0,Wellesley,18
+89,Brandeis,Win 11-3,13.4,Counts,0.0562,2023-04-30,New England D III College Womens Regionals 2022,1,11,3,600,8,993.33,1354.9,1593.33,1341.5,1593.33,89.545146,Wellesley,19
+22,Middlebury,Loss 6-8,-7.1,Counts,0.0526,2023-04-30,New England D III College Womens Regionals 2022,0,6,8,-300.49,-2,1540.81,1375.41,1240.32,1382.51,1240.32,65.240832,Wellesley,20
+80,Mount Holyoke,Win 15-4,17.2,Counts,0.061200000000000004,2023-05-01,New England D III College Womens Regionals 2022,1,15,4,600,11,1031.85,1351.11,1631.85,1333.9099999999999,1631.85,99.86922,Wellesley,21
+22,Middlebury,Loss 9-11,-5,Counts,0.061200000000000004,2023-05-01,New England D III College Womens Regionals 2022,0,9,11,-249.21,-2,1540.81,1373.31,1291.6,1378.31,1291.6,79.04592,Wellesley,22
+59,St. Olaf,Loss 14-15,-24.71,Counts,0.0728,2023-05-21,2022 D III College Championships,0,14,15,-125,-1,NA,1393.02,NA,1417.73,NA,NA,Wellesley,23
+87,Lehigh,Win 15-7,17.77,Counts,0.0728,2023-05-21,2022 D III College Championships,1,15,7,600,8,994.47,1350.54,1594.47,1332.77,1594.47,116.07741600000001,Wellesley,24
+172,Lewis & Clark,Win 14-4,0,Ignored,0,2023-05-21,2022 D III College Championships,1,14,4,600,10,400.91,1368.3,1000.9100000000001,1368.3,0,0,Wellesley,25
+102,Berry,Win 15-6,10.41,Counts,0.0728,2023-05-22,2022 D III College Championships,1,15,6,600,9,900.79,1357.9,1500.79,1347.49,1500.79,109.257512,Wellesley,26
+23,Carleton College-Eclipse,Win 15-14,21.72,Counts,0.0728,2023-05-22,2022 D III College Championships,1,15,14,125,1,1519.75,1346.59,1644.75,1324.87,1644.75,119.73780000000001,Wellesley,27
+52,Portland,Win 13-11,7.36,Counts,0.0728,2023-05-22,2022 D III College Championships,1,13,11,228.84,2,1233.18,1360.94,1462.02,1353.5800000000002,1462.02,106.435056,Wellesley,28
+22,Middlebury,Loss 10-15,-22.08,Counts,0.0728,2023-05-23,2022 D III College Championships,0,10,15,-453.6,-5,1540.81,1390.39,1087.21,1412.47,1087.21,79.148888,Wellesley,29

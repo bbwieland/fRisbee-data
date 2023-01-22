@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+172,Lewis & Clark,Loss 4-14,-12.78,Counts,0.3528,2023-04-16,Northwest D III College Womens CC 2022,0,4,14,-600,-10,400.91,162.86,-199.08999999999997,175.64000000000001,-199.08999999999997,-70.238952,Pacific Lutheran,1
+52,Portland,Loss 4-14,0,Ignored,0,2023-04-16,Northwest D III College Womens CC 2022,0,4,14,-600,-10,1233.18,175.64,633.1800000000001,175.64,0,0,Pacific Lutheran,2
+226,Puget Sound,Loss 7-8,5.84,Counts,0.3135,2023-04-16,Northwest D III College Womens CC 2022,0,7,8,-125,-1,37.86,181.47,-87.14,175.63,-87.14,-27.31839,Pacific Lutheran,3
+226,Puget Sound,Loss 8-9,6.4,Counts,0.3337,2023-04-17,Northwest D III College Womens CC 2022,0,8,9,-125,-1,37.86,182.04,-87.14,175.64,-87.14,-29.078618,Pacific Lutheran,4

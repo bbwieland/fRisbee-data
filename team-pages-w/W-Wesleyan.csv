@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+221,Boston University-B,Loss 3-6,-50.32,Counts,0.0802,2023-04-02,New England Open,0,3,6,-546.69,-3,34.38,115.24,-512.3100000000001,165.56,-512.3100000000001,-41.087262,Wesleyan,1
+184,Bowdoin,Loss 2-7,-30.16,Counts,0.08449999999999999,2023-04-02,New England Open,0,2,7,-600,-5,338.32,95.07,-261.68,125.22999999999999,-261.68,-22.11196,Wesleyan,2
+89,Brandeis,Loss 1-10,0,Ignored,0,2023-04-02,New England Open,0,1,10,-600,-9,993.33,64.92,393.33000000000004,64.92,0,0,Wesleyan,3
+146,Stonehill,Loss 2-11,-8.27,Counts,0.1069,2023-04-02,New England Open,0,2,11,-600,-9,595.83,73.19,-4.169999999999959,81.46,-4.169999999999959,-0.4457729999999956,Wesleyan,4
+NA,Bard,Win 8-2,16.79,Counts,0.1017,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,8,2,600,6,386.88,48.13,986.88,31.340000000000003,986.88,100.365696,Wesleyan,5
+91,Skidmore,Loss 2-9,0,Ignored,0,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,2,9,-600,-7,966.62,64.92,366.62,64.92,0,0,Wesleyan,6
+199,Connecticut College,Win 8-5,74.91,Counts,0.1082,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,8,5,453.6,3,228.91,10,682.51,-64.91,682.51,73.847582,Wesleyan,7
+NA,Vassar,Win 8-5,37.03,Counts,0.1082,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,8,5,453.6,3,83.42,27.89,537.02,-9.14,537.02,58.105564,Wesleyan,8
+91,Skidmore,Loss 3-11,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,0,3,11,-600,-8,966.62,64.92,366.62,64.92,0,0,Wesleyan,9
+190,Hamilton,Loss 9-10,18.74,Counts,0.14679999999999999,2023-04-30,Metro East D III College Womens Regionals 2022,0,9,10,-125,-1,298.84,46.18,173.83999999999997,27.44,173.83999999999997,25.519711999999995,Wesleyan,10
+199,Connecticut College,Loss 4-8,-52.94,Counts,0.1167,2023-04-30,Metro East D III College Womens Regionals 2022,0,4,8,-564.81,-4,228.91,117.85,-335.9,170.79,-335.9,-39.199529999999996,Wesleyan,11
+136,Rochester,Loss 6-13,-3.35,Counts,0.14679999999999999,2023-04-30,Metro East D III College Womens Regionals 2022,0,6,13,-600,-7,645.42,68.27,45.41999999999996,71.61999999999999,45.41999999999996,6.667655999999993,Wesleyan,12

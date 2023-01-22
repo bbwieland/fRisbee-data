@@ -1,0 +1,26 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+23,Carleton College-Eclipse,Loss 7-8,-7.42,Counts,0.0483,2023-03-19,College Southerns XX,0,7,8,-125,-1,1519.75,1548.23,1394.75,1555.65,1394.75,67.366425,Middlebury,1
+183,Florida-B,Win 13-1,0,Ignored,0,2023-03-19,College Southerns XX,1,13,1,600,12,342.29,1540.81,942.29,1540.81,0,0,Middlebury,2
+116,Wisconsin-Eau Claire,Win 11-3,0,Ignored,0,2023-03-19,College Southerns XX,1,11,3,600,8,770.8,1540.81,1370.8,1540.81,0,0,Middlebury,3
+23,Carleton College-Eclipse,Win 12-10,12.49,Counts,0.054400000000000004,2023-03-20,College Southerns XX,1,12,10,238.12,2,1519.75,1528.33,1757.87,1515.84,1757.87,95.628128,Middlebury,4
+69,Charleston,Win 11-6,6.26,Counts,0.051500000000000004,2023-03-20,College Southerns XX,1,11,6,546.69,5,1109.51,1534.55,1656.2,1528.29,1656.2,85.2943,Middlebury,5
+81,Emory,Win 10-8,-15.56,Counts,0.056100000000000004,2023-03-26,Needle in a Ho Stack,1,10,8,262.67,2,1016.31,1556.37,1278.98,1571.9299999999998,1278.98,71.75077800000001,Middlebury,6
+149,North Carolina-Wilmington,Win 15-4,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,4,600,11,588.46,1540.81,1188.46,1540.81,0,0,Middlebury,7
+238,University of North Carolina - Asheville,Win 15-1,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,1,600,14,735.54,1540.81,1335.54,1540.81,0,0,Middlebury,8
+25,Appalachian State,Win 12-10,12.32,Counts,0.0576,2023-03-27,Needle in a Ho Stack,1,12,10,238.12,2,1504.18,1528.49,1742.3000000000002,1516.17,1742.3000000000002,100.35648,Middlebury,9
+102,Berry,Win 15-5,0,Ignored,0,2023-03-27,Needle in a Ho Stack,1,15,5,600,10,900.79,1540.81,1500.79,1540.81,0,0,Middlebury,10
+237,Emory-B,Win 15-0,0,Ignored,0,2023-03-27,Needle in a Ho Stack,1,15,0,600,15,634.24,1540.81,1234.24,1540.81,0,0,Middlebury,11
+125,Bates,Win 13-5,0,Ignored,0,2023-04-10,North New England D III College Womens CC 2022,1,13,5,600,8,717.11,1540.81,1317.1100000000001,1540.81,0,0,Middlebury,12
+184,Bowdoin,Win 10-3,0,Ignored,0,2023-04-10,North New England D III College Womens CC 2022,1,10,3,600,7,338.32,1540.81,938.3199999999999,1540.81,0,0,Middlebury,13
+122,Colby,Win 13-5,0,Ignored,0,2023-04-10,North New England D III College Womens CC 2022,1,13,5,600,8,747.13,1540.81,1347.13,1540.81,0,0,Middlebury,14
+125,Bates,Win 13-2,0,Ignored,0,2023-04-30,New England D III College Womens Regionals 2022,1,13,2,600,11,717.11,1540.81,1317.1100000000001,1540.81,0,0,Middlebury,15
+89,Brandeis,Win 7-5,-14.28,Counts,0.0611,2023-04-30,New England D III College Womens Regionals 2022,1,7,5,328.14,2,993.33,1555.1,1321.47,1569.3799999999999,1321.47,80.741817,Middlebury,16
+37,Wellesley,Win 8-6,9.05,Counts,0.066,2023-04-30,New England D III College Womens Regionals 2022,1,8,6,300.49,2,1368.3,1531.77,1668.79,1522.72,1668.79,110.14014,Middlebury,17
+76,Amherst,Win 9-7,-15.68,Counts,0.0706,2023-05-01,New England D III College Womens Regionals 2022,1,9,7,279.34,2,1055.04,1556.49,1334.3799999999999,1572.17,1334.3799999999999,94.20722799999999,Middlebury,18
+37,Wellesley,Win 11-9,6.39,Counts,0.07690000000000001,2023-05-01,New England D III College Womens Regionals 2022,1,11,9,249.21,2,1368.3,1534.42,1617.51,1528.03,1617.51,124.38651900000002,Middlebury,19
+102,Berry,Win 13-3,0,Ignored,0,2023-05-21,2022 D III College Championships,1,13,3,600,10,900.79,1540.81,1500.79,1540.81,0,0,Middlebury,20
+124,Occidental,Win 15-7,-22.05,Counts,0.0915,2023-05-21,2022 D III College Championships,1,15,7,600,8,721.86,1562.86,1321.8600000000001,1584.9099999999999,1321.8600000000001,120.95019,Middlebury,21
+93,SUNY-Geneseo,Win 15-10,-12.78,Counts,0.0915,2023-05-21,2022 D III College Championships,1,15,10,453.6,5,960.28,1553.6,1413.88,1566.3799999999999,1413.88,129.37002,Middlebury,22
+65,Haverford,Win 12-8,3.94,Counts,0.0915,2023-05-22,2022 D III College Championships,1,12,8,441.15,4,1138.76,1536.88,1579.9099999999999,1532.94,1579.9099999999999,144.56176499999998,Middlebury,23
+59,St. Olaf,Win 15-10,9.22,Counts,0.0915,2023-05-22,2022 D III College Championships,1,15,10,453.6,5,NA,1531.6,NA,1522.3799999999999,NA,NA,Middlebury,24
+37,Wellesley,Win 15-10,28.3,Counts,0.0915,2023-05-23,2022 D III College Championships,1,15,10,453.6,5,1368.3,1512.51,1821.9,1484.21,1821.9,166.70385000000002,Middlebury,25

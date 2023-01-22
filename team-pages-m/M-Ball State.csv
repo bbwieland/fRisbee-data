@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+91,Kentucky,Loss 3-15,0,Ignored,0,2023-04-09,East Plains D I College Mens CC 2022,0,3,15,-600,-12,1197.89,511.99,597.8900000000001,511.99,0,0,Ball State,1
+60,Notre Dame,Loss 8-14,359.68,Counts,0.5068,2023-04-09,East Plains D I College Mens CC 2022,0,8,14,-536.03,-6,1398.11,152.32,862.0799999999999,-207.36,862.0799999999999,436.90214399999996,Ball State,2
+52,Indiana,Loss 2-15,0,Ignored,0,2023-04-09,East Plains D I College Mens CC 2022,0,2,15,-600,-13,1441.23,511.99,841.23,511.99,0,0,Ball State,3
+245,IUPUI,Loss 7-11,-350.08,Counts,0.4932,2023-04-10,East Plains D I College Mens CC 2022,0,7,11,-466.89,-4,619.21,862.08,152.32000000000005,1212.16,152.32000000000005,75.12422400000003,Ball State,4

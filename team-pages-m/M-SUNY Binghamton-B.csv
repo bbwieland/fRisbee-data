@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+351,Cornell-B,Win 12-5,146.36,Counts,0.24239999999999998,2023-03-26,New York Invite,1,12,5,600,7,52.51,56.36,652.51,-90.00000000000001,652.51,158.168424,SUNY Binghamton-B,1
+369,SUNY-Albany-B,Win 13-0,41.2,Counts,0.2525,2023-03-26,New York Invite,1,13,0,600,13,388.05,48.79,988.05,7.589999999999996,988.05,249.48262499999998,SUNY Binghamton-B,2
+276,Connecticut-B,Loss 5-13,-78.44,Counts,0.2525,2023-03-26,New York Invite,0,5,13,-600,-8,457.84,168.44,-142.16000000000003,246.88,-142.16000000000003,-35.89540000000001,SUNY Binghamton-B,3
+193,Vermont-C,Loss 4-13,0,Ignored,0,2023-03-26,New York Invite,0,4,13,-600,-9,786.67,90,186.66999999999996,90,0,0,SUNY Binghamton-B,4
+309,SUNY-Binghamton-B,Loss 7-12,-111.11,Counts,0.2525,2023-03-27,New York Invite,0,7,12,-520.51,-5,281.65,201.11,-238.86,312.22,-238.86,-60.31215,SUNY Binghamton-B,5

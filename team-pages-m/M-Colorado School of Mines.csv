@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+68,Colorado College,Loss 6-10,-0.68,Counts,0.0527,2023-02-26,Snow Melt at Colorado College,0,6,10,-496.16,-4,1340.93,857.61,844.77,858.29,844.77,44.519378999999994,Colorado School of Mines,1
+135,Colorado-B,Loss 8-10,-6.17,Counts,0.0559,2023-02-26,Snow Melt at Colorado College,0,8,10,-262.67,-2,1015.4,863.1,752.73,869.27,752.73,42.077607,Colorado School of Mines,2
+199,Air Force,Loss 9-10,-13.35,Counts,0.0574,2023-02-26,Snow Melt at Colorado College,0,9,10,-125,-1,762.71,870.29,637.71,883.64,637.71,36.604554,Colorado School of Mines,3
+122,Denver,Win 9-7,27.71,Counts,0.0527,2023-02-27,Snow Melt at Colorado College,1,9,7,279.34,2,1075.81,829.23,1355.1499999999999,801.52,1355.1499999999999,71.41640499999998,Colorado School of Mines,4
+143,Texas-San Antonio,Loss 9-13,-20.83,Counts,0.0644,2023-03-12,Centex Tier II,0,9,13,-418.57,-4,973.08,877.77,554.51,898.6,554.51,35.710443999999995,Colorado School of Mines,5
+270,North Texas,Loss 12-13,-33.19,Counts,0.0644,2023-03-12,Centex Tier II,0,12,13,-125,-1,500.12,890.12,375.12,923.31,375.12,24.157728,Colorado School of Mines,6
+205,Sam Houston State,Loss 11-12,-17.62,Counts,0.0644,2023-03-12,Centex Tier II,0,11,12,-125,-1,726.13,874.56,601.13,892.18,601.13,38.712772,Colorado School of Mines,7
+310,Texas A&M-B,Win 15-6,0.94,Counts,0.0644,2023-03-13,Centex Tier II,1,15,6,600,9,270.61,855.99,870.61,855.05,870.61,56.067284,Colorado School of Mines,8
+308,Texas Christian,Win 13-6,1.76,Counts,0.0644,2023-03-13,Centex Tier II,1,13,6,600,7,282.45,855.18,882.45,853.42,882.45,56.82978,Colorado School of Mines,9
+68,Colorado College,Loss 9-15,-2.96,Counts,0.086,2023-04-16,Rocky Mountain D III College Mens CC 2022,0,9,15,-515.48,-6,1340.93,859.9,825.45,862.86,825.45,70.9887,Colorado School of Mines,10
+199,Air Force,Win 14-9,35.73,Counts,0.086,2023-04-16,Rocky Mountain D III College Mens CC 2022,1,14,9,473.87,5,762.71,821.21,1236.58,785.48,1236.58,106.34587999999998,Colorado School of Mines,11
+197,Rice,Win 12-10,15.53,Counts,0.0966,2023-04-30,South Central D III College Mens Regionals 2022,1,12,10,238.12,2,764.1,841.41,1002.22,825.88,1002.22,96.814452,Colorado School of Mines,12
+68,Colorado College,Loss 7-11,1.77,Counts,0.094,2023-04-30,South Central D III College Mens Regionals 2022,0,7,11,-466.89,-4,1340.93,855.16,874.0400000000001,853.39,874.0400000000001,82.15976,Colorado School of Mines,13
+31,Oklahoma Christian,Loss 6-15,0,Ignored,0,2023-04-30,South Central D III College Mens Regionals 2022,0,6,15,-600,-9,1591.76,856.94,991.76,856.94,0,0,Colorado School of Mines,14
+197,Rice,Win 15-13,12.97,Counts,0.0966,2023-05-01,South Central D III College Mens Regionals 2022,1,15,13,214.18,2,764.1,843.97,978.28,831,978.28,94.50184800000001,Colorado School of Mines,15

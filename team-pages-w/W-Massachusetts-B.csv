@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+199,Connecticut College,Loss 2-14,-114.36,Counts,0.24,2023-04-02,Northeast Classic,0,2,14,-600,-12,228.91,105.34,-371.09000000000003,219.7,-371.09000000000003,-89.0616,Massachusetts-B,1
+206,SUNY-Oneonta,Loss 2-13,-138.05,Counts,0.24,2023-04-02,Northeast Classic,0,2,13,-600,-11,153.91,129.03,-446.09000000000003,267.08000000000004,-446.09000000000003,-107.0616,Massachusetts-B,2
+93,SUNY-Geneseo,Loss 3-15,0,Ignored,0,2023-04-02,Northeast Classic,0,3,15,-600,-12,960.28,9.02,360.28,9.02,0,0,Massachusetts-B,3
+99,Vermont-B,Loss 4-8,83.33,Counts,0.19079999999999997,2023-04-03,Northeast Classic,0,4,8,-564.81,-4,909.32,92.35,344.5100000000001,9.019999999999996,344.5100000000001,65.73250800000001,Massachusetts-B,4
+227,SUNY-Albany,Win 9-5,112.01,Counts,0.20600000000000002,2023-04-03,Northeast Classic,1,9,5,529.06,4,106.46,121.03,635.52,9.019999999999996,635.52,130.91712,Massachusetts-B,5
+206,SUNY-Oneonta,Win 3-2,40.43,Counts,0.1231,2023-04-03,Northeast Classic,1,3,2,125,1,153.91,49.45,278.90999999999997,9.020000000000003,278.90999999999997,34.33382099999999,Massachusetts-B,6

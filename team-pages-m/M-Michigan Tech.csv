@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+137,Michigan-B,Loss 7-15,-34.12,Counts,0.0623,2023-03-26,D III Midwestern Invite,0,7,15,-600,-8,986.06,933.94,386.05999999999995,968.0600000000001,386.05999999999995,24.051537999999997,Michigan Tech,1
+322,Purdue-B,Win 15-4,0,Ignored,0,2023-03-26,D III Midwestern Invite,1,15,4,600,11,205.19,899.82,805.19,899.82,0,0,Michigan Tech,2
+245,IUPUI,Win 11-6,16.66,Counts,0.058899999999999994,2023-03-26,D III Midwestern Invite,1,11,6,546.69,5,619.21,883.17,1165.9,866.51,1165.9,68.67151,Michigan Tech,3
+273,Rose-Hulman,Win 15-7,11.97,Counts,0.0623,2023-03-27,D III Midwestern Invite,1,15,7,600,8,480.09,887.85,1080.09,875.88,1080.09,67.28960699999999,Michigan Tech,4
+116,Butler,Loss 11-13,-2.86,Counts,0.0623,2023-03-27,D III Midwestern Invite,0,11,13,-228.84,-2,1085.54,902.69,856.6999999999999,905.5500000000001,856.6999999999999,53.372409999999995,Michigan Tech,5
+80,Wisconsin-Platteville,Loss 7-13,-17.67,Counts,0.0785,2023-04-23,Lake Superior D III College Mens CC 2022,0,7,13,-557.53,-6,1249.81,917.5,692.28,935.17,692.28,54.343979999999995,Michigan Tech,6
+213,Luther,Win 12-8,21.08,Counts,0.0785,2023-04-23,Lake Superior D III College Mens CC 2022,1,12,8,441.15,4,706.18,878.75,1147.33,857.67,1147.33,90.065405,Michigan Tech,7
+160,Carthage,Win 10-9,11.8,Counts,0.0785,2023-04-23,Lake Superior D III College Mens CC 2022,1,10,9,125,1,913.35,888.03,1038.35,876.23,1038.35,81.510475,Michigan Tech,8
+305,Milwaukee School of Engineering,Win 13-3,0,Ignored,0,2023-04-23,Lake Superior D III College Mens CC 2022,1,13,3,600,10,294.7,899.82,894.7,899.82,0,0,Michigan Tech,9
+160,Carthage,Loss 8-12,-36.41,Counts,0.0785,2023-04-24,Lake Superior D III College Mens CC 2022,0,8,12,-441.15,-4,913.35,936.23,472.20000000000005,972.64,472.20000000000005,37.0677,Michigan Tech,10
+34,St. Olaf,Loss 3-13,0,Ignored,0,2023-05-07,North Central D III College Mens Regionals 2022,0,3,13,-600,-10,NA,899.82,NA,899.82,0,NA,Michigan Tech,11
+155,Grinnell,Loss 12-13,-7.28,Counts,0.08810000000000001,2023-05-07,North Central D III College Mens Regionals 2022,0,12,13,-125,-1,949.42,907.11,824.42,914.39,824.42,72.63140200000001,Michigan Tech,12
+253,St. Thomas,Win 13-9,11.15,Counts,0.08810000000000001,2023-05-07,North Central D III College Mens Regionals 2022,1,13,9,418.57,4,NA,888.67,NA,877.52,NA,NA,Michigan Tech,13
+249,St John's,Win 13-8,20.01,Counts,0.08810000000000001,2023-05-07,North Central D III College Mens Regionals 2022,1,13,8,496.16,5,610.8,879.82,1106.96,859.8100000000001,1106.96,97.52317600000002,Michigan Tech,14
+160,Carthage,Win 13-12,13.38,Counts,0.08810000000000001,2023-05-08,North Central D III College Mens Regionals 2022,1,13,12,125,1,913.35,886.44,1038.35,873.0600000000001,1038.35,91.478635,Michigan Tech,15
+155,Grinnell,Loss 12-13,-7.28,Counts,0.08810000000000001,2023-05-08,North Central D III College Mens Regionals 2022,0,12,13,-125,-1,949.42,907.11,824.42,914.39,824.42,72.63140200000001,Michigan Tech,16

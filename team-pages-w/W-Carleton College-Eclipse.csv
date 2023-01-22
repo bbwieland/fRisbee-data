@@ -1,0 +1,27 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+59,St. Olaf,Win 13-4,12.75,Counts,0.046900000000000004,2023-02-26,Forever Winter Tournament,1,13,4,600,9,NA,1507,NA,1494.25,NA,NA,Carleton College-Eclipse,1
+201,St. Olaf-B,Win 7-0,0,Ignored,0,2023-02-26,Forever Winter Tournament,1,7,0,600,7,NA,1519.75,NA,1519.75,0,NA,Carleton College-Eclipse,2
+145,Macalester,Win 13-1,0,Ignored,0,2023-02-26,Forever Winter Tournament,1,13,1,600,12,602.33,1519.75,1202.33,1519.75,0,0,Carleton College-Eclipse,3
+106,Michigan Tech,Win 13-3,0,Ignored,0,2023-02-26,Forever Winter Tournament,1,13,3,600,10,850.86,1519.75,1450.8600000000001,1519.75,0,0,Carleton College-Eclipse,4
+143,Illinois,Win 13-1,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,1,13,1,600,12,626.49,1519.75,1226.49,1519.75,0,0,Carleton College-Eclipse,5
+116,Wisconsin-Eau Claire,Win 8-4,-7.57,Counts,0.0395,2023-03-05,Midwest Throwdown 2022,1,8,4,564.81,4,770.8,1527.32,1335.61,1534.8899999999999,1335.61,52.756595,Carleton College-Eclipse,6
+29,Purdue,Win 6-3,17.72,Counts,0.0342,2023-03-05,Midwest Throwdown 2022,1,6,3,546.69,3,1473.48,1502.02,2020.17,1484.3,2020.17,69.089814,Carleton College-Eclipse,7
+64,Iowa,Win 9-5,6.71,Counts,0.042699999999999995,2023-03-06,Midwest Throwdown 2022,1,9,5,529.06,4,1141.3,1513.04,1670.36,1506.33,1670.36,71.32437199999998,Carleton College-Eclipse,8
+71,Northwestern,Win 9-6,-0.67,Counts,0.044199999999999996,2023-03-06,Midwest Throwdown 2022,1,9,6,418.57,3,1086.61,1520.42,1505.1799999999998,1521.0900000000001,1505.1799999999998,66.528956,Carleton College-Eclipse,9
+33,Minnesota,Loss 8-9,-11.05,Counts,0.047,2023-03-06,Midwest Throwdown 2022,0,8,9,-125,-1,1420.67,1530.8,1295.67,1541.85,1295.67,60.89649000000001,Carleton College-Eclipse,10
+35,Colorado State,Win 9-8,0.54,Counts,0.047,2023-03-06,Midwest Throwdown 2022,1,9,8,125,1,1405.77,1519.2,1530.77,1518.66,1530.77,71.94619,Carleton College-Eclipse,11
+139,Auburn,Win 13-5,0,Ignored,0,2023-03-19,College Southerns XX,1,13,5,600,8,640.3,1519.75,1240.3,1519.75,0,0,Carleton College-Eclipse,12
+69,Charleston,Win 13-3,11.21,Counts,0.0558,2023-03-19,College Southerns XX,1,13,3,600,10,1109.51,1508.54,1709.51,1497.33,1709.51,95.390658,Carleton College-Eclipse,13
+22,Middlebury,Win 8-7,7.62,Counts,0.0496,2023-03-19,College Southerns XX,1,8,7,125,1,1540.81,1512.13,1665.81,1504.5100000000002,1665.81,82.62417599999999,Carleton College-Eclipse,14
+139,Auburn,Win 15-1,0,Ignored,0,2023-03-20,College Southerns XX,1,15,1,600,14,640.3,1519.75,1240.3,1519.75,0,0,Carleton College-Eclipse,15
+22,Middlebury,Loss 10-12,-12.82,Counts,0.0558,2023-03-20,College Southerns XX,0,10,12,-238.12,-2,1540.81,1532.57,1302.69,1545.3899999999999,1302.69,72.69010200000001,Carleton College-Eclipse,16
+215,Carleton College-C,Win 13-0,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,13,0,600,13,66.31,1519.75,666.31,1519.75,0,0,Carleton College-Eclipse,17
+201,St. Olaf-B,Win 13-2,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,13,2,600,11,NA,1519.75,NA,1519.75,0,NA,Carleton College-Eclipse,18
+106,Michigan Tech,Win 13-5,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,13,5,600,8,850.86,1519.75,1450.8600000000001,1519.75,0,0,Carleton College-Eclipse,19
+141,Grinnell,Win 10-3,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,1,10,3,600,7,639.67,1519.75,1239.67,1519.75,0,0,Carleton College-Eclipse,20
+59,St. Olaf,Win 10-8,-5.75,Counts,0.0684,2023-04-17,North Central D III College Womens CC 2022,1,10,8,262.67,2,NA,1525.5,NA,1531.25,NA,NA,Carleton College-Eclipse,21
+65,Haverford,Win 15-3,22.67,Counts,0.09380000000000001,2023-05-21,2022 D III College Championships,1,15,3,600,12,1138.76,1497.07,1738.76,1474.3999999999999,1738.76,163.09568800000002,Carleton College-Eclipse,22
+91,Skidmore,Win 15-4,4.85,Counts,0.09380000000000001,2023-05-21,2022 D III College Championships,1,15,4,600,11,966.62,1514.89,1566.62,1510.0400000000002,1566.62,146.948956,Carleton College-Eclipse,23
+107,Mary Washington,Win 13-9,-26.63,Counts,0.09380000000000001,2023-05-21,2022 D III College Championships,1,13,9,418.57,4,843.9,1546.38,1262.47,1573.0100000000002,1262.47,118.41968600000001,Carleton College-Eclipse,24
+87,Lehigh,Win 15-5,7.74,Counts,0.09380000000000001,2023-05-22,2022 D III College Championships,1,15,5,600,10,994.47,1512.01,1594.47,1504.27,1594.47,149.56128600000002,Carleton College-Eclipse,25
+37,Wellesley,Loss 14-15,-28.62,Counts,0.09380000000000001,2023-05-22,2022 D III College Championships,0,14,15,-125,-1,1368.3,1548.36,1243.3,1576.9799999999998,1243.3,116.62154000000001,Carleton College-Eclipse,26

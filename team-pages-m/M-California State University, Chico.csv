@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+167,Loyola Marymount,Win 9-6,17.81,Counts,0.0365,2023-02-05,Stanford Open 2022,1,9,6,418.57,3,896.64,827.01,1315.21,809.2,1315.21,48.005165,"California State University, Chico",1
+280,Southern California-B,Win 9-5,4.74,Counts,0.0352,2023-02-05,Stanford Open 2022,1,9,5,529.06,4,445.42,840.08,974.48,835.34,974.48,34.301696,"California State University, Chico",2
+39,Western Washington,Loss 5-13,0,Ignored,0,2023-02-05,Stanford Open 2022,0,5,13,-600,-8,1510.39,844.82,910.3900000000001,844.82,0,0,"California State University, Chico",3
+167,Loyola Marymount,Loss 10-11,-3.13,Counts,0.041100000000000005,2023-02-06,Stanford Open 2022,0,10,11,-125,-1,896.64,847.95,771.64,851.08,771.64,31.714404000000002,"California State University, Chico",4
+36,California-Santa Cruz,Loss 7-12,6.8,Counts,0.041100000000000005,2023-02-06,Stanford Open 2022,0,7,12,-520.51,-5,1524.13,838.02,1003.6200000000001,831.22,1003.6200000000001,41.24878200000001,"California State University, Chico",5
+186,Occidental,Win 10-8,9.47,Counts,0.04,2023-02-06,Stanford Open 2022,1,10,8,262.67,2,809.64,835.35,1072.31,825.88,1072.31,42.8924,"California State University, Chico",6
+208,Nevada-Reno,Loss 5-9,-23.79,Counts,0.0352,2023-02-06,Stanford Open 2022,0,5,9,-529.06,-4,722.46,868.61,193.4000000000001,892.4,193.4000000000001,6.807680000000004,"California State University, Chico",7
+36,California-Santa Cruz,Loss 2-13,0,Ignored,0,2023-04-16,NorCal D I College Mens CC 2022,0,2,13,-600,-11,1524.13,844.82,924.1300000000001,844.82,0,0,"California State University, Chico",8
+81,Santa Clara,Loss 1-13,-15.85,Counts,0.0731,2023-04-16,NorCal D I College Mens CC 2022,0,1,13,-600,-12,1243.95,860.67,643.95,876.52,643.95,47.072745000000005,"California State University, Chico",9
+265,Cal Poly Humboldt,Win 10-5,16.53,Counts,0.065,2023-04-16,NorCal D I College Mens CC 2022,1,10,5,573.9,5,508.74,828.29,1082.6399999999999,811.76,1082.6399999999999,70.3716,"California State University, Chico",10
+113,California-Davis,Loss 2-12,-25.56,Counts,0.0702,2023-04-16,NorCal D I College Mens CC 2022,0,2,12,-600,-10,1106.24,870.38,506.24,895.9399999999999,506.24,35.538048,"California State University, Chico",11
+81,Santa Clara,Loss 3-13,-15.85,Counts,0.0731,2023-04-17,NorCal D I College Mens CC 2022,0,3,13,-600,-10,1243.95,860.67,643.95,876.52,643.95,47.072745000000005,"California State University, Chico",12
+208,Nevada-Reno,Win 12-11,0.21,Counts,0.0731,2023-04-17,NorCal D I College Mens CC 2022,1,12,11,125,1,722.46,844.61,847.46,844.4,847.46,61.949326,"California State University, Chico",13
+293,Fresno State,Win 13-8,1.99,Counts,0.0731,2023-04-17,NorCal D I College Mens CC 2022,1,13,8,496.16,5,373.85,842.83,870.01,840.84,870.01,63.597730999999996,"California State University, Chico",14
+29,UCLA,Loss 8-13,24.43,Counts,0.087,2023-05-07,Southwest D I College Mens Regionals 2022,0,8,13,-496.16,-5,1597.35,820.39,1101.1899999999998,795.96,1101.1899999999998,95.80352999999998,"California State University, Chico",15
+61,California-San Diego,Loss 5-13,-4.59,Counts,0.087,2023-05-07,Southwest D I College Mens Regionals 2022,0,5,13,-600,-8,1396.69,849.4,796.69,853.99,796.69,69.31203,"California State University, Chico",16
+151,Arizona State,Loss 8-12,-31.48,Counts,0.087,2023-05-07,Southwest D I College Mens Regionals 2022,0,8,12,-441.15,-4,955.51,876.3,514.36,907.78,514.36,44.74932,"California State University, Chico",17
+208,Nevada-Reno,Win 11-6,38.04,Counts,0.0823,2023-05-08,Southwest D I College Mens Regionals 2022,1,11,6,546.69,5,722.46,806.77,1269.15,768.73,1269.15,104.45104500000001,"California State University, Chico",18

@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+191,Indiana,Win 14-4,0,Ignored,0,2023-04-09,Eastern Great Lakes D I College Womens CC 2022,1,14,4,600,10,297.14,1228.56,897.14,1228.56,0,0,Grand Valley State,1
+29,Purdue,Loss 8-9,12.63,Counts,0.0953,2023-04-09,Eastern Great Lakes D I College Womens CC 2022,0,8,9,-125,-1,1473.48,1215.93,1348.48,1203.3,1348.48,128.510144,Grand Valley State,2
+111,Michigan State,Win 15-4,20.08,Counts,0.1008,2023-04-09,Eastern Great Lakes D I College Womens CC 2022,1,15,4,600,11,807.8,1208.48,1407.8,1188.4,1407.8,141.90624,Grand Valley State,3
+156,Kentucky,Win 12-6,-13.79,Counts,0.0981,2023-04-10,Eastern Great Lakes D I College Womens CC 2022,1,12,6,579.31,6,522.39,1242.35,1101.6999999999998,1256.1399999999999,1101.6999999999998,108.07677,Grand Valley State,4
+51,Chicago,Loss 9-11,-32.06,Counts,0.1198,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,9,11,-249.21,-2,1242.24,1260.62,993.03,1292.6799999999998,993.03,118.964994,Grand Valley State,5
+111,Michigan State,Win 13-3,24.4,Counts,0.1198,2023-04-30,Great Lakes D I College Womens Regionals 2022,1,13,3,600,10,807.8,1204.16,1407.8,1179.76,1407.8,168.65444,Grand Valley State,6
+34,Michigan,Loss 7-11,-38.04,Counts,0.1166,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,7,11,-466.89,-4,1407.34,1266.6,940.4499999999999,1304.6399999999999,940.4499999999999,109.65646999999998,Grand Valley State,7
+231,DePaul,Win 13-1,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,1,13,1,600,12,226.11,1228.56,826.11,1228.56,0,0,Grand Valley State,8
+71,Northwestern,Win 15-9,50.85,Counts,0.1198,2023-05-01,Great Lakes D I College Womens Regionals 2022,1,15,9,515.48,6,1086.61,1177.71,1602.09,1126.8600000000001,1602.09,191.930382,Grand Valley State,9
+34,Michigan,Loss 5-11,-52.04,Counts,0.11,2023-05-01,Great Lakes D I College Womens Regionals 2022,0,5,11,-600,-6,1407.34,1280.6,807.3399999999999,1332.6399999999999,807.3399999999999,88.80739999999999,Grand Valley State,10
+73,Notre Dame,Win 11-8,28.24,Counts,0.1198,2023-05-01,Great Lakes D I College Womens Regionals 2022,1,11,8,365.61,3,1070.39,1200.32,1436,1172.08,1436,172.0328,Grand Valley State,11

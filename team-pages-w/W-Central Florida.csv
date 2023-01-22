@@ -1,0 +1,24 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+156,Kentucky,Win 9-2,0,Ignored,0,2023-02-26,TOTS,1,9,2,600,7,522.39,1229.71,1122.3899999999999,1229.71,0,0,Central Florida,1
+72,Union (Tennessee),Win 7-6,-1.63,Counts,0.0487,2023-02-26,TOTS,1,7,6,125,1,1072.88,1231.34,1197.88,1232.97,1197.88,58.33675600000001,Central Florida,2
+237,Emory-B,Win 13-0,0,Ignored,0,2023-02-26,TOTS,1,13,0,600,13,634.24,1229.71,1234.24,1229.71,0,0,Central Florida,3
+218,Vanderbilt,Win 12-1,0,Ignored,0,2023-02-26,TOTS,1,12,1,600,11,43.69,1229.71,643.69,1229.71,0,0,Central Florida,4
+156,Kentucky,Win 13-1,0,Ignored,0,2023-02-27,TOTS,1,13,1,600,12,522.39,1229.71,1122.3899999999999,1229.71,0,0,Central Florida,5
+14,Florida State,Loss 2-15,-7.59,Counts,0.0588,2023-02-27,TOTS,0,2,15,-600,-13,1708.29,1237.3,1108.29,1244.8899999999999,1108.29,65.167452,Central Florida,6
+72,Union (Tennessee),Loss 6-14,-47.31,Counts,0.0588,2023-02-27,TOTS,0,6,14,-600,-8,1072.88,1277.02,472.8800000000001,1324.33,472.8800000000001,27.805344000000005,Central Florida,7
+86,Alabama,Win 11-0,26.85,Counts,0.068,2023-03-26,T Town Throwdown 2022,1,11,0,600,11,997.55,1202.86,1597.55,1176.01,1597.55,108.63340000000001,Central Florida,8
+148,Alabama-Huntsville,Win 12-4,0,Ignored,0,2023-03-26,T Town Throwdown 2022,1,12,4,600,8,588.93,1229.71,1188.9299999999998,1229.71,0,0,Central Florida,9
+222,Mississippi State,Win 13-1,0,Ignored,0,2023-03-26,T Town Throwdown 2022,1,13,1,600,12,21.55,1229.71,621.55,1229.71,0,0,Central Florida,10
+166,LSU,Win 13-0,0,Ignored,0,2023-03-26,T Town Throwdown 2022,1,13,0,600,13,458.41,1229.71,1058.41,1229.71,0,0,Central Florida,11
+86,Alabama,Win 9-3,24.03,Counts,0.0613,2023-03-27,T Town Throwdown 2022,1,9,3,600,6,997.55,1205.68,1597.55,1181.65,1597.55,97.92981499999999,Central Florida,12
+195,South Florida,Win 13-0,0,Ignored,0,2023-04-09,Florida D I College Womens CC 2022,1,13,0,600,13,243.9,1229.71,843.9,1229.71,0,0,Central Florida,13
+47,Florida,Loss 5-7,-19.04,Counts,0.0661,2023-04-09,Florida D I College Womens CC 2022,0,5,7,-328.14,-2,1288.97,1248.75,960.83,1267.79,960.83,63.51086300000001,Central Florida,14
+198,Miami,Win 15-0,0,Ignored,0,2023-04-10,Florida D I College Womens CC 2022,1,15,0,600,15,229.78,1229.71,829.78,1229.71,0,0,Central Florida,15
+14,Florida State,Loss 6-13,-11.02,Counts,0.0832,2023-04-10,Florida D I College Womens CC 2022,0,6,13,-600,-7,1708.29,1240.73,1108.29,1251.75,1108.29,92.209728,Central Florida,16
+183,Florida-B,Win 15-0,0,Ignored,0,2023-04-10,Florida D I College Womens CC 2022,1,15,0,600,15,342.29,1229.71,942.29,1229.71,0,0,Central Florida,17
+127,Jacksonville State,Win 12-8,-9.19,Counts,0.0989,2023-04-30,Southeast D I College Womens Regionals 2022,1,12,8,441.15,4,704.84,1238.9,1145.99,1248.0900000000001,1145.99,113.33841100000001,Central Florida,18
+110,Tennessee-Chattanooga,Win 13-1,19.64,Counts,0.0989,2023-04-30,Southeast D I College Womens Regionals 2022,1,13,1,600,12,808.59,1210.07,1408.5900000000001,1190.4299999999998,1408.5900000000001,139.30955100000003,Central Florida,19
+15,Georgia,Loss 4-11,-12.22,Counts,0.0908,2023-04-30,Southeast D I College Womens Regionals 2022,0,4,11,-600,-7,1707.34,1241.93,1107.34,1254.15,1107.34,100.546472,Central Florida,20
+81,Emory,Win 12-4,40.56,Counts,0.095,2023-04-30,Southeast D I College Womens Regionals 2022,1,12,4,600,8,1016.31,1189.14,1616.31,1148.5800000000002,1616.31,153.54945,Central Florida,21
+47,Florida,Win 8-6,33.39,Counts,0.0849,2023-05-01,Southeast D I College Womens Regionals 2022,1,8,6,300.49,2,1288.97,1196.32,1589.46,1162.9299999999998,1589.46,134.945154,Central Florida,22
+30,Georgia Tech,Loss 3-10,-35.08,Counts,0.0864,2023-05-01,Southeast D I College Womens Regionals 2022,0,3,10,-600,-7,1458.95,1264.79,858.95,1299.87,858.95,74.21328000000001,Central Florida,23

@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+215,Carleton College-C,Loss 8-8,-39.11,Counts,0.2151,2023-02-26,Forever Winter Tournament,0,8,8,-0,0,66.31,248.09,66.31,287.2,66.31,14.263281000000001,St. Olaf-B,1
+145,Macalester,Loss 4-10,-53.22,Counts,0.2048,2023-02-26,Forever Winter Tournament,0,4,10,-600,-6,602.33,262.21,2.330000000000041,315.42999999999995,2.330000000000041,0.4771840000000084,St. Olaf-B,2
+106,Michigan Tech,Loss 1-13,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,1,13,-600,-12,850.86,208.99,250.86,208.99,0,0,St. Olaf-B,3
+23,Carleton College-Eclipse,Loss 0-7,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,0,7,-600,-7,1519.75,208.99,919.75,208.99,0,0,St. Olaf-B,4
+215,Carleton College-C,Win 8-3,171.95,Counts,0.2733,2023-04-16,North Central D III College Womens CC 2022,1,8,3,600,5,66.31,37.03,666.31,-134.92,666.31,182.102523,St. Olaf-B,5
+141,Grinnell,Loss 2-10,-74.95,Counts,0.3068,2023-04-16,North Central D III College Womens CC 2022,0,2,10,-600,-8,639.67,283.94,39.66999999999996,358.89,39.66999999999996,12.170755999999988,St. Olaf-B,6
+23,Carleton College-Eclipse,Loss 2-13,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,0,2,13,-600,-11,1519.75,208.99,919.75,208.99,0,0,St. Olaf-B,7
+106,Michigan Tech,Loss 3-11,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,0,3,11,-600,-8,850.86,208.99,250.86,208.99,0,0,St. Olaf-B,8

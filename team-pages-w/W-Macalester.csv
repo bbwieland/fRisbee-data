@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+215,Carleton College-C,Win 13-4,4.72,Counts,0.0687,2023-02-26,Forever Winter Tournament,1,13,4,600,9,66.31,597.61,666.31,592.89,666.31,45.775496999999994,Macalester,1
+59,St. Olaf,Loss 3-12,-1.67,Counts,0.0659,2023-02-26,Forever Winter Tournament,0,3,12,-600,-9,NA,604,NA,605.67,NA,NA,Macalester,2
+201,St. Olaf-B,Win 10-4,13.19,Counts,0.06,2023-02-26,Forever Winter Tournament,1,10,4,600,6,NA,589.14,NA,575.9499999999999,NA,NA,Macalester,3
+23,Carleton College-Eclipse,Loss 1-13,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,1,13,-600,-12,1519.75,602.33,919.75,602.33,0,0,Macalester,4
+71,Northwestern,Loss 5-6,21.06,Counts,0.0554,2023-03-05,Midwest Throwdown 2022,0,5,6,-125,-1,1086.61,581.27,961.6099999999999,560.21,961.6099999999999,53.27319399999999,Macalester,5
+225,Wisconsin-La Crosse,Win 7-1,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,1,7,1,600,6,30.74,602.33,630.74,602.33,0,0,Macalester,6
+211,Washington University-B,Win 8-3,6.11,Counts,0.056600000000000004,2023-03-05,Midwest Throwdown 2022,1,8,3,600,5,104.15,596.22,704.15,590.11,704.15,39.854890000000005,Macalester,7
+161,Wisconsin-Oshkosh,Win 11-7,27.17,Counts,0.0708,2023-03-06,Midwest Throwdown 2022,1,11,7,466.89,4,491.76,575.16,958.65,547.99,958.65,67.87242,Macalester,8
+162,Oklahoma,Win 7-5,12.65,Counts,0.057800000000000004,2023-03-06,Midwest Throwdown 2022,1,7,5,328.14,2,480.27,589.68,808.41,577.03,808.41,46.726098,Macalester,9
+116,Wisconsin-Eau Claire,Loss 2-13,-33.87,Counts,0.0728,2023-03-06,Midwest Throwdown 2022,0,2,13,-600,-11,770.8,636.2,170.79999999999995,670.07,170.79999999999995,12.434239999999997,Macalester,10
+168,St Benedict,Win 9-6,24.5,Counts,0.09140000000000001,2023-04-16,North Central D III College Womens CC 2022,1,9,6,418.57,3,427.15,577.83,845.72,553.33,845.72,77.29880800000001,Macalester,11
+59,St. Olaf,Loss 2-11,-2.46,Counts,0.0944,2023-04-16,North Central D III College Womens CC 2022,0,2,11,-600,-9,NA,604.79,NA,607.25,NA,NA,Macalester,12
+92,Winona State,Loss 1-15,-27.34,Counts,0.10289999999999999,2023-04-16,North Central D III College Womens CC 2022,0,1,15,-600,-14,964.04,629.67,364.03999999999996,657.01,364.03999999999996,37.45971599999999,Macalester,13
+141,Grinnell,Loss 9-10,-10.06,Counts,0.10289999999999999,2023-04-17,North Central D III College Womens CC 2022,0,9,10,-125,-1,639.67,612.39,514.67,622.4499999999999,514.67,52.95954299999999,Macalester,14
+106,Michigan Tech,Loss 6-12,-36.83,Counts,0.1002,2023-04-17,North Central D III College Womens CC 2022,0,6,12,-579.31,-6,850.86,639.16,271.55000000000007,675.99,271.55000000000007,27.209310000000006,Macalester,15

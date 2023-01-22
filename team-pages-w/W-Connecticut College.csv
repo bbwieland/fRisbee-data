@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+93,SUNY-Geneseo,Loss 5-15,0,Ignored,0,2023-04-02,Northeast Classic,0,5,15,-600,-10,960.28,228.91,360.28,228.91,0,0,Connecticut College,1
+206,SUNY-Oneonta,Win 10-6,50.6,Counts,0.1073,2023-04-02,Northeast Classic,1,10,6,496.16,4,153.91,178.31,650.07,127.71000000000001,650.07,69.75251100000001,Connecticut College,2
+224,Massachusetts-B,Win 14-2,47.92,Counts,0.11689999999999999,2023-04-02,Northeast Classic,1,14,2,600,12,9.02,180.99,609.02,133.07,609.02,71.19443799999999,Connecticut College,3
+31,SUNY-Binghamton,Loss 0-13,0,Ignored,0,2023-04-03,Northeast Classic,0,0,13,-600,-13,1451.86,228.91,851.8599999999999,228.91,0,0,Connecticut College,4
+91,Skidmore,Loss 3-13,0,Ignored,0,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,3,13,-600,-10,966.62,228.91,366.62,228.91,0,0,Connecticut College,5
+236,College of New Jersey,Win 12-3,0,Ignored,0,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,12,3,600,9,497.94,228.91,1097.94,228.91,0,0,Connecticut College,6
+NA,Vassar,Win 8-5,17.2,Counts,0.1085,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,8,5,453.6,3,83.42,211.71,537.02,194.51000000000002,537.02,58.26667,Connecticut College,7
+216,Wesleyan,Loss 5-8,-75.18,Counts,0.1085,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,5,8,-453.6,-3,64.92,304.09,-388.68,379.27,-388.68,-42.17178,Connecticut College,8
+140,Ithaca,Loss 3-13,-32.65,Counts,0.14730000000000001,2023-04-30,Metro East D III College Womens Regionals 2022,0,3,13,-600,-10,639.82,261.56,39.82000000000005,294.21,39.82000000000005,5.865486000000008,Connecticut College,9
+236,College of New Jersey,Win 13-0,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,1,13,0,600,13,497.94,228.91,1097.94,228.91,0,0,Connecticut College,10
+93,SUNY-Geneseo,Loss 4-11,0,Ignored,0,2023-04-30,Metro East D III College Womens Regionals 2022,0,4,11,-600,-7,960.28,228.91,360.28,228.91,0,0,Connecticut College,11
+216,Wesleyan,Win 8-4,53.13,Counts,0.11699999999999999,2023-04-30,Metro East D III College Womens Regionals 2022,1,8,4,564.81,4,64.92,175.78,629.7299999999999,122.65,629.7299999999999,73.67840999999999,Connecticut College,12
+140,Ithaca,Loss 3-15,-32.65,Counts,0.14730000000000001,2023-05-01,Metro East D III College Womens Regionals 2022,0,3,15,-600,-12,639.82,261.56,39.82000000000005,294.21,39.82000000000005,5.865486000000008,Connecticut College,13
+136,Rochester,Loss 6-15,-31.69,Counts,0.14730000000000001,2023-05-01,Metro East D III College Womens Regionals 2022,0,6,15,-600,-9,645.42,260.59,45.41999999999996,292.28,45.41999999999996,6.690365999999995,Connecticut College,14

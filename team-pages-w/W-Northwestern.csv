@@ -1,0 +1,25 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+15,Georgia,Loss 3-15,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,0,3,15,-600,-12,1707.34,1086.61,1107.34,1086.61,0,0,Northwestern,1
+1,North Carolina,Loss 2-15,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,0,2,15,-600,-13,2343.45,1086.61,1743.4499999999998,1086.61,0,0,Northwestern,2
+32,Pennsylvania,Loss 3-15,-11.19,Counts,0.043,2023-02-26,Commonwealth Cup Weekend 2,0,3,15,-600,-12,1437.83,1097.8,837.8299999999999,1108.99,837.8299999999999,36.026689999999995,Northwestern,3
+34,Michigan,Loss 3-15,-12.56,Counts,0.043,2023-02-26,Commonwealth Cup Weekend 2,0,3,15,-600,-12,1407.34,1099.17,807.3399999999999,1111.73,807.3399999999999,34.715619999999994,Northwestern,4
+58,Temple,Loss 9-12,-10.97,Counts,0.043,2023-02-27,Commonwealth Cup Weekend 2,0,9,12,-345.37,-3,1188.14,1097.58,842.7700000000001,1108.55,842.7700000000001,36.239110000000004,Northwestern,5
+61,Ohio State,Loss 9-12,-11.63,Counts,0.043,2023-02-27,Commonwealth Cup Weekend 2,0,9,12,-345.37,-3,1173.55,1098.23,828.18,1109.8600000000001,828.18,35.61174,Northwestern,6
+24,Ohio,Win 9-4,37.62,Counts,0.0356,2023-02-27,Commonwealth Cup Weekend 2,1,9,4,600,5,1505.49,1048.99,2105.49,1011.37,2105.49,74.95544399999999,Northwestern,7
+75,Iowa State,Win 8-5,16.55,Counts,0.0377,2023-03-05,Midwest Throwdown 2022,1,8,5,453.6,3,1055.14,1070.06,1508.7400000000002,1053.51,1508.7400000000002,56.879498000000005,Northwestern,8
+38,Wisconsin,Loss 2-11,-14.03,Counts,0.04190000000000001,2023-03-05,Midwest Throwdown 2022,0,2,11,-600,-9,1365.5,1100.63,765.5,1114.66,765.5,32.074450000000006,Northwestern,9
+83,Marquette,Loss 6-7,-8.03,Counts,0.0377,2023-03-05,Midwest Throwdown 2022,0,6,7,-125,-1,1006.83,1094.64,881.83,1102.67,881.83,33.244991,Northwestern,10
+145,Macalester,Win 6-5,-12.92,Counts,0.0347,2023-03-05,Midwest Throwdown 2022,1,6,5,125,1,602.33,1099.52,727.33,1112.44,727.33,25.238351,Northwestern,11
+23,Carleton College-Eclipse,Loss 6-9,0.62,Counts,0.0405,2023-03-06,Midwest Throwdown 2022,0,6,9,-418.57,-3,1519.75,1085.99,1101.18,1085.3700000000001,1101.18,44.59779,Northwestern,12
+83,Marquette,Loss 7-8,-8.65,Counts,0.0405,2023-03-06,Midwest Throwdown 2022,0,7,8,-125,-1,1006.83,1095.26,881.83,1103.91,881.83,35.714115,Northwestern,13
+150,Truman State,Win 10-6,-1,Counts,0.04190000000000001,2023-03-06,Midwest Throwdown 2022,1,10,6,496.16,4,567.5,1087.61,1063.66,1088.61,1063.66,44.56735400000001,Northwestern,14
+143,Illinois,Win 8-4,6.01,Counts,0.054299999999999994,2023-04-23,Illinois D I College Womens CC 2022,1,8,4,564.81,4,626.49,1080.59,1191.3,1074.58,1191.3,64.68758999999999,Northwestern,15
+234,Illinois-Chicago,Win 12-4,0,Ignored,0,2023-04-23,Illinois D I College Womens CC 2022,1,12,4,600,8,303.15,1086.61,903.15,1086.61,0,0,Northwestern,16
+51,Chicago,Win 6-3,34.66,Counts,0.047,2023-04-24,Illinois D I College Womens CC 2022,1,6,3,546.69,3,1242.24,1051.94,1788.93,1017.2800000000001,1788.93,84.07971,Northwestern,17
+143,Illinois,Win 9-4,8.91,Counts,0.0599,2023-04-30,Great Lakes D I College Womens Regionals 2022,1,9,4,600,5,626.49,1077.7,1226.49,1068.79,1226.49,73.466751,Northwestern,18
+29,Purdue,Loss 5-13,-16.64,Counts,0.0724,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,5,13,-600,-8,1473.48,1103.24,873.48,1119.88,873.48,63.23995200000001,Northwestern,19
+180,Loyola-Chicago,Win 13-4,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,1,13,4,600,9,373.89,1086.61,973.89,1086.61,0,0,Northwestern,20
+73,Notre Dame,Win 9-7,18.73,Counts,0.0664,2023-04-30,Great Lakes D I College Womens Regionals 2022,1,9,7,279.34,2,1070.39,1067.88,1349.73,1049.15,1349.73,89.622072,Northwestern,21
+143,Illinois,Win 14-4,10.92,Counts,0.0724,2023-05-01,Great Lakes D I College Womens Regionals 2022,1,14,4,600,10,626.49,1075.69,1226.49,1064.77,1226.49,88.797876,Northwestern,22
+51,Chicago,Loss 9-10,2.39,Counts,0.0724,2023-05-01,Great Lakes D I College Womens Regionals 2022,0,9,10,-125,-1,1242.24,1084.22,1117.24,1081.83,1117.24,80.888176,Northwestern,23
+54,Grand Valley State,Loss 9-15,-29.15,Counts,0.0724,2023-05-01,Great Lakes D I College Womens Regionals 2022,0,9,15,-515.48,-6,1228.56,1115.76,713.0799999999999,1144.91,713.0799999999999,51.626992,Northwestern,24

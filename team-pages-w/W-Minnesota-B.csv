@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+73,Notre Dame,Loss 3-5,31.19,Counts,0.10490000000000001,2023-03-26,Old Capital Open 2022,0,3,5,-418.57,-2,1070.39,354.54,651.8200000000002,323.35,651.8200000000002,68.37591800000003,Minnesota-B,1
+121,Saint Louis,Loss 4-9,-36.3,Counts,0.13369999999999999,2023-03-27,Old Capital Open 2022,0,4,9,-600,-5,750.63,422.03,150.63,458.33,150.63,20.139231,Minnesota-B,2
+130,Nebraska,Loss 3-8,-43.64,Counts,0.1258,2023-03-27,Old Capital Open 2022,0,3,8,-600,-5,682.47,429.37,82.47000000000003,473.01,82.47000000000003,10.374726000000003,Minnesota-B,3
+200,Wisconsin-B,Loss 4-5,-36.7,Counts,0.11130000000000001,2023-03-27,Old Capital Open 2022,0,4,5,-125,-1,217.67,422.43,92.66999999999999,459.13,92.66999999999999,10.314171,Minnesota-B,4
+64,Iowa,Loss 6-15,0,Ignored,0,2023-04-09,Western North Central D I College Womens CC 2022,0,6,15,-600,-9,1141.3,385.73,541.3,385.73,0,0,Minnesota-B,5
+153,Minnesota-Duluth,Loss 10-14,-54.58,Counts,0.1815,2023-04-09,Western North Central D I College Womens CC 2022,0,10,14,-398.7,-4,538.31,440.31,139.60999999999996,494.89,139.60999999999996,25.339214999999992,Minnesota-B,6
+75,Iowa State,Loss 7-8,104.67,Counts,0.1613,2023-04-10,Western North Central D I College Womens CC 2022,0,7,8,-125,-1,1055.14,281.06,930.1400000000001,176.39,930.1400000000001,150.03158200000001,Minnesota-B,7
+130,Nebraska,Loss 10-11,38.08,Counts,0.1815,2023-04-10,Western North Central D I College Womens CC 2022,0,10,11,-125,-1,682.47,347.65,557.47,309.57,557.47,101.180805,Minnesota-B,8

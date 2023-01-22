@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+145,Macalester,Loss 3-8,-8.14,Counts,0.0741,2023-03-05,Midwest Throwdown 2022,0,3,8,-600,-5,602.33,112.3,2.330000000000041,120.44,2.330000000000041,0.17265300000000303,Washington University-B,1
+83,Marquette,Loss 1-9,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,0,1,9,-600,-8,1006.83,104.15,406.83000000000004,104.15,0,0,Washington University-B,2
+225,Wisconsin-La Crosse,Win 4-3,-0.61,Counts,0.057800000000000004,2023-03-05,Midwest Throwdown 2022,1,4,3,125,1,30.74,104.76,155.74,105.37,155.74,9.001772,Washington University-B,3
+209,Illinois-B,Win 8-0,48.63,Counts,0.0741,2023-03-06,Midwest Throwdown 2022,1,8,0,600,8,112.06,55.53,712.06,6.899999999999999,712.06,52.763645999999994,Washington University-B,4
+116,Wisconsin-Eau Claire,Loss 1-12,0,Ignored,0,2023-03-06,Midwest Throwdown 2022,0,1,12,-600,-11,770.8,104.15,170.79999999999995,104.15,0,0,Washington University-B,5
+130,Nebraska,Loss 4-7,6.42,Counts,0.0724,2023-03-06,Midwest Throwdown 2022,0,4,7,-496.16,-3,682.47,97.74,186.31,91.32,186.31,13.488844000000002,Washington University-B,6
+213,Notre Dame-B,Win 10-9,13.02,Counts,0.11320000000000001,2023-03-26,Illinois Invite,1,10,9,125,1,81.16,91.13,206.16,78.11,206.16,23.337312,Washington University-B,7
+155,Knox,Win 8-7,61.35,Counts,0.10060000000000001,2023-03-26,Illinois Invite,1,8,7,125,1,527.72,42.8,652.72,-18.550000000000004,652.72,65.663632,Washington University-B,8
+83,Marquette,Loss 3-15,0,Ignored,0,2023-03-26,Illinois Invite,0,3,15,-600,-12,1006.83,104.15,406.83000000000004,104.15,0,0,Washington University-B,9
+143,Illinois,Loss 5-9,-0.72,Counts,0.09720000000000001,2023-03-27,Illinois Invite,0,5,9,-529.06,-4,626.49,104.88,97.43000000000006,105.6,97.43000000000006,9.470196000000007,Washington University-B,10
+155,Knox,Loss 5-10,-16.81,Counts,0.10060000000000001,2023-03-27,Illinois Invite,0,5,10,-573.9,-5,527.72,120.97,-46.17999999999995,137.78,-46.17999999999995,-4.6457079999999955,Washington University-B,11
+180,Loyola-Chicago,Loss 5-10,-34.02,Counts,0.10060000000000001,2023-03-27,Illinois Invite,0,5,10,-573.9,-5,373.89,138.17,-200.01,172.19,-200.01,-20.121006,Washington University-B,12
+66,Arkansas,Loss 3-12,0,Ignored,0,2023-04-16,Ozarks D I College Womens CC 2022,0,3,12,-600,-9,1137.7,104.15,537.7,104.15,0,0,Washington University-B,13
+68,Kansas,Loss 1-13,0,Ignored,0,2023-04-16,Ozarks D I College Womens CC 2022,0,1,13,-600,-12,1122.06,104.15,522.06,104.15,0,0,Washington University-B,14
+121,Saint Louis,Loss 3-12,0,Ignored,0,2023-04-16,Ozarks D I College Womens CC 2022,0,3,12,-600,-9,750.63,104.15,150.63,104.15,0,0,Washington University-B,15
+162,Oklahoma,Loss 0-8,-26.19,Counts,0.1047,2023-04-17,Ozarks D I College Womens CC 2022,0,0,8,-600,-8,480.27,130.35,-119.73000000000002,156.54,-119.73000000000002,-12.535731000000002,Washington University-B,16
+186,Missouri State,Loss 0-8,-44.42,Counts,0.1047,2023-04-17,Ozarks D I College Womens CC 2022,0,0,8,-600,-8,324.48,148.58,-275.52,193,-275.52,-28.846943999999997,Washington University-B,17

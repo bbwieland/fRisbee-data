@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+51,Chicago,Loss 2-13,0,Ignored,0,2023-04-23,Illinois D I College Womens CC 2022,0,2,13,-600,-11,1242.24,226.11,642.24,226.11,0,0,DePaul,1
+180,Loyola-Chicago,Loss 3-9,0,Ignored,0,2023-04-23,Illinois D I College Womens CC 2022,0,3,9,-600,-6,373.89,226.11,-226.11,226.11,0,-0,DePaul,2
+143,Illinois,Loss 1-13,0,Ignored,0,2023-04-24,Illinois D I College Womens CC 2022,0,1,13,-600,-12,626.49,226.11,26.49000000000001,226.11,0,0,DePaul,3
+234,Illinois-Chicago,Win 5-4,37.15,Counts,0.4365,2023-04-24,Illinois D I College Womens CC 2022,1,5,4,125,1,303.15,263.25,428.15,226.1,428.15,186.887475,DePaul,4
+NA,Northwestern-B,Win 8-7,-47.95,Counts,0.5635,2023-04-24,Illinois D I College Womens CC 2022,1,8,7,125,1,388.25,178.15,513.25,226.10000000000002,513.25,289.216375,DePaul,5
+51,Chicago,Loss 3-13,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,3,13,-600,-10,1242.24,226.11,642.24,226.11,0,0,DePaul,6
+54,Grand Valley State,Loss 1-13,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,1,13,-600,-12,1228.56,226.11,628.56,226.11,0,0,DePaul,7
+111,Michigan State,Loss 2-13,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,2,13,-600,-11,807.8,226.11,207.79999999999995,226.11,0,0,DePaul,8
+34,Michigan,Loss 2-13,0,Ignored,0,2023-04-30,Great Lakes D I College Womens Regionals 2022,0,2,13,-600,-11,1407.34,226.11,807.3399999999999,226.11,0,0,DePaul,9

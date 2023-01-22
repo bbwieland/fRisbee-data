@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+291,Minnesota-C,Loss 6-7,-21.98,Counts,0.0732,2023-03-26,Old Capital Open 2022,0,6,7,-125,-1,377.11,552.4,252.11,574.38,252.11,18.454452,Northern Iowa,1
+292,Drake University,Win 9-8,-2.69,Counts,0.0837,2023-03-26,Old Capital Open 2022,1,9,8,125,1,375.93,533.12,500.93,535.8100000000001,500.93,41.927841,Northern Iowa,2
+278,Eastern Michigan,Loss 9-11,-32.28,Counts,0.0885,2023-03-26,Old Capital Open 2022,0,9,11,-249.21,-2,447.05,562.71,197.84,594.99,197.84,17.50884,Northern Iowa,3
+348,Southeast Missouri State,Win 13-0,8.53,Counts,0.0885,2023-03-27,Old Capital Open 2022,1,13,0,600,13,18.35,521.89,618.35,513.36,618.35,54.723974999999996,Northern Iowa,4
+169,Kansas,Loss 3-11,-21.25,Counts,0.0812,2023-03-27,Old Capital Open 2022,0,3,11,-600,-8,889.88,551.68,289.88,572.93,289.88,23.538255999999997,Northern Iowa,5
+264,Wisconsin-B,Win 11-9,23.63,Counts,0.0885,2023-03-27,Old Capital Open 2022,1,11,9,249.21,2,524.67,506.8,773.88,483.17,773.88,68.48837999999999,Northern Iowa,6
+84,Iowa,Loss 6-13,11.94,Counts,0.0993,2023-04-09,West Plains D I College Mens CC 2022,0,6,13,-600,-7,1238.75,518.48,638.75,506.54,638.75,63.427875,Northern Iowa,7
+95,Iowa State,Loss 2-13,0,Ignored,0,2023-04-09,West Plains D I College Mens CC 2022,0,2,13,-600,-11,1183.14,530.43,583.1400000000001,530.43,0,0,Northern Iowa,8
+142,Nebraska,Loss 6-13,-16.64,Counts,0.0993,2023-04-09,West Plains D I College Mens CC 2022,0,6,13,-600,-7,979.53,547.06,379.53,563.6999999999999,379.53,37.687329,Northern Iowa,9
+255,Creighton,Win 12-11,19.76,Counts,0.0993,2023-04-09,West Plains D I College Mens CC 2022,1,12,11,125,1,584.65,510.66,709.65,490.90000000000003,709.65,70.468245,Northern Iowa,10
+142,Nebraska,Loss 8-12,0.88,Counts,0.0993,2023-04-10,West Plains D I College Mens CC 2022,0,8,12,-441.15,-4,979.53,529.55,538.38,528.67,538.38,53.461134,Northern Iowa,11
+255,Creighton,Win 13-11,31.21,Counts,0.0993,2023-04-10,West Plains D I College Mens CC 2022,1,13,11,228.84,2,584.65,499.22,813.49,468.01000000000005,813.49,80.779557,Northern Iowa,12

@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+24,Ohio,Loss 4-13,0,Ignored,0,2023-04-23,Ohio D I College Womens CC 2022,0,4,13,-600,-9,1505.49,505.9,905.49,505.9,0,0,Cincinnati,1
+135,Dayton,Loss 6-8,-83.05,Counts,0.34159999999999996,2023-04-23,Ohio D I College Womens CC 2022,0,6,8,-300.49,-2,646.33,588.95,345.84000000000003,672,345.84000000000003,118.138944,Cincinnati,2
+100,Case Western Reserve,Loss 5-8,-26.32,Counts,0.3292,2023-04-24,Ohio D I College Womens CC 2022,0,5,8,-453.6,-3,905.86,532.22,452.26,558.5400000000001,452.26,148.883992,Cincinnati,3
+207,Miami (Ohio),Win 9-4,107.84,Counts,0.3292,2023-04-24,Ohio D I College Womens CC 2022,1,9,4,600,5,125.64,398.06,725.64,290.22,725.64,238.880688,Cincinnati,4

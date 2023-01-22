@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+235,Vermont-B,Win 11-7,-4.38,Counts,0.157,2023-04-16,Greater New England Dev College Mens CC 2022,1,11,7,466.89,4,653.78,1148.55,1120.67,1152.93,1120.67,175.94519000000003,Brown-B,1
+193,Vermont-C,Win 10-9,-44.71,Counts,0.1613,2023-04-16,Greater New England Dev College Mens CC 2022,1,10,9,125,1,786.67,1188.89,911.67,1233.6000000000001,911.67,147.052371,Brown-B,2
+184,Massachusetts-C,Win 11-6,38.7,Counts,0.15259999999999999,2023-04-17,Greater New England Dev College Mens CC 2022,1,11,6,546.69,5,812.41,1105.48,1359.1,1066.78,1359.1,207.39865999999998,Brown-B,3
+235,Vermont-B,Win 10-9,-70.27,Counts,0.1613,2023-04-17,Greater New England Dev College Mens CC 2022,1,10,9,125,1,653.78,1214.44,778.78,1284.71,778.78,125.61721399999999,Brown-B,4
+372,Northeastern-C,Win 13-2,0,Ignored,0,2023-05-07,New England Dev College Mens Regionals 2022,1,13,2,600,11,426.45,1144.17,1026.45,1144.17,0,0,Brown-B,5
+184,Massachusetts-C,Win 15-6,63.66,Counts,0.1918,2023-05-08,New England Dev College Mens Regionals 2022,1,15,6,600,9,812.41,1080.51,1412.4099999999999,1016.85,1412.4099999999999,270.90023799999994,Brown-B,6
+240,Dartmouth-B,Win 11-4,19.28,Counts,0.17600000000000002,2023-05-08,New England Dev College Mens Regionals 2022,1,11,4,600,7,634.41,1124.9,1234.4099999999999,1105.6200000000001,1234.4099999999999,217.25616,Brown-B,7

@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+176,Chico State,Win 9-7,-32.28,Counts,0.2112,2023-02-19,Santa Clara RAGE Ultimate Tournament,1,9,7,279.34,2,386.79,818.99,666.13,851.27,666.13,140.686656,Claremont,1
+129,Nevada-Reno,Win 6-5,4.78,Counts,0.1751,2023-02-19,Santa Clara RAGE Ultimate Tournament,1,6,5,125,1,684.23,781.92,809.23,777.14,809.23,141.69617300000002,Claremont,2
+203,California-B,Win 8-3,1.71,Counts,0.1791,2023-02-20,Santa Clara RAGE Ultimate Tournament,1,8,3,600,5,194.55,784.99,794.55,783.28,794.55,142.303905,Claremont,3
+57,Santa Clara,Loss 2-13,-51.36,Counts,0.23010000000000003,2023-02-20,Santa Clara RAGE Ultimate Tournament,0,2,13,-600,-11,1214.91,838.06,614.9100000000001,889.42,614.9100000000001,141.49079100000003,Claremont,4
+94,UCSC,Win 8-7,74.99,Counts,0.2045,2023-02-20,Santa Clara RAGE Ultimate Tournament,1,8,7,125,1,953.42,711.72,1078.42,636.73,1078.42,220.53689,Claremont,5

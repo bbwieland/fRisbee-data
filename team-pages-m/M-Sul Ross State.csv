@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+308,Texas Christian,Win 13-2,0,Ignored,0,2023-03-12,Centex Tier II,1,13,2,600,11,282.45,1027.4,882.45,1027.4,0,0,Sul Ross State,1
+301,Houston,Win 13-3,0,Ignored,0,2023-03-12,Centex Tier II,1,13,3,600,10,316.49,1027.4,916.49,1027.4,0,0,Sul Ross State,2
+197,Rice,Win 15-4,31.36,Counts,0.0852,2023-03-13,Centex Tier II,1,15,4,600,11,764.1,996.04,1364.1,964.68,1364.1,116.22131999999999,Sul Ross State,3
+205,Sam Houston State,Win 15-6,27.82,Counts,0.0852,2023-03-13,Centex Tier II,1,15,6,600,9,726.13,999.58,1326.13,971.76,1326.13,112.986276,Sul Ross State,4
+135,Colorado-B,Win 15-5,54.76,Counts,0.0852,2023-03-13,Centex Tier II,1,15,5,600,10,1015.4,972.64,1615.4,917.88,1615.4,137.63208,Sul Ross State,5
+197,Rice,Win 12-11,-18.95,Counts,0.12050000000000001,2023-04-23,Texas D III College Mens CC 2022,1,12,11,125,1,764.1,1046.35,889.1,1065.3,889.1,107.13655000000001,Sul Ross State,6
+NA,Dallas,Win 13-9,-13.33,Counts,0.12050000000000001,2023-04-23,Texas D III College Mens CC 2022,1,13,9,418.57,4,511.53,1040.73,930.0999999999999,1054.06,930.0999999999999,112.07705,Sul Ross State,7
+NA,LeTourneau University,Win 13-7,-16.08,Counts,0.12050000000000001,2023-04-23,Texas D III College Mens CC 2022,1,13,7,557.53,6,352.48,1043.48,910.01,1059.56,910.01,109.65620500000001,Sul Ross State,8
+349,Trinity University,Win 13-0,0,Ignored,0,2023-04-23,Texas D III College Mens CC 2022,1,13,0,600,13,7.44,1027.4,607.44,1027.4,0,0,Sul Ross State,9
+197,Rice,Win 14-10,19.81,Counts,0.1277,2023-04-30,South Central D III College Mens Regionals 2022,1,14,10,398.7,4,764.1,1007.59,1162.8,987.7800000000001,1162.8,148.48956,Sul Ross State,10
+68,Colorado College,Loss 10-15,-20.5,Counts,0.1277,2023-04-30,South Central D III College Mens Regionals 2022,0,10,15,-453.6,-5,1340.93,1047.9,887.33,1068.4,887.33,113.31204100000001,Sul Ross State,11
+103,John Brown,Loss 7-15,-70.04,Counts,0.1277,2023-04-30,South Central D III College Mens Regionals 2022,0,7,15,-600,-8,1148.73,1097.44,548.73,1167.48,548.73,70.072821,Sul Ross State,12

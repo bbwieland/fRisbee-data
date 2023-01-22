@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+89,Central Florida,Loss 8-13,3.52,Counts,0.1411,2023-04-09,Florida D I College Mens CC 2022,0,8,13,-496.16,-5,1207.83,686.71,711.6699999999998,683.19,711.6699999999998,100.41663699999998,Florida Gulf Coast,1
+158,South Florida,Win 8-4,100.01,Counts,0.1121,2023-04-09,Florida D I College Mens CC 2022,1,8,4,564.81,4,917.32,590.22,1482.13,490.21000000000004,1482.13,166.14677300000002,Florida Gulf Coast,2
+299,North Florida,Win 7-6,-31.24,Counts,0.1167,2023-04-09,Florida D I College Mens CC 2022,1,7,6,125,1,328.78,721.47,453.78,752.71,453.78,52.956126,Florida Gulf Coast,3
+297,Miami,Win 10-7,8.31,Counts,0.1335,2023-04-10,Florida D I College Mens CC 2022,1,10,7,389.67,3,354.54,681.92,744.21,673.61,744.21,99.35203500000001,Florida Gulf Coast,4
+106,LSU,Loss 3-13,-29.95,Counts,0.1678,2023-04-30,Southeast D I College Mens Regionals 2022,0,3,13,-600,-10,1141.7,720.17,541.7,750.12,541.7,90.89726000000002,Florida Gulf Coast,5
+26,Auburn,Loss 4-13,0,Ignored,0,2023-04-30,Southeast D I College Mens Regionals 2022,0,4,13,-600,-9,1617.76,690.23,1017.76,690.23,0,0,Florida Gulf Coast,6
+111,Georgia State,Loss 8-13,-15.25,Counts,0.1678,2023-04-30,Southeast D I College Mens Regionals 2022,0,8,13,-496.16,-5,1110.77,705.48,614.6099999999999,720.73,614.6099999999999,103.13155799999998,Florida Gulf Coast,7
+121,Tennessee-Chattanooga,Loss 5-12,-40.31,Counts,0.161,2023-04-30,Southeast D I College Mens Regionals 2022,0,5,12,-600,-7,1080.21,730.54,480.21000000000004,770.8499999999999,480.21000000000004,77.31381,Florida Gulf Coast,8

@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+158,American,Loss 1-6,-47.13,Counts,0.08800000000000001,2023-02-26,Cherry Blossom Classic,0,1,6,-600,-5,504.99,440.62,-95.00999999999999,487.75,-95.00999999999999,-8.36088,Pittsburgh-B,1
+117,Virginia Commonwealth,Loss 3-9,-27.48,Counts,0.10880000000000001,2023-02-26,Cherry Blossom Classic,0,3,9,-600,-6,768.41,420.97,168.40999999999997,448.45000000000005,168.40999999999997,18.323007999999998,Pittsburgh-B,2
+159,Towson,Loss 6-7,-1.75,Counts,0.10880000000000001,2023-02-26,Cherry Blossom Classic,0,6,7,-125,-1,504.17,395.23,379.17,396.98,379.17,41.253696000000005,Pittsburgh-B,3
+230,Georgetown-B,Win 6-3,-4.75,Counts,0.09050000000000001,2023-02-27,Cherry Blossom Classic,1,6,3,546.69,3,200.93,398.24,747.6200000000001,402.99,747.6200000000001,67.65961000000001,Pittsburgh-B,4
+198,Miami,Loss 6-8,-59.09,Counts,0.11289999999999999,2023-02-27,Cherry Blossom Classic,0,6,8,-300.49,-2,229.78,452.58,-70.71000000000001,511.66999999999996,-70.71000000000001,-7.983159,Pittsburgh-B,5
+90,New Hampshire,Loss 6-8,37.41,Counts,0.11289999999999999,2023-02-27,Cherry Blossom Classic,0,6,8,-300.49,-2,987.85,356.08,687.36,318.66999999999996,687.36,77.602944,Pittsburgh-B,6
+50,Carnegie Mellon,Loss 5-13,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,5,13,-600,-8,1270.24,393.49,670.24,393.49,0,0,Pittsburgh-B,7
+32,Pennsylvania,Loss 7-14,113.29,Counts,0.1971,2023-04-16,Pennsylvania D I College Womens CC 2022,0,7,14,-582.89,-7,1437.83,280.2,854.9399999999999,166.90999999999997,854.9399999999999,168.50867399999998,Pittsburgh-B,8
+58,Temple,Loss 3-15,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,3,15,-600,-12,1188.14,393.49,588.1400000000001,393.49,0,0,Pittsburgh-B,9
+84,West Chester,Loss 5-11,1.99,Counts,0.1809,2023-04-17,Pennsylvania D I College Womens CC 2022,0,5,11,-600,-6,1002.51,391.49,402.51,389.5,402.51,72.814059,Pittsburgh-B,10
+84,West Chester,Loss 3-13,0,Ignored,0,2023-04-17,Pennsylvania D I College Womens CC 2022,0,3,13,-600,-10,1002.51,393.49,402.51,393.49,0,0,Pittsburgh-B,11
+235,Temple -B,Win 15-0,0,Ignored,0,2023-04-17,Pennsylvania D I College Womens CC 2022,1,15,0,600,15,351.94,393.49,951.94,393.49,0,0,Pittsburgh-B,12

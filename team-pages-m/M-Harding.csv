@@ -1,0 +1,3 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+108,Michigan State,Loss 6-13,-99.91,Counts,0.5,2023-03-19,Missouri Loves Company MLC,0,6,13,-600,-7,1129.58,729.4,529.5799999999999,829.31,529.5799999999999,264.78999999999996,Harding,1
+269,Oklahoma State University,Win 13-11,99.91,Counts,0.5,2023-03-19,Missouri Loves Company MLC,1,13,11,228.84,2,500.56,529.58,729.4,429.6700000000001,729.4,364.7,Harding,2

@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+291,Minnesota-C,Loss 2-13,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,2,13,-600,-11,377.11,899.89,-222.89,899.89,0,-0,Wisconsin-Milwaukee-B,1
+346,Iowa State-B,Loss 4-10,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,4,10,-600,-6,36.25,899.89,-563.75,899.89,0,-0,Wisconsin-Milwaukee-B,2
+264,Wisconsin-B,Loss 2-13,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,2,13,-600,-11,524.67,899.89,-75.33000000000004,899.89,0,-0,Wisconsin-Milwaukee-B,3
+374,Wisconsin-Eau Claire-B,Loss 6-9,NA,Counts,1,2023-04-23,North Central Dev College Mens CC 2022,0,6,9,-418.57,-3,481.32,NA,62.75,NA,62.75,62.75,Wisconsin-Milwaukee-B,4
+220,Minnesota-B,Loss 2-13,0,Ignored,0,2023-04-24,North Central Dev College Mens CC 2022,0,2,13,-600,-11,693.75,899.89,93.75,899.89,0,0,Wisconsin-Milwaukee-B,5
+306,Carleton College-Karls,Loss 2-13,0,Ignored,0,2023-04-24,North Central Dev College Mens CC 2022,0,2,13,-600,-11,294.57,899.89,-305.43,899.89,0,-0,Wisconsin-Milwaukee-B,6

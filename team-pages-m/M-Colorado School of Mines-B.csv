@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+122,Denver,Loss 2-13,0,Ignored,0,2023-02-26,Snow Melt at Colorado College,0,2,13,-600,-11,1075.81,0,475.80999999999995,0,0,0,Colorado School of Mines-B,1
+199,Air Force,Loss 1-12,0,Ignored,0,2023-02-26,Snow Melt at Colorado College,0,1,12,-600,-11,762.71,0,162.71000000000004,0,0,0,Colorado School of Mines-B,2
+135,Colorado-B,Loss 0-13,0,Ignored,0,2023-02-26,Snow Melt at Colorado College,0,0,13,-600,-13,1015.4,0,415.4,0,0,0,Colorado School of Mines-B,3
+68,Colorado College,Loss 3-13,0,Ignored,0,2023-02-27,Snow Melt at Colorado College,0,3,13,-600,-10,1340.93,0,740.9300000000001,0,0,0,Colorado School of Mines-B,4

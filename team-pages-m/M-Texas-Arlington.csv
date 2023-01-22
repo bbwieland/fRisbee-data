@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+197,Rice,Loss 9-13,-37.64,Counts,0.16670000000000001,2023-03-12,Centex Tier II,0,9,13,-418.57,-4,764.1,571.39,345.53000000000003,609.03,345.53000000000003,57.59985100000001,Texas-Arlington,1
+135,Colorado-B,Loss 8-13,-2.9,Counts,0.16670000000000001,2023-03-12,Centex Tier II,0,8,13,-496.16,-5,1015.4,536.65,519.24,539.55,519.24,86.557308,Texas-Arlington,2
+205,Sam Houston State,Loss 9-13,-45.24,Counts,0.16670000000000001,2023-03-12,Centex Tier II,0,9,13,-418.57,-4,726.13,578.98,307.56,624.22,307.56,51.270252000000006,Texas-Arlington,3
+310,Texas A&M-B,Win 13-7,58.88,Counts,0.16670000000000001,2023-03-12,Centex Tier II,1,13,7,557.53,6,270.61,474.86,828.14,415.98,828.14,138.050938,Texas-Arlington,4
+270,North Texas,Win 13-10,58.9,Counts,0.16670000000000001,2023-03-13,Centex Tier II,1,13,10,328.14,3,500.12,474.84,828.26,415.94,828.26,138.070942,Texas-Arlington,5
+349,Trinity University,Win 15-11,-32,Counts,0.16670000000000001,2023-03-13,Centex Tier II,1,15,11,381.16,4,7.44,565.75,388.6,597.75,388.6,64.77962000000001,Texas-Arlington,6

@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+112,California-San Diego-B,Loss 4-7,-10.18,Counts,0.0774,2023-02-05,Stanford Open 2022,0,4,7,-496.16,-3,795.6,430.94,299.44,441.12,299.44,23.176655999999998,Stanford-B,1
+78,Southern California,Loss 2-11,0,Ignored,0,2023-02-05,Stanford Open 2022,0,2,11,-600,-9,1039.77,420.77,439.77,420.77,0,0,Stanford-B,2
+176,Chico State,Loss 6-7,-14.6,Counts,0.08410000000000001,2023-02-05,Stanford Open 2022,0,6,7,-125,-1,386.79,435.37,261.79,449.97,261.79,22.016539000000005,Stanford-B,3
+187,UCLA-B,Win 5-3,22.69,Counts,0.066,2023-02-06,Stanford Open 2022,1,5,3,418.57,2,323.32,398.07,741.89,375.38,741.89,48.96474,Stanford-B,4
+129,Nevada-Reno,Loss 5-6,11.62,Counts,0.0774,2023-02-06,Stanford Open 2022,0,5,6,-125,-1,684.23,409.15,559.23,397.53,559.23,43.284402,Stanford-B,5
+187,UCLA-B,Win 6-3,33.82,Counts,0.07,2023-02-06,Stanford Open 2022,1,6,3,546.69,3,323.32,386.95,870.01,353.13,870.01,60.90070000000001,Stanford-B,6
+239,Arizona-B,Win 15-3,0,Ignored,0,2023-04-16,Southwest Dev College Womens CC 2022,1,15,3,600,12,NA,420.77,NA,420.77,0,NA,Stanford-B,7
+112,California-San Diego-B,Loss 3-9,-39.71,Counts,0.1499,2023-04-16,Southwest Dev College Womens CC 2022,0,3,9,-600,-6,795.6,460.47,195.60000000000002,500.18,195.60000000000002,29.320440000000005,Stanford-B,8
+187,UCLA-B,Loss 6-7,-39.23,Counts,0.1499,2023-04-16,Southwest Dev College Womens CC 2022,0,6,7,-125,-1,323.32,459.99,198.32,499.22,198.32,29.728168,Stanford-B,9
+112,California-San Diego-B,Loss 2-13,-49.84,Counts,0.1812,2023-04-17,Southwest Dev College Womens CC 2022,0,2,13,-600,-11,795.6,470.61,195.60000000000002,520.45,195.60000000000002,35.44272,Stanford-B,10
+187,UCLA-B,Win 8-4,78.64,Counts,0.14400000000000002,2023-04-17,Southwest Dev College Womens CC 2022,1,8,4,564.81,4,323.32,342.13,888.1299999999999,263.49,888.1299999999999,127.89072,Stanford-B,11

@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+303,Skidmore College,Win 12-6,39.42,Counts,0.1957,2023-04-23,Hudson Valley D III College Mens CC 2022,1,12,6,579.31,6,298.24,676.14,877.55,636.72,877.55,171.736535,Vassar,1
+344,Hartford,Win 13-3,-17.22,Counts,0.2011,2023-04-23,Hudson Valley D III College Mens CC 2022,1,13,3,600,10,47.12,732.78,647.12,750,647.12,130.135832,Vassar,2
+224,Army,Loss 9-10,-38.99,Counts,0.2011,2023-04-23,Hudson Valley D III College Mens CC 2022,0,9,10,-125,-1,685.65,754.54,560.65,793.53,560.65,112.746715,Vassar,3
+180,Connecticut College,Loss 9-10,-3.08,Counts,0.2011,2023-04-23,Hudson Valley D III College Mens CC 2022,0,9,10,-125,-1,828.33,718.63,703.33,721.71,703.33,141.439663,Vassar,4
+320,Rensselaer Polytechnic Institute,Win 15-8,19.6,Counts,0.2011,2023-04-24,Hudson Valley D III College Mens CC 2022,1,15,8,564.81,7,228.64,695.95,793.4499999999999,676.35,793.4499999999999,159.562795,Vassar,5

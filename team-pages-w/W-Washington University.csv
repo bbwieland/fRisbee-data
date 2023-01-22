@@ -1,0 +1,25 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+68,Kansas,Loss 5-8,-17.39,Counts,0.0334,2023-03-05,Midwest Throwdown 2022,0,5,8,-453.6,-3,1122.06,1188.75,668.4599999999999,1206.14,668.4599999999999,22.326563999999998,Washington University,1
+59,St. Olaf,Win 8-5,15.94,Counts,0.0334,2023-03-05,Midwest Throwdown 2022,1,8,5,453.6,3,NA,1155.41,NA,1139.47,NA,NA,Washington University,2
+35,Colorado State,Loss 6-8,-2.37,Counts,0.0347,2023-03-05,Midwest Throwdown 2022,0,6,8,-300.49,-2,1405.77,1173.73,1105.28,1176.1,1105.28,38.353216,Washington University,3
+153,Minnesota-Duluth,Win 9-3,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,1,9,3,600,6,538.31,1171.36,1138.31,1171.36,0,0,Washington University,4
+75,Iowa State,Win 9-6,11.26,Counts,0.0359,2023-03-06,Midwest Throwdown 2022,1,9,6,418.57,3,1055.14,1160.1,1473.71,1148.84,1473.71,52.906189000000005,Washington University,5
+35,Colorado State,Win 10-9,15.14,Counts,0.0404,2023-03-06,Midwest Throwdown 2022,1,10,9,125,1,1405.77,1156.22,1530.77,1141.08,1530.77,61.843107999999994,Washington University,6
+38,Wisconsin,Win 8-7,11.89,Counts,0.0359,2023-03-06,Midwest Throwdown 2022,1,8,7,125,1,1365.5,1159.47,1490.5,1147.58,1490.5,53.50895,Washington University,7
+33,Minnesota,Loss 6-8,-1.84,Counts,0.0347,2023-03-06,Midwest Throwdown 2022,0,6,8,-300.49,-2,1420.67,1173.2,1120.18,1175.04,1120.18,38.870246,Washington University,8
+78,Southern California,Loss 7-8,-10.78,Counts,0.0403,2023-03-19,Womens Centex,0,7,8,-125,-1,1039.77,1182.13,914.77,1192.91,914.77,36.865231,Washington University,9
+14,Florida State,Loss 6-15,-3,Counts,0.0454,2023-03-19,Womens Centex,0,6,15,-600,-9,1708.29,1174.35,1108.29,1177.35,1108.29,50.316366,Washington University,10
+21,Northeastern,Loss 7-13,-8.59,Counts,0.0454,2023-03-19,Womens Centex,0,7,13,-557.53,-6,1548.06,1179.95,990.53,1188.54,990.53,44.970062,Washington University,11
+143,Illinois,Win 13-0,2.62,Counts,0.0454,2023-03-20,Womens Centex,1,13,0,600,13,626.49,1168.74,1226.49,1166.1200000000001,1226.49,55.682646000000005,Washington University,12
+82,Texas A&M,Loss 8-10,-19.64,Counts,0.044199999999999996,2023-03-20,Womens Centex,0,8,10,-262.67,-2,1008.88,1191,746.21,1210.64,746.21,32.982482,Washington University,13
+162,Oklahoma,Win 13-0,0,Ignored,0,2023-04-16,Ozarks D I College Womens CC 2022,1,13,0,600,13,480.27,1171.36,1080.27,1171.36,0,0,Washington University,14
+186,Missouri State,Win 15-2,0,Ignored,0,2023-04-16,Ozarks D I College Womens CC 2022,1,15,2,600,13,324.48,1171.36,924.48,1171.36,0,0,Washington University,15
+114,Missouri,Win 13-9,1.62,Counts,0.0572,2023-04-16,Ozarks D I College Womens CC 2022,1,13,9,418.57,4,779.51,1169.74,1198.08,1168.1200000000001,1198.08,68.530176,Washington University,16
+66,Arkansas,Loss 0-8,-29.49,Counts,0.044500000000000005,2023-04-17,Ozarks D I College Womens CC 2022,0,0,8,-600,-8,1137.7,1200.84,537.7,1230.33,537.7,23.927650000000003,Washington University,17
+68,Kansas,Loss 0-8,-30.21,Counts,0.044500000000000005,2023-04-17,Ozarks D I College Womens CC 2022,0,0,8,-600,-8,1122.06,1201.57,522.06,1231.78,522.06,23.23167,Washington University,18
+82,Texas A&M,Win 13-3,29.99,Counts,0.0642,2023-04-30,South Central D I College Womens Regionals 2022,1,13,3,600,10,1008.88,1141.37,1608.88,1111.3799999999999,1608.88,103.29009599999999,Washington University,19
+19,Texas,Loss 7-13,-7.83,Counts,0.0642,2023-04-30,South Central D I College Womens Regionals 2022,0,7,13,-557.53,-6,1614.63,1179.19,1057.1000000000001,1187.02,1057.1000000000001,67.86582,Washington University,20
+114,Missouri,Win 15-6,14.27,Counts,0.0642,2023-04-30,South Central D I College Womens Regionals 2022,1,15,6,600,9,779.51,1157.09,1379.51,1142.82,1379.51,88.56454199999999,Washington University,21
+66,Arkansas,Win 13-11,13.38,Counts,0.0642,2023-05-01,South Central D I College Womens Regionals 2022,1,13,11,228.84,2,1137.7,1157.98,1366.54,1144.6,1366.54,87.73186799999999,Washington University,22
+41,Colorado College,Win 12-8,41.31,Counts,0.0642,2023-05-01,South Central D I College Womens Regionals 2022,1,12,8,441.15,4,1332.86,1130.05,1774.0099999999998,1088.74,1774.0099999999998,113.89144199999997,Washington University,23
+35,Colorado State,Loss 6-15,-25.06,Counts,0.0642,2023-05-01,South Central D I College Womens Regionals 2022,0,6,15,-600,-9,1405.77,1196.42,805.77,1221.48,805.77,51.730433999999995,Washington University,24

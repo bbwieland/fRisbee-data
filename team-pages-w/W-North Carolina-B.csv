@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+119,Catholic,Loss 4-6,-6.34,Counts,0.0397,2023-02-19,Commonwealth Cup Weekend 1,0,4,6,-365.61,-2,760.72,554.82,395.11,561.1600000000001,395.11,15.685867,North Carolina-B,1
+164,Richmond,Loss 2-8,-30.28,Counts,0.0426,2023-02-19,Commonwealth Cup Weekend 1,0,2,8,-600,-6,467.86,578.76,-132.14,609.04,-132.14,-5.629163999999999,North Carolina-B,2
+61,Ohio State,Loss 3-7,1.04,Counts,0.0397,2023-02-19,Commonwealth Cup Weekend 1,0,3,7,-600,-4,1173.55,547.44,573.55,546.4000000000001,573.55,22.769934999999997,North Carolina-B,3
+183,Florida-B,Win 6-5,-3.53,Counts,0.0417,2023-02-20,Commonwealth Cup Weekend 1,1,6,5,125,1,342.29,552.01,467.29,555.54,467.29,19.485993,North Carolina-B,4
+189,Virginia-B,Loss 7-8,-18.07,Counts,0.048600000000000004,2023-02-20,Commonwealth Cup Weekend 1,0,7,8,-125,-1,320.06,566.55,195.06,584.62,195.06,9.479916000000001,North Carolina-B,5
+173,Michigan-B,Loss 5-6,-12.06,Counts,0.0417,2023-02-20,Commonwealth Cup Weekend 1,0,5,6,-125,-1,395.97,560.54,270.97,572.5999999999999,270.97,11.299449000000001,North Carolina-B,6
+230,Georgetown-B,Win 7-6,-40.17,Counts,0.0605,2023-03-26,Rodeo,1,7,6,125,1,200.93,588.65,325.93,628.8199999999999,325.93,19.718765,North Carolina-B,7
+56,Liberty,Loss 7-8,37.99,Counts,0.0649,2023-03-26,Rodeo,0,7,8,-125,-1,1220.56,510.48,1095.56,472.49,1095.56,71.101844,North Carolina-B,8
+193,Wake Forest,Win 9-1,21.46,Counts,0.0605,2023-03-26,Rodeo,1,9,1,600,8,282,527.02,882,505.56,882,53.361,North Carolina-B,9
+31,SUNY-Binghamton,Loss 1-7,0,Ignored,0,2023-03-26,Rodeo,0,1,7,-600,-6,1451.86,548.48,851.8599999999999,548.48,0,0,North Carolina-B,10
+59,St. Olaf,Loss 6-9,14.7,Counts,0.0649,2023-03-27,Rodeo,0,6,9,-418.57,-3,NA,533.78,NA,519.0799999999999,NA,NA,North Carolina-B,11
+101,Massachusetts,Loss 7-11,-8.6,Counts,0.0711,2023-03-27,Rodeo,0,7,11,-466.89,-4,903.06,557.08,436.16999999999996,565.6800000000001,436.16999999999996,31.011686999999995,North Carolina-B,12
+217,American-B,Win 11-5,9.76,Counts,0.08449999999999999,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,11,5,600,6,54.25,538.71,654.25,528.95,654.25,55.284124999999996,North Carolina-B,13
+212,George Washington-B,Win 13-5,15.38,Counts,0.09210000000000002,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,13,5,600,8,100.13,533.1,700.13,517.72,700.13,64.48197300000001,North Carolina-B,14
+230,Georgetown-B,Win 12-4,0,Ignored,0,2023-04-23,Atlantic Coast Dev College Womens CC 2022,1,12,4,600,8,200.93,548.48,800.9300000000001,548.48,0,0,North Carolina-B,15
+217,American-B,Win 6-3,3.55,Counts,0.0634,2023-04-24,Atlantic Coast Dev College Womens CC 2022,1,6,3,546.69,3,54.25,544.93,600.94,541.38,600.94,38.099596000000005,North Carolina-B,16
+220,William & Mary-B,Win 13-2,8.97,Counts,0.09210000000000002,2023-04-24,Atlantic Coast Dev College Womens CC 2022,1,13,2,600,11,36.96,539.5,636.96,530.53,636.96,58.66401600000001,North Carolina-B,17
+220,William & Mary-B,Win 13-1,8.97,Counts,0.09210000000000002,2023-04-24,Atlantic Coast Dev College Womens CC 2022,1,13,1,600,12,36.96,539.5,636.96,530.53,636.96,58.66401600000001,North Carolina-B,18

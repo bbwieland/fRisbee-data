@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+122,Colby,Loss 2-7,-53.71,Counts,0.139,2023-04-02,New England Open,0,2,7,-600,-5,747.13,533.53,147.13,587.24,147.13,20.45107,Tufts-B,1
+188,Northeastern-B,Win 6-4,33.57,Counts,0.139,2023-04-02,New England Open,1,6,4,365.61,2,322.17,446.24,687.78,412.67,687.78,95.60142,Tufts-B,2
+37,Wellesley,Loss 3-15,0,Ignored,0,2023-04-02,New England Open,0,3,15,-600,-12,1368.3,479.82,768.3,479.82,0,0,Tufts-B,3
+221,Boston University-B,Win 10-7,-14.24,Counts,0.2034,2023-04-16,New England Dev College Womens CC 2022,1,10,7,389.67,3,34.38,494.06,424.05,508.3,424.05,86.25177000000001,Tufts-B,4
+205,Brown-B,Win 9-5,49.81,Counts,0.18460000000000001,2023-04-16,New England Dev College Womens CC 2022,1,9,5,529.06,4,170.76,430,699.8199999999999,380.19,699.8199999999999,129.186772,Tufts-B,5
+196,Cornell-B,Win 7-6,-26.64,Counts,0.1779,2023-04-16,New England Dev College Womens CC 2022,1,7,6,125,1,231.7,506.46,356.7,533.1,356.7,63.45693,Tufts-B,6
+99,Vermont-B,Loss 4-6,11.81,Counts,0.156,2023-04-17,New England Dev College Womens CC 2022,0,4,6,-365.61,-2,909.32,468,543.71,456.19,543.71,84.81876000000001,Tufts-B,7

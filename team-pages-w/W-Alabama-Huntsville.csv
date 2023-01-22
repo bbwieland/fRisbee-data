@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+223,Purdue-B,Win 13-0,2.21,Counts,0.1026,2023-02-26,TOTS,1,13,0,600,13,8.23,586.73,608.23,584.52,608.23,62.404398,Alabama-Huntsville,1
+110,Tennessee-Chattanooga,Win 9-7,51.84,Counts,0.0941,2023-02-26,TOTS,1,9,7,279.34,2,808.59,537.09,1087.93,485.25,1087.93,102.37421300000001,Alabama-Huntsville,2
+14,Florida State,Loss 3-13,0,Ignored,0,2023-02-26,TOTS,0,3,13,-600,-10,1708.29,588.93,1108.29,588.93,0,0,Alabama-Huntsville,3
+156,Kentucky,Loss 5-7,-35.02,Counts,0.0815,2023-02-26,TOTS,0,5,7,-328.14,-2,522.39,623.96,194.25,658.98,194.25,15.831375000000001,Alabama-Huntsville,4
+86,Alabama,Loss 5-7,7.14,Counts,0.0815,2023-02-27,TOTS,0,5,7,-328.14,-2,997.55,581.79,669.41,574.65,669.41,54.556915,Alabama-Huntsville,5
+14,Florida State,Loss 7-15,59.35,Counts,0.1026,2023-02-27,TOTS,0,7,15,-600,-8,1708.29,529.58,1108.29,470.23,1108.29,113.71055399999999,Alabama-Huntsville,6
+156,Kentucky,Win 10-5,50.87,Counts,0.0911,2023-02-27,TOTS,1,10,5,573.9,5,522.39,538.06,1096.29,487.18999999999994,1096.29,99.872019,Alabama-Huntsville,7
+86,Alabama,Loss 5-10,-21.44,Counts,0.1148,2023-03-26,T Town Throwdown 2022,0,5,10,-573.9,-5,997.55,610.37,423.65,631.8100000000001,423.65,48.63502,Alabama-Huntsville,8
+222,Mississippi State,Win 9-4,3.9,Counts,0.1069,2023-03-26,T Town Throwdown 2022,1,9,4,600,5,21.55,585.03,621.55,581.13,621.55,66.44369499999999,Alabama-Huntsville,9
+53,Central Florida,Loss 4-12,0,Ignored,0,2023-03-26,T Town Throwdown 2022,0,4,12,-600,-8,1229.71,588.93,629.71,588.93,0,0,Alabama-Huntsville,10
+166,LSU,Loss 6-11,-94.3,Counts,0.1222,2023-03-27,T Town Throwdown 2022,0,6,11,-546.69,-5,458.41,683.23,-88.28000000000003,777.53,-88.28000000000003,-10.787816000000005,Alabama-Huntsville,11
+222,Mississippi State,Win 7-5,-27.38,Counts,0.1027,2023-03-27,T Town Throwdown 2022,1,7,5,328.14,2,21.55,616.31,349.69,643.6899999999999,349.69,35.913163,Alabama-Huntsville,12

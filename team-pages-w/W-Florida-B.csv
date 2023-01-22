@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+195,South Florida,Win 7-6,1.59,Counts,0.0564,2023-01-15,Florida Winter Classic 2022,1,7,6,125,1,243.9,340.7,368.9,339.11,368.9,20.80596,Florida-B,1
+14,Florida State,Loss 0-13,0,Ignored,0,2023-01-15,Florida Winter Classic 2022,0,0,13,-600,-13,1708.29,342.29,1108.29,342.29,0,0,Florida-B,2
+194,Florida Tech,Loss 5-6,-11.82,Counts,0.0519,2023-01-15,Florida Winter Classic 2022,0,5,6,-125,-1,251.26,354.11,126.25999999999999,365.93,126.25999999999999,6.552893999999999,Florida-B,3
+120,Cedarville,Loss 1-9,-14.79,Counts,0.0753,2023-02-19,Commonwealth Cup Weekend 1,0,1,9,-600,-8,760.52,357.09,160.51999999999998,371.88,160.51999999999998,12.087156,Florida-B,4
+173,Michigan-B,Win 6-2,42.36,Counts,0.060899999999999996,2023-02-19,Commonwealth Cup Weekend 1,1,6,2,600,4,395.97,299.93,995.97,257.57,995.97,60.654573,Florida-B,5
+107,Mary Washington,Loss 1-10,-8.5,Counts,0.0795,2023-02-19,Commonwealth Cup Weekend 1,0,1,10,-600,-9,843.9,350.79,243.89999999999998,359.29,243.89999999999998,19.39005,Florida-B,6
+189,Virginia-B,Loss 2-3,-7.21,Counts,0.0467,2023-02-19,Commonwealth Cup Weekend 1,0,2,3,-125,-1,320.06,349.5,195.06,356.71,195.06,9.109302,Florida-B,7
+152,North Carolina-B,Loss 5-6,6.04,Counts,0.0692,2023-02-20,Commonwealth Cup Weekend 1,0,5,6,-125,-1,548.48,336.25,423.48,330.21,423.48,29.304816,Florida-B,8
+139,Auburn,Loss 3-11,-35.51,Counts,0.1052,2023-03-19,College Southerns XX,0,3,11,-600,-8,640.3,377.8,40.299999999999955,413.31,40.299999999999955,4.2395599999999956,Florida-B,9
+116,Wisconsin-Eau Claire,Loss 1-13,-22.21,Counts,0.11460000000000001,2023-03-19,College Southerns XX,0,1,13,-600,-12,770.8,364.5,170.79999999999995,386.71,170.79999999999995,19.573679999999996,Florida-B,10
+22,Middlebury,Loss 1-13,0,Ignored,0,2023-03-19,College Southerns XX,0,1,13,-600,-12,1540.81,342.29,940.81,342.29,0,0,Florida-B,11
+69,Charleston,Loss 3-11,0,Ignored,0,2023-03-20,College Southerns XX,0,3,11,-600,-8,1109.51,342.29,509.51,342.29,0,0,Florida-B,12
+116,Wisconsin-Eau Claire,Loss 0-10,-19.09,Counts,0.1001,2023-03-20,College Southerns XX,0,0,10,-600,-10,770.8,361.38,170.79999999999995,380.46999999999997,170.79999999999995,17.097079999999995,Florida-B,13
+14,Florida State,Loss 0-13,0,Ignored,0,2023-04-09,Florida D I College Womens CC 2022,0,0,13,-600,-13,1708.29,342.29,1108.29,342.29,0,0,Florida-B,14
+198,Miami,Win 10-1,65.91,Counts,0.1191,2023-04-09,Florida D I College Womens CC 2022,1,10,1,600,9,229.78,276.39,829.78,210.48,829.78,98.826798,Florida-B,15
+195,South Florida,Win 8-7,3.67,Counts,0.1211,2023-04-10,Florida D I College Womens CC 2022,1,8,7,125,1,243.9,338.63,368.9,334.96,368.9,44.67379,Florida-B,16
+53,Central Florida,Loss 0-15,0,Ignored,0,2023-04-10,Florida D I College Womens CC 2022,0,0,15,-600,-15,1229.71,342.29,629.71,342.29,0,0,Florida-B,17
+47,Florida,Loss 3-14,0,Ignored,0,2023-04-10,Florida D I College Womens CC 2022,0,3,14,-600,-11,1288.97,342.29,688.97,342.29,0,0,Florida-B,18

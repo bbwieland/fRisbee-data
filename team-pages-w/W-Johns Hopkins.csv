@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+105,Delaware,Loss 5-10,-13.58,Counts,0.2618,2023-04-09,Colonial D I College Womens CC 2022,0,5,10,-573.9,-5,856.75,334.73,282.85,348.31,282.85,74.05013,Johns Hopkins,1
+128,George Washington,Loss 7-9,36.4,Counts,0.2704,2023-04-09,Colonial D I College Womens CC 2022,0,7,9,-279.34,-2,698.73,284.75,419.39000000000004,248.35,419.39000000000004,113.403056,Johns Hopkins,2
+171,Maryland,Win 6-5,63.68,Counts,0.2242,2023-04-10,Colonial D I College Womens CC 2022,1,6,5,125,1,416.54,257.47,541.54,193.79000000000002,541.54,121.413268,Johns Hopkins,3
+159,Towson,Loss 5-8,-87.19,Counts,0.2437,2023-04-10,Colonial D I College Womens CC 2022,0,5,8,-453.6,-3,504.17,408.33,50.56999999999999,495.52,50.56999999999999,12.323908999999999,Johns Hopkins,4

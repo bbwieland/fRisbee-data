@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+10,Vermont,Loss 4-12,0,Ignored,0,2023-04-16,Greater New England D I College Womens CC 2022,0,4,12,-600,-8,1931.61,1061,1331.61,1061,0,0,McGill,1
+90,New Hampshire,Loss 4-5,-48.8,Counts,0.19760000000000003,2023-04-16,Greater New England D I College Womens CC 2022,0,4,5,-125,-1,987.85,1109.8,862.85,1158.6,862.85,170.49916000000002,McGill,2
+43,Dartmouth,Loss 8-12,-70.27,Counts,0.2871,2023-04-17,Greater New England D I College Womens CC 2022,0,8,12,-441.15,-4,1327.67,1131.27,886.5200000000001,1201.54,886.5200000000001,254.51989200000006,McGill,3
+101,Massachusetts,Win 8-4,120.28,Counts,0.22820000000000001,2023-04-17,Greater New England D I College Womens CC 2022,1,8,4,564.81,4,903.06,940.72,1467.87,820.44,1467.87,334.967934,McGill,4
+167,Rhode Island,Win 15-0,-5.03,Counts,0.2871,2023-04-17,Greater New England D I College Womens CC 2022,1,15,0,600,15,448.52,1066.03,1048.52,1071.06,1048.52,301.030092,McGill,5

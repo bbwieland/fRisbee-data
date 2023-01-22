@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+143,Illinois,Loss 0-15,0,Ignored,0,2023-04-23,Illinois D I College Womens CC 2022,0,0,15,-600,-15,626.49,388.25,26.49000000000001,388.25,0,0,Northwestern-B,1
+234,Illinois-Chicago,Loss 6-7,-37.15,Counts,0.48210000000000003,2023-04-23,Illinois D I College Womens CC 2022,0,6,7,-125,-1,303.15,351.11,178.14999999999998,388.26,178.14999999999998,85.88611499999999,Northwestern-B,2
+231,DePaul,Loss 7-8,39.9,Counts,0.5179,2023-04-24,Illinois D I College Womens CC 2022,0,7,8,-125,-1,226.11,428.15,101.11000000000001,388.25,101.11000000000001,52.36486900000001,Northwestern-B,3

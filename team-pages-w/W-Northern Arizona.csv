@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+131,Arizona,Loss 5-12,-7.58,Counts,0.1497,2023-03-19,Uomo Donna,0,5,12,-600,-7,663.02,113.65,63.01999999999998,121.23,63.01999999999998,9.434093999999996,Northern Arizona,1
+134,Arizona State,Loss 2-11,-9.86,Counts,0.1431,2023-03-19,Uomo Donna,0,2,11,-600,-9,647.05,115.93,47.049999999999955,125.79,47.049999999999955,6.732854999999994,Northern Arizona,2
+239,Arizona-B,Win 13-1,0,Ignored,0,2023-03-19,Uomo Donna,1,13,1,600,12,NA,106.08,NA,106.08,0,NA,Northern Arizona,3
+131,Arizona,Loss 7-10,28.95,Counts,0.1475,2023-03-20,Uomo Donna,0,7,10,-389.67,-3,663.02,77.13,273.34999999999997,48.17999999999999,273.34999999999997,40.31912499999999,Northern Arizona,4
+131,Arizona,Loss 6-14,-11.32,Counts,0.2082,2023-04-23,Desert D I College Womens CC 2022,0,6,14,-600,-8,663.02,117.4,63.01999999999998,128.72,63.01999999999998,13.120763999999996,Northern Arizona,5
+134,Arizona State,Loss 3-6,-0.96,Counts,0.1433,2023-04-23,Desert D I College Womens CC 2022,0,3,6,-546.69,-3,647.05,107.03,100.3599999999999,107.99,100.3599999999999,14.381587999999986,Northern Arizona,6
+NA,New Mexico,Win 13-8,0,Counts,0.2082,2023-04-23,Desert D I College Womens CC 2022,1,13,8,496.16,5,390.08,106.08,886.24,106.08,886.24,184.515168,Northern Arizona,7

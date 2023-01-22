@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+62,Washington University,Loss 3-9,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,0,3,9,-600,-6,1171.36,538.31,571.3599999999999,538.31,0,0,Minnesota-Duluth,1
+161,Wisconsin-Oshkosh,Win 8-2,40.59,Counts,0.0683,2023-03-05,Midwest Throwdown 2022,1,8,2,600,6,491.76,497.72,1091.76,457.13,1091.76,74.567208,Minnesota-Duluth,2
+130,Nebraska,Loss 7-8,1.62,Counts,0.078,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,682.47,536.69,557.47,535.07,557.47,43.48266,Minnesota-Duluth,3
+155,Knox,Win 8-6,23.64,Counts,0.0754,2023-03-06,Midwest Throwdown 2022,1,8,6,300.49,2,527.72,514.67,828.21,491.03,828.21,62.447033999999995,Minnesota-Duluth,4
+162,Oklahoma,Loss 5-8,-40.08,Counts,0.0726,2023-03-06,Midwest Throwdown 2022,0,5,8,-453.6,-3,480.27,578.39,26.66999999999996,618.47,26.66999999999996,1.936241999999997,Minnesota-Duluth,5
+130,Nebraska,Loss 7-8,1.62,Counts,0.078,2023-03-06,Midwest Throwdown 2022,0,7,8,-125,-1,682.47,536.69,557.47,535.07,557.47,43.48266,Minnesota-Duluth,6
+64,Iowa,Win 4-3,49.27,Counts,0.0634,2023-03-26,Old Capital Open 2022,1,4,3,125,1,1141.3,489.04,1266.3,439.77000000000004,1266.3,80.28341999999999,Minnesota-Duluth,7
+121,Saint Louis,Loss 3-4,5.91,Counts,0.0634,2023-03-26,Old Capital Open 2022,0,3,4,-125,-1,750.63,532.4,625.63,526.49,625.63,39.664941999999996,Minnesota-Duluth,8
+168,St Benedict,Loss 4-8,-61.18,Counts,0.083,2023-03-27,Old Capital Open 2022,0,4,8,-564.81,-4,427.15,599.49,-137.65999999999997,660.67,-137.65999999999997,-11.425779999999998,Minnesota-Duluth,9
+142,Luther,Loss 3-7,-40.9,Counts,0.0758,2023-03-27,Old Capital Open 2022,0,3,7,-600,-4,639.35,579.21,39.35000000000002,620.11,39.35000000000002,2.982730000000002,Minnesota-Duluth,10
+33,Minnesota,Loss 2-15,0,Ignored,0,2023-04-09,Western North Central D I College Womens CC 2022,0,2,15,-600,-13,1420.67,538.31,820.6700000000001,538.31,0,0,Minnesota-Duluth,11
+177,Minnesota-B,Win 14-10,32.68,Counts,0.11720000000000001,2023-04-09,Western North Central D I College Womens CC 2022,1,14,10,398.7,4,385.73,505.62,784.4300000000001,472.94,784.4300000000001,91.93519600000002,Minnesota-Duluth,12
+75,Iowa State,Loss 8-13,2.75,Counts,0.11720000000000001,2023-04-10,Western North Central D I College Womens CC 2022,0,8,13,-496.16,-5,1055.14,535.56,558.98,532.81,558.98,65.51245600000001,Minnesota-Duluth,13
+130,Nebraska,Loss 7-9,-16.29,Counts,0.1076,2023-04-10,Western North Central D I College Womens CC 2022,0,7,9,-279.34,-2,682.47,554.6,403.13000000000005,570.89,403.13000000000005,43.376788000000005,Minnesota-Duluth,14

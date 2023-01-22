@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+89,Central Florida,Loss 1-13,0,Ignored,0,2023-02-19,Mardi Gras XXXIV,0,1,13,-600,-12,1207.83,336.11,607.8299999999999,336.11,0,0,LSU-B,1
+202,Spring Hill College,Loss 3-13,0,Ignored,0,2023-02-19,Mardi Gras XXXIV,0,3,13,-600,-10,746.71,336.11,146.71000000000004,336.11,0,0,LSU-B,2
+114,Florida State,Loss 1-13,0,Ignored,0,2023-02-19,Mardi Gras XXXIV,0,1,13,-600,-12,1097.48,336.11,497.48,336.11,0,0,LSU-B,3
+294,Tulane-B,Loss 6-13,124.93,Counts,0.5473,2023-02-19,Mardi Gras XXXIV,0,6,13,-600,-7,367.22,461.04,-232.77999999999997,336.11,-232.77999999999997,-127.40049399999998,LSU-B,4
+349,Trinity University,Loss 5-8,-103.34,Counts,0.45270000000000005,2023-02-20,Mardi Gras XXXIV,0,5,8,-453.6,-3,7.44,232.78,-446.16,336.12,-446.16,-201.97663200000002,LSU-B,5
+301,Houston,Loss 1-7,0,Ignored,0,2023-02-20,Mardi Gras XXXIV,0,1,7,-600,-6,316.49,336.11,-283.51,336.11,0,-0,LSU-B,6

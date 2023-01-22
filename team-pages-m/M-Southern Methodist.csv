@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+331,Texas Tech,Win 10-9,-21.92,Counts,0.25,2023-04-16,North Texas D I College Mens CC 2022,1,10,9,125,1,133.47,346.16,258.47,368.08000000000004,258.47,64.6175,Southern Methodist,1
+201,Baylor,Loss 9-10,99.44,Counts,0.25,2023-04-16,North Texas D I College Mens CC 2022,0,9,10,-125,-1,747.54,224.8,622.54,125.36000000000001,622.54,155.635,Southern Methodist,2
+308,Texas Christian,Loss 6-15,-213.93,Counts,0.25,2023-04-17,North Texas D I College Mens CC 2022,0,6,15,-600,-9,282.45,538.16,-317.55,752.0899999999999,-317.55,-79.3875,Southern Methodist,3
+331,Texas Tech,Win 15-4,136.41,Counts,0.25,2023-04-17,North Texas D I College Mens CC 2022,1,15,4,600,11,133.47,187.82,733.47,51.41,733.47,183.3675,Southern Methodist,4

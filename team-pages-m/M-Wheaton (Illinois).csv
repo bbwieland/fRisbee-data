@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+315,Knox,Win 13-4,0,Ignored,0,2023-04-23,Illinois D III College Mens CC 2022,1,13,4,600,9,257.91,985.02,857.9100000000001,985.02,0,0,Wheaton (Illinois),1
+334,Bradley,Win 13-7,-48.26,Counts,0.13699999999999998,2023-04-23,Illinois D III College Mens CC 2022,1,13,7,557.53,6,123.56,1033.28,681.0899999999999,1081.54,681.0899999999999,93.30932999999997,Wheaton (Illinois),2
+230,North Park,Win 13-5,44.68,Counts,0.13699999999999998,2023-04-23,Illinois D III College Mens CC 2022,1,13,5,600,8,666.39,940.34,1266.3899999999999,895.6600000000001,1266.3899999999999,173.49542999999997,Wheaton (Illinois),3
+334,Bradley,Win 10-2,0,Ignored,0,2023-04-24,Illinois D III College Mens CC 2022,1,10,2,600,8,123.56,985.02,723.56,985.02,0,0,Wheaton (Illinois),4
+182,Kalamazoo,Win 11-9,14.02,Counts,0.1452,2023-04-30,Great Lakes D III College Mens Regionals 2022,1,11,9,249.21,2,818.37,971,1067.58,956.98,1067.58,155.01261599999998,Wheaton (Illinois),5
+147,Grace,Loss 10-13,-59.72,Counts,0.1452,2023-04-30,Great Lakes D III College Mens Regionals 2022,0,10,13,-328.14,-3,961.54,1044.74,633.4,1104.46,633.4,91.96968,Wheaton (Illinois),6
+203,Valparaiso,Win 13-11,-4.78,Counts,0.1452,2023-04-30,Great Lakes D III College Mens Regionals 2022,1,13,11,228.84,2,728.01,989.8,956.85,994.5799999999999,956.85,138.93462,Wheaton (Illinois),7
+116,Butler,Loss 9-10,-4.16,Counts,0.1452,2023-05-01,Great Lakes D III College Mens Regionals 2022,0,9,10,-125,-1,1085.54,989.18,960.54,993.3399999999999,960.54,139.470408,Wheaton (Illinois),8
+203,Valparaiso,Win 15-5,58.26,Counts,0.1452,2023-05-01,Great Lakes D III College Mens Regionals 2022,1,15,5,600,10,728.01,926.76,1328.01,868.5,1328.01,192.82705199999998,Wheaton (Illinois),9

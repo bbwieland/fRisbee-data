@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+221,Boston University-B,Win 8-2,45.17,Counts,0.1324,2023-04-02,New England Open,1,8,2,600,6,34.38,293.14,634.38,247.96999999999997,634.38,83.991912,Bowdoin,1
+216,Wesleyan,Win 7-2,45.99,Counts,0.1234,2023-04-02,New England Open,1,7,2,600,5,64.92,292.32,664.92,246.32999999999998,664.92,82.05112799999999,Bowdoin,2
+146,Stonehill,Loss 3-8,-52.26,Counts,0.1324,2023-04-02,New England Open,0,3,8,-600,-5,595.83,390.57,-4.169999999999959,442.83,-4.169999999999959,-0.5521079999999945,Bowdoin,3
+89,Brandeis,Loss 6-8,60.64,Counts,0.1461,2023-04-02,New England Open,0,6,8,-300.49,-2,993.33,277.68,692.84,217.04000000000002,692.84,101.22392400000001,Bowdoin,4
+188,Northeastern-B,Loss 7-8,-25.14,Counts,0.1512,2023-04-03,New England Open,0,7,8,-125,-1,322.17,363.46,197.17000000000002,388.59999999999997,197.17000000000002,29.812104,Bowdoin,5
+125,Bates,Loss 3-9,-38.77,Counts,0.1491,2023-04-10,North New England D III College Womens CC 2022,0,3,9,-600,-6,717.11,377.08,117.11000000000001,415.84999999999997,117.11000000000001,17.461101000000003,Bowdoin,6
+22,Middlebury,Loss 3-10,0,Ignored,0,2023-04-10,North New England D III College Womens CC 2022,0,3,10,-600,-7,1540.81,338.32,940.81,338.32,0,0,Bowdoin,7
+122,Colby,Loss 2-11,-37.9,Counts,0.1654,2023-04-10,North New England D III College Womens CC 2022,0,2,11,-600,-9,747.13,376.22,147.13,414.12,147.13,24.335302,Bowdoin,8

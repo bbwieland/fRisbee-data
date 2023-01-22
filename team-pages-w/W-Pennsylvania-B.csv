@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+117,Virginia Commonwealth,Loss 5-10,NA,Counts,1,2023-03-26,Bonanza 2022,0,5,10,-573.9,-5,768.41,NA,194.51,NA,194.51,194.51,Pennsylvania-B,1
+67,Virginia Tech,Loss 1-13,0,Ignored,0,2023-03-26,Bonanza 2022,0,1,13,-600,-12,1125.52,194.52,525.52,194.52,0,0,Pennsylvania-B,2
+32,Pennsylvania,Loss 2-13,0,Ignored,0,2023-03-26,Bonanza 2022,0,2,13,-600,-11,1437.83,194.52,837.8299999999999,194.52,0,0,Pennsylvania-B,3
+44,William & Mary,Loss 2-15,0,Ignored,0,2023-03-27,Bonanza 2022,0,2,15,-600,-13,1326.51,194.52,726.51,194.52,0,0,Pennsylvania-B,4
+28,Williams,Loss 1-15,0,Ignored,0,2023-03-27,Bonanza 2022,0,1,15,-600,-14,1490.38,194.52,890.3800000000001,194.52,0,0,Pennsylvania-B,5

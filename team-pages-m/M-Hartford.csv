@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+303,Skidmore College,Loss 8-12,-63.34,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,8,12,-441.15,-4,298.24,110.46,-142.90999999999997,173.8,-142.90999999999997,-35.72749999999999,Hartford,1
+180,Connecticut College,Loss 6-13,60.4,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,6,13,-600,-7,828.33,13.29,228.33000000000004,-47.11,228.33000000000004,57.08250000000001,Hartford,2
+210,Vassar,Loss 3-13,22.81,Counts,0.25,2023-04-23,Hudson Valley D III College Mens CC 2022,0,3,13,-600,-10,715.56,24.3,115.55999999999995,1.490000000000002,115.55999999999995,28.889999999999986,Hartford,3
+224,Army,Loss 4-12,0,Ignored,0,2023-04-23,Hudson Valley D III College Mens CC 2022,0,4,12,-600,-8,685.65,47.12,85.64999999999998,47.12,0,0,Hartford,4
+337,Siena,Loss 11-12,-19.87,Counts,0.25,2023-04-24,Hudson Valley D III College Mens CC 2022,0,11,12,-125,-1,112.49,66.99,-12.510000000000005,86.86,-12.510000000000005,-3.1275000000000013,Hartford,5

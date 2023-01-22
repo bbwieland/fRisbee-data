@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+202,Rutgers,Loss 3-8,-7.06,Counts,0.1326,2023-03-05,Philly Special,0,3,8,-600,-5,201.83,344.87,-398.16999999999996,351.93,-398.16999999999996,-52.79734199999999,Temple -B,1
+188,Northeastern-B,Loss 3-11,0,Ignored,0,2023-03-05,Philly Special,0,3,11,-600,-8,322.17,351.94,-277.83,351.94,0,-0,Temple -B,2
+227,SUNY-Albany,Loss 3-8,-54.18,Counts,0.1326,2023-03-05,Philly Special,0,3,8,-600,-5,106.46,297.76,-493.54,351.94,-493.54,-65.443404,Temple -B,3
+202,Rutgers,Loss 5-10,-3.59,Counts,0.1514,2023-03-06,Philly Special,0,5,10,-573.9,-5,201.83,348.35,-372.06999999999994,351.94,-372.06999999999994,-56.33139799999999,Temple -B,4
+36,Yale,Loss 1-15,0,Ignored,0,2023-03-06,Philly Special,0,1,15,-600,-14,1374.29,351.94,774.29,351.94,0,0,Temple -B,5
+227,SUNY-Albany,Loss 4-8,-50.01,Counts,0.1354,2023-03-06,Philly Special,0,4,8,-564.81,-4,106.46,301.93,-458.34999999999997,351.94,-458.34999999999997,-62.06058999999999,Temple -B,6
+236,College of New Jersey,Win 6-5,-3.83,Counts,0.1542,2023-03-26,Garden State 2022,1,6,5,125,1,497.94,348.11,622.94,351.94,622.94,96.057348,Temple -B,7
+232,Dickinson,Win 4-2,76.53,Counts,0.1139,2023-03-26,Garden State 2022,1,4,2,496.16,2,252.53,428.47,748.69,351.94000000000005,748.69,85.27579100000001,Temple -B,8
+233,Messiah,Win 8-7,42.48,Counts,0.18,2023-03-26,Garden State 2022,1,8,7,125,1,283.45,394.42,408.45,351.94,408.45,73.521,Temple -B,9
+108,Connecticut,Loss 2-7,0,Ignored,0,2023-03-27,Garden State 2022,0,2,7,-600,-5,840.71,351.94,240.71000000000004,351.94,0,0,Temple -B,10
+84,West Chester,Loss 0-13,0,Ignored,0,2023-03-27,Garden State 2022,0,0,13,-600,-13,1002.51,351.94,402.51,351.94,0,0,Temple -B,11
+84,West Chester,Loss 1-15,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,1,15,-600,-14,1002.51,351.94,402.51,351.94,0,0,Temple -B,12
+48,Penn State,Loss 2-15,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,2,15,-600,-13,1275.52,351.94,675.52,351.94,0,0,Temple -B,13
+13,Pittsburgh,Loss 0-15,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,0,0,15,-600,-15,1719.32,351.94,1119.32,351.94,0,0,Temple -B,14
+175,Pittsburgh-B,Loss 0-15,0,Ignored,0,2023-04-17,Pennsylvania D I College Womens CC 2022,0,0,15,-600,-15,393.49,351.94,-206.51,351.94,0,-0,Temple -B,15
+58,Temple,Loss 2-15,0,Ignored,0,2023-04-17,Pennsylvania D I College Womens CC 2022,0,2,15,-600,-13,1188.14,351.94,588.1400000000001,351.94,0,0,Temple -B,16

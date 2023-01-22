@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+263,Northern Iowa,Win 7-6,23.84,Counts,0.0789,2023-03-26,Old Capital Open 2022,1,7,6,125,1,530.43,353.27,655.43,329.43,655.43,51.713426999999996,Minnesota-C,1
+278,Eastern Michigan,Loss 7-8,-5.1,Counts,0.0848,2023-03-26,Old Capital Open 2022,0,7,8,-125,-1,447.05,382.21,322.05,387.31,322.05,27.30984,Minnesota-C,2
+292,Drake University,Win 6-5,9.69,Counts,0.0726,2023-03-26,Old Capital Open 2022,1,6,5,125,1,375.93,367.42,500.93,357.73,500.93,36.367518,Minnesota-C,3
+164,Truman State,Loss 6-13,-8.31,Counts,0.09539999999999998,2023-03-27,Old Capital Open 2022,0,6,13,-600,-7,898.32,385.42,298.32000000000005,393.73,298.32000000000005,28.459728000000002,Minnesota-C,4
+169,Kansas,Loss 3-13,-9.2,Counts,0.09539999999999998,2023-03-27,Old Capital Open 2022,0,3,13,-600,-10,889.88,386.31,289.88,395.51,289.88,27.654551999999995,Minnesota-C,5
+346,Iowa State-B,Win 13-3,27.33,Counts,0.09539999999999998,2023-03-27,Old Capital Open 2022,1,13,3,600,10,36.25,349.78,636.25,322.45,636.25,60.69824999999999,Minnesota-C,6
+220,Minnesota-B,Loss 6-13,-38.71,Counts,0.1202,2023-04-23,North Central Dev College Mens CC 2022,0,6,13,-600,-7,693.75,415.82,93.75,454.53,93.75,11.26875,Minnesota-C,7
+376,Wisconsin-Milwaukee-B,Win 13-2,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,1,13,2,600,11,899.89,377.11,1499.8899999999999,377.11,0,0,Minnesota-C,8
+306,Carleton College-Karls,Win 11-10,5.8,Counts,0.1202,2023-04-23,North Central Dev College Mens CC 2022,1,11,10,125,1,294.57,371.31,419.57,365.51,419.57,50.432314,Minnesota-C,9
+346,Iowa State-B,Win 13-4,35.4,Counts,0.1202,2023-04-23,North Central Dev College Mens CC 2022,1,13,4,600,9,36.25,341.71,636.25,306.31,636.25,76.47725,Minnesota-C,10
+374,Wisconsin-Eau Claire-B,Win 13-3,0,Ignored,0,2023-04-24,North Central Dev College Mens CC 2022,1,13,3,600,10,481.32,377.11,1081.32,377.11,0,0,Minnesota-C,11
+264,Wisconsin-B,Loss 7-11,-42.31,Counts,0.11699999999999999,2023-04-24,North Central Dev College Mens CC 2022,0,7,11,-466.89,-4,524.67,419.42,57.77999999999997,461.73,57.77999999999997,6.760259999999996,Minnesota-C,12

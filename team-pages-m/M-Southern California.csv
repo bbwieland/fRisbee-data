@@ -1,0 +1,27 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+61,California-San Diego,Win 12-10,11.24,Counts,0.0317,2023-02-19,Presidents Day Invite 2022,1,12,10,238.12,2,1396.69,1280.41,1634.81,1269.17,1634.81,51.823477,Southern California,1
+58,Stanford,Loss 8-11,-8.03,Counts,0.0317,2023-02-19,Presidents Day Invite 2022,0,8,11,-365.61,-3,1412.07,1299.69,1046.46,1307.72,1046.46,33.172782,Southern California,2
+85,Cornell,Loss 7-8,-5.35,Counts,0.0282,2023-02-19,Presidents Day Invite 2022,0,7,8,-125,-1,1232.33,1297,1107.33,1302.35,1107.33,31.226705999999997,Southern California,3
+151,Arizona State,Win 12-8,3.44,Counts,0.0317,2023-02-19,Presidents Day Invite 2022,1,12,8,441.15,4,955.51,1288.21,1396.6599999999999,1284.77,1396.6599999999999,44.27412199999999,Southern California,4
+113,California-Davis,Win 10-7,6.32,Counts,0.03,2023-02-20,Presidents Day Invite 2022,1,10,7,389.67,3,1106.24,1285.33,1495.91,1279.01,1495.91,44.8773,Southern California,5
+45,Utah,Win 11-7,21.08,Counts,0.030899999999999997,2023-02-20,Presidents Day Invite 2022,1,11,7,466.89,4,1486.48,1270.57,1953.37,1249.49,1953.37,60.35913299999999,Southern California,6
+58,Stanford,Win 10-9,8.04,Counts,0.0317,2023-02-20,Presidents Day Invite 2022,1,10,9,125,1,1412.07,1283.61,1537.07,1275.57,1537.07,48.725119,Southern California,7
+6,Cal Poly-SLO,Loss 4-14,0,Ignored,0,2023-02-21,Presidents Day Invite 2022,0,4,14,-600,-10,1985.66,1291.65,1385.66,1291.65,0,0,Southern California,8
+45,Utah,Loss 7-10,-6.03,Counts,0.03,2023-02-21,Presidents Day Invite 2022,0,7,10,-389.67,-3,1486.48,1297.68,1096.81,1303.71,1096.81,32.9043,Southern California,9
+63,California-Santa Barbara,Win 8-5,14.49,Counts,0.0262,2023-02-21,Presidents Day Invite 2022,1,8,5,453.6,3,1375.9,1277.16,1829.5,1262.67,1829.5,47.932900000000004,Southern California,10
+36,California-Santa Cruz,Loss 6-11,-10.95,Counts,0.0337,2023-03-05,Stanford Invite 2022,0,6,11,-546.69,-5,1524.13,1302.61,977.44,1313.56,977.44,32.939728,Southern California,11
+55,Grand Canyon,Loss 9-11,-4.4,Counts,0.0356,2023-03-05,Stanford Invite 2022,0,9,11,-249.21,-2,1421.57,1296.06,1172.36,1300.46,1172.36,41.736016,Southern California,12
+63,California-Santa Barbara,Win 13-10,15.23,Counts,0.0356,2023-03-05,Stanford Invite 2022,1,13,10,328.14,3,1375.9,1276.43,1704.04,1261.2,1704.04,60.663824,Southern California,13
+11,Washington,Loss 5-13,-1.61,Counts,0.0356,2023-03-05,Stanford Invite 2022,0,5,13,-600,-8,1847.95,1293.27,1247.95,1294.8799999999999,1247.95,44.42702,Southern California,14
+81,Santa Clara,Loss 10-12,-10.55,Counts,0.0356,2023-03-06,Stanford Invite 2022,0,10,12,-238.12,-2,1243.95,1302.21,1005.83,1312.76,1005.83,35.807548000000004,Southern California,15
+53,Tulane,Loss 8-10,-4.1,Counts,0.0347,2023-03-06,Stanford Invite 2022,0,8,10,-262.67,-2,1440.12,1295.75,1177.4499999999998,1299.85,1177.4499999999998,40.85751499999999,Southern California,16
+226,San Diego State,Win 11-5,-0.53,Counts,0.0436,2023-04-09,SoCal D I College Mens CC 2022,1,11,5,600,6,680.1,1292.18,1280.1,1292.71,1280.1,55.81236,Southern California,17
+61,California-San Diego,Win 9-8,10.83,Counts,0.045,2023-04-09,SoCal D I College Mens CC 2022,1,9,8,125,1,1396.69,1280.82,1521.69,1269.99,1521.69,68.47605,Southern California,18
+112,Cal State-Long Beach,Win 13-4,20.83,Counts,0.0475,2023-04-09,SoCal D I College Mens CC 2022,1,13,4,600,9,1109.09,1270.82,1709.09,1249.99,1709.09,81.181775,Southern California,19
+29,UCLA,Loss 8-13,-9.5,Counts,0.0475,2023-04-09,SoCal D I College Mens CC 2022,0,8,13,-496.16,-5,1597.35,1301.16,1101.1899999999998,1310.66,1101.1899999999998,52.30652499999999,Southern California,20
+167,Loyola Marymount,Win 12-6,8.94,Counts,0.0463,2023-04-10,SoCal D I College Mens CC 2022,1,12,6,579.31,6,896.64,1282.71,1475.9499999999998,1273.77,1475.9499999999998,68.336485,Southern California,21
+244,California-Irvine,Win 13-6,-3.47,Counts,0.0475,2023-04-10,SoCal D I College Mens CC 2022,1,13,6,600,7,622.19,1295.12,1222.19,1298.59,1222.19,58.054025,Southern California,22
+63,California-Santa Barbara,Loss 9-10,-2.6,Counts,0.0599,2023-05-07,Southwest D I College Mens Regionals 2022,0,9,10,-125,-1,1375.9,1294.25,1250.9,1296.85,1250.9,74.92891,Southern California,23
+208,Nevada-Reno,Win 13-8,-4.65,Counts,0.0599,2023-05-07,Southwest D I College Mens Regionals 2022,1,13,8,496.16,5,722.46,1296.31,1218.6200000000001,1300.96,1218.6200000000001,72.995338,Southern California,24
+55,Grand Canyon,Loss 9-13,-18.39,Counts,0.0599,2023-05-07,Southwest D I College Mens Regionals 2022,0,9,13,-418.57,-4,1421.57,1310.04,1003,1328.43,1003,60.0797,Southern California,25
+88,Arizona,Loss 9-13,-31.67,Counts,0.0599,2023-05-08,Southwest D I College Mens Regionals 2022,0,9,13,-418.57,-4,1213.12,1323.32,794.55,1354.99,794.55,47.593545,Southern California,26

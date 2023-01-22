@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+173,Colorado School of Mines,Win 13-9,60.81,Counts,0.1674,2023-03-12,Centex Tier II,1,13,9,418.57,4,856.94,912.27,1275.51,851.46,1275.51,213.520374,Texas-San Antonio,1
+205,Sam Houston State,Win 13-12,-24.52,Counts,0.1674,2023-03-12,Centex Tier II,1,13,12,125,1,726.13,997.6,851.13,1022.12,851.13,142.479162,Texas-San Antonio,2
+270,North Texas,Win 13-2,25.54,Counts,0.1674,2023-03-12,Centex Tier II,1,13,2,600,11,500.12,947.54,1100.12,922,1100.12,184.16008799999997,Texas-San Antonio,3
+135,Colorado-B,Loss 11-15,-68.13,Counts,0.1674,2023-03-13,Centex Tier II,0,11,15,-381.16,-4,1015.4,1041.22,634.24,1109.35,634.24,106.171776,Texas-San Antonio,4
+205,Sam Houston State,Win 11-7,42.81,Counts,0.1629,2023-03-13,Centex Tier II,1,11,7,466.89,4,726.13,930.27,1193.02,887.46,1193.02,194.34295799999998,Texas-San Antonio,5
+301,Houston,Win 14-9,-36.74,Counts,0.1674,2023-03-13,Centex Tier II,1,14,9,473.87,5,316.49,1009.82,790.36,1046.56,790.36,132.306264,Texas-San Antonio,6

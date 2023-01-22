@@ -1,0 +1,38 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+12,Brigham Young,Win 11-5,2.35,Counts,0.0347,2023-02-12,Queen City Tune Up 2022,1,11,5,600,6,1808.7,2341.1,2408.7,2338.75,2408.7,83.58189,North Carolina,1
+49,Columbia,Win 12-3,0,Ignored,0,2023-02-12,Queen City Tune Up 2022,1,12,3,600,9,1271.44,2343.45,1871.44,2343.45,0,0,North Carolina,2
+34,Michigan,Win 11-4,0,Ignored,0,2023-02-12,Queen City Tune Up 2022,1,11,4,600,7,1407.34,2343.45,2007.34,2343.45,0,0,North Carolina,3
+24,Ohio,Win 13-1,0,Ignored,0,2023-02-12,Queen City Tune Up 2022,1,13,1,600,12,1505.49,2343.45,2105.49,2343.45,0,0,North Carolina,4
+42,North Carolina State,Win 14-2,0,Ignored,0,2023-02-13,Queen City Tune Up 2022,1,14,2,600,12,1329.97,2343.45,1929.97,2343.45,0,0,North Carolina,5
+7,Tufts,Win 11-8,1.23,Counts,0.0379,2023-02-13,Queen City Tune Up 2022,1,11,8,365.61,3,2009.18,2342.22,2374.79,2340.99,2374.79,90.004541,North Carolina,6
+10,Vermont,Win 12-8,1.15,Counts,0.0379,2023-02-13,Queen City Tune Up 2022,1,12,8,441.15,4,1931.61,2342.3,2372.7599999999998,2341.15,2372.7599999999998,89.927604,North Carolina,7
+50,Carnegie Mellon,Win 15-5,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,1,15,5,600,10,1270.24,2343.45,1870.24,2343.45,0,0,North Carolina,8
+15,Georgia,Win 15-5,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,1,15,5,600,10,1707.34,2343.45,2307.34,2343.45,0,0,North Carolina,9
+32,Pennsylvania,Win 15-3,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,1,15,3,600,12,1437.83,2343.45,2037.83,2343.45,0,0,North Carolina,10
+71,Northwestern,Win 15-2,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,1,15,2,600,13,1086.61,2343.45,1686.61,2343.45,0,0,North Carolina,11
+42,North Carolina State,Win 15-0,0,Ignored,0,2023-02-27,Commonwealth Cup Weekend 2,1,15,0,600,15,1329.97,2343.45,1929.97,2343.45,0,0,North Carolina,12
+34,Michigan,Win 15-4,0,Ignored,0,2023-02-27,Commonwealth Cup Weekend 2,1,15,4,600,11,1407.34,2343.45,2007.34,2343.45,0,0,North Carolina,13
+13,Pittsburgh,Win 15-5,0,Ignored,0,2023-02-27,Commonwealth Cup Weekend 2,1,15,5,600,10,1719.32,2343.45,2319.3199999999997,2343.45,0,0,North Carolina,14
+2,Colorado,Win 15-9,23.27,Counts,0.0536,2023-03-26,Northwest Challenge,1,15,9,515.48,6,2239.23,2320.18,2754.71,2296.91,2754.71,147.652456,North Carolina,15
+18,UCLA,Win 15-5,0,Ignored,0,2023-03-26,Northwest Challenge,1,15,5,600,10,1618.64,2343.45,2218.6400000000003,2343.45,0,0,North Carolina,16
+5,British Columbia,Win 15-10,12.27,Counts,0.0536,2023-03-27,Northwest Challenge,1,15,10,453.6,5,2106.72,2331.18,2560.3199999999997,2318.91,2560.3199999999997,137.233152,North Carolina,17
+2,Colorado,Win 15-14,1.18,Counts,0.0536,2023-03-27,Northwest Challenge,1,15,14,125,1,2239.23,2342.28,2364.23,2341.1000000000004,2364.23,126.722728,North Carolina,18
+10,Vermont,Win 15-14,-16.23,Counts,0.0536,2023-03-27,Northwest Challenge,1,15,14,125,1,1931.61,2359.68,2056.6099999999997,2375.91,2056.6099999999997,110.23429599999999,North Carolina,19
+88,South Carolina,Win 13-1,0,Ignored,0,2023-04-23,Carolina D I College Womens CC 2022,1,13,1,600,12,994.19,2343.45,1594.19,2343.45,0,0,North Carolina,20
+109,Clemson,Win 13-1,0,Ignored,0,2023-04-23,Carolina D I College Womens CC 2022,1,13,1,600,12,812.78,2343.45,1412.78,2343.45,0,0,North Carolina,21
+42,North Carolina State,Win 13-6,-29.92,Counts,0.0675,2023-04-23,Carolina D I College Womens CC 2022,1,13,6,600,7,1329.97,2373.37,1929.97,2403.29,1929.97,130.272975,North Carolina,22
+25,Appalachian State,Win 12-7,-23.06,Counts,0.0675,2023-04-24,Carolina D I College Womens CC 2022,1,12,7,520.51,5,1504.18,2366.52,2024.69,2389.58,2024.69,136.66657500000002,North Carolina,23
+69,Charleston,Win 15-1,0,Ignored,0,2023-04-24,Carolina D I College Womens CC 2022,1,15,1,600,14,1109.51,2343.45,1709.51,2343.45,0,0,North Carolina,24
+128,George Washington,Win 13-0,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,0,600,13,698.73,2343.45,1298.73,2343.45,0,0,North Carolina,25
+105,Delaware,Win 13-0,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,0,600,13,856.75,2343.45,1456.75,2343.45,0,0,North Carolina,26
+117,Virginia Commonwealth,Win 13-0,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,0,600,13,768.41,2343.45,1368.4099999999999,2343.45,0,0,North Carolina,27
+44,William & Mary,Win 13-3,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,13,3,600,10,1326.51,2343.45,1926.51,2343.45,0,0,North Carolina,28
+42,North Carolina State,Win 15-3,0,Ignored,0,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,3,600,12,1329.97,2343.45,1929.97,2343.45,0,0,North Carolina,29
+20,Virginia,Win 15-6,0,Ignored,0,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,6,600,9,1589.46,2343.45,2189.46,2343.45,0,0,North Carolina,30
+8,Stanford,Win 12-9,-1.21,Counts,0.0901,2023-05-27,2022 D I College Championships,1,12,9,345.37,3,1985.87,2344.66,2331.24,2345.87,2331.24,210.04472399999997,North Carolina,31
+21,Northeastern,Win 15-1,0,Ignored,0,2023-05-27,2022 D I College Championships,1,15,1,600,14,1548.06,2343.45,2148.06,2343.45,0,0,North Carolina,32
+14,Florida State,Win 15-8,-6.96,Counts,0.0901,2023-05-28,2022 D I College Championships,1,15,8,564.81,7,1708.29,2350.42,2273.1,2357.38,2273.1,204.80631,North Carolina,33
+15,Georgia,Win 14-8,-9.91,Counts,0.0901,2023-05-28,2022 D I College Championships,1,14,8,536.03,6,1707.34,2353.36,2243.37,2363.27,2243.37,202.127637,North Carolina,34
+5,British Columbia,Win 15-12,6.31,Counts,0.0901,2023-05-29,2022 D I College Championships,1,15,12,300.49,3,2106.72,2337.14,2407.21,2330.83,2407.21,216.889621,North Carolina,35
+4,California-Santa Barbara,Win 15-8,37.68,Counts,0.0901,2023-05-29,2022 D I College Championships,1,15,8,564.81,7,2159.38,2305.77,2724.19,2268.09,2724.19,245.449519,North Carolina,36
+2,Colorado,Win 12-11,2.06,Counts,0.0901,2023-05-30,2022 D I College Championships,1,12,11,125,1,2239.23,2341.4,2364.23,2339.34,2364.23,213.017123,North Carolina,37

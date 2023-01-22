@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+236,College of New Jersey,Win 10-9,-26.63,Counts,0.2293,2023-03-26,Garden State 2022,1,10,9,125,1,497.94,256.83,622.94,283.46,622.94,142.84014200000001,Messiah,1
+232,Dickinson,Win 7-6,36.5,Counts,0.18969999999999998,2023-03-26,Garden State 2022,1,7,6,125,1,252.53,319.96,377.53,283.46,377.53,71.61744099999999,Messiah,2
+235,Temple -B,Loss 7-8,-49.51,Counts,0.20379999999999998,2023-03-26,Garden State 2022,0,7,8,-125,-1,351.94,233.94,226.94,283.45,226.94,46.250372,Messiah,3
+147,Swarthmore,Loss 3-11,0,Ignored,0,2023-03-27,Garden State 2022,0,3,11,-600,-8,594.68,283.45,-5.32000000000005,283.45,0,-0,Messiah,4
+154,Harvard,Loss 2-13,0,Ignored,0,2023-04-02,Fuego,0,2,13,-600,-11,537.68,283.45,-62.32000000000005,283.45,0,-0,Messiah,5
+232,Dickinson,Loss 2-9,-143.13,Counts,0.201,2023-04-02,Fuego,0,2,9,-600,-7,252.53,140.32,-347.47,283.45,-347.47,-69.84147000000002,Messiah,6
+151,NYU,Loss 4-12,0,Ignored,0,2023-04-02,Fuego,0,4,12,-600,-8,550.99,283.45,-49.00999999999999,283.45,0,-0,Messiah,7
+87,Lehigh,Loss 2-13,0,Ignored,0,2023-04-02,Fuego,0,2,13,-600,-11,994.47,283.45,394.47,283.45,0,0,Messiah,8
+154,Harvard,Loss 5-5,175.7,Counts,0.17629999999999998,2023-04-03,Fuego,0,5,5,-0,0,537.68,459.16,537.68,283.46000000000004,537.68,94.79298399999999,Messiah,9

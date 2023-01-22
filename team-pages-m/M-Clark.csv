@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+313,Boston University-B,Loss 3-7,-83.24,Counts,0.2866,2023-04-02,New England Open,0,3,7,-600,-4,258.75,50.78,-341.25,134.01999999999998,-341.25,-97.80225,Clark,1
+185,Northeastern-B,Loss 5-12,0,Ignored,0,2023-04-02,New England Open,0,5,12,-600,-7,810.14,134.02,210.14,134.02,0,0,Clark,2
+180,Connecticut College,Loss 5-13,0,Ignored,0,2023-04-02,New England Open,0,5,13,-600,-8,828.33,134.02,228.33000000000004,134.02,0,0,Clark,3
+146,Brandeis,Loss 3-12,0,Ignored,0,2023-04-02,New England Open,0,3,12,-600,-9,961.68,134.02,361.67999999999995,134.02,0,0,Clark,4
+317,Stonehill,Loss 6-9,-22.29,Counts,0.35100000000000003,2023-04-03,New England Open,0,6,9,-418.57,-3,243.34,111.73,-175.23,134.02,-175.23,-61.50573,Clark,5
+248,Worcester Polytechnic Institute,Loss 3-10,0,Ignored,0,2023-04-03,New England Open,0,3,10,-600,-7,611.08,134.02,11.080000000000041,134.02,0,0,Clark,6
+372,Northeastern-C,Win 10-6,115.83,Counts,0.3625,2023-04-03,New England Open,1,10,6,496.16,4,426.45,249.85,922.61,134.01999999999998,922.61,334.446125,Clark,7
+234,Amherst,Loss 2-13,0,Ignored,0,2023-04-23,South New England D III College Mens CC 2022,0,2,13,-600,-11,655.72,134.02,55.72000000000003,134.02,0,0,Clark,8
+248,Worcester Polytechnic Institute,Loss 1-13,0,Ignored,0,2023-04-23,South New England D III College Mens CC 2022,0,1,13,-600,-12,611.08,134.02,11.080000000000041,134.02,0,0,Clark,9
+123,Williams,Loss 0-13,0,Ignored,0,2023-04-23,South New England D III College Mens CC 2022,0,0,13,-600,-13,1073.97,134.02,473.97,134.02,0,0,Clark,10
+187,Bryant,Loss 0-13,0,Ignored,0,2023-04-24,South New England D III College Mens CC 2022,0,0,13,-600,-13,802.93,134.02,202.92999999999995,134.02,0,0,Clark,11
+234,Amherst,Loss 3-15,0,Ignored,0,2023-04-24,South New England D III College Mens CC 2022,0,3,15,-600,-12,655.72,134.02,55.72000000000003,134.02,0,0,Clark,12

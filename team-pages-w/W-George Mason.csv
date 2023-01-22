@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+55,James Madison,Win 9-5,44.74,Counts,0.0495,2023-02-19,Commonwealth Cup Weekend 1,1,9,5,529.06,4,1222.28,847.82,1751.34,803.08,1751.34,86.69133,George Mason,1
+79,MIT,Loss 2-8,-21.59,Counts,0.0449,2023-02-19,Commonwealth Cup Weekend 1,0,2,8,-600,-6,1033.13,914.15,433.1300000000001,935.74,433.1300000000001,19.447537000000008,George Mason,2
+119,Catholic,Win 7-6,-0.34,Counts,0.04769999999999999,2023-02-20,Commonwealth Cup Weekend 1,1,7,6,125,1,760.72,892.9,885.72,893.24,885.72,42.24884399999999,George Mason,3
+67,Virginia Tech,Loss 6-11,-18.11,Counts,0.0546,2023-02-20,Commonwealth Cup Weekend 1,0,6,11,-546.69,-5,1125.52,910.67,578.8299999999999,928.78,578.8299999999999,31.604117999999996,George Mason,4
+107,Mary Washington,Win 8-4,24.8,Counts,0.0458,2023-02-20,Commonwealth Cup Weekend 1,1,8,4,564.81,4,843.9,867.76,1408.71,842.96,1408.71,64.518918,George Mason,5
+79,MIT,Win 9-8,15.33,Counts,0.0546,2023-02-20,Commonwealth Cup Weekend 1,1,9,8,125,1,1033.13,877.23,1158.13,861.9,1158.13,63.23389800000001,George Mason,6
+128,George Washington,Win 12-4,34.5,Counts,0.0783,2023-04-02,Atlantic Coast Open,1,12,4,600,8,698.73,858.06,1298.73,823.56,1298.73,101.690559,George Mason,7
+70,Cornell,Loss 5-10,-28.04,Counts,0.0725,2023-04-02,Atlantic Coast Open,0,5,10,-573.9,-5,1107.62,920.6,533.7199999999999,948.64,533.7199999999999,38.69469999999999,George Mason,8
+196,Cornell-B,Win 11-4,0,Ignored,0,2023-04-02,Atlantic Coast Open,1,11,4,600,7,231.7,892.56,831.7,892.56,0,0,George Mason,9
+164,Richmond,Win 12-4,14.89,Counts,0.0783,2023-04-02,Atlantic Coast Open,1,12,4,600,8,467.86,877.67,1067.8600000000001,862.78,1067.8600000000001,83.613438,George Mason,10
+107,Mary Washington,Win 9-6,28.91,Counts,0.0725,2023-04-03,Atlantic Coast Open,1,9,6,418.57,3,843.9,863.65,1262.47,834.74,1262.47,91.52907499999999,George Mason,11
+128,George Washington,Loss 7-9,-38.29,Counts,0.07490000000000001,2023-04-03,Atlantic Coast Open,0,7,9,-279.34,-2,698.73,930.85,419.39000000000004,969.14,419.39000000000004,31.412311000000006,George Mason,12
+55,James Madison,Loss 6-9,-7.39,Counts,0.0768,2023-04-09,Virginia D I College Womens CC 2022,0,6,9,-418.57,-3,1222.28,899.95,803.71,907.34,803.71,61.724928,George Mason,13
+20,Virginia,Loss 4-12,0,Ignored,0,2023-04-09,Virginia D I College Womens CC 2022,0,4,12,-600,-8,1589.46,892.56,989.46,892.56,0,0,George Mason,14
+44,William & Mary,Loss 4-13,-15.71,Counts,0.0864,2023-04-09,Virginia D I College Womens CC 2022,0,4,13,-600,-9,1326.51,908.27,726.51,923.98,726.51,62.770464000000004,George Mason,15
+67,Virginia Tech,Loss 9-10,10.21,Counts,0.0864,2023-04-10,Virginia D I College Womens CC 2022,0,9,10,-125,-1,1125.52,882.34,1000.52,872.13,1000.52,86.444928,George Mason,16
+117,Virginia Commonwealth,Loss 6-9,-45.15,Counts,0.0768,2023-04-10,Virginia D I College Womens CC 2022,0,6,9,-418.57,-3,768.41,937.71,349.84,982.86,349.84,26.867711999999997,George Mason,17

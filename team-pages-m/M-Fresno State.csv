@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+58,Stanford,Loss 4-13,0,Ignored,0,2023-04-16,NorCal D I College Mens CC 2022,0,4,13,-600,-9,1412.07,373.85,812.0699999999999,373.85,0,0,Fresno State,1
+321,San Jose State,Loss 8-9,-89.49,Counts,0.2397,2023-04-16,NorCal D I College Mens CC 2022,0,8,9,-125,-1,215.04,463.33,90.03999999999999,552.8199999999999,90.03999999999999,21.582587999999998,Fresno State,2
+208,Nevada-Reno,Loss 8-13,-50.08,Counts,0.2534,2023-04-16,NorCal D I College Mens CC 2022,0,8,13,-496.16,-5,722.46,423.93,226.3,474.01,226.3,57.34442000000001,Fresno State,3
+10,California,Loss 2-13,0,Ignored,0,2023-04-16,NorCal D I College Mens CC 2022,0,2,13,-600,-11,1849.7,373.85,1249.7,373.85,0,0,Fresno State,4
+321,San Jose State,Win 13-5,149.76,Counts,0.2534,2023-04-17,NorCal D I College Mens CC 2022,1,13,5,600,8,215.04,224.08,815.04,74.32000000000002,815.04,206.531136,Fresno State,5
+176,"California State University, Chico",Loss 8-13,-8.55,Counts,0.2534,2023-04-17,NorCal D I College Mens CC 2022,0,8,13,-496.16,-5,844.82,382.4,348.66,390.95,348.66,88.35044400000001,Fresno State,6

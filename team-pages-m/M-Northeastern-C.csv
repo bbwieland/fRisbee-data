@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+317,Stonehill,Loss 6-12,48.75,Counts,0.3502,2023-04-02,New England Open,0,6,12,-579.31,-6,243.34,475.2,-335.9699999999999,426.45,-335.9699999999999,-117.65669399999997,Northeastern-C,1
+148,Bates College,Loss 2-13,0,Ignored,0,2023-04-02,New England Open,0,2,13,-600,-11,958.83,426.45,358.83000000000004,426.45,0,0,Northeastern-C,2
+187,Bryant,Loss 3-13,0,Ignored,0,2023-04-02,New England Open,0,3,13,-600,-10,802.93,426.45,202.92999999999995,426.45,0,0,Northeastern-C,3
+248,Worcester Polytechnic Institute,Loss 2-13,0,Ignored,0,2023-04-02,New England Open,0,2,13,-600,-11,611.08,426.45,11.080000000000041,426.45,0,0,Northeastern-C,4
+317,Stonehill,Loss 2-9,0,Ignored,0,2023-04-03,New England Open,0,2,9,-600,-7,243.34,426.45,-356.65999999999997,426.45,0,-0,Northeastern-C,5
+356,Clark,Loss 6-10,-100.41,Counts,0.33020000000000005,2023-04-03,New England Open,0,6,10,-496.16,-4,134.02,326.03,-362.14,426.43999999999994,-362.14,-119.57862800000001,Northeastern-C,6
+313,Boston University-B,Loss 5-10,52.3,Counts,0.3197,2023-04-03,New England Open,0,5,10,-573.9,-5,258.75,478.75,-315.15,426.45,-315.15,-100.75345499999999,Northeastern-C,7
+104,Brown-B,Loss 2-13,0,Ignored,0,2023-05-07,New England Dev College Mens Regionals 2022,0,2,13,-600,-11,1144.17,426.45,544.1700000000001,426.45,0,0,Northeastern-C,8

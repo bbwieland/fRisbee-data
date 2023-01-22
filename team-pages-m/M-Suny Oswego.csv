@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+373,Sacred Heart,Win 15-4,16.42,Counts,0.33630000000000004,2023-04-02,Fuego,1,15,4,600,11,477.6,73.59,1077.6,57.17,1077.6,362.39688,Suny Oswego,1
+290,Stockton University -Upper,Loss 10-12,25.54,Counts,0.33630000000000004,2023-04-02,Fuego,0,10,12,-238.12,-2,378.52,64.47,140.39999999999998,38.93,140.39999999999998,47.216519999999996,Suny Oswego,2
+311,Dickinson,Loss 8-10,-41.39,Counts,0.3274,2023-04-02,Fuego,0,8,10,-262.67,-2,267.62,131.4,4.949999999999989,172.79000000000002,4.949999999999989,1.6206299999999965,Suny Oswego,3

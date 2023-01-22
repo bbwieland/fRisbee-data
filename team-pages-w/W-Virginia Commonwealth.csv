@@ -1,0 +1,22 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+158,American,Win 6-4,3.31,Counts,0.031400000000000004,2023-02-26,Cherry Blossom Classic,1,6,4,365.61,2,504.99,765.1,870.6,761.7900000000001,870.6,27.336840000000006,Virginia Commonwealth,1
+90,New Hampshire,Win 6-4,18.98,Counts,0.031400000000000004,2023-02-26,Cherry Blossom Classic,1,6,4,365.61,2,987.85,749.44,1353.46,730.46,1353.46,42.498644000000006,Virginia Commonwealth,2
+159,Towson,Loss 5-6,-13.26,Counts,0.0329,2023-02-26,Cherry Blossom Classic,0,5,6,-125,-1,504.17,781.68,379.17,794.9399999999999,379.17,12.474693,Virginia Commonwealth,3
+175,Pittsburgh-B,Win 9-3,8.36,Counts,0.0358,2023-02-26,Cherry Blossom Classic,1,9,3,600,6,393.49,760.05,993.49,751.6899999999999,993.49,35.566942,Virginia Commonwealth,4
+198,Miami,Win 10-1,2.41,Counts,0.0378,2023-02-27,Cherry Blossom Classic,1,10,1,600,9,229.78,766,829.78,763.59,829.78,31.365683999999998,Virginia Commonwealth,5
+90,New Hampshire,Win 7-6,12.8,Counts,0.0358,2023-02-27,Cherry Blossom Classic,1,7,6,125,1,987.85,755.62,1112.85,742.82,1112.85,39.84002999999999,Virginia Commonwealth,6
+32,Pennsylvania,Loss 2-12,0,Ignored,0,2023-03-26,Bonanza 2022,0,2,12,-600,-10,1437.83,768.41,837.8299999999999,768.41,0,0,Virginia Commonwealth,7
+67,Virginia Tech,Loss 2-8,-10.77,Counts,0.0424,2023-03-26,Bonanza 2022,0,2,8,-600,-6,1125.52,779.18,525.52,789.9499999999999,525.52,22.282048,Virginia Commonwealth,8
+204,Pennsylvania-B,Win 10-5,0,Counts,0.048499999999999995,2023-03-26,Bonanza 2022,1,10,5,573.9,5,194.52,768.41,768.42,768.41,768.42,37.26837,Virginia Commonwealth,9
+55,James Madison,Loss 5-14,-8.43,Counts,0.0546,2023-03-27,Bonanza 2022,0,5,14,-600,-9,1222.28,776.85,622.28,785.28,622.28,33.976488,Virginia Commonwealth,10
+44,William & Mary,Win 9-5,53.42,Counts,0.046799999999999994,2023-03-27,Bonanza 2022,1,9,5,529.06,4,1326.51,715,1855.57,661.58,1855.57,86.84067599999999,Virginia Commonwealth,11
+55,James Madison,Loss 7-8,18.92,Counts,0.054400000000000004,2023-04-09,Virginia D I College Womens CC 2022,0,7,8,-125,-1,1222.28,749.49,1097.28,730.57,1097.28,59.692032000000005,Virginia Commonwealth,12
+56,Liberty,Loss 1-15,-9.64,Counts,0.061200000000000004,2023-04-09,Virginia D I College Womens CC 2022,0,1,15,-600,-14,1220.56,778.06,620.56,787.6999999999999,620.56,37.978272,Virginia Commonwealth,13
+67,Virginia Tech,Win 6-5,23.56,Counts,0.0466,2023-04-09,Virginia D I College Womens CC 2022,1,6,5,125,1,1125.52,744.85,1250.52,721.2900000000001,1250.52,58.274232000000005,Virginia Commonwealth,14
+103,George Mason,Win 9-6,31.23,Counts,0.054400000000000004,2023-04-10,Virginia D I College Womens CC 2022,1,9,6,418.57,3,892.56,737.19,1311.1299999999999,705.96,1311.1299999999999,71.325472,Virginia Commonwealth,15
+128,George Washington,Loss 3-13,-55.99,Counts,0.07719999999999999,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,3,13,-600,-10,698.73,824.41,98.73000000000002,880.4,98.73000000000002,7.621956000000001,Virginia Commonwealth,16
+1,North Carolina,Loss 0-13,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,0,13,-600,-13,2343.45,768.41,1743.4499999999998,768.41,0,0,Virginia Commonwealth,17
+42,North Carolina State,Loss 3-13,-3.21,Counts,0.07719999999999999,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,3,13,-600,-10,1329.97,771.63,729.97,774.84,729.97,56.353683999999994,Virginia Commonwealth,18
+88,South Carolina,Loss 2-15,-31.29,Counts,0.07719999999999999,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,2,15,-600,-13,994.19,799.7,394.19000000000005,830.99,394.19000000000005,30.431468,Virginia Commonwealth,19
+56,Liberty,Loss 1-15,-12.36,Counts,0.07719999999999999,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,1,15,-600,-14,1220.56,780.78,620.56,793.14,620.56,47.90723199999999,Virginia Commonwealth,20
+159,Towson,Loss 14-15,-32.54,Counts,0.07719999999999999,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,14,15,-125,-1,504.17,800.96,379.17,833.5,379.17,29.271924,Virginia Commonwealth,21

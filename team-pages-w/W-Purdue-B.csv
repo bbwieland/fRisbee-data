@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+148,Alabama-Huntsville,Loss 0-13,-3,Counts,0.13449999999999998,2023-02-26,TOTS,0,0,13,-600,-13,588.93,11.23,-11.07000000000005,14.23,-11.07000000000005,-1.4889150000000064,Purdue-B,1
+14,Florida State,Loss 1-14,0,Ignored,0,2023-02-26,TOTS,0,1,14,-600,-13,1708.29,8.23,1108.29,8.23,0,0,Purdue-B,2
+110,Tennessee-Chattanooga,Loss 0-13,0,Ignored,0,2023-02-26,TOTS,0,0,13,-600,-13,808.59,8.23,208.59000000000003,8.23,0,0,Purdue-B,3
+45,Tennessee,Loss 2-13,0,Ignored,0,2023-02-26,TOTS,0,2,13,-600,-11,1302.41,8.23,702.4100000000001,8.23,0,0,Purdue-B,4
+127,Jacksonville State,Loss 6-12,17.66,Counts,0.1309,2023-02-27,TOTS,0,6,12,-579.31,-6,704.84,9.43,125.53000000000009,-8.23,125.53000000000009,16.43187700000001,Purdue-B,5
+237,Emory-B,Win 11-1,0,Ignored,0,2023-02-27,TOTS,1,11,1,600,10,634.24,8.23,1234.24,8.23,0,0,Purdue-B,6
+218,Vanderbilt,Win 7-6,20.08,Counts,0.1112,2023-02-27,TOTS,1,7,6,125,1,43.69,11.85,168.69,-8.229999999999999,168.69,18.758328,Purdue-B,7
+213,Notre Dame-B,Win 7-3,107.7,Counts,0.138,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,1,7,3,600,4,81.16,99.47,681.16,-8.230000000000004,681.16,94.00008,Purdue-B,8
+173,Michigan-B,Loss 1-15,-49.85,Counts,0.1902,2023-04-09,Eastern Great Lakes Dev College Womens CC 2022,0,1,15,-600,-14,395.97,58.08,-204.02999999999997,107.93,-204.02999999999997,-38.806506,Purdue-B,9
+213,Notre Dame-B,Loss 3-7,-84.36,Counts,0.138,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,0,3,7,-600,-4,81.16,92.59,-518.84,176.95,-518.84,-71.59992000000001,Purdue-B,10
+173,Michigan-B,Loss 5-8,-12.29,Counts,0.1573,2023-04-10,Eastern Great Lakes Dev College Womens CC 2022,0,5,8,-453.6,-3,395.97,20.53,-57.629999999999995,32.82,-57.629999999999995,-9.065199,Purdue-B,11

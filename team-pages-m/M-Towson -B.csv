@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+233,Navy-B,Loss 4-15,0,Ignored,0,2023-04-23,Colonial Dev College Mens CC 2022,0,4,15,-600,-11,656.78,130.65,56.77999999999997,130.65,0,0,Towson -B,1
+362,American-B,Win 10-8,24.71,Counts,0.1394,2023-04-23,Colonial Dev College Mens CC 2022,1,10,8,262.67,2,240.8,155.36,503.47,130.65,503.47,70.183718,Towson -B,2
+316,George Washington-B,Loss 5-15,-37.15,Counts,0.1433,2023-04-23,Colonial Dev College Mens CC 2022,0,5,15,-600,-10,247.2,93.5,-352.8,130.65,-352.8,-50.55624,Towson -B,3
+359,Georgetown-B,Win 8-7,14.26,Counts,0.1273,2023-04-24,Colonial Dev College Mens CC 2022,1,8,7,125,1,157.89,144.91,282.89,130.65,282.89,36.011897,Towson -B,4
+352,Delaware-B,Loss 11-12,-8.77,Counts,0.1433,2023-04-24,Colonial Dev College Mens CC 2022,0,11,12,-125,-1,58.12,121.88,-66.88,130.65,-66.88,-9.583904,Towson -B,5
+127,South Carolina-B,Loss 1-15,0,Ignored,0,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,0,1,15,-600,-14,1057.1,130.65,457.0999999999999,130.65,0,0,Towson -B,6
+352,Delaware-B,Win 11-8,83.96,Counts,0.16079999999999997,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,1,11,8,365.61,3,58.12,214.61,423.73,130.65000000000003,423.73,68.13578399999999,Towson -B,7
+318,Virginia-B,Loss 6-15,-43.45,Counts,0.16079999999999997,2023-05-07,Atlantic Coast Dev College Mens Regionals 2022,0,6,15,-600,-9,242.62,87.2,-357.38,130.65,-357.38,-57.466703999999986,Towson -B,8
+127,South Carolina-B,Loss 2-15,0,Ignored,0,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,0,2,15,-600,-13,1057.1,130.65,457.0999999999999,130.65,0,0,Towson -B,9
+318,Virginia-B,Loss 1-8,-32.42,Counts,0.1251,2023-05-08,Atlantic Coast Dev College Mens Regionals 2022,0,1,8,-600,-7,242.62,98.23,-357.38,130.65,-357.38,-44.708237999999994,Towson -B,10

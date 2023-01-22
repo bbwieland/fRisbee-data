@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+231,Messiah,Loss 8-11,181.56,Counts,0.2357,2023-03-26,2022 B team Brodown,0,8,11,-365.61,-3,664.18,471.84,298.56999999999994,290.28,298.56999999999994,70.37294899999998,Pennsylvania-B,1
+128,Scranton,Loss 0-15,0,Ignored,0,2023-03-26,2022 B team Brodown,0,0,15,-600,-15,1053.29,290.28,453.28999999999996,290.28,0,0,Pennsylvania-B,2
+NA,Carnegie Mellon-B,Win 7-6,0,Counts,0.1949,2023-03-27,2022 B team Brodown,1,7,6,125,1,415.28,290.28,540.28,290.28,540.28,105.30057199999999,Pennsylvania-B,3
+343,Case Western Reserve-B,Loss 3-11,-92.84,Counts,0.2725,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,3,11,-600,-8,61.83,197.44,-538.17,290.28,-538.17,-146.65132499999999,Pennsylvania-B,4
+256,Penn State-B,Loss 5-13,0,Ignored,0,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,5,13,-600,-8,583.9,290.28,-16.100000000000023,290.28,0,-0,Pennsylvania-B,5
+341,Temple-B,Loss 4-13,-101.31,Counts,0.2969,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,4,13,-600,-9,69.83,188.97,-530.17,290.28,-530.17,-157.40747299999998,Pennsylvania-B,6
+262,Pittsburgh-B,Loss 2-13,0,Ignored,0,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,2,13,-600,-11,532.82,290.28,-67.17999999999995,290.28,0,-0,Pennsylvania-B,7

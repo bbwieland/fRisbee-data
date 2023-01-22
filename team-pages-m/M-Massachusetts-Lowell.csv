@@ -1,0 +1,21 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+175,SUNY Cortland,Loss 9-10,-9.15,Counts,0.049,2023-02-26,Bring The Huckus 12,0,9,10,-125,-1,849.35,911.01,724.35,920.16,724.35,35.49315,Massachusetts-Lowell,1
+295,Haverford,Win 11-5,3.08,Counts,0.045,2023-02-26,Bring The Huckus 12,1,11,5,600,6,367.14,898.78,967.14,895.6999999999999,967.14,43.5213,Massachusetts-Lowell,2
+247,SUNY-Albany,Loss 7-8,-18.85,Counts,0.0436,2023-02-26,Bring The Huckus 12,0,7,8,-125,-1,612.9,920.71,487.9,939.5600000000001,487.9,21.27244,Massachusetts-Lowell,3
+289,Salisbury,Win 13-4,4.21,Counts,0.049,2023-02-26,Bring The Huckus 12,1,13,4,600,9,383.54,897.65,983.54,893.4399999999999,983.54,48.19346,Massachusetts-Lowell,4
+314,Edinboro,Win 13-6,-2.25,Counts,0.049,2023-02-27,Bring The Huckus 12,1,13,6,600,7,258.18,904.11,858.1800000000001,906.36,858.1800000000001,42.05082,Massachusetts-Lowell,5
+132,Ithaca,Loss 4-7,-14.51,Counts,0.0373,2023-02-27,Bring The Huckus 12,0,4,7,-496.16,-3,1023.44,916.37,527.28,930.88,527.28,19.667544,Massachusetts-Lowell,6
+290,Stockton University -Upper,Loss 5-8,-41.29,Counts,0.0406,2023-02-27,Bring The Huckus 12,0,5,8,-453.6,-3,378.52,943.15,-75.08000000000004,984.4399999999999,-75.08000000000004,-3.0482480000000014,Massachusetts-Lowell,7
+303,Skidmore College,Win 13-4,0,Ignored,0,2023-04-02,Northeast Classic,1,13,4,600,9,298.24,901.86,898.24,901.86,0,0,Massachusetts-Lowell,8
+247,SUNY-Albany,Win 13-5,21.78,Counts,0.0654,2023-04-02,Northeast Classic,1,13,5,600,8,612.9,880.08,1212.9,858.3000000000001,1212.9,79.32366,Massachusetts-Lowell,9
+235,Vermont-B,Win 13-6,24.64,Counts,0.0654,2023-04-02,Northeast Classic,1,13,6,600,7,653.78,877.21,1253.78,852.57,1253.78,81.997212,Massachusetts-Lowell,10
+192,Rowan,Win 12-11,0.78,Counts,0.0654,2023-04-03,Northeast Classic,1,12,11,125,1,788.03,901.08,913.03,900.3000000000001,913.03,59.712162,Massachusetts-Lowell,11
+337,Siena,Win 13-6,-13.26,Counts,0.0654,2023-04-03,Northeast Classic,1,13,6,600,7,112.49,915.12,712.49,928.38,712.49,46.596846,Massachusetts-Lowell,12
+183,Wesleyan,Win 13-6,36,Counts,0.0654,2023-04-03,Northeast Classic,1,13,6,600,7,815.88,865.86,1415.88,829.86,1415.88,92.59855200000001,Massachusetts-Lowell,13
+119,Connecticut,Loss 9-12,-11.67,Counts,0.0654,2023-04-03,Northeast Classic,0,9,12,-345.37,-3,1080.53,913.53,735.16,925.1999999999999,735.16,48.079463999999994,Massachusetts-Lowell,14
+93,Harvard,Loss 8-13,-16.34,Counts,0.0735,2023-04-16,Metro Boston D I College Mens CC 2022,0,8,13,-496.16,-5,1191.89,918.2,695.73,934.5400000000001,695.73,51.136154999999995,Massachusetts-Lowell,15
+165,MIT,Win 10-9,9.61,Counts,0.0735,2023-04-16,Metro Boston D I College Mens CC 2022,1,10,9,125,1,898.08,892.25,1023.08,882.64,1023.08,75.19638,Massachusetts-Lowell,16
+18,Tufts,Loss 3-13,0,Ignored,0,2023-04-16,Metro Boston D I College Mens CC 2022,0,3,13,-600,-10,1715.78,901.86,1115.78,901.86,0,0,Massachusetts-Lowell,17
+12,Northeastern,Loss 3-13,0,Ignored,0,2023-04-16,Metro Boston D I College Mens CC 2022,0,3,13,-600,-10,1839.64,901.86,1239.64,901.86,0,0,Massachusetts-Lowell,18
+129,Boston University,Win 12-9,39.14,Counts,0.0735,2023-04-17,Metro Boston D I College Mens CC 2022,1,12,9,345.37,3,1050.21,862.72,1395.58,823.58,1395.58,102.57512999999999,Massachusetts-Lowell,19
+75,Boston College,Loss 8-13,-9.67,Counts,0.0735,2023-04-17,Metro Boston D I College Mens CC 2022,0,8,13,-496.16,-5,1276.09,911.53,779.9299999999998,921.1999999999999,779.9299999999998,57.324854999999985,Massachusetts-Lowell,20

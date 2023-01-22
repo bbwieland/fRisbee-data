@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+50,Berry,Loss 7-15,6.84,Counts,0.10439999999999999,2023-03-26,Needle in a Ho Stack,0,7,15,-600,-8,1449.81,784.23,849.81,777.39,849.81,88.72016399999998,Wake Forest,1
+195,Georgia College,Loss 8-10,-31.41,Counts,0.1016,2023-03-26,Needle in a Ho Stack,0,8,10,-262.67,-2,775.91,822.48,513.24,853.89,513.24,52.145184,Wake Forest,2
+181,Davidson,Loss 9-10,-10.45,Counts,0.10439999999999999,2023-03-26,Needle in a Ho Stack,0,9,10,-125,-1,826.39,801.52,701.39,811.97,701.39,73.225116,Wake Forest,3
+110,Christopher Newport,Loss 7-15,-32.26,Counts,0.10439999999999999,2023-03-27,Needle in a Ho Stack,0,7,15,-600,-8,1114.15,823.34,514.1500000000001,855.6,514.1500000000001,53.677260000000004,Wake Forest,4
+218,Samford,Win 9-8,3.31,Counts,0.0987,2023-03-27,Needle in a Ho Stack,1,9,8,125,1,696.34,787.76,821.34,784.45,821.34,81.066258,Wake Forest,5
+195,Georgia College,Win 9-7,27.98,Counts,0.0958,2023-03-27,Needle in a Ho Stack,1,9,7,279.34,2,775.91,763.1,1055.25,735.12,1055.25,101.09295,Wake Forest,6
+79,Charleston,Loss 7-12,-8.93,Counts,0.1315,2023-04-23,Carolina D I College Mens CC 2022,0,7,12,-520.51,-5,1252.6,800.01,732.0899999999999,808.9399999999999,732.0899999999999,96.269835,Wake Forest,7
+42,South Carolina,Loss 3-13,0,Ignored,0,2023-04-23,Carolina D I College Mens CC 2022,0,3,13,-600,-10,1494.37,791.08,894.3699999999999,791.08,0,0,Wake Forest,8
+2,North Carolina,Loss 2-13,0,Ignored,0,2023-04-23,Carolina D I College Mens CC 2022,0,2,13,-600,-11,2179.26,791.08,1579.2600000000002,791.08,0,0,Wake Forest,9
+23,Duke,Loss 2-13,0,Ignored,0,2023-04-23,Carolina D I College Mens CC 2022,0,2,13,-600,-11,1670.4,791.08,1070.4,791.08,0,0,Wake Forest,10
+79,Charleston,Loss 6-12,-17.29,Counts,0.128,2023-04-24,Carolina D I College Mens CC 2022,0,6,12,-579.31,-6,1252.6,808.36,673.29,825.65,673.29,86.18111999999999,Wake Forest,11
+117,Appalachian State,Win 11-10,63.2,Counts,0.1315,2023-04-24,Carolina D I College Mens CC 2022,1,11,10,125,1,1083.57,727.88,1208.57,664.68,1208.57,158.926955,Wake Forest,12

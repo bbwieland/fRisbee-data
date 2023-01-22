@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+280,Southern California-B,Loss 4-13,-13.67,Counts,0.0673,2023-02-26,Magic Mountain Melee,0,4,13,-600,-9,445.42,48.72,-154.57999999999998,62.39,-154.57999999999998,-10.403234,California-Santa Barbara-B,1
+288,California-San Diego-B,Loss 7-9,4.93,Counts,0.0617,2023-02-26,Magic Mountain Melee,0,7,9,-279.34,-2,389.37,30.11,110.03000000000003,25.18,110.03000000000003,6.788851000000002,California-Santa Barbara-B,2
+377,California-San Diego-C,Win 13-1,0,Ignored,0,2023-02-26,Magic Mountain Melee,1,13,1,600,12,1014.95,35.04,1614.95,35.04,0,0,California-Santa Barbara-B,3
+333,UCLA-B,Win 8-6,24.07,Counts,0.057699999999999994,2023-02-26,Magic Mountain Melee,1,8,6,300.49,2,127.38,10.97,427.87,-13.1,427.87,24.688098999999998,California-Santa Barbara-B,4
+244,California-Irvine,Loss 5-9,3.56,Counts,0.057699999999999994,2023-02-27,Magic Mountain Melee,0,5,9,-529.06,-4,622.19,31.48,93.13000000000011,27.92,93.13000000000011,5.373601000000006,California-Santa Barbara-B,5
+288,California-San Diego-B,Loss 2-13,-17.72,Counts,0.0673,2023-02-27,Magic Mountain Melee,0,2,13,-600,-11,389.37,52.76,-210.63,70.47999999999999,-210.63,-14.175398999999999,California-Santa Barbara-B,6
+371,Arizona State-B,Win 10-6,3.04,Counts,0.0617,2023-02-27,Magic Mountain Melee,1,10,6,496.16,4,414.95,32,911.11,28.96,911.11,56.215486999999996,California-Santa Barbara-B,7
+280,Southern California-B,Loss 5-11,-19.32,Counts,0.0925,2023-04-16,Southwest Dev College Mens CC 2022,0,5,11,-600,-6,445.42,54.37,-154.57999999999998,73.69,-154.57999999999998,-14.298649999999999,California-Santa Barbara-B,8
+258,California-B,Loss 8-10,26.59,Counts,0.0981,2023-04-16,Southwest Dev College Mens CC 2022,0,8,10,-262.67,-2,542.24,8.45,279.57,-18.14,279.57,27.425817000000002,California-Santa Barbara-B,9
+288,California-San Diego-B,Loss 4-8,-18.33,Counts,0.0801,2023-04-16,Southwest Dev College Mens CC 2022,0,4,8,-564.81,-4,389.37,53.37,-175.43999999999994,71.69999999999999,-175.43999999999994,-14.052743999999995,California-Santa Barbara-B,10
+333,UCLA-B,Win 8-7,21.38,Counts,0.0895,2023-04-16,Southwest Dev College Mens CC 2022,1,8,7,125,1,127.38,13.67,252.38,-7.709999999999999,252.38,22.588009999999997,California-Santa Barbara-B,11
+280,Southern California-B,Loss 5-7,7.16,Counts,0.0801,2023-04-17,Southwest Dev College Mens CC 2022,0,5,7,-328.14,-2,445.42,27.88,117.28000000000003,20.72,117.28000000000003,9.394128000000002,California-Santa Barbara-B,12
+241,Cal Poly-SLO-B,Loss 3-12,-0.24,Counts,0.0967,2023-04-17,Southwest Dev College Mens CC 2022,0,3,12,-600,-9,632.84,35.28,32.84000000000003,35.52,32.84000000000003,3.175628000000003,California-Santa Barbara-B,13
+288,California-San Diego-B,Loss 5-10,-21.59,Counts,0.0895,2023-04-17,Southwest Dev College Mens CC 2022,0,5,10,-573.9,-5,389.37,56.64,-184.52999999999997,78.23,-184.52999999999997,-16.515434999999997,California-Santa Barbara-B,14

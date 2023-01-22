@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+336,Slippery Rock,Win 13-3,0,Ignored,0,2023-03-05,Huckin in the Hills,1,13,3,600,10,117.58,1092.5,717.58,1092.5,0,0,Miami (Ohio),1
+NA,Dayton-B,Win 13-0,0,Ignored,0,2023-03-05,Huckin in the Hills,1,13,0,600,13,272.08,1092.5,872.0799999999999,1092.5,0,0,Miami (Ohio),2
+285,Akron,Win 12-4,0,Ignored,0,2023-03-05,Huckin in the Hills,1,12,4,600,8,398.95,1092.5,998.95,1092.5,0,0,Miami (Ohio),3
+179,West Virginia,Win 15-6,38.84,Counts,0.1036,2023-03-06,Huckin in the Hills,1,15,6,600,9,828.6,1053.66,1428.6,1014.82,1428.6,148.00295999999997,Miami (Ohio),4
+145,SUNY-Buffalo,Win 15-6,55.02,Counts,0.1036,2023-03-06,Huckin in the Hills,1,15,6,600,9,968.61,1037.48,1568.6100000000001,982.46,1568.6100000000001,162.50799600000002,Miami (Ohio),5
+353,Cleveland State,Win 13-3,0,Ignored,0,2023-03-12,Boogienights,1,13,3,600,10,68.06,1092.5,668.06,1092.5,0,0,Miami (Ohio),6
+285,Akron,Win 13-3,0,Ignored,0,2023-03-12,Boogienights,1,13,3,600,10,398.95,1092.5,998.95,1092.5,0,0,Miami (Ohio),7
+99,Oberlin,Win 13-0,82.28,Counts,0.10980000000000001,2023-03-12,Boogienights,1,13,0,600,13,1159.9,1010.23,1759.9,927.95,1759.9,193.23702000000003,Miami (Ohio),8
+46,Cincinnati,Loss 8-13,-13.11,Counts,0.10980000000000001,2023-03-13,Boogienights,0,8,13,-496.16,-5,1482.34,1105.61,986.1799999999998,1118.7199999999998,986.1799999999998,108.282564,Miami (Ohio),9
+251,Wright State,Win 13-4,20.86,Counts,0.1552,2023-04-23,Ohio D I College Mens CC 2022,1,13,4,600,9,606.03,1071.65,1206.03,1050.7900000000002,1206.03,187.175856,Miami (Ohio),10
+48,Case Western Reserve,Loss 6-10,-20.65,Counts,0.1424,2023-04-23,Ohio D I College Mens CC 2022,0,6,10,-496.16,-4,1464.33,1113.16,968.1699999999998,1133.8100000000002,968.1699999999998,137.86740799999998,Miami (Ohio),11
+101,Dayton,Loss 5-11,-89.99,Counts,0.1424,2023-04-23,Ohio D I College Mens CC 2022,0,5,11,-600,-6,1150.68,1182.5,550.6800000000001,1272.49,550.6800000000001,78.41683200000001,Miami (Ohio),12
+353,Cleveland State,Win 10-2,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,1,10,2,600,8,68.06,1092.5,668.06,1092.5,0,0,Miami (Ohio),13
+285,Akron,Win 13-2,0,Ignored,0,2023-04-24,Ohio D I College Mens CC 2022,1,13,2,600,11,398.95,1092.5,998.95,1092.5,0,0,Miami (Ohio),14
+170,Ohio,Loss 6-8,-78.98,Counts,0.1332,2023-04-24,Ohio D I College Mens CC 2022,0,6,8,-300.49,-2,879.22,1171.48,578.73,1250.46,578.73,77.086836,Miami (Ohio),15

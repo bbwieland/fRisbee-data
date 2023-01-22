@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+271,Cedarville,Loss 5-7,-13.95,Counts,0.0504,2023-02-19,Commonwealth Cup Weekend 1,0,5,7,-328.14,-2,498.09,446.66,169.95,460.61,169.95,8.565479999999999,North Carolina State-B,1
+207,Clemson,Loss 4-13,-20.99,Counts,0.0634,2023-02-19,Commonwealth Cup Weekend 1,0,4,13,-600,-9,722.7,453.71,122.70000000000005,474.7,122.70000000000005,7.779180000000003,North Carolina State-B,2
+64,Northwestern,Loss 3-13,0,Ignored,0,2023-02-19,Commonwealth Cup Weekend 1,0,3,13,-600,-10,1368.8,432.72,768.8,432.72,0,0,North Carolina State-B,3
+149,SUNY-Binghamton,Loss 1-9,-4.18,Counts,0.0525,2023-02-19,Commonwealth Cup Weekend 1,0,1,9,-600,-8,957.14,436.9,357.14,441.08,357.14,18.74985,North Carolina State-B,4
+262,Pittsburgh-B,Loss 6-11,-28.5,Counts,0.06,2023-02-20,Commonwealth Cup Weekend 1,0,6,11,-546.69,-5,532.82,461.22,-13.870000000000005,489.72,-13.870000000000005,-0.8322000000000003,North Carolina State-B,5
+318,Virginia-B,Win 10-8,4.77,Counts,0.0617,2023-02-20,Commonwealth Cup Weekend 1,1,10,8,262.67,2,242.62,427.94,505.29,423.17,505.29,31.176393,North Carolina State-B,6
+86,Maine,Loss 6-7,44.73,Counts,0.062400000000000004,2023-03-12,Mash Up,0,6,7,-125,-1,1230.11,387.98,1105.11,343.25,1105.11,68.95886399999999,North Carolina State-B,7
+187,Bryant,Loss 7-10,-1.49,Counts,0.0713,2023-03-12,Mash Up,0,7,10,-389.67,-3,802.93,434.21,413.25999999999993,435.7,413.25999999999993,29.465437999999995,North Carolina State-B,8
+217,SUNY-Geneseo,Loss 4-6,-5.72,Counts,0.0547,2023-03-12,Mash Up,0,4,6,-365.61,-2,699.49,438.44,333.88,444.16,333.88,18.263236,North Carolina State-B,9
+175,SUNY Cortland,Loss 6-13,-14.96,Counts,0.0754,2023-03-13,Mash Up,0,6,13,-600,-7,849.35,447.67,249.35000000000002,462.63,249.35000000000002,18.80099,North Carolina State-B,10
+204,Georgia Tech-B,Win 7-6,27.89,Counts,0.062400000000000004,2023-03-13,Mash Up,1,7,6,125,1,726.99,404.82,851.99,376.93,851.99,53.164176000000005,North Carolina State-B,11
+187,Bryant,Win 10-3,68.42,Counts,0.0659,2023-03-13,Mash Up,1,10,3,600,7,802.93,364.29,1402.9299999999998,295.87,1402.9299999999998,92.453087,North Carolina State-B,12
+127,South Carolina-B,Loss 5-15,0,Ignored,0,2023-04-23,Southern Atlantic Coast Dev College Mens CC 2022,0,5,15,-600,-10,1057.1,432.72,457.0999999999999,432.72,0,0,North Carolina State-B,13
+307,Virginia Tech-B,Loss 13-14,-31.56,Counts,0.1066,2023-04-23,Southern Atlantic Coast Dev College Mens CC 2022,0,13,14,-125,-1,293.39,464.27,168.39,495.83,168.39,17.950374,North Carolina State-B,14
+268,James Madison-B,Loss 10-13,-30.74,Counts,0.1066,2023-04-24,Southern Atlantic Coast Dev College Mens CC 2022,0,10,13,-328.14,-3,503.34,463.46,175.2,494.2,175.2,18.67632,North Carolina State-B,15
+345,William & Mary-B,Win 13-9,3.85,Counts,0.1066,2023-04-24,Southern Atlantic Coast Dev College Mens CC 2022,1,13,9,418.57,4,46.4,428.87,464.96999999999997,425.02,464.96999999999997,49.565802,North Carolina State-B,16

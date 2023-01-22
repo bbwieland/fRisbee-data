@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+117,Virginia Commonwealth,Win 6-5,17.47,Counts,0.043,2023-02-26,Cherry Blossom Classic,1,6,5,125,1,768.41,486.7,893.41,469.23,893.41,38.41663,Towson,1
+90,New Hampshire,Loss 5-7,7.31,Counts,0.0449,2023-02-26,Cherry Blossom Classic,0,5,7,-328.14,-2,987.85,496.87,659.71,489.56,659.71,29.620979000000002,Towson,2
+175,Pittsburgh-B,Win 7-6,0.7,Counts,0.0467,2023-02-26,Cherry Blossom Classic,1,7,6,125,1,393.49,503.47,518.49,502.77000000000004,518.49,24.213483,Towson,3
+158,American,Win 8-4,26.57,Counts,0.0449,2023-02-27,Cherry Blossom Classic,1,8,4,564.81,4,504.99,477.61,1069.8,451.04,1069.8,48.03402,Towson,4
+158,American,Win 7-4,22.3,Counts,0.043,2023-02-27,Cherry Blossom Classic,1,7,4,496.16,3,504.99,481.87,1001.1500000000001,459.57,1001.1500000000001,43.04945,Towson,5
+220,William & Mary-B,Win 5-2,4.71,Counts,0.034300000000000004,2023-02-27,Cherry Blossom Classic,1,5,2,600,3,36.96,499.46,636.96,494.75,636.96,21.847728000000004,Towson,6
+128,George Washington,Loss 4-12,-33.64,Counts,0.0766,2023-04-09,Colonial D I College Womens CC 2022,0,4,12,-600,-8,698.73,537.81,98.73000000000002,571.4499999999999,98.73000000000002,7.562718000000001,Towson,7
+115,Georgetown,Loss 1-10,-24.6,Counts,0.0697,2023-04-09,Colonial D I College Womens CC 2022,0,1,10,-600,-9,775.98,528.78,175.98000000000002,553.38,175.98000000000002,12.265806000000001,Towson,8
+171,Maryland,Win 8-7,2.85,Counts,0.0709,2023-04-09,Colonial D I College Womens CC 2022,1,8,7,125,1,416.54,501.32,541.54,498.46999999999997,541.54,38.395186,Towson,9
+NA,Johns Hopkins,Win 8-5,19.13,Counts,0.066,2023-04-10,Colonial D I College Womens CC 2022,1,8,5,453.6,3,321.15,485.04,774.75,465.91,774.75,51.133500000000005,Towson,10
+105,Delaware,Loss 5-8,-7.14,Counts,0.066,2023-04-10,Colonial D I College Womens CC 2022,0,5,8,-453.6,-3,856.75,511.32,403.15,518.46,403.15,26.6079,Towson,11
+25,Appalachian State,Loss 4-13,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,4,13,-600,-9,1504.18,504.17,904.1800000000001,504.17,0,0,Towson,12
+105,Delaware,Loss 4-11,-25.16,Counts,0.09230000000000001,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,4,11,-600,-7,856.75,529.33,256.75,554.49,256.75,23.698025,Towson,13
+88,South Carolina,Loss 1-15,-12.3,Counts,0.10060000000000001,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,1,15,-600,-14,994.19,516.47,394.19000000000005,528.77,394.19000000000005,39.65551400000001,Towson,14
+128,George Washington,Loss 1-13,-45.34,Counts,0.10060000000000001,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,1,13,-600,-12,698.73,549.51,98.73000000000002,594.85,98.73000000000002,9.932238000000003,Towson,15
+56,Liberty,Loss 3-15,0,Ignored,0,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,3,15,-600,-12,1220.56,504.17,620.56,504.17,0,0,Towson,16
+117,Virginia Commonwealth,Win 15-14,43.53,Counts,0.10060000000000001,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,1,15,14,125,1,768.41,460.64,893.41,417.11,893.41,89.877046000000007,Towson,17

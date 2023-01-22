@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+156,Kentucky,Loss 0-13,0,Ignored,0,2023-02-26,TOTS,0,0,13,-600,-13,522.39,634.24,-77.61000000000001,634.24,0,-0,Emory-B,1
+53,Central Florida,Loss 0-13,0,Ignored,0,2023-02-26,TOTS,0,0,13,-600,-13,1229.71,634.24,629.71,634.24,0,0,Emory-B,2
+72,Union (Tennessee),Loss 0-13,0,Ignored,0,2023-02-26,TOTS,0,0,13,-600,-13,1072.88,634.24,472.8800000000001,634.24,0,0,Emory-B,3
+14,Florida State,Loss 0-13,0,Ignored,0,2023-02-26,TOTS,0,0,13,-600,-13,1708.29,634.24,1108.29,634.24,0,0,Emory-B,4
+127,Jacksonville State,Loss 0-12,0,Ignored,0,2023-02-27,TOTS,0,0,12,-600,-12,704.84,634.24,104.84000000000003,634.24,0,0,Emory-B,5
+218,Vanderbilt,Loss 2-10,0,Ignored,0,2023-02-27,TOTS,0,2,10,-600,-8,43.69,634.24,-556.31,634.24,0,-0,Emory-B,6
+223,Purdue-B,Loss 1-11,0,Ignored,0,2023-02-27,TOTS,0,1,11,-600,-10,8.23,634.24,-591.77,634.24,0,-0,Emory-B,7
+25,Appalachian State,Loss 0-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,0,15,-600,-15,1504.18,634.24,904.1800000000001,634.24,0,0,Emory-B,8
+102,Berry,Loss 1-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,1,15,-600,-14,900.79,634.24,300.78999999999996,634.24,0,0,Emory-B,9
+228,Elon,Loss 3-6,-23.7,Counts,0.47490000000000004,2023-03-26,Needle in a Ho Stack,0,3,6,-546.69,-3,113.74,610.54,-432.95000000000005,634.24,-432.95000000000005,-205.60795500000003,Emory-B,10
+22,Middlebury,Loss 0-15,0,Ignored,0,2023-03-27,Needle in a Ho Stack,0,0,15,-600,-15,1540.81,634.24,940.81,634.24,0,0,Emory-B,11
+149,North Carolina-Wilmington,Loss 0-11,0,Ignored,0,2023-03-27,Needle in a Ho Stack,0,0,11,-600,-11,588.46,634.24,-11.539999999999964,634.24,0,-0,Emory-B,12
+238,University of North Carolina - Asheville,Win 6-5,26.2,Counts,0.5251,2023-03-27,Needle in a Ho Stack,1,6,5,125,1,735.54,660.43,860.54,634.2299999999999,860.54,451.869554,Emory-B,13
+30,Georgia Tech,Loss 0-13,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,0,0,13,-600,-13,1458.95,634.24,858.95,634.24,0,0,Emory-B,14
+182,Georgia Tech-B,Loss 1-11,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,0,1,11,-600,-10,348.71,634.24,-251.29000000000002,634.24,0,-0,Emory-B,15
+110,Tennessee-Chattanooga,Loss 0-13,0,Ignored,0,2023-04-10,Southern Appalachian D I College Womens CC 2022,0,0,13,-600,-13,808.59,634.24,208.59000000000003,634.24,0,0,Emory-B,16
+45,Tennessee,Loss 0-13,0,Ignored,0,2023-04-10,Southern Appalachian D I College Womens CC 2022,0,0,13,-600,-13,1302.41,634.24,702.4100000000001,634.24,0,0,Emory-B,17
+81,Emory,Loss 0-13,0,Ignored,0,2023-04-10,Southern Appalachian D I College Womens CC 2022,0,0,13,-600,-13,1016.31,634.24,416.30999999999995,634.24,0,0,Emory-B,18

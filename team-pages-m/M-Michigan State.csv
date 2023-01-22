@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Harding,Win 13-6,6.48,Counts,0.060899999999999996,2023-03-19,Missouri Loves Company MLC,1,13,6,600,7,629.49,1123.1,1229.49,1116.62,1229.49,74.875941,Michigan State,1
+225,Wisconsin- La Crosse,Win 13-9,-1.87,Counts,0.060899999999999996,2023-03-19,Missouri Loves Company MLC,1,13,9,418.57,4,682.12,1131.45,1100.69,1133.32,1100.69,67.032021,Michigan State,2
+78,Missouri,Loss 8-12,-20.6,Counts,0.060899999999999996,2023-03-19,Missouri Loves Company MLC,0,8,12,-441.15,-4,1253.01,1150.18,811.86,1170.78,811.86,49.442274,Michigan State,3
+52,Indiana,Loss 9-15,-13.22,Counts,0.060899999999999996,2023-03-20,Missouri Loves Company MLC,0,9,15,-515.48,-6,1441.23,1142.79,925.75,1156.01,925.75,56.378175,Michigan State,4
+109,Vanderbilt,Loss 10-15,-29.96,Counts,0.060899999999999996,2023-03-20,Missouri Loves Company MLC,0,10,15,-453.6,-5,1121.15,1159.54,667.5500000000001,1189.5,667.5500000000001,40.653795,Michigan State,5
+46,Cincinnati,Loss 3-11,-14.63,Counts,0.0559,2023-03-20,Missouri Loves Company MLC,0,3,11,-600,-8,1482.34,1144.21,882.3399999999999,1158.8400000000001,882.3399999999999,49.32280599999999,Michigan State,6
+16,Michigan,Loss 3-13,0,Ignored,0,2023-04-09,Michigan D I College Mens CC 2022,0,3,13,-600,-10,1807.83,1129.58,1207.83,1129.58,0,0,Michigan State,7
+120,Grand Valley State,Win 11-10,5.91,Counts,0.0724,2023-04-09,Michigan D I College Mens CC 2022,1,11,10,125,1,1080.22,1123.67,1205.22,1117.76,1205.22,87.257928,Michigan State,8
+194,Western Michigan,Win 10-6,10.26,Counts,0.0665,2023-04-09,Michigan D I College Mens CC 2022,1,10,6,496.16,4,777.6,1119.31,1273.76,1109.05,1273.76,84.70504000000001,Michigan State,9
+278,Eastern Michigan,Win 13-5,0,Ignored,0,2023-04-09,Michigan D I College Mens CC 2022,1,13,5,600,8,447.05,1129.58,1047.05,1129.58,0,0,Michigan State,10
+278,Eastern Michigan,Win 15-4,0,Ignored,0,2023-04-10,Michigan D I College Mens CC 2022,1,15,4,600,11,447.05,1129.58,1047.05,1129.58,0,0,Michigan State,11
+120,Grand Valley State,Loss 14-15,-13.61,Counts,0.0724,2023-04-10,Michigan D I College Mens CC 2022,0,14,15,-125,-1,1080.22,1143.19,955.22,1156.8,955.22,69.15792800000001,Michigan State,12
+60,Notre Dame,Win 13-12,37.09,Counts,0.0861,2023-04-30,Great Lakes D I College Mens Regionals 2022,1,13,12,125,1,1398.11,1092.49,1523.11,1055.4,1523.11,131.139771,Michigan State,13
+52,Indiana,Loss 4-15,-27.17,Counts,0.0861,2023-04-30,Great Lakes D I College Mens Regionals 2022,0,4,15,-600,-11,1441.23,1156.75,841.23,1183.92,841.23,72.429903,Michigan State,14
+70,Chicago,Loss 11-14,-10.88,Counts,0.0861,2023-04-30,Great Lakes D I College Mens Regionals 2022,0,11,14,-313.34,-3,1327.52,1140.45,1014.1800000000001,1151.3300000000002,1014.1800000000001,87.320898,Michigan State,15
+190,Illinois State,Win 15-7,25.14,Counts,0.0861,2023-05-01,Great Lakes D I College Mens Regionals 2022,1,15,7,600,8,796.31,1104.44,1396.31,1079.3,1396.31,120.22229099999998,Michigan State,16
+91,Kentucky,Win 11-7,48.97,Counts,0.08380000000000001,2023-05-01,Great Lakes D I College Mens Regionals 2022,1,11,7,466.89,4,1197.89,1080.61,1664.7800000000002,1031.6399999999999,1664.7800000000002,139.50856400000004,Michigan State,17

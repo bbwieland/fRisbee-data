@@ -1,0 +1,18 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+213,Luther,Win 13-10,16.8,Counts,0.061,2023-03-19,College Southerns XX,1,13,10,328.14,3,706.18,759.12,1034.32,742.32,1034.32,63.09352,Georgia College,1
+306,Carleton College-Karls,Win 13-7,4.95,Counts,0.061,2023-03-19,College Southerns XX,1,13,7,557.53,6,294.57,770.96,852.0999999999999,766.01,852.0999999999999,51.97809999999999,Georgia College,2
+274,Georgia Southern,Win 10-8,-2.12,Counts,0.0594,2023-03-19,College Southerns XX,1,10,8,262.67,2,479.62,778.04,742.29,780.16,742.29,44.092026,Georgia College,3
+213,Luther,Loss 5-15,-43.53,Counts,0.061,2023-03-20,College Southerns XX,0,5,15,-600,-10,706.18,819.45,106.17999999999995,862.98,106.17999999999995,6.476979999999997,Georgia College,4
+117,Appalachian State,Loss 11-12,11.87,Counts,0.061,2023-03-20,College Southerns XX,0,11,12,-125,-1,1083.57,764.04,958.5699999999999,752.17,958.5699999999999,58.47277,Georgia College,5
+274,Georgia Southern,Win 13-8,12.99,Counts,0.061,2023-03-20,College Southerns XX,1,13,8,496.16,5,479.62,762.92,975.78,749.93,975.78,59.52258,Georgia College,6
+50,Berry,Loss 6-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,6,15,-600,-9,1449.81,775.91,849.81,775.91,0,0,Georgia College,7
+191,Wake Forest,Win 10-8,18.66,Counts,0.0629,2023-03-26,Needle in a Ho Stack,1,10,8,262.67,2,791.08,757.25,1053.75,738.59,1053.75,66.280875,Georgia College,8
+181,Davidson,Loss 10-11,-5.15,Counts,0.0647,2023-03-26,Needle in a Ho Stack,0,10,11,-125,-1,826.39,781.07,701.39,786.22,701.39,45.379932999999994,Georgia College,9
+282,High Point,Win 15-6,17.12,Counts,0.0647,2023-03-27,Needle in a Ho Stack,1,15,6,600,9,423.59,758.79,1023.5899999999999,741.67,1023.5899999999999,66.22627299999999,Georgia College,10
+117,Appalachian State,Loss 10-15,-10.09,Counts,0.0647,2023-03-27,Needle in a Ho Stack,0,10,15,-453.6,-5,1083.57,786,629.9699999999999,796.09,629.9699999999999,40.75905899999999,Georgia College,11
+191,Wake Forest,Loss 7-9,-16.66,Counts,0.0593,2023-03-27,Needle in a Ho Stack,0,7,9,-279.34,-2,791.08,792.58,511.74000000000007,809.24,511.74000000000007,30.346182000000002,Georgia College,12
+50,Berry,Loss 4-13,0,Ignored,0,2023-04-23,Southeast D III College Mens CC 2022,0,4,13,-600,-9,1449.81,775.91,849.81,775.91,0,0,Georgia College,13
+140,Florida Tech,Loss 6-10,-23.15,Counts,0.0748,2023-04-23,Southeast D III College Mens CC 2022,0,6,10,-496.16,-4,985.58,799.06,489.42,822.2099999999999,489.42,36.608616000000005,Georgia College,14
+83,Union (Tennessee),Loss 5-13,-11.91,Counts,0.0815,2023-04-23,Southeast D III College Mens CC 2022,0,5,13,-600,-8,1241.67,787.82,641.6700000000001,799.73,641.6700000000001,52.29610500000001,Georgia College,15
+304,Embry-Riddle,Win 13-3,10.83,Counts,0.0815,2023-04-23,Southeast D III College Mens CC 2022,1,13,3,600,10,297.97,765.09,897.97,754.26,897.97,73.184555,Georgia College,16
+50,Berry,Loss 10-15,19.54,Counts,0.0815,2023-04-24,Southeast D III College Mens CC 2022,0,10,15,-453.6,-5,1449.81,756.38,996.2099999999999,736.84,996.2099999999999,81.191115,Georgia College,17

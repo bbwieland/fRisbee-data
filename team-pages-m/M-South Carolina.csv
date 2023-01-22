@@ -1,0 +1,22 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+30,North Carolina-Wilmington,Loss 10-11,-0.77,Counts,0.0305,2023-01-29,Carolina Kickoff 2022,0,10,11,-125,-1,1594.83,1495.14,1469.83,1495.91,1469.83,44.829814999999996,South Carolina,1
+14,North Carolina State,Loss 7-15,-8.39,Counts,0.0305,2023-01-29,Carolina Kickoff 2022,0,7,15,-600,-8,1827.64,1502.76,1227.64,1511.15,1227.64,37.443020000000004,South Carolina,2
+59,Georgetown,Win 10-9,1.06,Counts,0.0305,2023-01-29,Carolina Kickoff 2022,1,10,9,125,1,1403.18,1493.3,1528.18,1492.24,1528.18,46.60949,South Carolina,3
+62,Carnegie Mellon,Win 15-12,7.63,Counts,0.0384,2023-02-26,Easterns Qualifiers 2022,1,15,12,300.49,3,1384.97,1486.73,1685.46,1479.1,1685.46,64.72166399999999,South Carolina,4
+67,James Madison,Win 15-14,-1.13,Counts,0.0384,2023-02-26,Easterns Qualifiers 2022,1,15,14,125,1,1340.98,1495.5,1465.98,1496.63,1465.98,56.293631999999995,South Carolina,5
+9,Vermont,Loss 8-15,-6.32,Counts,0.0384,2023-02-26,Easterns Qualifiers 2022,0,8,15,-564.81,-7,1901.02,1500.69,1336.21,1507.01,1336.21,51.310463999999996,South Carolina,6
+57,Alabama,Win 13-9,13.51,Counts,0.0384,2023-02-26,Easterns Qualifiers 2022,1,13,9,418.57,4,1414,1480.86,1832.57,1467.35,1832.57,70.37068799999999,South Carolina,7
+46,Cincinnati,Loss 10-11,-5.47,Counts,0.0384,2023-02-27,Easterns Qualifiers 2022,0,10,11,-125,-1,1482.34,1499.84,1357.34,1505.31,1357.34,52.121855999999994,South Carolina,8
+26,Auburn,Loss 12-15,-7.07,Counts,0.0384,2023-02-27,Easterns Qualifiers 2022,0,12,15,-300.49,-3,1617.76,1501.44,1317.27,1508.51,1317.27,50.58316799999999,South Carolina,9
+41,North Carolina-Charlotte,Win 13-12,5.56,Counts,0.0384,2023-02-27,Easterns Qualifiers 2022,1,13,12,125,1,1508.52,1488.81,1633.52,1483.25,1633.52,62.72716799999999,South Carolina,10
+79,Charleston,Win 13-3,23.26,Counts,0.061,2023-04-23,Carolina D I College Mens CC 2022,1,13,3,600,10,1252.6,1471.1,1852.6,1447.84,1852.6,113.00859999999999,South Carolina,11
+191,Wake Forest,Win 13-3,0,Ignored,0,2023-04-23,Carolina D I College Mens CC 2022,1,13,3,600,10,791.08,1494.37,1391.08,1494.37,0,0,South Carolina,12
+2,North Carolina,Loss 8-13,12.26,Counts,0.061,2023-04-23,Carolina D I College Mens CC 2022,0,8,13,-496.16,-5,2179.26,1482.11,1683.1000000000001,1469.85,1683.1000000000001,102.6691,South Carolina,13
+23,Duke,Win 11-10,19.55,Counts,0.061,2023-04-23,Carolina D I College Mens CC 2022,1,11,10,125,1,1670.4,1474.82,1795.4,1455.27,1795.4,109.5194,South Carolina,14
+14,North Carolina State,Loss 7-15,-17.32,Counts,0.061,2023-04-24,Carolina D I College Mens CC 2022,0,7,15,-600,-8,1827.64,1511.69,1227.64,1529.01,1227.64,74.88604000000001,South Carolina,15
+41,North Carolina-Charlotte,Win 13-10,22.23,Counts,0.061,2023-04-24,Carolina D I College Mens CC 2022,1,13,10,328.14,3,1508.52,1472.14,1836.6599999999999,1449.91,1836.6599999999999,112.03625999999998,South Carolina,16
+14,North Carolina State,Loss 6-15,-17.32,Counts,0.061,2023-04-24,Carolina D I College Mens CC 2022,0,6,15,-600,-9,1827.64,1511.69,1227.64,1529.01,1227.64,74.88604000000001,South Carolina,17
+69,Virginia Tech,Win 13-9,18.67,Counts,0.0684,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,1,13,9,418.57,4,1329.97,1475.69,1748.54,1457.02,1748.54,119.600136,South Carolina,18
+27,William & Mary,Loss 8-13,-27.55,Counts,0.0684,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,0,8,13,-496.16,-5,1615.6,1521.91,1119.4399999999998,1549.46,1119.4399999999998,76.569696,South Carolina,19
+59,Georgetown,Loss 10-11,-15.88,Counts,0.0684,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,0,10,11,-125,-1,1403.18,1510.25,1278.18,1526.13,1278.18,87.42751200000001,South Carolina,20
+30,North Carolina-Wilmington,Loss 10-13,-16.73,Counts,0.0684,2023-05-07,Atlantic Coast D I College Mens Regionals 2022,0,10,13,-328.14,-3,1594.83,1511.1,1266.69,1527.83,1266.69,86.641596,South Carolina,21

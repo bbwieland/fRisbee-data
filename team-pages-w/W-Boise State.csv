@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+52,Portland,Loss 2-9,0,Ignored,0,2023-03-12,Big Sky Brawl,0,2,9,-600,-7,1233.18,378.1,633.1800000000001,378.1,0,0,Boise State,1
+96,Montana,Loss 1-7,-12.24,Counts,0.2302,2023-03-12,Big Sky Brawl,0,1,7,-600,-6,937.17,390.34,337.16999999999996,402.58,337.16999999999996,77.61653399999999,Boise State,2
+95,Denver,Loss 4-6,59.67,Counts,0.2302,2023-03-12,Big Sky Brawl,0,4,6,-365.61,-2,943.26,318.43,577.65,258.76,577.65,132.97502999999998,Boise State,3
+104,Montana State,Loss 3-9,-32.6,Counts,0.2625,2023-03-12,Big Sky Brawl,0,3,9,-600,-6,886.47,410.7,286.47,443.3,286.47,75.19837500000001,Boise State,4
+97,Utah,Loss 2-10,-17.25,Counts,0.2772,2023-03-13,Big Sky Brawl,0,2,10,-600,-8,933.13,395.34,333.13,412.59,333.13,92.343636,Boise State,5

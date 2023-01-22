@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+158,American,Loss 8-9,-74.12,Counts,0.13449999999999998,2023-04-09,Colonial D I College Womens CC 2022,0,8,9,-125,-1,504.99,930.87,379.99,1004.99,379.99,51.10865499999999,Delaware,1
+NA,Johns Hopkins,Win 10-5,5.54,Counts,0.1264,2023-04-09,Colonial D I College Womens CC 2022,1,10,5,573.9,5,321.15,851.21,895.05,845.6700000000001,895.05,113.13432,Delaware,2
+171,Maryland,Win 6-5,-38.26,Counts,0.1082,2023-04-09,Colonial D I College Womens CC 2022,1,6,5,125,1,416.54,895,541.54,933.26,541.54,58.594628,Delaware,3
+159,Towson,Win 8-5,13.47,Counts,0.1177,2023-04-10,Colonial D I College Womens CC 2022,1,8,5,453.6,3,504.17,843.28,957.77,829.81,957.77,112.729529,Delaware,4
+55,James Madison,Loss 6-13,-51.19,Counts,0.17920000000000003,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,6,13,-600,-7,1222.28,907.94,622.28,959.1300000000001,622.28,111.51257600000001,Delaware,5
+159,Towson,Win 11-4,48.7,Counts,0.16449999999999998,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,11,4,600,7,504.17,808.05,1104.17,759.3499999999999,1104.17,181.635965,Delaware,6
+56,Liberty,Win 9-8,99.78,Counts,0.16949999999999998,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,1,9,8,125,1,1220.56,756.97,1345.56,657.19,1345.56,228.07241999999997,Delaware,7
+1,North Carolina,Loss 0-13,0,Ignored,0,2023-05-07,Atlantic Coast D I College Womens Regionals 2022,0,0,13,-600,-13,2343.45,856.75,1743.4499999999998,856.75,0,0,Delaware,8
+25,Appalachian State,Loss 3-12,0,Ignored,0,2023-05-08,Atlantic Coast D I College Womens Regionals 2022,0,3,12,-600,-9,1504.18,856.75,904.1800000000001,856.75,0,0,Delaware,9

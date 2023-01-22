@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+256,Penn State-B,Loss 5-13,-17.31,Counts,0.1818,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,5,13,-600,-8,583.9,79.15,-16.100000000000023,96.46000000000001,-16.100000000000023,-2.926980000000004,Case Western Reserve-B,1
+363,Pennsylvania-B,Win 11-3,49.63,Counts,0.1668,2023-04-23,Ohio Valley Dev College Mens CC 2022,1,11,3,600,8,290.28,12.21,890.28,-37.42,890.28,148.498704,Case Western Reserve-B,2
+341,Temple-B,Win 8-6,57.03,Counts,0.156,2023-04-23,Ohio Valley Dev College Mens CC 2022,1,8,6,300.49,2,69.83,4.8,370.32,-52.230000000000004,370.32,57.76992,Case Western Reserve-B,3
+262,Pittsburgh-B,Loss 1-7,-19.6,Counts,0.1319,2023-04-23,Ohio Valley Dev College Mens CC 2022,0,1,7,-600,-6,532.82,81.43,-67.17999999999995,101.03,-67.17999999999995,-8.861041999999992,Case Western Reserve-B,4
+262,Pittsburgh-B,Loss 11-15,19.95,Counts,0.1818,2023-04-24,Ohio Valley Dev College Mens CC 2022,0,11,15,-381.16,-4,532.82,41.88,151.66000000000003,21.930000000000003,151.66000000000003,27.571788,Case Western Reserve-B,5
+341,Temple-B,Loss 9-13,-91.21,Counts,0.1818,2023-04-24,Ohio Valley Dev College Mens CC 2022,0,9,13,-418.57,-4,69.83,153.04,-348.74,244.25,-348.74,-63.400932,Case Western Reserve-B,6

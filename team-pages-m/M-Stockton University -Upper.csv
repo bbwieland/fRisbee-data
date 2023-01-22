@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+283,Stevens Tech,Loss 5-9,-31.45,Counts,0.0594,2023-02-26,Bring The Huckus 12,0,5,9,-529.06,-4,409.26,409.97,-119.79999999999995,441.42,-119.79999999999995,-7.116119999999998,Stockton University -Upper,1
+183,Wesleyan,Loss 9-13,1.4,Counts,0.0692,2023-02-26,Bring The Huckus 12,0,9,13,-418.57,-4,815.88,377.12,397.31,375.72,397.31,27.493852,Stockton University -Upper,2
+224,Army,Loss 6-8,0.42,Counts,0.0594,2023-02-26,Bring The Huckus 12,0,6,8,-300.49,-2,685.65,378.1,385.15999999999997,377.68,385.15999999999997,22.878504,Stockton University -Upper,3
+132,Ithaca,Loss 1-13,0,Ignored,0,2023-02-26,Bring The Huckus 12,0,1,13,-600,-12,1023.44,378.52,423.44000000000005,378.52,0,0,Stockton University -Upper,4
+162,Massachusetts-Lowell,Win 8-5,59.27,Counts,0.0572,2023-02-27,Bring The Huckus 12,1,8,5,453.6,3,901.86,319.25,1355.46,259.98,1355.46,77.532312,Stockton University -Upper,5
+175,SUNY Cortland,Loss 7-10,5.68,Counts,0.0654,2023-02-27,Bring The Huckus 12,0,7,10,-389.67,-3,849.35,372.84,459.68,367.15999999999997,459.68,30.063072000000002,Stockton University -Upper,6
+289,Salisbury,Loss 6-7,-7.28,Counts,0.0572,2023-02-27,Bring The Huckus 12,0,6,7,-125,-1,383.54,385.8,258.54,393.08,258.54,14.788488000000001,Stockton University -Upper,7
+360,Rutgers-B,Win 13-2,2.75,Counts,0.08710000000000001,2023-03-26,Garden State 2022,1,13,2,600,11,192.65,375.77,792.65,373.02,792.65,69.039815,Stockton University -Upper,8
+350,New Jersey Tech,Win 12-5,18.74,Counts,0.0836,2023-03-26,Garden State 2022,1,12,5,600,7,16.08,359.78,616.08,341.03999999999996,616.08,51.504288,Stockton University -Upper,9
+368,Muhlenberg College,Win 12-4,0,Ignored,0,2023-03-26,Garden State 2022,1,12,4,600,8,347.05,378.52,947.05,378.52,0,0,Stockton University -Upper,10
+283,Stevens Tech,Loss 8-13,-47.33,Counts,0.09230000000000001,2023-04-02,Fuego,0,8,13,-496.16,-5,409.26,425.85,-86.90000000000003,473.18,-86.90000000000003,-8.020870000000004,Stockton University -Upper,11
+NA,Suny Oswego,Win 12-10,-5.12,Counts,0.09230000000000001,2023-04-02,Fuego,1,12,10,238.12,2,90.01,383.64,328.13,388.76,328.13,30.286399000000003,Stockton University -Upper,12
+311,Dickinson,Win 11-9,14.07,Counts,0.09230000000000001,2023-04-02,Fuego,1,11,9,249.21,2,267.62,364.45,516.83,350.38,516.83,47.70340900000001,Stockton University -Upper,13
+283,Stevens Tech,Loss 9-10,-9.59,Counts,0.09230000000000001,2023-04-03,Fuego,0,9,10,-125,-1,409.26,388.11,284.26,397.7,284.26,26.237198000000003,Stockton University -Upper,14
+154,NYU,Loss 3-13,-2.84,Counts,0.09230000000000001,2023-04-03,Fuego,0,3,13,-600,-10,950.57,381.36,350.57000000000005,384.2,350.57000000000005,32.357611000000006,Stockton University -Upper,15

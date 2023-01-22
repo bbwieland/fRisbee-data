@@ -1,0 +1,17 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+312,Washington University-B,Win 8-5,11.41,Counts,0.0596,2023-03-05,Midwest Throwdown 2022,1,8,5,453.6,3,265.15,527.11,718.75,515.7,718.75,42.8375,Minnesota-Duluth,1
+306,Carleton College-Karls,Win 10-4,23.9,Counts,0.0629,2023-03-05,Midwest Throwdown 2022,1,10,4,600,6,294.57,514.62,894.5699999999999,490.72,894.5699999999999,56.268452999999994,Minnesota-Duluth,2
+189,Wisconsin-Eau Claire,Loss 3-9,-21.55,Counts,0.0596,2023-03-05,Midwest Throwdown 2022,0,3,9,-600,-6,798.26,560.07,198.26,581.62,198.26,11.816296,Minnesota-Duluth,3
+97,Marquette,Loss 6-9,14.58,Counts,0.064,2023-03-05,Midwest Throwdown 2022,0,6,9,-418.57,-3,1170.37,523.94,751.8,509.36000000000007,751.8,48.1152,Minnesota-Duluth,4
+227,Macalester College,Loss 7-9,-9.77,Counts,0.0661,2023-03-06,Midwest Throwdown 2022,0,7,9,-279.34,-2,679.73,548.29,400.39000000000004,558.06,400.39000000000004,26.465779000000005,Minnesota-Duluth,5
+213,Luther,Win 12-6,56.29,Counts,0.0701,2023-03-06,Midwest Throwdown 2022,1,12,6,579.31,6,706.18,482.23,1285.4899999999998,425.94,1285.4899999999998,90.11284899999998,Minnesota-Duluth,6
+142,Nebraska,Loss 6-9,1.53,Counts,0.064,2023-03-06,Midwest Throwdown 2022,0,6,9,-418.57,-3,979.53,536.99,560.96,535.46,560.96,35.90144,Minnesota-Duluth,7
+220,Minnesota-B,Loss 8-9,2.66,Counts,0.081,2023-03-26,Old Capital Open 2022,0,8,9,-125,-1,693.75,535.86,568.75,533.2,568.75,46.06875,Minnesota-Duluth,8
+348,Southeast Missouri State,Win 7-6,-30.12,Counts,0.0708,2023-03-26,Old Capital Open 2022,1,7,6,125,1,18.35,568.64,143.35,598.76,143.35,10.14918,Minnesota-Duluth,9
+346,Iowa State-B,Win 8-7,-31.06,Counts,0.0761,2023-03-26,Old Capital Open 2022,1,8,7,125,1,36.25,569.58,161.25,600.64,161.25,12.271125,Minnesota-Duluth,10
+220,Minnesota-B,Loss 7-11,-28.33,Counts,0.0833,2023-03-27,Old Capital Open 2022,0,7,11,-466.89,-4,693.75,566.85,226.86,595.1800000000001,226.86,18.897438,Minnesota-Duluth,11
+278,Eastern Michigan,Win 8-7,2.76,Counts,0.0761,2023-03-27,Old Capital Open 2022,1,8,7,125,1,447.05,535.76,572.05,533,572.05,43.533004999999996,Minnesota-Duluth,12
+130,Saint Louis,Loss 6-11,-3.56,Counts,0.081,2023-03-27,Old Capital Open 2022,0,6,11,-546.69,-5,1044.85,542.08,498.15999999999985,545.64,498.15999999999985,40.350959999999986,Minnesota-Duluth,13
+194,Western Michigan,Loss 10-11,10.68,Counts,0.08560000000000001,2023-03-27,Old Capital Open 2022,0,10,11,-125,-1,777.6,527.84,652.6,517.1600000000001,652.6,55.86256000000001,Minnesota-Duluth,14
+13,Minnesota,Loss 0-15,0,Ignored,0,2023-04-24,Northwoods D I College Mens CC 2022,0,0,15,-600,-15,1834.48,538.52,1234.48,538.52,0,0,Minnesota-Duluth,15
+22,Carleton College,Loss 2-15,0,Ignored,0,2023-04-24,Northwoods D I College Mens CC 2022,0,2,15,-600,-13,1672.93,538.52,1072.93,538.52,0,0,Minnesota-Duluth,16

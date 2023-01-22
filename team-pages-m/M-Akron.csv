@@ -1,0 +1,15 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+115,Miami (Ohio),Loss 4-12,0,Ignored,0,2023-03-05,Huckin in the Hills,0,4,12,-600,-8,1092.5,398.95,492.5,398.95,0,0,Akron,1
+145,SUNY-Buffalo,Loss 4-13,-4.18,Counts,0.121,2023-03-05,Huckin in the Hills,0,4,13,-600,-9,968.61,403.13,368.61,407.31,368.61,44.60181,Akron,2
+NA,Dayton-B,Win 12-5,0,Ignored,0,2023-03-05,Huckin in the Hills,1,12,5,600,7,272.08,398.95,872.0799999999999,398.95,0,0,Akron,3
+336,Slippery Rock,Win 15-6,43.86,Counts,0.121,2023-03-06,Huckin in the Hills,1,15,6,600,9,117.58,355.09,717.58,311.22999999999996,717.58,86.82718,Akron,4
+179,West Virginia,Loss 3-15,-23.45,Counts,0.121,2023-03-06,Huckin in the Hills,0,3,15,-600,-12,828.6,422.4,228.60000000000002,445.84999999999997,228.60000000000002,27.660600000000002,Akron,5
+115,Miami (Ohio),Loss 3-13,0,Ignored,0,2023-03-12,Boogienights,0,3,13,-600,-10,1092.5,398.95,492.5,398.95,0,0,Akron,6
+353,Cleveland State,Win 13-4,19.56,Counts,0.1282,2023-03-12,Boogienights,1,13,4,600,9,68.06,379.39,668.06,359.83,668.06,85.645292,Akron,7
+46,Cincinnati,Loss 3-13,0,Ignored,0,2023-03-13,Boogienights,0,3,13,-600,-10,1482.34,398.95,882.3399999999999,398.95,0,0,Akron,8
+46,Cincinnati,Loss 2-13,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,2,13,-600,-11,1482.34,398.95,882.3399999999999,398.95,0,0,Akron,9
+170,Ohio,Loss 6-9,11.85,Counts,0.1611,2023-04-23,Ohio D I College Mens CC 2022,0,6,9,-418.57,-3,879.22,387.1,460.65000000000003,375.25,460.65000000000003,74.21071500000001,Akron,10
+24,Ohio State,Loss 4-13,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,4,13,-600,-9,1662.49,398.95,1062.49,398.95,0,0,Akron,11
+115,Miami (Ohio),Loss 2-13,0,Ignored,0,2023-04-24,Ohio D I College Mens CC 2022,0,2,13,-600,-11,1092.5,398.95,492.5,398.95,0,0,Akron,12
+353,Cleveland State,Win 13-0,29.45,Counts,0.1813,2023-04-24,Ohio D I College Mens CC 2022,1,13,0,600,13,68.06,369.5,668.06,340.05,668.06,121.11927799999998,Akron,13
+251,Wright State,Loss 4-11,-78.42,Counts,0.1664,2023-04-24,Ohio D I College Mens CC 2022,0,4,11,-600,-7,606.03,477.37,6.029999999999973,555.79,6.029999999999973,1.0033919999999954,Akron,14

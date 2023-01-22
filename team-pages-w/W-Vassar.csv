@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Bard,Win 9-4,105.59,Counts,0.2626,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,9,4,600,5,386.88,189.01,986.88,83.41999999999999,986.88,259.154688,Vassar,1
+236,College of New Jersey,Win 6-1,50,Counts,0.21230000000000002,2023-04-16,Eastern Metro East D III College Womens CC 2022,1,6,1,600,5,497.94,133.42,1097.94,83.41999999999999,1097.94,233.09266200000002,Vassar,2
+199,Connecticut College,Loss 5-8,-50.3,Counts,0.2626,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,5,8,-453.6,-3,228.91,33.13,-224.69000000000003,83.43,-224.69000000000003,-59.00359400000001,Vassar,3
+216,Wesleyan,Loss 5-8,-108.69,Counts,0.2626,2023-04-16,Eastern Metro East D III College Womens CC 2022,0,5,8,-453.6,-3,64.92,25.26,-388.68,133.95,-388.68,-102.067368,Vassar,4

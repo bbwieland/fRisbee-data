@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+377,California-San Diego-C,Win 13-0,0,Ignored,0,2023-02-26,Magic Mountain Melee,1,13,0,600,13,1014.95,622.19,1614.95,622.19,0,0,California-Irvine,1
+288,California-San Diego-B,Win 10-4,33.57,Counts,0.08380000000000001,2023-02-26,Magic Mountain Melee,1,10,4,600,6,389.37,588.62,989.37,555.05,989.37,82.90920600000001,California-Irvine,2
+333,UCLA-B,Win 9-5,3.07,Counts,0.0823,2023-02-26,Magic Mountain Melee,1,9,5,529.06,4,127.38,619.12,656.4399999999999,616.05,656.4399999999999,54.025012,California-Irvine,3
+371,Arizona State-B,Win 12-4,0,Ignored,0,2023-02-26,Magic Mountain Melee,1,12,4,600,8,414.95,622.19,1014.95,622.19,0,0,California-Irvine,4
+280,Southern California-B,Win 13-10,16.06,Counts,0.0959,2023-02-27,Magic Mountain Melee,1,13,10,328.14,3,445.42,606.14,773.56,590.08,773.56,74.184404,California-Irvine,5
+347,California-Santa Barbara-B,Win 9-5,-5.21,Counts,0.0823,2023-02-27,Magic Mountain Melee,1,9,5,529.06,4,35.04,627.4,564.0999999999999,632.61,564.0999999999999,46.42542999999999,California-Irvine,6
+167,Loyola Marymount,Loss 7-10,-16.96,Counts,0.1283,2023-04-09,SoCal D I College Mens CC 2022,0,7,10,-389.67,-3,896.64,639.15,506.96999999999997,656.11,506.96999999999997,65.04425099999999,California-Irvine,7
+6,Cal Poly-SLO,Loss 4-13,0,Ignored,0,2023-04-09,SoCal D I College Mens CC 2022,0,4,13,-600,-9,1985.66,622.19,1385.66,622.19,0,0,California-Irvine,8
+63,California-Santa Barbara,Loss 6-13,24.12,Counts,0.1356,2023-04-09,SoCal D I College Mens CC 2022,0,6,13,-600,-7,1375.9,598.08,775.9000000000001,573.96,775.9000000000001,105.21204000000002,California-Irvine,9
+71,Southern California,Loss 6-13,10.9,Counts,0.1356,2023-04-10,SoCal D I College Mens CC 2022,0,6,13,-600,-7,1291.65,611.29,691.6500000000001,600.39,691.6500000000001,93.78774000000001,California-Irvine,10
+226,San Diego State,Loss 6-9,-49.42,Counts,0.12050000000000001,2023-04-10,SoCal D I College Mens CC 2022,0,6,9,-418.57,-3,680.1,671.61,261.53000000000003,721.03,261.53000000000003,31.514365000000005,California-Irvine,11
+112,Cal State-Long Beach,Loss 4-13,-17.75,Counts,0.1356,2023-04-10,SoCal D I College Mens CC 2022,0,4,13,-600,-9,1109.09,639.94,509.0899999999999,657.69,509.0899999999999,69.03260399999999,California-Irvine,12

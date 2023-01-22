@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+227,SUNY-Albany,Win 15-1,-9.34,Counts,0.35369999999999996,2023-04-02,Northeast Classic,1,15,1,600,14,106.46,519.95,706.46,529.2900000000001,706.46,249.874902,Colgate,1
+99,Vermont-B,Loss 7-14,-100.8,Counts,0.35369999999999996,2023-04-02,Northeast Classic,0,7,14,-582.89,-7,909.32,611.41,326.43000000000006,712.2099999999999,326.43000000000006,115.458291,Colgate,2
+26,Brown,Loss 4-13,0,Ignored,0,2023-04-03,Northeast Classic,0,4,13,-600,-9,1501.72,510.61,901.72,510.61,0,0,Colgate,3
+206,SUNY-Oneonta,Win 9-2,100.63,Counts,0.2926,2023-04-03,Northeast Classic,1,9,2,600,7,153.91,409.98,753.91,309.35,753.91,220.594066,Colgate,4

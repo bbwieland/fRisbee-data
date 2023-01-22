@@ -1,0 +1,12 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Puget Sound,Win 11-4,3.05,Counts,0.08689999999999999,2023-04-16,Northwest D III College Mens CC 2022,1,11,4,600,7,196.4,761.32,796.4,758.2700000000001,796.4,69.20715999999999,Pacific Lutheran,1
+82,Whitman,Loss 10-15,2.61,Counts,0.0947,2023-04-16,Northwest D III College Mens CC 2022,0,10,15,-453.6,-5,1242.91,761.76,789.3100000000001,759.15,789.3100000000001,74.747657,Pacific Lutheran,2
+NA,Portland,Win 15-5,0,Ignored,0,2023-04-16,Northwest D III College Mens CC 2022,1,15,5,600,10,339.46,764.37,939.46,764.37,0,0,Pacific Lutheran,3
+NA,Puget Sound,Win 12-6,1.15,Counts,0.09210000000000002,2023-04-17,Northwest D III College Mens CC 2022,1,12,6,579.31,6,196.4,763.21,775.7099999999999,762.0600000000001,775.7099999999999,71.442891,Pacific Lutheran,4
+NA,Whitworth,Win 15-7,22.9,Counts,0.0947,2023-04-17,Northwest D III College Mens CC 2022,1,15,7,600,8,383.42,741.46,983.4200000000001,718.5600000000001,983.4200000000001,93.12987400000002,Pacific Lutheran,5
+35,Middlebury,Loss 5-15,0,Ignored,0,2023-05-21,2022 D III College Championships,0,5,15,-600,-10,1530.51,764.37,930.51,764.37,0,0,Pacific Lutheran,6
+126,Claremont,Loss 8-15,-37.6,Counts,0.1263,2023-05-21,2022 D III College Championships,0,8,15,-564.81,-7,1069.19,801.96,504.3800000000001,839.5600000000001,504.3800000000001,63.70319400000001,Pacific Lutheran,7
+155,Grinnell,Loss 13-15,-4.21,Counts,0.1263,2023-05-21,2022 D III College Championships,0,13,15,-214.18,-2,949.42,768.58,735.24,772.7900000000001,735.24,92.860812,Pacific Lutheran,8
+180,Connecticut College,Win 12-10,43.69,Counts,0.1263,2023-05-22,2022 D III College Championships,1,12,10,238.12,2,828.33,720.68,1066.45,676.99,1066.45,134.692635,Pacific Lutheran,9
+132,Ithaca,Loss 11-13,4.37,Counts,0.1263,2023-05-22,2022 D III College Championships,0,11,13,-228.84,-2,1023.44,759.99,794.6,755.62,794.6,100.35798,Pacific Lutheran,10
+146,Brandeis,Loss 10-15,-37.06,Counts,0.1263,2023-05-23,2022 D III College Championships,0,10,15,-453.6,-5,961.68,801.43,508.0799999999999,838.49,508.0799999999999,64.170504,Pacific Lutheran,11

@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+207,Clemson,Win 13-3,32.42,Counts,0.0843,2023-04-02,Magic City Invite,1,13,3,600,10,722.7,938.04,1322.7,905.62,1322.7,111.50361000000001,Alabama-Birmingham,1
+218,Samford,Win 11-7,17.23,Counts,0.08199999999999999,2023-04-02,Magic City Invite,1,11,7,466.89,4,696.34,953.24,1163.23,936.01,1163.23,95.38485999999999,Alabama-Birmingham,2
+335,University of Memphis,Win 13-2,0,Ignored,0,2023-04-02,Magic City Invite,1,13,2,600,11,122.1,970.46,722.1,970.46,0,0,Alabama-Birmingham,3
+161,Mississippi State,Win 13-5,49.09,Counts,0.0843,2023-04-03,Magic City Invite,1,13,5,600,8,903.76,921.38,1503.76,872.29,1503.76,126.766968,Alabama-Birmingham,4
+257,Alabama-B,Win 13-6,18.09,Counts,0.0843,2023-04-03,Magic City Invite,1,13,6,600,7,566.95,952.38,1166.95,934.29,1166.95,98.373885,Alabama-Birmingham,5
+83,Union (Tennessee),Loss 7-13,-26.36,Counts,0.0843,2023-04-03,Magic City Invite,0,7,13,-557.53,-6,1241.67,996.82,684.1400000000001,1023.1800000000001,684.1400000000001,57.67300200000001,Alabama-Birmingham,6
+106,LSU,Loss 9-11,-8.69,Counts,0.1002,2023-04-23,Gulf Coast D I College Mens CC 2022,0,9,11,-249.21,-2,1141.7,979.15,892.49,987.84,892.49,89.427498,Alabama-Birmingham,7
+152,Jacksonville State,Win 13-11,23.69,Counts,0.1002,2023-04-23,Gulf Coast D I College Mens CC 2022,1,13,11,228.84,2,954.29,946.77,1183.1299999999999,923.0799999999999,1183.1299999999999,118.54962599999999,Alabama-Birmingham,8
+53,Tulane,Loss 6-11,-8.07,Counts,0.09480000000000001,2023-04-23,Gulf Coast D I College Mens CC 2022,0,6,11,-546.69,-5,1440.12,978.53,893.4299999999998,986.6,893.4299999999998,84.69716399999999,Alabama-Birmingham,9
+109,Vanderbilt,Loss 9-11,-10.98,Counts,0.1002,2023-04-23,Gulf Coast D I College Mens CC 2022,0,9,11,-249.21,-2,1121.15,981.44,871.94,992.4200000000001,871.94,87.36838800000001,Alabama-Birmingham,10
+161,Mississippi State,Loss 6-9,-47.45,Counts,0.0891,2023-04-24,Gulf Coast D I College Mens CC 2022,0,6,9,-418.57,-3,903.76,1017.91,485.19,1065.36,485.19,43.230429,Alabama-Birmingham,11
+92,Alabama-Huntsville,Loss 4-12,-39.82,Counts,0.0962,2023-04-24,Gulf Coast D I College Mens CC 2022,0,4,12,-600,-8,1196.4,1010.28,596.4000000000001,1050.1,596.4000000000001,57.37368000000001,Alabama-Birmingham,12

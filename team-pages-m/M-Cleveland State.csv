@@ -1,0 +1,9 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+115,Miami (Ohio),Loss 3-13,0,Ignored,0,2023-03-12,Boogienights,0,3,13,-600,-10,1092.5,68.06,492.5,68.06,0,0,Cleveland State,1
+285,Akron,Loss 4-13,-49.8,Counts,0.2724,2023-03-12,Boogienights,0,4,13,-600,-9,398.95,18.26,-201.05,68.06,-201.05,-54.76602,Cleveland State,2
+115,Miami (Ohio),Loss 2-10,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,2,10,-600,-8,1092.5,68.06,492.5,68.06,0,0,Cleveland State,3
+48,Case Western Reserve,Loss 0-13,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,0,13,-600,-13,1464.33,68.06,864.3299999999999,68.06,0,0,Cleveland State,4
+251,Wright State,Loss 6-9,132.99,Counts,0.3423,2023-04-23,Ohio D I College Mens CC 2022,0,6,9,-418.57,-3,606.03,201.05,187.45999999999998,68.06,187.45999999999998,64.16755799999999,Cleveland State,5
+101,Dayton,Loss 0-13,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,0,0,13,-600,-13,1150.68,68.06,550.6800000000001,68.06,0,0,Cleveland State,6
+285,Akron,Loss 0-13,-83.35,Counts,0.38530000000000003,2023-04-24,Ohio D I College Mens CC 2022,0,0,13,-600,-13,398.95,15.29,-201.05,98.63999999999999,-201.05,-77.46456500000001,Cleveland State,7
+170,Ohio,Loss 2-13,0,Ignored,0,2023-04-24,Ohio D I College Mens CC 2022,0,2,13,-600,-11,879.22,68.06,279.22,68.06,0,0,Cleveland State,8

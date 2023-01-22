@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+187,Bryant,Loss 5-9,5.11,Counts,0.1434,2023-04-02,New England Open,0,5,9,-529.06,-4,802.93,238.22,273.87,233.10999999999999,273.87,39.272958,Stonehill,1
+148,Bates College,Loss 4-12,0,Ignored,0,2023-04-02,New England Open,0,4,12,-600,-8,958.83,243.34,358.83000000000004,243.34,0,0,Stonehill,2
+248,Worcester Polytechnic Institute,Loss 6-9,-8.86,Counts,0.1484,2023-04-02,New England Open,0,6,9,-418.57,-3,611.08,252.19,192.51000000000005,261.05,192.51000000000005,28.56848400000001,Stonehill,3
+372,Northeastern-C,Win 12-6,-17.56,Counts,0.16260000000000002,2023-04-02,New England Open,1,12,6,579.31,6,426.45,260.9,1005.76,278.46,1005.76,163.53657600000003,Stonehill,4
+146,Brandeis,Loss 4-12,0,Ignored,0,2023-04-03,New England Open,0,4,12,-600,-8,961.68,243.34,361.67999999999995,243.34,0,0,Stonehill,5
+372,Northeastern-C,Win 9-2,0,Ignored,0,2023-04-03,New England Open,1,9,2,600,7,426.45,243.34,1026.45,243.34,0,0,Stonehill,6
+356,Clark,Win 9-6,7.18,Counts,0.1484,2023-04-03,New England Open,1,9,6,418.57,3,134.02,236.15,552.59,228.97,552.59,82.004356,Stonehill,7
+284,Bentley,Loss 12-14,-14.66,Counts,0.1986,2023-04-23,Metro Boston D III College Mens CC 2022,0,12,14,-220.96,-2,405.14,258,184.17999999999998,272.66,184.17999999999998,36.578148,Stonehill,8
+146,Brandeis,Loss 7-15,29.33,Counts,0.1986,2023-04-23,Metro Boston D III College Mens CC 2022,0,7,15,-600,-8,961.68,214,361.67999999999995,184.67000000000002,361.67999999999995,71.82964799999999,Stonehill,9

@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+6,Washington,Loss 2-13,0,Ignored,0,2023-04-16,Cascadia D I College Womens CC 2022,0,2,13,-600,-11,2068.65,0,1468.65,0,0,0,Washington-B,1
+16,Western Washington,Loss 2-13,0,Ignored,0,2023-04-16,Cascadia D I College Womens CC 2022,0,2,13,-600,-11,1700.37,0,1100.37,0,0,0,Washington-B,2
+17,Oregon,Loss 5-13,0,Ignored,0,2023-04-16,Cascadia D I College Womens CC 2022,0,5,13,-600,-8,1650.51,0,1050.51,0,0,0,Washington-B,3
+46,Victoria,Loss 1-13,0,Ignored,0,2023-04-17,Cascadia D I College Womens CC 2022,0,1,13,-600,-12,1296.01,0,696.01,0,0,0,Washington-B,4

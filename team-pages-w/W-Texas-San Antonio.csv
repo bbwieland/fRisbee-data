@@ -1,0 +1,14 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+134,Arizona State,Loss 2-8,0,Ignored,0,2023-02-12,Antifreeze 2022,0,2,8,-600,-6,647.05,42.6,47.049999999999955,42.6,0,0,Texas-San Antonio,1
+169,Houston,Loss 5-7,7.67,Counts,0.1317,2023-02-12,Antifreeze 2022,0,5,7,-328.14,-2,421.33,34.93,93.19,27.259999999999998,93.19,12.273123,Texas-San Antonio,2
+132,Trinity,Loss 3-11,0,Ignored,0,2023-02-12,Antifreeze 2022,0,3,11,-600,-8,658.98,42.6,58.98000000000002,42.6,0,0,Texas-San Antonio,3
+208,Texas-B,Loss 7-8,-7.3,Counts,0.1472,2023-02-12,Antifreeze 2022,0,7,8,-125,-1,125.3,49.9,0.29999999999999716,57.199999999999996,0.29999999999999716,0.04415999999999958,Texas-San Antonio,4
+98,Rice,Loss 3-13,0,Ignored,0,2023-02-13,Antifreeze 2022,0,3,13,-600,-10,929.32,42.6,329.32000000000005,42.6,0,0,Texas-San Antonio,5
+123,Tulane,Loss 1-5,0,Ignored,0,2023-02-13,Antifreeze 2022,0,1,5,-600,-4,726.7,42.6,126.70000000000005,42.6,0,0,Texas-San Antonio,6
+64,Iowa,Loss 2-11,0,Ignored,0,2023-03-19,Womens Centex,0,2,11,-600,-9,1141.3,42.6,541.3,42.6,0,0,Texas-San Antonio,7
+165,North Texas,Win 9-4,227.86,Counts,0.183,2023-03-19,Womens Centex,1,9,4,600,5,460,185.26,1060,-42.60000000000002,1060,193.98,Texas-San Antonio,8
+82,Texas A&M,Loss 0-11,0,Ignored,0,2023-03-19,Womens Centex,0,0,11,-600,-11,1008.88,42.6,408.88,42.6,0,0,Texas-San Antonio,9
+208,Texas-B,Loss 5-8,-83.07,Counts,0.183,2023-03-19,Womens Centex,0,5,8,-453.6,-3,125.3,125.67,-328.3,208.74,-328.3,-60.0789,Texas-San Antonio,10
+162,Oklahoma,Loss 4-9,-36.36,Counts,0.183,2023-03-20,Womens Centex,0,4,9,-600,-5,480.27,78.95,-119.73000000000002,115.31,-119.73000000000002,-21.910590000000003,Texas-San Antonio,11
+132,Trinity,Loss 2-9,0,Ignored,0,2023-03-20,Womens Centex,0,2,9,-600,-7,658.98,42.6,58.98000000000002,42.6,0,0,Texas-San Antonio,12
+208,Texas-B,Loss 2-8,-107.54,Counts,0.1721,2023-03-20,Womens Centex,0,2,8,-600,-6,125.3,150.13,-474.7,257.67,-474.7,-81.69587,Texas-San Antonio,13

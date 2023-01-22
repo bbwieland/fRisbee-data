@@ -1,0 +1,28 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+199,Air Force,Win 9-8,-13.24,Counts,0.028399999999999998,2023-02-26,Snow Melt at Colorado College,1,9,8,125,1,762.71,1354.17,887.71,1367.41,887.71,25.210964,Colorado College,1
+173,Colorado School of Mines,Win 10-6,0.34,Counts,0.0275,2023-02-26,Snow Melt at Colorado College,1,10,6,496.16,4,856.94,1340.59,1353.1000000000001,1340.25,1353.1000000000001,37.21025,Colorado College,2
+122,Denver,Win 11-6,8.23,Counts,0.028399999999999998,2023-02-26,Snow Melt at Colorado College,1,11,6,546.69,5,1075.81,1332.71,1622.5,1324.48,1622.5,46.07899999999999,Colorado College,3
+NA,Colorado School of Mines-B,Win 13-3,0,Ignored,0,2023-02-27,Snow Melt at Colorado College,1,13,3,600,10,NA,1340.93,NA,1340.93,0,NA,Colorado College,4
+135,Colorado-B,Win 12-6,7.64,Counts,0.0292,2023-02-27,Snow Melt at Colorado College,1,12,6,579.31,6,1015.4,1333.3,1594.71,1325.6599999999999,1594.71,46.565532000000005,Colorado College,5
+33,Purdue,Loss 7-8,3.57,Counts,0.028300000000000002,2023-03-05,Midwest Throwdown 2022,0,7,8,-125,-1,1588.79,1337.36,1463.79,1333.79,1463.79,41.425257,Colorado College,6
+64,Northwestern,Win 12-11,5.02,Counts,0.0318,2023-03-05,Midwest Throwdown 2022,1,12,11,125,1,1368.8,1335.91,1493.8,1330.89,1493.8,47.50284,Colorado College,7
+216,DePaul,Win 10-4,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,1,10,4,600,6,701.9,1340.93,1301.9,1340.93,0,0,Colorado College,8
+78,Missouri,Win 13-4,16.82,Counts,0.0318,2023-03-06,Midwest Throwdown 2022,1,13,4,600,9,1253.01,1324.12,1853.01,1307.3,1853.01,58.925718,Colorado College,9
+54,Missouri S&T,Win 13-9,16.56,Counts,0.0318,2023-03-06,Midwest Throwdown 2022,1,13,9,418.57,4,1426.73,1324.37,1845.3,1307.81,1845.3,58.68054,Colorado College,10
+33,Purdue,Loss 7-12,-8.95,Counts,0.0318,2023-03-06,Midwest Throwdown 2022,0,7,12,-520.51,-5,1588.79,1349.89,1068.28,1358.8400000000001,1068.28,33.971304,Colorado College,11
+32,Washington University,Win 11-10,12.29,Counts,0.0318,2023-03-06,Midwest Throwdown 2022,1,11,10,125,1,1590.18,1328.64,1715.18,1316.3500000000001,1715.18,54.54272400000001,Colorado College,12
+133,Wisconsin-Milwaukee,Loss 11-14,-26.33,Counts,0.0401,2023-04-02,Huck Finn 2022,0,11,14,-313.34,-3,1023.38,1367.26,710.04,1393.59,710.04,28.472603999999997,Colorado College,13
+120,Grand Valley State,Loss 10-11,-16.1,Counts,0.0401,2023-04-02,Huck Finn 2022,0,10,11,-125,-1,1080.22,1357.03,955.22,1373.1299999999999,955.22,38.304322,Colorado College,14
+129,Boston University,Win 11-7,7.15,Counts,0.039,2023-04-02,Huck Finn 2022,1,11,7,466.89,4,1050.21,1333.79,1517.1,1326.6399999999999,1517.1,59.1669,Colorado College,15
+232,Oklahoma,Win 12-4,0,Ignored,0,2023-04-02,Huck Finn 2022,1,12,4,600,8,660.44,1340.93,1260.44,1340.93,0,0,Colorado College,16
+95,Iowa State,Loss 11-12,-11.8,Counts,0.0401,2023-04-03,Huck Finn 2022,0,11,12,-125,-1,1183.14,1352.73,1058.14,1364.53,1058.14,42.431414000000004,Colorado College,17
+199,Air Force,Win 14-10,-8.45,Counts,0.045,2023-04-16,Rocky Mountain D III College Mens CC 2022,1,14,10,398.7,4,762.71,1349.38,1161.41,1357.8300000000002,1161.41,52.26345,Colorado College,18
+173,Colorado School of Mines,Win 15-9,1.48,Counts,0.045,2023-04-16,Rocky Mountain D III College Mens CC 2022,1,15,9,515.48,6,856.94,1339.45,1372.42,1337.97,1372.42,61.758900000000004,Colorado College,19
+131,Sul Ross State,Win 15-10,7.45,Counts,0.050499999999999996,2023-04-30,South Central D III College Mens Regionals 2022,1,15,10,453.6,5,1027.4,1333.49,1481,1326.04,1481,74.7905,Colorado College,20
+173,Colorado School of Mines,Win 11-7,-0.88,Counts,0.049100000000000005,2023-04-30,South Central D III College Mens Regionals 2022,1,11,7,466.89,4,856.94,1341.82,1323.83,1342.7,1323.83,65.00005300000001,Colorado College,21
+54,Missouri S&T,Win 15-14,11.2,Counts,0.050499999999999996,2023-05-01,South Central D III College Mens Regionals 2022,1,15,14,125,1,1426.73,1329.73,1551.73,1318.53,1551.73,78.362365,Colorado College,22
+123,Williams,Win 15-14,-9.06,Counts,0.06,2023-05-21,2022 D III College Championships,1,15,14,125,1,1073.97,1350,1198.97,1359.06,1198.97,71.9382,Colorado College,23
+180,Connecticut College,Win 15-9,0.18,Counts,0.06,2023-05-21,2022 D III College Championships,1,15,9,515.48,6,828.33,1340.75,1343.81,1340.57,1343.81,80.62859999999999,Colorado College,24
+74,Navy,Win 15-5,34.25,Counts,0.06,2023-05-21,2022 D III College Championships,1,15,5,600,10,1277.32,1306.68,1877.32,1272.43,1877.32,112.63919999999999,Colorado College,25
+50,Berry,Loss 12-15,-12.23,Counts,0.06,2023-05-22,2022 D III College Championships,0,12,15,-300.49,-3,1449.81,1353.17,1149.32,1365.4,1149.32,68.9592,Colorado College,26
+99,Oberlin,Loss 12-14,-25.67,Counts,0.06,2023-05-23,2022 D III College Championships,0,12,14,-220.96,-2,1159.9,1366.6,938.94,1392.27,938.94,56.336400000000005,Colorado College,27

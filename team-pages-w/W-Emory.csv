@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+238,University of North Carolina - Asheville,Win 15-0,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,15,0,600,15,735.54,1016.31,1335.54,1016.31,0,0,Emory,1
+149,North Carolina-Wilmington,Win 9-8,-28.71,Counts,0.0866,2023-03-26,Needle in a Ho Stack,1,9,8,125,1,588.46,1045.02,713.46,1073.73,713.46,61.785636000000004,Emory,2
+22,Middlebury,Loss 8-10,25.61,Counts,0.0891,2023-03-26,Needle in a Ho Stack,0,8,10,-262.67,-2,1540.81,990.7,1278.1399999999999,965.09,1278.1399999999999,113.88227399999998,Emory,3
+25,Appalachian State,Loss 5-12,-10.8,Counts,0.08789999999999999,2023-03-27,Needle in a Ho Stack,0,5,12,-600,-7,1504.18,1027.11,904.1800000000001,1037.9099999999999,904.1800000000001,79.477422,Emory,4
+102,Berry,Win 14-4,48.82,Counts,0.0916,2023-03-27,Needle in a Ho Stack,1,14,4,600,10,900.79,967.49,1500.79,918.67,1500.79,137.472364,Emory,5
+228,Elon,Win 15-0,0,Ignored,0,2023-03-27,Needle in a Ho Stack,1,15,0,600,15,113.74,1016.31,713.74,1016.31,0,0,Emory,6
+15,Georgia,Loss 2-12,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,0,2,12,-600,-10,1707.34,1016.31,1107.34,1016.31,0,0,Emory,7
+182,Georgia Tech-B,Win 10-3,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,1,10,3,600,7,348.71,1016.31,948.71,1016.31,0,0,Emory,8
+110,Tennessee-Chattanooga,Win 7-5,10.71,Counts,0.0817,2023-04-09,Southern Appalachian D I College Womens CC 2022,1,7,5,328.14,2,808.59,1005.6,1136.73,994.89,1136.73,92.870841,Emory,9
+237,Emory-B,Win 13-0,0,Ignored,0,2023-04-10,Southern Appalachian D I College Womens CC 2022,1,13,0,600,13,634.24,1016.31,1234.24,1016.31,0,0,Emory,10
+45,Tennessee,Loss 7-9,0.7,Counts,0.0943,2023-04-10,Southern Appalachian D I College Womens CC 2022,0,7,9,-279.34,-2,1302.41,1015.61,1023.0700000000002,1014.91,1023.0700000000002,96.47550100000001,Emory,11
+139,Auburn,Win 11-9,-17.65,Counts,0.1222,2023-04-30,Southeast D I College Womens Regionals 2022,1,11,9,249.21,2,640.3,1033.96,889.51,1051.6100000000001,889.51,108.698122,Emory,12
+53,Central Florida,Loss 4-12,-51.37,Counts,0.1173,2023-04-30,Southeast D I College Womens Regionals 2022,0,4,12,-600,-8,1229.71,1067.68,629.71,1119.05,629.71,73.86498300000001,Emory,13
+30,Georgia Tech,Loss 4-11,-19.88,Counts,0.1121,2023-04-30,Southeast D I College Womens Regionals 2022,0,4,11,-600,-7,1458.95,1036.19,858.95,1056.0700000000002,858.95,96.288295,Emory,14
+123,Tulane,Win 12-4,41.24,Counts,0.1173,2023-04-30,Southeast D I College Womens Regionals 2022,1,12,4,600,8,726.7,975.07,1326.7,933.83,1326.7,155.62191,Emory,15

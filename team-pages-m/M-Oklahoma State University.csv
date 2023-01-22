@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+225,Wisconsin- La Crosse,Loss 8-11,-48.5,Counts,0.2086,2023-03-19,Missouri Loves Company MLC,0,8,11,-365.61,-3,682.12,549.06,316.51,597.56,316.51,66.023986,Oklahoma State University,1
+NA,Harding,Loss 11-13,-26.33,Counts,0.2086,2023-03-19,Missouri Loves Company MLC,0,11,13,-228.84,-2,629.49,526.89,400.65,553.22,400.65,83.57559,Oklahoma State University,2
+220,Minnesota-B,Loss 8-15,-97.93,Counts,0.2086,2023-03-20,Missouri Loves Company MLC,0,8,15,-564.81,-7,693.75,598.49,128.94000000000005,696.4200000000001,128.94000000000005,26.89688400000001,Oklahoma State University,3
+164,Truman State,Loss 8-13,-25.93,Counts,0.2086,2023-03-20,Missouri Loves Company MLC,0,8,13,-496.16,-5,898.32,526.49,402.16,552.42,402.16,83.89057600000001,Oklahoma State University,4
+109,Vanderbilt,Win 7-5,188.49,Counts,0.16570000000000001,2023-03-20,Missouri Loves Company MLC,1,7,5,328.14,2,1121.15,312.06,1449.29,123.57,1449.29,240.147353,Oklahoma State University,5

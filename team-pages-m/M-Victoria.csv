@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+212,Oregon State-B,Win 13-1,0,Ignored,0,2023-04-16,Cascadia D I College Mens CC 2022,1,13,1,600,12,708.48,1494.23,1308.48,1494.23,0,0,Victoria,1
+28,British Columbia,Win 9-5,72.37,Counts,0.10060000000000001,2023-04-16,Cascadia D I College Mens CC 2022,1,9,5,529.06,4,1612.3,1421.86,2141.3599999999997,1349.4899999999998,2141.3599999999997,215.42081599999997,Victoria,2
+11,Washington,Loss 9-11,13.87,Counts,0.11720000000000001,2023-04-16,Cascadia D I College Mens CC 2022,0,9,11,-249.21,-2,1847.95,1480.35,1598.74,1466.48,1598.74,187.372328,Victoria,3
+19,Oregon,Loss 6-11,-41.37,Counts,0.1108,2023-04-17,Cascadia D I College Mens CC 2022,0,6,11,-546.69,-5,1709,1535.6,1162.31,1576.9699999999998,1162.31,128.78394799999998,Victoria,4
+39,Western Washington,Loss 8-10,-31.73,Counts,0.114,2023-04-17,Cascadia D I College Mens CC 2022,0,8,10,-262.67,-2,1510.39,1525.96,1247.72,1557.69,1247.72,142.24008,Victoria,5
+38,Oregon State,Loss 9-12,-52.75,Counts,0.1393,2023-05-07,Northwest D I College Mens Regionals 2022,0,9,12,-345.37,-3,1513.79,1546.97,1168.42,1599.72,1168.42,162.760906,Victoria,6
+178,Montana State,Win 13-7,-15.9,Counts,0.1393,2023-05-07,Northwest D I College Mens Regionals 2022,1,13,7,557.53,6,838.48,1510.13,1396.01,1526.0300000000002,1396.01,194.464193,Victoria,7
+39,Western Washington,Win 13-4,99.76,Counts,0.1393,2023-05-07,Northwest D I College Mens Regionals 2022,1,13,4,600,9,1510.39,1394.47,2110.3900000000003,1294.71,2110.3900000000003,293.97732700000006,Victoria,8
+19,Oregon,Loss 8-13,-45.56,Counts,0.1393,2023-05-08,Northwest D I College Mens Regionals 2022,0,8,13,-496.16,-5,1709,1539.78,1212.84,1585.34,1212.84,168.948612,Victoria,9

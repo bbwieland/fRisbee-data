@@ -1,0 +1,22 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+25,Maryland,Win 12-11,13.75,Counts,0.0414,2023-02-12,Queen City Tune Up 2022,1,12,11,125,1,1657.91,1450.58,1782.91,1436.83,1782.91,73.81247400000001,Case Western Reserve,1
+60,Notre Dame,Win 12-10,7.42,Counts,0.0414,2023-02-12,Queen City Tune Up 2022,1,12,10,238.12,2,1398.11,1456.91,1636.23,1449.49,1636.23,67.73992199999999,Case Western Reserve,2
+117,Appalachian State,Loss 9-11,-27.19,Counts,0.0414,2023-02-12,Queen City Tune Up 2022,0,9,11,-249.21,-2,1083.57,1491.52,834.3599999999999,1518.71,834.3599999999999,34.542503999999994,Case Western Reserve,3
+2,North Carolina,Loss 4-13,0,Ignored,0,2023-02-12,Queen City Tune Up 2022,0,4,13,-600,-9,2179.26,1464.33,1579.2600000000002,1464.33,0,0,Case Western Reserve,4
+62,Carnegie Mellon,Win 13-10,10.74,Counts,0.0414,2023-02-13,Queen City Tune Up 2022,1,13,10,328.14,3,1384.97,1453.59,1713.1100000000001,1442.85,1713.1100000000001,70.922754,Case Western Reserve,5
+24,Ohio State,Loss 9-10,3.16,Counts,0.0414,2023-02-13,Queen City Tune Up 2022,0,9,10,-125,-1,1662.49,1461.17,1537.49,1458.01,1537.49,63.652086,Case Western Reserve,6
+37,Virginia,Loss 12-13,-3.22,Counts,0.0414,2023-02-13,Queen City Tune Up 2022,0,12,13,-125,-1,1514.83,1467.54,1389.83,1470.76,1389.83,57.538962,Case Western Reserve,7
+115,Miami (Ohio),Win 10-6,9.02,Counts,0.0676,2023-04-23,Ohio D I College Mens CC 2022,1,10,6,496.16,4,1092.5,1455.31,1588.66,1446.29,1588.66,107.393416,Case Western Reserve,8
+353,Cleveland State,Win 13-0,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,1,13,0,600,13,68.06,1464.33,668.06,1464.33,0,0,Case Western Reserve,9
+251,Wright State,Win 13-3,0,Ignored,0,2023-04-23,Ohio D I College Mens CC 2022,1,13,3,600,10,606.03,1464.33,1206.03,1464.33,0,0,Case Western Reserve,10
+101,Dayton,Win 10-5,18.24,Counts,0.0655,2023-04-23,Ohio D I College Mens CC 2022,1,10,5,573.9,5,1150.68,1446.09,1724.58,1427.85,1724.58,112.95999,Case Western Reserve,11
+46,Cincinnati,Win 9-8,10.72,Counts,0.0697,2023-04-24,Ohio D I College Mens CC 2022,1,9,8,125,1,1482.34,1453.61,1607.34,1442.8899999999999,1607.34,112.03159799999999,Case Western Reserve,12
+24,Ohio State,Loss 6-10,-21.62,Counts,0.0676,2023-04-24,Ohio D I College Mens CC 2022,0,6,10,-496.16,-4,1662.49,1485.95,1166.33,1507.57,1166.33,78.84390799999998,Case Western Reserve,13
+46,Cincinnati,Loss 7-10,-27.86,Counts,0.0697,2023-04-24,Ohio D I College Mens CC 2022,0,7,10,-389.67,-3,1482.34,1492.19,1092.6699999999998,1520.05,1092.6699999999998,76.15909899999998,Case Western Reserve,14
+256,Penn State-B,Win 13-1,0,Ignored,0,2023-05-07,Ohio Valley D I College Mens Regionals 2022,1,13,1,600,12,583.9,1464.33,1183.9,1464.33,0,0,Case Western Reserve,15
+46,Cincinnati,Loss 7-11,-39.32,Counts,0.0805,2023-05-07,Ohio Valley D I College Mens Regionals 2022,0,7,11,-466.89,-4,1482.34,1503.65,1015.4499999999999,1542.97,1015.4499999999999,81.743725,Case Western Reserve,16
+242,Drexel,Win 13-4,0,Ignored,0,2023-05-07,Ohio Valley D I College Mens Regionals 2022,1,13,4,600,9,625.81,1464.33,1225.81,1464.33,0,0,Case Western Reserve,17
+62,Carnegie Mellon,Win 13-10,22.44,Counts,0.0827,2023-05-08,Ohio Valley D I College Mens Regionals 2022,1,13,10,328.14,3,1384.97,1441.89,1713.1100000000001,1419.45,1713.1100000000001,141.674197,Case Western Reserve,18
+100,Lehigh,Win 13-7,22.32,Counts,0.0827,2023-05-08,Ohio Valley D I College Mens Regionals 2022,1,13,7,557.53,6,1154.27,1442,1711.8,1419.68,1711.8,141.56586,Case Western Reserve,19
+51,Penn State,Win 13-10,28.26,Counts,0.0827,2023-05-08,Ohio Valley D I College Mens Regionals 2022,1,13,10,328.14,3,1449.51,1436.06,1777.65,1407.8,1777.65,147.011655,Case Western Reserve,20
+24,Ohio State,Loss 8-13,-26.88,Counts,0.0827,2023-05-08,Ohio Valley D I College Mens Regionals 2022,0,8,13,-496.16,-5,1662.49,1491.21,1166.33,1518.0900000000001,1166.33,96.455491,Case Western Reserve,21

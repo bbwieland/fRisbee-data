@@ -1,0 +1,26 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+337,Siena,Win 10-6,-0.1,Counts,0.039599999999999996,2023-03-26,New York Invite,1,10,6,496.16,4,112.49,611.17,608.65,611.27,608.65,24.102539999999998,Worcester Polytechnic Institute,1
+303,Skidmore College,Win 12-4,12.39,Counts,0.0414,2023-03-26,New York Invite,1,12,4,600,8,298.24,598.68,898.24,586.29,898.24,37.187136,Worcester Polytechnic Institute,2
+132,Ithaca,Loss 3-13,-8.45,Counts,0.0431,2023-03-26,New York Invite,0,3,13,-600,-10,1023.44,619.53,423.44000000000005,627.98,423.44000000000005,18.250264,Worcester Polytechnic Institute,3
+309,SUNY-Binghamton-B,Win 8-7,-8.14,Counts,0.0383,2023-03-26,New York Invite,1,8,7,125,1,281.65,619.22,406.65,627.36,406.65,15.574695,Worcester Polytechnic Institute,4
+174,Rochester,Loss 8-10,-1.04,Counts,0.042,2023-03-27,New York Invite,0,8,10,-262.67,-2,849.91,612.12,587.24,613.16,587.24,24.664080000000002,Worcester Polytechnic Institute,5
+276,Connecticut-B,Win 10-7,10.05,Counts,0.0408,2023-03-27,New York Invite,1,10,7,389.67,3,457.84,601.02,847.51,590.97,847.51,34.578408,Worcester Polytechnic Institute,6
+193,Vermont-C,Win 9-8,12.78,Counts,0.0408,2023-03-27,New York Invite,1,9,8,125,1,786.67,598.3,911.67,585.52,911.67,37.196136,Worcester Polytechnic Institute,7
+317,Stonehill,Win 9-6,2.15,Counts,0.0406,2023-04-02,New England Open,1,9,6,418.57,3,243.34,608.93,661.91,606.78,661.91,26.873545999999997,Worcester Polytechnic Institute,8
+148,Bates College,Loss 1-13,-12.07,Counts,0.045700000000000005,2023-04-02,New England Open,0,1,13,-600,-12,958.83,623.15,358.83000000000004,635.22,358.83000000000004,16.398531000000002,Worcester Polytechnic Institute,9
+187,Bryant,Loss 6-10,-13.31,Counts,0.04190000000000001,2023-04-02,New England Open,0,6,10,-496.16,-4,802.93,624.39,306.7699999999999,637.6999999999999,306.7699999999999,12.853663,Worcester Polytechnic Institute,10
+372,Northeastern-C,Win 13-2,0,Ignored,0,2023-04-02,New England Open,1,13,2,600,11,426.45,611.08,1026.45,611.08,0,0,Worcester Polytechnic Institute,11
+356,Clark,Win 10-3,0,Ignored,0,2023-04-03,New England Open,1,10,3,600,7,134.02,611.08,734.02,611.08,0,0,Worcester Polytechnic Institute,12
+313,Boston University-B,Win 13-3,11.85,Counts,0.045700000000000005,2023-04-03,New England Open,1,13,3,600,10,258.75,599.22,858.75,587.37,858.75,39.244875,Worcester Polytechnic Institute,13
+180,Connecticut College,Loss 8-10,-2.11,Counts,0.044500000000000005,2023-04-03,New England Open,0,8,10,-262.67,-2,828.33,613.19,565.6600000000001,615.3000000000001,565.6600000000001,25.171870000000006,Worcester Polytechnic Institute,14
+356,Clark,Win 13-1,0,Ignored,0,2023-04-23,South New England D III College Mens CC 2022,1,13,1,600,12,134.02,611.08,734.02,611.08,0,0,Worcester Polytechnic Institute,15
+187,Bryant,Loss 8-10,-3.95,Counts,0.0529,2023-04-23,South New England D III College Mens CC 2022,0,8,10,-262.67,-2,802.93,615.03,540.26,618.98,540.26,28.579754,Worcester Polytechnic Institute,16
+123,Williams,Loss 7-13,-5.44,Counts,0.054299999999999994,2023-04-23,South New England D III College Mens CC 2022,0,7,13,-557.53,-6,1073.97,616.51,516.44,621.95,516.44,28.042692,Worcester Polytechnic Institute,17
+187,Bryant,Loss 7-12,-18.88,Counts,0.054299999999999994,2023-04-24,South New England D III College Mens CC 2022,0,7,12,-520.51,-5,802.93,629.95,282.41999999999996,648.83,282.41999999999996,15.335405999999995,Worcester Polytechnic Institute,18
+234,Amherst,Win 10-6,28.37,Counts,0.049800000000000004,2023-04-24,South New England D III College Mens CC 2022,1,10,6,496.16,4,655.72,582.71,1151.88,554.34,1151.88,57.36362400000001,Worcester Polytechnic Institute,19
+234,Amherst,Win 14-9,29.78,Counts,0.054299999999999994,2023-04-24,South New England D III College Mens CC 2022,1,14,9,473.87,5,655.72,581.29,1129.5900000000001,551.51,1129.5900000000001,61.336737,Worcester Polytechnic Institute,20
+35,Middlebury,Loss 4-13,0,Ignored,0,2023-04-30,New England D III College Mens Regionals 2022,0,4,13,-600,-9,1530.51,611.08,930.51,611.08,0,0,Worcester Polytechnic Institute,21
+284,Bentley,Loss 10-12,-27.11,Counts,0.0575,2023-04-30,New England D III College Mens Regionals 2022,0,10,12,-238.12,-2,405.14,638.19,167.01999999999998,665.3000000000001,167.01999999999998,9.60365,Worcester Polytechnic Institute,22
+123,Williams,Loss 3-13,-8.37,Counts,0.0575,2023-04-30,New England D III College Mens Regionals 2022,0,3,13,-600,-10,1073.97,619.45,473.97,627.82,473.97,27.253275000000002,Worcester Polytechnic Institute,23
+284,Bentley,Win 15-5,24.06,Counts,0.0575,2023-05-01,New England D III College Mens Regionals 2022,1,15,5,600,10,405.14,587.01,1005.14,562.95,1005.14,57.79555,Worcester Polytechnic Institute,24
+187,Bryant,Loss 8-15,-22.77,Counts,0.0575,2023-05-01,New England D III College Mens Regionals 2022,0,8,15,-564.81,-7,802.93,633.85,238.12,656.62,238.12,13.6919,Worcester Polytechnic Institute,25

@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+186,Occidental,Loss 10-11,-5.26,Counts,0.1807,2023-02-05,Stanford Open 2022,0,10,11,-125,-1,809.64,713.73,684.64,718.99,684.64,123.71444799999999,Oregon State-B,1
+113,California-Davis,Loss 7-9,23.54,Counts,0.16579999999999998,2023-02-05,Stanford Open 2022,0,7,9,-279.34,-2,1106.24,684.93,826.9000000000001,661.39,826.9000000000001,137.10002,Oregon State-B,2
+265,Cal Poly Humboldt,Win 10-7,39.16,Counts,0.1709,2023-02-06,Stanford Open 2022,1,10,7,389.67,3,508.74,669.32,898.4100000000001,630.1600000000001,898.4100000000001,153.538269,Oregon State-B,3
+258,California-B,Win 10-5,77.97,Counts,0.1606,2023-02-06,Stanford Open 2022,1,10,5,573.9,5,542.24,630.5,1116.1399999999999,552.53,1116.1399999999999,179.25208399999997,Oregon State-B,4
+43,Victoria,Loss 1-13,0,Ignored,0,2023-04-16,Cascadia D I College Mens CC 2022,0,1,13,-600,-12,1494.23,708.48,894.23,708.48,0,0,Oregon State-B,5
+11,Washington,Loss 0-13,0,Ignored,0,2023-04-16,Cascadia D I College Mens CC 2022,0,0,13,-600,-13,1847.95,708.48,1247.95,708.48,0,0,Oregon State-B,6
+28,British Columbia,Loss 0-13,0,Ignored,0,2023-04-16,Cascadia D I College Mens CC 2022,0,0,13,-600,-13,1612.3,708.48,1012.3,708.48,0,0,Oregon State-B,7
+38,Oregon State,Loss 1-13,0,Ignored,0,2023-04-17,Cascadia D I College Mens CC 2022,0,1,13,-600,-12,1513.79,708.48,913.79,708.48,0,0,Oregon State-B,8
+150,Portland State,Loss 3-13,-167.03,Counts,0.322,2023-04-17,Cascadia D I College Mens CC 2022,0,3,13,-600,-10,956.75,875.5,356.75,1042.53,356.75,114.8735,Oregon State-B,9

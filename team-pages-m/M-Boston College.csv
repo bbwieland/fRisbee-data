@@ -1,0 +1,19 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+53,Tulane,Loss 9-10,2.22,Counts,0.0538,2023-03-19,Mens College Centex,0,9,10,-125,-1,1440.12,1273.87,1315.12,1271.6499999999999,1315.12,70.753456,Boston College,1
+84,Iowa,Win 10-8,12.45,Counts,0.0524,2023-03-19,Mens College Centex,1,10,8,262.67,2,1238.75,1263.64,1501.42,1251.19,1501.42,78.67440800000001,Boston College,2
+124,Texas State,Loss 6-8,-24.38,Counts,0.0462,2023-03-19,Mens College Centex,0,6,8,-300.49,-2,1072.93,1300.47,772.44,1324.8500000000001,772.44,35.686728,Boston College,3
+47,Florida,Loss 8-11,-9.37,Counts,0.0538,2023-03-19,Mens College Centex,0,8,11,-365.61,-3,1476.89,1285.46,1111.2800000000002,1294.83,1111.2800000000002,59.78686400000001,Boston College,4
+70,Chicago,Loss 11-13,-10.09,Counts,0.0538,2023-03-20,Mens College Centex,0,11,13,-228.84,-2,1327.52,1286.17,1098.68,1296.26,1098.68,59.10898400000001,Boston College,5
+77,Arkansas,Win 12-9,18.59,Counts,0.0538,2023-03-20,Mens College Centex,1,12,9,345.37,3,1257.75,1257.5,1603.12,1238.91,1603.12,86.247856,Boston College,6
+72,Texas A&M,Loss 2-9,-27.33,Counts,0.044500000000000005,2023-03-20,Mens College Centex,0,2,9,-600,-7,1289.26,1303.42,689.26,1330.75,689.26,30.67207,Boston College,7
+12,Northeastern,Loss 4-13,-2.65,Counts,0.0678,2023-04-16,Metro Boston D I College Mens CC 2022,0,4,13,-600,-9,1839.64,1278.74,1239.64,1281.39,1239.64,84.04759200000001,Boston College,8
+165,MIT,Win 13-8,8.59,Counts,0.0678,2023-04-16,Metro Boston D I College Mens CC 2022,1,13,8,496.16,5,898.08,1267.5,1394.24,1258.91,1394.24,94.529472,Boston College,9
+129,Boston University,Win 10-8,2.6,Counts,0.066,2023-04-16,Metro Boston D I College Mens CC 2022,1,10,8,262.67,2,1050.21,1273.49,1312.88,1270.89,1312.88,86.65008000000002,Boston College,10
+162,Massachusetts-Lowell,Win 13-8,8.87,Counts,0.0678,2023-04-17,Metro Boston D I College Mens CC 2022,1,13,8,496.16,5,901.86,1267.22,1398.02,1258.3500000000001,1398.02,94.78575599999999,Boston College,11
+18,Tufts,Loss 9-11,13.85,Counts,0.0678,2023-04-17,Metro Boston D I College Mens CC 2022,0,9,11,-249.21,-2,1715.78,1262.24,1466.57,1248.39,1466.57,99.43344599999999,Boston College,12
+93,Harvard,Win 12-5,35.89,Counts,0.065,2023-04-17,Metro Boston D I College Mens CC 2022,1,12,5,600,7,1191.89,1240.2,1791.89,1204.31,1791.89,116.47285000000001,Boston College,13
+7,Massachusetts,Loss 5-13,0,Ignored,0,2023-05-07,New England D I College Mens Regionals 2022,0,5,13,-600,-8,1936.21,1276.09,1336.21,1276.09,0,0,Boston College,14
+9,Vermont,Loss 5-13,0,Ignored,0,2023-05-07,New England D I College Mens Regionals 2022,0,5,13,-600,-8,1901.02,1276.09,1301.02,1276.09,0,0,Boston College,15
+185,Northeastern-B,Win 13-12,-29.89,Counts,0.0806,2023-05-07,New England D I College Mens Regionals 2022,1,13,12,125,1,810.14,1305.98,935.14,1335.8700000000001,935.14,75.37228400000001,Boston College,16
+18,Tufts,Loss 5-13,-14.05,Counts,0.0806,2023-05-07,New England D I College Mens Regionals 2022,0,5,13,-600,-8,1715.78,1290.14,1115.78,1304.19,1115.78,89.93186800000001,Boston College,17
+93,Harvard,Win 10-8,15.19,Counts,0.0785,2023-05-08,New England D I College Mens Regionals 2022,1,10,8,262.67,2,1191.89,1260.89,1454.5600000000002,1245.7,1454.5600000000002,114.18296000000001,Boston College,18

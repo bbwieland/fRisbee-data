@@ -1,0 +1,16 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+100,Case Western Reserve,Loss 6-12,-17.56,Counts,0.06280000000000001,2023-02-26,Commonwealth Cup Weekend 2,0,6,12,-579.31,-6,905.86,606.02,326.55000000000007,623.5799999999999,326.55000000000007,20.507340000000006,North Carolina-Wilmington,1
+30,Georgia Tech,Loss 8-13,25.83,Counts,0.0646,2023-02-26,Commonwealth Cup Weekend 2,0,8,13,-496.16,-5,1458.95,562.63,962.79,536.8,962.79,62.196234000000004,North Carolina-Wilmington,2
+58,Temple,Loss 9-11,24.19,Counts,0.0646,2023-02-26,Commonwealth Cup Weekend 2,0,9,11,-249.21,-2,1188.14,564.27,938.9300000000001,540.0799999999999,938.9300000000001,60.65487800000001,North Carolina-Wilmington,3
+48,Penn State,Loss 9-14,14.71,Counts,0.0646,2023-02-27,Commonwealth Cup Weekend 2,0,9,14,-473.87,-5,1275.52,573.75,801.65,559.04,801.65,51.786590000000004,North Carolina-Wilmington,4
+81,Emory,Loss 8-9,25.24,Counts,0.07690000000000001,2023-03-26,Needle in a Ho Stack,0,8,9,-125,-1,1016.31,563.22,891.31,537.98,891.31,68.541739,North Carolina-Wilmington,5
+22,Middlebury,Loss 4-15,0,Ignored,0,2023-03-26,Needle in a Ho Stack,0,4,15,-600,-11,1540.81,588.46,940.81,588.46,0,0,North Carolina-Wilmington,6
+238,University of North Carolina - Asheville,Win 12-1,0,Ignored,0,2023-03-26,Needle in a Ho Stack,1,12,1,600,11,735.54,588.46,1335.54,588.46,0,0,North Carolina-Wilmington,7
+102,Berry,Loss 5-12,-24.36,Counts,0.0781,2023-03-27,Needle in a Ho Stack,0,5,12,-600,-7,900.79,612.82,300.78999999999996,637.1800000000001,300.78999999999996,23.491698999999997,North Carolina-Wilmington,8
+237,Emory-B,Win 11-0,0,Ignored,0,2023-03-27,Needle in a Ho Stack,1,11,0,600,11,634.24,588.46,1234.24,588.46,0,0,North Carolina-Wilmington,9
+25,Appalachian State,Loss 6-12,37.27,Counts,0.09970000000000001,2023-04-23,Carolina D I College Womens CC 2022,0,6,12,-579.31,-6,1504.18,551.19,924.8700000000001,513.9200000000001,924.8700000000001,92.20953900000002,North Carolina-Wilmington,10
+69,Charleston,Loss 5-12,-8.61,Counts,0.0984,2023-04-23,Carolina D I College Womens CC 2022,0,5,12,-600,-7,1109.51,597.07,509.51,605.6800000000001,509.51,50.135784,North Carolina-Wilmington,11
+63,Duke,Loss 5-13,-4.62,Counts,0.1025,2023-04-23,Carolina D I College Womens CC 2022,0,5,13,-600,-8,1147.99,593.08,547.99,597.7,547.99,56.168974999999996,North Carolina-Wilmington,12
+193,Wake Forest,Win 9-8,-19.48,Counts,0.0969,2023-04-23,Carolina D I College Womens CC 2022,1,9,8,125,1,282,607.94,407,627.4200000000001,407,39.4383,North Carolina-Wilmington,13
+88,South Carolina,Loss 6-11,-15.13,Counts,0.0969,2023-04-24,Carolina D I College Womens CC 2022,0,6,11,-546.69,-5,994.19,603.59,447.5,618.72,447.5,43.36275,North Carolina-Wilmington,14
+109,Clemson,Loss 4-11,-39,Counts,0.094,2023-04-24,Carolina D I College Womens CC 2022,0,4,11,-600,-7,812.78,627.46,212.77999999999997,666.46,212.77999999999997,20.001319999999996,North Carolina-Wilmington,15

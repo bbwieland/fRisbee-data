@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+216,DePaul,Loss 6-9,-66.59,Counts,0.3455,2023-04-23,Illinois D I College Mens CC 2022,0,6,9,-418.57,-3,701.9,476.09,283.33,542.68,283.33,97.890515,University of Illinois at Chicago,1
+64,Northwestern,Loss 1-15,0,Ignored,0,2023-04-23,Illinois D I College Mens CC 2022,0,1,15,-600,-14,1368.8,409.49,768.8,409.49,0,0,University of Illinois at Chicago,2
+221,Loyola-Chicago,Loss 5-7,-20.63,Counts,0.309,2023-04-24,Illinois D I College Mens CC 2022,0,5,7,-328.14,-2,691.51,430.12,363.37,450.75,363.37,112.28133,University of Illinois at Chicago,3
+216,DePaul,Loss 7-8,88.37,Counts,0.3455,2023-04-24,Illinois D I College Mens CC 2022,0,7,8,-125,-1,701.9,321.12,576.9,232.75,576.9,199.31894999999997,University of Illinois at Chicago,4

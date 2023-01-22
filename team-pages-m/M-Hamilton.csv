@@ -1,0 +1,8 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+174,Rochester,Loss 4-13,0,Ignored,0,2023-04-09,Western NY D III College Mens CC 2022,0,4,13,-600,-9,849.91,178.29,249.90999999999997,178.29,0,0,Hamilton,1
+175,SUNY Cortland,Loss 1-13,0,Ignored,0,2023-04-09,Western NY D III College Mens CC 2022,0,1,13,-600,-12,849.35,178.29,249.35000000000002,178.29,0,0,Hamilton,2
+132,Ithaca,Loss 3-15,0,Ignored,0,2023-04-09,Western NY D III College Mens CC 2022,0,3,15,-600,-12,1023.44,178.29,423.44000000000005,178.29,0,0,Hamilton,3
+367,SUNY-Fredonia,Win 10-0,22.69,Counts,0.2304,2023-04-09,Western NY D III College Mens CC 2022,1,10,0,600,10,345.92,155.59,945.9200000000001,132.9,945.9200000000001,217.93996800000002,Hamilton,4
+298,Colgate,Loss 5-15,-154.41,Counts,0.2638,2023-04-10,Western NY D III College Mens CC 2022,0,5,15,-600,-10,347.3,332.69,-252.7,487.1,-252.7,-66.66225999999999,Hamilton,5
+338,SUNY-Oneonta,Win 10-6,132.1,Counts,0.242,2023-04-10,Western NY D III College Mens CC 2022,1,10,6,496.16,4,95.79,46.19,591.95,-85.91,591.95,143.2519,Hamilton,6
+217,SUNY-Geneseo,Loss 8-14,-5.31,Counts,0.2638,2023-04-10,Western NY D III College Mens CC 2022,0,8,14,-536.03,-6,699.49,183.6,163.46000000000004,188.91,163.46000000000004,43.120748000000006,Hamilton,7

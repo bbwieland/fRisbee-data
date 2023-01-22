@@ -1,0 +1,13 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+167,Rhode Island,Win 7-6,23.51,Counts,0.0947,2023-03-12,Mash Up,1,7,6,125,1,448.52,325.2,573.52,301.69,573.52,54.312344,Georgia Tech-B,1
+207,Miami (Ohio),Loss 4-6,-53.3,Counts,0.083,2023-03-12,Mash Up,0,4,6,-365.61,-2,125.64,402.01,-239.97000000000003,455.31,-239.97000000000003,-19.917510000000004,Georgia Tech-B,2
+167,Rhode Island,Loss 1-12,-61.72,Counts,0.10980000000000001,2023-03-13,Mash Up,0,1,12,-600,-11,448.52,410.43,-151.48000000000002,472.15,-151.48000000000002,-16.632504000000004,Georgia Tech-B,3
+207,Miami (Ohio),Loss 3-7,-74.53,Counts,0.083,2023-03-13,Mash Up,0,3,7,-600,-4,125.64,423.24,-474.36,497.77,-474.36,-39.371880000000004,Georgia Tech-B,4
+237,Emory-B,Win 11-1,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,1,11,1,600,10,634.24,348.71,1234.24,348.71,0,0,Georgia Tech-B,5
+45,Tennessee,Loss 3-13,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,0,3,13,-600,-10,1302.41,348.71,702.4100000000001,348.71,0,0,Georgia Tech-B,6
+81,Emory,Loss 3-10,0,Ignored,0,2023-04-09,Southern Appalachian D I College Womens CC 2022,0,3,10,-600,-7,1016.31,348.71,416.30999999999995,348.71,0,0,Georgia Tech-B,7
+110,Tennessee-Chattanooga,Loss 5-12,-22.51,Counts,0.1384,2023-04-10,Southern Appalachian D I College Womens CC 2022,0,5,12,-600,-7,808.59,371.21,208.59000000000003,393.71999999999997,208.59000000000003,28.868856000000005,Georgia Tech-B,8
+15,Georgia,Loss 1-13,0,Ignored,0,2023-04-30,Southeast D I College Womens Regionals 2022,0,1,13,-600,-12,1707.34,348.71,1107.34,348.71,0,0,Georgia Tech-B,9
+110,Tennessee-Chattanooga,Loss 8-9,64.83,Counts,0.16219999999999998,2023-04-30,Southeast D I College Womens Regionals 2022,0,8,9,-125,-1,808.59,283.87,683.59,219.04000000000002,683.59,110.87829799999999,Georgia Tech-B,10
+198,Miami,Win 11-3,89.84,Counts,0.1574,2023-04-30,Southeast D I College Womens Regionals 2022,1,11,3,600,8,229.78,258.87,829.78,169.03,829.78,130.607372,Georgia Tech-B,11
+166,LSU,Win 11-10,48.58,Counts,0.17149999999999999,2023-04-30,Southeast D I College Womens Regionals 2022,1,11,10,125,1,458.41,300.13,583.4100000000001,251.55,583.4100000000001,100.054815,Georgia Tech-B,12

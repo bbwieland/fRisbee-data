@@ -1,0 +1,20 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+139,Auburn,Win 15-3,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,1,15,3,600,12,640.3,1270.24,1240.3,1270.24,0,0,Carnegie Mellon,1
+26,Brown,Loss 7-15,-18.22,Counts,0.0471,2023-02-26,Commonwealth Cup Weekend 2,0,7,15,-600,-8,1501.72,1288.46,901.72,1306.68,901.72,42.471012,Carnegie Mellon,2
+48,Penn State,Win 15-5,29.93,Counts,0.0471,2023-02-26,Commonwealth Cup Weekend 2,1,15,5,600,10,1275.52,1240.32,1875.52,1210.3899999999999,1875.52,88.33699200000001,Carnegie Mellon,3
+1,North Carolina,Loss 5-15,0,Ignored,0,2023-02-26,Commonwealth Cup Weekend 2,0,5,15,-600,-10,2343.45,1270.24,1743.4499999999998,1270.24,0,0,Carnegie Mellon,4
+26,Brown,Loss 9-11,-0.88,Counts,0.0471,2023-02-27,Commonwealth Cup Weekend 2,0,9,11,-249.21,-2,1501.72,1271.12,1252.51,1272,1252.51,58.993221000000005,Carnegie Mellon,5
+61,Ohio State,Win 10-9,1.4,Counts,0.0471,2023-02-27,Commonwealth Cup Weekend 2,1,10,9,125,1,1173.55,1268.84,1298.55,1267.4399999999998,1298.55,61.161705000000005,Carnegie Mellon,6
+58,Temple,Win 11-8,14.02,Counts,0.0471,2023-02-27,Commonwealth Cup Weekend 2,1,11,8,365.61,3,1188.14,1256.23,1553.75,1242.21,1553.75,73.18162500000001,Carnegie Mellon,7
+175,Pittsburgh-B,Win 13-5,0,Ignored,0,2023-04-16,Pennsylvania D I College Womens CC 2022,1,13,5,600,8,393.49,1270.24,993.49,1270.24,0,0,Carnegie Mellon,8
+58,Temple,Win 11-6,33.24,Counts,0.0668,2023-04-16,Pennsylvania D I College Womens CC 2022,1,11,6,546.69,5,1188.14,1237,1734.8300000000002,1203.76,1734.8300000000002,115.886644,Carnegie Mellon,9
+32,Pennsylvania,Loss 2-15,-32.84,Counts,0.0706,2023-04-16,Pennsylvania D I College Womens CC 2022,0,2,15,-600,-13,1437.83,1303.09,837.8299999999999,1335.9299999999998,837.8299999999999,59.150797999999995,Carnegie Mellon,10
+84,West Chester,Win 10-8,-0.37,Counts,0.0687,2023-04-16,Pennsylvania D I College Womens CC 2022,1,10,8,262.67,2,1002.51,1270.62,1265.18,1270.9899999999998,1265.18,86.917866,Carnegie Mellon,11
+13,Pittsburgh,Loss 8-10,13.75,Counts,0.0687,2023-04-17,Pennsylvania D I College Womens CC 2022,0,8,10,-262.67,-2,1719.32,1256.49,1456.6499999999999,1242.74,1456.6499999999999,100.07185499999999,Carnegie Mellon,12
+48,Penn State,Loss 5-10,-38.05,Counts,0.06269999999999999,2023-04-17,Pennsylvania D I College Womens CC 2022,0,5,10,-573.9,-5,1275.52,1308.29,701.62,1346.34,701.62,43.99157399999999,Carnegie Mellon,13
+58,Temple,Loss 4-5,-10.58,Counts,0.048600000000000004,2023-04-17,Pennsylvania D I College Womens CC 2022,0,4,5,-125,-1,1188.14,1280.82,1063.14,1291.3999999999999,1063.14,51.66860400000001,Carnegie Mellon,14
+32,Pennsylvania,Loss 7-12,-32.34,Counts,0.0839,2023-05-07,Ohio Valley D I College Womens Regionals 2022,0,7,12,-520.51,-5,1437.83,1302.59,917.3199999999999,1334.9299999999998,917.3199999999999,76.963148,Carnegie Mellon,15
+24,Ohio,Win 7-5,40.27,Counts,0.0667,2023-05-07,Ohio Valley D I College Womens Regionals 2022,1,7,5,328.14,2,1505.49,1229.97,1833.63,1189.7,1833.63,122.303121,Carnegie Mellon,16
+48,Penn State,Loss 5-7,-23.08,Counts,0.0667,2023-05-07,Ohio Valley D I College Womens Regionals 2022,0,5,7,-328.14,-2,1275.52,1293.32,947.38,1316.3999999999999,947.38,63.190245999999995,Carnegie Mellon,17
+84,West Chester,Win 13-4,30.45,Counts,0.0839,2023-05-08,Ohio Valley D I College Womens Regionals 2022,1,13,4,600,9,1002.51,1239.8,1602.51,1209.35,1602.51,134.450589,Carnegie Mellon,18
+100,Case Western Reserve,Win 9-7,-7.1,Counts,0.077,2023-05-08,Ohio Valley D I College Womens Regionals 2022,1,9,7,279.34,2,905.86,1277.34,1185.2,1284.4399999999998,1185.2,91.2604,Carnegie Mellon,19

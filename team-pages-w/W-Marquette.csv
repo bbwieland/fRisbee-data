@@ -1,0 +1,24 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+75,Iowa State,Loss 3-5,-12.91,Counts,0.0337,2023-03-05,Midwest Throwdown 2022,0,3,5,-418.57,-2,1055.14,1019.74,636.5700000000002,1032.65,636.5700000000002,21.452409000000007,Marquette,1
+71,Northwestern,Win 7-6,9.19,Counts,0.043,2023-03-05,Midwest Throwdown 2022,1,7,6,125,1,1086.61,997.64,1211.61,988.4499999999999,1211.61,52.09922999999999,Marquette,2
+38,Wisconsin,Loss 0-13,-13.22,Counts,0.0519,2023-03-05,Midwest Throwdown 2022,0,0,13,-600,-13,1365.5,1020.05,765.5,1033.27,765.5,39.72945,Marquette,3
+211,Washington University-B,Win 9-1,0,Ignored,0,2023-03-05,Midwest Throwdown 2022,1,9,1,600,8,104.15,1006.83,704.15,1006.83,0,0,Marquette,4
+71,Northwestern,Win 8-7,9.91,Counts,0.0462,2023-03-06,Midwest Throwdown 2022,1,8,7,125,1,1086.61,996.92,1211.61,987.01,1211.61,55.976381999999994,Marquette,5
+33,Minnesota,Loss 2-12,-9.77,Counts,0.049800000000000004,2023-03-06,Midwest Throwdown 2022,0,2,12,-600,-10,1420.67,1016.6,820.6700000000001,1026.3700000000001,820.6700000000001,40.86936600000001,Marquette,6
+106,Michigan Tech,Win 12-7,19.97,Counts,0.0519,2023-03-06,Midwest Throwdown 2022,1,12,7,520.51,5,850.86,986.86,1371.37,966.89,1371.37,71.174103,Marquette,7
+143,Illinois,Win 7-6,-13.75,Counts,0.051100000000000007,2023-03-26,Illinois Invite,1,7,6,125,1,626.49,1020.58,751.49,1034.33,751.49,38.40113900000001,Marquette,8
+180,Loyola-Chicago,Win 11-5,-1.98,Counts,0.0567,2023-03-26,Illinois Invite,1,11,5,600,6,373.89,1008.81,973.89,1010.79,973.89,55.219563,Marquette,9
+211,Washington University-B,Win 15-3,0,Ignored,0,2023-03-26,Illinois Invite,1,15,3,600,12,104.15,1006.83,704.15,1006.83,0,0,Marquette,10
+143,Illinois,Win 7-6,-13.75,Counts,0.051100000000000007,2023-03-27,Illinois Invite,1,7,6,125,1,626.49,1020.58,751.49,1034.33,751.49,38.40113900000001,Marquette,11
+213,Notre Dame-B,Win 15-1,0,Ignored,0,2023-03-27,Illinois Invite,1,15,1,600,14,81.16,1006.83,681.16,1006.83,0,0,Marquette,12
+155,Knox,Win 13-4,7.96,Counts,0.061799999999999994,2023-03-27,Illinois Invite,1,13,4,600,9,527.72,998.87,1127.72,990.91,1127.72,69.693096,Marquette,13
+200,Wisconsin-B,Win 15-0,0,Ignored,0,2023-04-09,Lake Superior D I College Womens CC 2022,1,15,0,600,15,217.67,1006.83,817.67,1006.83,0,0,Marquette,14
+116,Wisconsin-Eau Claire,Win 14-9,17.72,Counts,0.0693,2023-04-09,Lake Superior D I College Womens CC 2022,1,14,9,473.87,5,770.8,989.11,1244.67,971.39,1244.67,86.25563100000001,Marquette,15
+38,Wisconsin,Loss 3-15,-17.98,Counts,0.0693,2023-04-09,Lake Superior D I College Womens CC 2022,0,3,15,-600,-12,1365.5,1024.81,765.5,1042.79,765.5,53.04915,Marquette,16
+64,Iowa,Loss 3-9,-34.07,Counts,0.0682,2023-04-30,North Central D I College Womens Regionals 2022,0,3,9,-600,-6,1141.3,1040.9,541.3,1074.97,541.3,36.91665999999999,Marquette,17
+3,Carleton College,Loss 1-13,0,Ignored,0,2023-04-30,North Central D I College Womens Regionals 2022,0,1,13,-600,-12,2173.45,1006.83,1573.4499999999998,1006.83,0,0,Marquette,18
+130,Nebraska,Win 10-4,21.4,Counts,0.07200000000000001,2023-04-30,North Central D I College Womens Regionals 2022,1,10,4,600,6,682.47,985.43,1282.47,964.03,1282.47,92.33784000000001,Marquette,19
+161,Wisconsin-Oshkosh,Win 13-5,7.63,Counts,0.0825,2023-04-30,North Central D I College Womens Regionals 2022,1,13,5,600,8,491.76,999.2,1091.76,991.57,1091.76,90.0702,Marquette,20
+3,Carleton College,Loss 0-12,0,Ignored,0,2023-05-01,North Central D I College Womens Regionals 2022,0,0,12,-600,-12,2173.45,1006.83,1573.4499999999998,1006.83,0,0,Marquette,21
+38,Wisconsin,Win 8-7,38.23,Counts,0.0733,2023-05-01,North Central D I College Womens Regionals 2022,1,8,7,125,1,1365.5,968.59,1490.5,930.36,1490.5,109.25365000000001,Marquette,22
+33,Minnesota,Loss 3-9,-13.63,Counts,0.0682,2023-05-01,North Central D I College Womens Regionals 2022,0,3,9,-600,-6,1420.67,1020.45,820.6700000000001,1034.0800000000002,820.6700000000001,55.969694000000004,Marquette,23

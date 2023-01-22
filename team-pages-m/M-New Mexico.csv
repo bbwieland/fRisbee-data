@@ -1,0 +1,5 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+151,Arizona State,Loss 7-12,-15.76,Counts,0.34619999999999995,2023-04-24,Desert D I College Mens CC 2022,0,7,12,-520.51,-5,955.51,480.53,435,496.28999999999996,435,150.59699999999998,New Mexico,1
+55,Grand Canyon,Loss 4-13,0,Ignored,0,2023-04-24,Desert D I College Mens CC 2022,0,4,13,-600,-9,1421.57,464.76,821.5699999999999,464.76,0,0,New Mexico,2
+88,Arizona,Loss 5-10,77.5,Counts,0.30760000000000004,2023-04-24,Desert D I College Mens CC 2022,0,5,10,-573.9,-5,1213.12,387.26,639.2199999999999,309.76,639.2199999999999,196.624072,New Mexico,3
+166,Northern Arizona,Loss 7-13,-66.32,Counts,0.34619999999999995,2023-04-24,Desert D I College Mens CC 2022,0,7,13,-557.53,-6,897.05,531.08,339.52,597.4000000000001,339.52,117.54182399999998,New Mexico,4

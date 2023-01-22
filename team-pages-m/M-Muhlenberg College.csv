@@ -1,0 +1,6 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+360,Rutgers-B,Loss 8-12,-105.31,Counts,0.2686,2023-03-26,Garden State 2022,0,8,12,-441.15,-4,192.65,241.74,-248.49999999999997,347.05,-248.49999999999997,-66.74709999999999,Muhlenberg College,1
+290,Stockton University -Upper,Loss 4-12,0,Ignored,0,2023-03-26,Garden State 2022,0,4,12,-600,-8,378.52,347.05,-221.48000000000002,347.05,0,-0,Muhlenberg College,2
+358,Lehigh-B,Loss 7-8,23.22,Counts,0.23870000000000002,2023-03-26,Garden State 2022,0,7,8,-125,-1,147.99,370.27,22.99000000000001,347.04999999999995,22.99000000000001,5.487713000000003,Muhlenberg College,3
+350,New Jersey Tech,Loss 8-9,70.16,Counts,0.2541,2023-03-26,Garden State 2022,0,8,9,-125,-1,16.08,417.21,-108.92,347.04999999999995,-108.92,-27.676572,Muhlenberg College,4
+360,Rutgers-B,Loss 7-8,9.22,Counts,0.23870000000000002,2023-03-27,Garden State 2022,0,7,8,-125,-1,192.65,356.27,67.65,347.04999999999995,67.65,16.148055000000003,Muhlenberg College,5

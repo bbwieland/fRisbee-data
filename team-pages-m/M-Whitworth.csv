@@ -1,0 +1,4 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+NA,Lewis & Clark,Win 13-11,-20.22,Counts,0.3333,2023-04-16,Northwest D III College Mens CC 2022,1,13,11,228.84,2,114.14,403.64,342.98,423.86,342.98,114.315234,Whitworth,1
+196,Pacific Lutheran,Loss 7-15,-109.53,Counts,0.3333,2023-04-17,Northwest D III College Mens CC 2022,0,7,15,-600,-8,764.37,492.95,164.37,602.48,164.37,54.784521,Whitworth,2
+82,Whitman,Loss 7-15,129.74,Counts,0.3333,2023-04-17,Northwest D III College Mens CC 2022,0,7,15,-600,-8,1242.91,253.68,642.9100000000001,123.94,642.9100000000001,214.28190300000003,Whitworth,3

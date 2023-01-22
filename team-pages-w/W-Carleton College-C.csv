@@ -1,0 +1,10 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+106,Michigan Tech,Loss 3-13,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,3,13,-600,-10,850.86,66.31,250.86,66.31,0,0,Carleton College-C,1
+201,St. Olaf-B,Win 8-8,29.06,Counts,0.16920000000000002,2023-02-26,Forever Winter Tournament,1,8,8,0,0,NA,37.25,NA,8.190000000000001,NA,NA,Carleton College-C,2
+59,St. Olaf,Loss 0-13,0,Ignored,0,2023-02-26,Forever Winter Tournament,0,0,13,-600,-13,NA,66.31,NA,66.31,0,NA,Carleton College-C,3
+145,Macalester,Loss 4-13,-14.46,Counts,0.1844,2023-02-26,Forever Winter Tournament,0,4,13,-600,-9,602.33,80.77,2.330000000000041,95.22999999999999,2.330000000000041,0.4296520000000076,Carleton College-C,4
+106,Michigan Tech,Loss 0-13,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,0,0,13,-600,-13,850.86,66.31,250.86,66.31,0,0,Carleton College-C,5
+201,St. Olaf-B,Loss 3-8,-125.2,Counts,0.21489999999999998,2023-04-16,North Central D III College Womens CC 2022,0,3,8,-600,-5,NA,191.51,NA,316.71,NA,NA,Carleton College-C,6
+141,Grinnell,Loss 3-10,-8.47,Counts,0.2413,2023-04-16,North Central D III College Womens CC 2022,0,3,10,-600,-7,639.67,74.78,39.66999999999996,83.25,39.66999999999996,9.57237099999999,Carleton College-C,7
+23,Carleton College-Eclipse,Loss 0-13,0,Ignored,0,2023-04-16,North Central D III College Womens CC 2022,0,0,13,-600,-13,1519.75,66.31,919.75,66.31,0,0,Carleton College-C,8
+168,St Benedict,Win 5-4,114.07,Counts,0.19010000000000002,2023-04-17,North Central D III College Womens CC 2022,1,5,4,125,1,427.15,47.76,552.15,-66.31,552.15,104.96371500000001,Carleton College-C,9

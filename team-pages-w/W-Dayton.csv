@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+191,Indiana,Win 10-5,23.82,Counts,0.0958,2023-03-05,Huckleberry Flick 2022,1,10,5,573.9,5,297.14,622.51,871.04,598.6899999999999,871.04,83.44563199999999,Dayton,1
+207,Miami (Ohio),Win 9-2,7.77,Counts,0.0892,2023-03-05,Huckleberry Flick 2022,1,9,2,600,7,125.64,638.56,725.64,630.79,725.64,64.727088,Dayton,2
+229,Wooster,Win 8-1,0,Ignored,0,2023-03-05,Huckleberry Flick 2022,1,8,1,600,7,160.5,646.33,760.5,646.33,0,0,Dayton,3
+191,Indiana,Win 9-7,-7.67,Counts,0.099,2023-03-06,Huckleberry Flick 2022,1,9,7,279.34,2,297.14,654,576.48,661.67,576.48,57.07152000000001,Dayton,4
+207,Miami (Ohio),Win 11-1,8.71,Counts,0.099,2023-03-06,Huckleberry Flick 2022,1,11,1,600,10,125.64,637.62,725.64,628.91,725.64,71.83836000000001,Dayton,5
+NA,Cincinnati,Win 8-6,25.78,Counts,0.1387,2023-04-23,Ohio D I College Womens CC 2022,1,8,6,300.49,2,505.9,620.55,806.39,594.77,806.39,111.84629299999999,Dayton,6
+24,Ohio,Loss 2-11,0,Ignored,0,2023-04-23,Ohio D I College Womens CC 2022,0,2,11,-600,-9,1505.49,646.33,905.49,646.33,0,0,Dayton,7
+100,Case Western Reserve,Loss 2-12,-62.5,Counts,0.1551,2023-04-24,Ohio D I College Womens CC 2022,0,2,12,-600,-10,905.86,708.82,305.86,771.32,305.86,47.438886,Dayton,8
+207,Miami (Ohio),Win 13-1,15.29,Counts,0.1616,2023-04-24,Ohio D I College Womens CC 2022,1,13,1,600,12,125.64,631.04,725.64,615.75,725.64,117.26342399999999,Dayton,9
+61,Ohio State,Loss 4-13,-14.03,Counts,0.1616,2023-04-24,Ohio D I College Womens CC 2022,0,4,13,-600,-9,1173.55,660.36,573.55,674.39,573.55,92.68567999999999,Dayton,10

@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+239,Radford,Loss 1-13,0,Ignored,0,2023-03-26,Riddle Rumble,0,1,13,-600,-12,639.15,198.81,39.14999999999998,198.81,0,0,South Florida-B,1
+325,Central Florida-B,Loss 3-8,-58.26,Counts,0.2122,2023-03-26,Riddle Rumble,0,3,8,-600,-5,184.87,140.55,-415.13,198.81,-415.13,-88.090586,South Florida-B,2
+140,Florida Tech,Loss 0-13,0,Ignored,0,2023-03-26,Riddle Rumble,0,0,13,-600,-13,985.58,198.81,385.58000000000004,198.81,0,0,South Florida-B,3
+266,East Carolina,Loss 7-13,54.54,Counts,0.2727,2023-03-26,Riddle Rumble,0,7,13,-557.53,-6,504.16,253.35,-53.36999999999995,198.81,-53.36999999999995,-14.553998999999985,South Florida-B,4
+297,Miami,Loss 3-13,-17.49,Counts,0.2727,2023-03-27,Riddle Rumble,0,3,13,-600,-10,354.54,181.32,-245.45999999999998,198.81,-245.45999999999998,-66.93694199999999,South Florida-B,5
+304,Embry-Riddle,Loss 6-9,25.02,Counts,0.24230000000000002,2023-03-27,Riddle Rumble,0,6,9,-418.57,-3,297.97,223.83,-120.59999999999997,198.81,-120.59999999999997,-29.221379999999993,South Florida-B,6

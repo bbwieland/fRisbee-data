@@ -1,0 +1,11 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+90,Carleton College-CHOP,Loss 0-13,0,Ignored,0,2023-03-19,College Southerns XX,0,0,13,-600,-13,1200.18,481.32,600.1800000000001,481.32,0,0,Wisconsin-Eau Claire-B,1
+117,Appalachian State,Loss 1-13,0,Ignored,0,2023-03-19,College Southerns XX,0,1,13,-600,-12,1083.57,481.32,483.56999999999994,481.32,0,0,Wisconsin-Eau Claire-B,2
+332,Florida-B,Loss 2-13,5.64,Counts,0.30010000000000003,2023-03-19,College Southerns XX,0,2,13,-600,-11,131.83,486.97,-468.16999999999996,481.33000000000004,-468.16999999999996,-140.497817,Wisconsin-Eau Claire-B,3
+299,North Florida,Loss 3-10,0,Ignored,0,2023-03-20,College Southerns XX,0,3,10,-600,-7,328.78,481.32,-271.22,481.32,0,-0,Wisconsin-Eau Claire-B,4
+220,Minnesota-B,Loss 0-13,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,0,13,-600,-13,693.75,481.32,93.75,481.32,0,0,Wisconsin-Eau Claire-B,5
+306,Carleton College-Karls,Loss 4-13,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,4,13,-600,-9,294.57,481.32,-305.43,481.32,0,-0,Wisconsin-Eau Claire-B,6
+264,Wisconsin-B,Loss 2-13,0,Ignored,0,2023-04-23,North Central Dev College Mens CC 2022,0,2,13,-600,-11,524.67,481.32,-75.33000000000004,481.32,0,-0,Wisconsin-Eau Claire-B,7
+376,Wisconsin-Milwaukee-B,Win 9-6,0,Counts,0.35600000000000004,2023-04-23,North Central Dev College Mens CC 2022,1,9,6,418.57,3,899.89,481.32,1318.46,481.32,1318.46,469.37176000000005,Wisconsin-Eau Claire-B,8
+291,Minnesota-C,Loss 3-13,0,Ignored,0,2023-04-24,North Central Dev College Mens CC 2022,0,3,13,-600,-10,377.11,481.32,-222.89,481.32,0,-0,Wisconsin-Eau Claire-B,9
+346,Iowa State-B,Loss 5-9,-6.02,Counts,0.3439,2023-04-24,North Central Dev College Mens CC 2022,0,5,9,-529.06,-4,36.25,475.3,-492.80999999999995,481.32,-492.80999999999995,-169.47735899999998,Wisconsin-Eau Claire-B,10

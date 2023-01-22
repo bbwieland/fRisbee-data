@@ -1,0 +1,7 @@
+OppRk,Opponent,Result,Effect,Status,PctOfRanking,Date,Event,Win,Pts,OppPts,GameScore,PtDiff,OpponentRating,TeamRatingPostgame,GameValue,TeamRatingPregame,GameValueUsed,RatingsImpact,Team,GameNum
+207,Clemson,Loss 6-13,0.21,Counts,0.2631,2023-04-02,Magic City Invite,0,6,13,-600,-7,722.7,121.89,122.70000000000005,121.68,122.70000000000005,32.282370000000014,University of Memphis,1
+218,Samford,Loss 5-13,-9.2,Counts,0.2631,2023-04-02,Magic City Invite,0,5,13,-600,-8,696.34,131.3,96.34000000000003,140.5,96.34000000000003,25.347054000000007,University of Memphis,2
+144,Alabama-Birmingham,Loss 2-13,0,Ignored,0,2023-04-02,Magic City Invite,0,2,13,-600,-11,970.46,122.1,370.46000000000004,122.1,0,0,University of Memphis,3
+202,Spring Hill College,Loss 7-11,54.3,Counts,0.2561,2023-04-03,Magic City Invite,0,7,11,-466.89,-4,746.71,67.81,279.82000000000005,13.510000000000005,279.82000000000005,71.66190200000001,University of Memphis,4
+257,Alabama-B,Loss 3-9,-43.16,Counts,0.21760000000000002,2023-04-03,Magic City Invite,0,3,9,-600,-6,566.95,165.27,-33.049999999999955,208.43,-33.049999999999955,-7.191679999999991,University of Memphis,5
+83,Union (Tennessee),Loss 3-13,0,Ignored,0,2023-04-03,Magic City Invite,0,3,13,-600,-10,1241.67,122.1,641.6700000000001,122.1,0,0,University of Memphis,6
