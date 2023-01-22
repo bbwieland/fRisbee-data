@@ -1,0 +1,404 @@
+Rank,RegionRank,Team,Record,WinPct,Rating,Region,Conference,Division,SoS,PDC
+1,NE 1,Brown,38-2,0.95,2209.79,New England,Greater New England DI,D-I,1825.83,383.96
+2,AC 1,North Carolina,43-3,0.9347826086956522,2179.26,Atlantic Coast,Carolina DI,D-I,1754.07,425.19
+3,SC 1,Colorado,30-2,0.9375,2144.95,South Central,Rocky Mountain DI,D-I,1762.65,382.3
+4,NW 1,Brigham Young,22-1,0.9565217391304348,2039.12,Northwest,Big Sky DI,D-I,1557.26,481.86
+5,OV 1,Pittsburgh,25-9,0.7352941176470589,1999.22,Ohio Valley,West Penn DI,D-I,1788.3,210.93
+6,SW 1,Cal Poly-SLO,31-7,0.8157894736842105,1985.66,Southwest,SoCal DI,D-I,1703.02,282.64
+7,NE 2,Massachusetts,21-4,0.84,1936.21,New England,Greater New England DI,D-I,1722.18,214.03
+8,SE 1,Georgia,25-10,0.7142857142857143,1930.07,Southeast,Southern Appalachian DI,D-I,1733.74,196.33
+9,NE 3,Vermont,25-10,0.7142857142857143,1901.02,New England,Greater New England DI,D-I,1785.04,115.98
+10,SW 2,California,33-12,0.7333333333333333,1849.7,Southwest,NorCal DI,D-I,1680.78,168.92
+11,NW 2,Washington,19-4,0.8260869565217391,1847.95,Northwest,Cascadia DI,D-I,1634.79,213.16
+12,NE 4,Northeastern,25-8,0.7575757575757576,1839.64,New England,Metro Boston DI,D-I,1648.75,190.89
+13,NC 1,Minnesota,22-12,0.6470588235294118,1834.48,North Central,Northwoods DI,D-I,1783,51.48
+14,AC 2,North Carolina State,27-17,0.6136363636363636,1827.64,Atlantic Coast,Carolina DI,D-I,1691.28,136.35
+15,NW 3,Utah State,15-3,0.8333333333333334,1823.82,Northwest,Big Sky DI,D-I,1602.97,220.85
+16,GL 1,Michigan,21-9,0.7,1807.83,Great Lakes,Michigan DI,D-I,1667.52,140.31
+17,SC 2,Texas,22-13,0.6285714285714286,1769.66,South Central,South Texas DI,D-I,1706.75,62.91
+18,NE 5,Tufts,17-7,0.7083333333333334,1715.78,New England,Metro Boston DI,D-I,1643.17,72.61
+19,NW 4,Oregon,17-10,0.6296296296296297,1709,Northwest,Cascadia DI,D-I,1521.73,187.28
+20,NA,McGill,11-8,0.5789473684210527,1686.18,New England,,D-I,1611.47,74.71
+21,NA,Wisconsin,11-8,0.5789473684210527,1679.64,North Central,Lake Superior DI,D-I,1631.13,48.51
+22,NA,Carleton College,13-14,0.48148148148148145,1672.93,North Central,,D-I,1720.32,-47.39
+23,NA,Duke,13-9,0.5909090909090909,1670.4,Atlantic Coast,Carolina DI,D-I,1620.78,49.61
+24,NA,Ohio State,19-17,0.5277777777777778,1662.49,Ohio Valley,Ohio DI,D-I,1714.23,-51.74
+25,NA,Maryland,20-11,0.6451612903225806,1657.91,Atlantic Coast,Colonial DI,D-I,1642.52,15.39
+26,NA,Auburn,24-12,0.6666666666666666,1617.76,Southeast,Gulf Coast DI,D-I,1506.66,111.1
+27,NA,William & Mary,24-13,0.6486486486486487,1615.6,Atlantic Coast,Virginia DI,D-I,1520.98,94.62
+28,NA,British Columbia,6-4,0.6,1612.3,Northwest,Cascadia DI,D-I,1640.01,-27.71
+29,NA,UCLA,20-15,0.5714285714285714,1597.35,Southwest,SoCal DI,D-I,1540.17,57.19
+30,NA,North Carolina-Wilmington,15-16,0.4838709677419355,1594.83,Atlantic Coast,Carolina DI,D-I,1630.08,-35.25
+31,NA,Oklahoma Christian,19-4,0.8260869565217391,1591.76,South Central,,D-III,1269.01,322.74
+32,NA,Washington University,26-10,0.7222222222222222,1590.18,South Central,,D-I,1440.76,149.42
+33,NA,Purdue,17-4,0.8095238095238095,1588.79,Great Lakes,East Plains DI,D-I,1375.39,213.4
+34,NA,St. Olaf,19-1,0.95,1535.28,North Central,,D-III,1134.2,401.08
+35,NA,Middlebury,23-2,0.92,1530.51,New England,North New England DIII,D-III,1120.92,409.6
+36,NA,California-Santa Cruz,27-12,0.6923076923076923,1524.13,Southwest,NorCal DI,D-I,1361.1,163.02
+37,NA,Virginia,21-11,0.65625,1514.83,Atlantic Coast,Virginia DI,D-I,1408.32,106.51
+38,NA,Oregon State,6-5,0.5454545454545454,1513.79,Northwest,Cascadia DI,D-I,1486.06,27.74
+39,NA,Western Washington,16-8,0.6666666666666666,1510.39,Northwest,Northwest DI,D-I,1476.92,33.47
+40,NA,Colorado State,11-18,0.3793103448275862,1509.55,South Central,Rocky Mountain DI,D-I,1605.35,-95.79
+41,NA,North Carolina-Charlotte,16-15,0.5161290322580645,1508.52,Atlantic Coast,Carolina DI,D-I,1537.8,-29.28
+42,NA,South Carolina,10-11,0.47619047619047616,1494.37,Atlantic Coast,Carolina DI,D-I,1589.01,-94.64
+43,NA,Victoria,4-5,0.4444444444444444,1494.23,Northwest,Cascadia DI,D-I,1516.73,-22.5
+44,NA,Georgia Tech,14-10,0.5833333333333334,1489.18,Southeast,Southern Appalachian DI,D-I,1447.44,41.74
+45,NA,Utah,16-13,0.5517241379310345,1486.48,Northwest,Big Sky DI,D-I,1494.51,-8.03
+46,NA,Cincinnati,22-11,0.6666666666666666,1482.34,Ohio Valley,Ohio DI,D-I,1396.64,85.7
+47,NA,Florida,18-12,0.6,1476.89,Southeast,Florida DI,D-I,1388.94,87.95
+48,NA,Case Western Reserve,13-8,0.6190476190476191,1464.33,Ohio Valley,Ohio DI,D-I,1415.47,48.86
+49,NA,Illinois,11-11,0.5,1456.25,Great Lakes,Illinois DI,D-I,1480.56,-24.3
+50,NA,Berry,22-3,0.88,1449.81,Southeast,Eastern Southeast DIII,D-III,1081.16,368.65
+51,NA,Penn State,16-9,0.64,1449.51,Ohio Valley,West Penn DI,D-I,1395.49,54.02
+52,NA,Indiana,12-17,0.41379310344827586,1441.23,Great Lakes,East Plains DI,D-I,1515.62,-74.39
+53,NA,Tulane,17-8,0.68,1440.12,Southeast,Gulf Coast DI,D-I,1322.81,117.31
+54,NA,Missouri S&T,15-8,0.6521739130434783,1426.73,South Central,Ozarks DIII,D-III,1241.91,184.82
+55,NA,Grand Canyon,10-6,0.625,1421.57,Southwest,Desert DI,D-I,1317.24,104.33
+56,NA,Dartmouth,6-6,0.5,1419.57,New England,North New England DIII,D-I,1469.87,-50.31
+57,NA,Alabama,15-10,0.6,1414,Southeast,Gulf Coast DI,D-I,1286,128
+58,NA,Stanford,13-14,0.48148148148148145,1412.07,Southwest,NorCal DI,D-I,1429.34,-17.26
+59,NA,Georgetown,19-11,0.6333333333333333,1403.18,Atlantic Coast,Colonial DI,D-I,1329.96,73.22
+60,NA,Notre Dame,14-10,0.5833333333333334,1398.11,Great Lakes,East Plains DI,D-I,1381.15,16.97
+61,NA,California-San Diego,10-10,0.5,1396.69,Southwest,SoCal DI,D-I,1335.55,61.14
+62,NA,Carnegie Mellon,13-14,0.48148148148148145,1384.97,Ohio Valley,West Penn DI,D-I,1364.89,20.08
+63,NA,California-Santa Barbara,17-25,0.40476190476190477,1375.9,Southwest,SoCal DI,D-I,1423.8,-47.91
+64,NA,Northwestern,23-12,0.6571428571428571,1368.8,Great Lakes,Illinois DI,D-I,1266.2,102.59
+65,NA,Temple,7-11,0.3888888888888889,1359.72,Ohio Valley,East Penn DI,D-I,1431.9,-72.18
+66,NA,Texas-Dallas,10-7,0.5882352941176471,1344.32,South Central,North Texas DI,D-I,1320.61,23.7
+67,NA,James Madison,13-11,0.5416666666666666,1340.98,Atlantic Coast,Virginia DI,D-I,1283.54,57.45
+68,NA,Colorado College,20-7,0.7407407407407407,1340.93,South Central,Rocky Mountain DIII,D-III,1138.99,201.94
+69,NA,Virginia Tech,11-20,0.3548387096774194,1329.97,Atlantic Coast,Virginia DI,D-I,1409.1,-79.13
+70,NA,Chicago,23-15,0.6052631578947368,1327.52,Great Lakes,Illinois DI,D-I,1271.48,56.04
+NA,NA,Brigham Young-B,2-1,0.6666666666666666,1305.48,Northwest,Big Sky DI,Dev,1143.68,161.8
+71,NA,Southern California,13-13,0.5,1291.65,Southwest,SoCal DI,D-I,1245.35,46.3
+72,NA,Texas A&M,12-13,0.48,1289.26,South Central,South Texas DI,D-I,1246.27,42.99
+73,NA,Delaware,13-5,0.7222222222222222,1283.29,Atlantic Coast,Colonial DI,D-I,1213.85,69.44
+74,NA,Navy,20-8,0.7142857142857143,1277.32,Atlantic Coast,Northern Atlantic Coast DIII,D-III,1030.78,246.53
+75,NA,Boston College,8-10,0.4444444444444444,1276.09,New England,Metro Boston DI,D-I,1274.66,1.43
+76,ME 1,Columbia,21-3,0.875,1264.23,Metro East,Metro NY DI,D-I,947.35,316.89
+77,NA,Arkansas,8-9,0.47058823529411764,1257.75,South Central,Ozarks DI,D-I,1289.11,-31.36
+78,NA,Missouri,17-15,0.53125,1253.01,South Central,Ozarks DI,D-I,1210.36,42.65
+79,NA,Charleston,13-5,0.7222222222222222,1252.6,Atlantic Coast,Carolina DI,D-I,1087.31,165.29
+80,NA,Wisconsin-Platteville,11-0,1,1249.81,North Central,Lake Superior DIII,D-III,777.22,472.59
+81,NA,Santa Clara,14-15,0.4827586206896552,1243.95,Southwest,NorCal DI,D-I,1298.78,-54.83
+82,NA,Whitman,6-8,0.42857142857142855,1242.91,Northwest,Northwest DIII,D-I,1310.01,-67.1
+83,NA,Union (Tennessee),10-2,0.8333333333333334,1241.67,Southeast,Western Southeast DIII,D-III,968.65,273.03
+84,NA,Iowa,17-13,0.5666666666666667,1238.75,North Central,West Plains DI,D-I,1154.43,84.32
+85,NA,Cornell,16-15,0.5161290322580645,1232.33,Metro East,Western NY DI,D-I,1202.76,29.58
+86,NA,Maine,11-6,0.6470588235294118,1230.11,,,?,1052.09,178.02
+87,NA,Richmond,20-6,0.7692307692307693,1221.1,Atlantic Coast,Northern Atlantic Coast DIII,D-III,1026.17,194.93
+88,NA,Arizona,8-8,0.5,1213.12,Southwest,Desert DI,D-I,1163.14,49.97
+89,NA,Central Florida,17-14,0.5483870967741935,1207.83,Southeast,Florida DI,D-I,1177.41,30.42
+90,NA,Carleton College-CHOP,13-7,0.65,1200.18,North Central,,D-III,1082.45,117.73
+91,NA,Kentucky,9-11,0.45,1197.89,Great Lakes,East Plains DI,D-I,1229.21,-31.32
+92,NA,Alabama-Huntsville,9-8,0.5294117647058824,1196.4,Southeast,Gulf Coast DI,D-I,1243.58,-47.18
+93,NA,Harvard,9-19,0.32142857142857145,1191.89,New England,Metro Boston DI,D-I,1238.07,-46.18
+94,NA,Princeton,13-5,0.7222222222222222,1189.13,Metro East,Metro NY DI,D-I,1015.96,173.17
+95,NA,Iowa State,17-14,0.5483870967741935,1183.14,North Central,West Plains DI,D-I,1160.08,23.06
+96,NA,RIT,17-6,0.7391304347826086,1175.71,Metro East,Western NY DI,D-I,936.41,239.3
+97,NA,Marquette,14-9,0.6086956521739131,1170.37,North Central,Lake Superior DI,D-I,968.01,202.36
+98,NA,Pennsylvania,12-9,0.5714285714285714,1165.17,Ohio Valley,East Penn DI,D-I,1079.94,85.23
+99,NA,Oberlin,15-6,0.7142857142857143,1159.9,Ohio Valley,Ohio DIII,D-III,1029.62,130.28
+100,NA,Lehigh,13-9,0.5909090909090909,1154.27,Ohio Valley,East Penn DI,D-I,1067.74,86.53
+101,NA,Dayton,3-3,0.5,1150.68,Ohio Valley,Ohio DI,D-I,1259.73,-109.05
+102,NA,Emory,12-6,0.6666666666666666,1150.1,Southeast,Southern Appalachian DI,D-I,1110.97,39.12
+103,NA,John Brown,8-8,0.5,1148.73,South Central,Ozarks DIII,D-III,1299.13,-150.4
+104,NA,Brown-B,7-0,1,1144.17,New England,Greater New England Dev,Dev,726.44,417.74
+105,NA,Rutgers,7-5,0.5833333333333334,1142.11,Metro East,Metro NY DI,D-I,974.67,167.44
+106,NA,LSU,14-18,0.4375,1141.7,Southeast,Gulf Coast DI,D-I,1213.36,-71.66
+107,NA,Washington-B,1-4,0.2,1135.5,Northwest,Cascadia DI,D-I,1460.45,-324.94
+108,NA,Michigan State,9-8,0.5294117647058824,1129.58,Great Lakes,Michigan DI,D-I,1131.07,-1.49
+109,NA,Vanderbilt,11-11,0.5,1121.15,Southeast,Gulf Coast DI,D-I,1132.25,-11.09
+110,NA,Christopher Newport,19-10,0.6551724137931034,1114.15,Atlantic Coast,Northern Atlantic Coast DIII,D-III,943.88,170.26
+111,NA,Georgia State,11-14,0.44,1110.77,Southeast,Southern Appalachian DI,D-I,1131.39,-20.63
+112,NA,Cal State-Long Beach,5-5,0.5,1109.09,Southwest,SoCal DI,D-I,1079.46,29.63
+113,NA,California-Davis,10-12,0.45454545454545453,1106.24,Southwest,NorCal DI,D-I,1190.09,-83.85
+114,NA,Florida State,11-16,0.4074074074074074,1097.48,Southeast,Florida DI,D-I,1244.52,-147.04
+115,NA,Miami (Ohio),11-4,0.7333333333333333,1092.5,Ohio Valley,Ohio DI,D-I,1059.83,32.67
+116,NA,Butler,12-2,0.8571428571428571,1085.54,,,?,818.44,267.09
+117,NA,Appalachian State,14-19,0.42424242424242425,1083.57,Atlantic Coast,Carolina DI,D-I,1138.42,-54.85
+118,NA,Virginia Commonwealth,11-13,0.4583333333333333,1082.14,Atlantic Coast,Virginia DI,D-I,1147.74,-65.6
+119,NA,Connecticut,21-17,0.5526315789473685,1080.53,Metro East,Hudson Valley DI,D-I,1008.49,72.04
+120,NA,Grand Valley State,9-10,0.47368421052631576,1080.22,Great Lakes,Michigan DI,D-I,1176.97,-96.75
+121,NA,Tennessee-Chattanooga,7-10,0.4117647058823529,1080.21,Southeast,Southern Appalachian DI,D-I,1135.44,-55.23
+122,NA,Denver,10-11,0.47619047619047616,1075.81,South Central,Rocky Mountain DI,D-I,1064.75,11.06
+123,NA,Williams,20-14,0.5882352941176471,1073.97,New England,South New England DIII,D-III,991.05,82.92
+124,NA,Texas State,7-9,0.4375,1072.93,South Central,South Texas DI,D-I,1137.38,-64.45
+125,NA,Yale,16-4,0.8,1070.13,Metro East,Hudson Valley DI,D-I,807.29,262.84
+126,NA,Claremont,5-3,0.625,1069.19,Southwest,Southwest DIII,D-III,1008.01,61.18
+127,NA,South Carolina-B,18-0,1,1057.1,Atlantic Coast,,?,542.13,514.97
+128,NA,Scranton,15-4,0.7894736842105263,1053.29,,,?,922.34,130.95
+129,NA,Boston University,9-9,0.5,1050.21,New England,Metro Boston DI,D-I,1130.12,-79.91
+130,NA,Saint Louis,7-4,0.6363636363636364,1044.85,,,?,956.45,88.4
+131,NA,Sul Ross State,10-2,0.8333333333333334,1027.4,South Central,Texas DIII,D-III,824.98,202.42
+132,NA,Ithaca,24-7,0.7741935483870968,1023.44,Metro East,Western NY DIII,D-III,884.28,139.16
+133,NA,Wisconsin-Milwaukee,11-16,0.4074074074074074,1023.38,North Central,Lake Superior DI,D-I,1102.68,-79.3
+134,NA,Tennessee,7-12,0.3684210526315789,1017.86,Southeast,Southern Appalachian DI,D-I,1028.7,-10.83
+135,NA,Colorado-B,12-9,0.5714285714285714,1015.4,South Central,Rocky Mountain DI,D-I,979.39,36.01
+136,NA,American,7-11,0.3888888888888889,1012.78,Atlantic Coast,Colonial DI,D-I,1127.66,-114.88
+137,NA,Michigan-B,13-4,0.7647058823529411,986.06,Great Lakes,Great Lakes Dev,Dev,750.82,235.24
+138,NA,Bowdoin,13-6,0.6842105263157895,986.01,New England,North New England DIII,D-III,825.67,160.34
+139,NA,Towson,6-9,0.4,985.92,Atlantic Coast,Colonial DI,D-I,1157.86,-171.94
+140,NA,Florida Tech,8-3,0.7272727272727273,985.58,Southeast,Eastern Southeast DIII,D-III,1008.64,-23.06
+141,NA,Wheaton (Illinois),7-2,0.7777777777777778,985.02,Great Lakes,Illinois DIII,D-III,735.67,249.35
+142,NA,Nebraska,12-12,0.5,979.53,North Central,West Plains DI,D-I,919.66,59.87
+143,NA,Texas-San Antonio,5-1,0.8333333333333334,973.08,South Central,South Texas DI,D-I,690.04,283.04
+144,NA,Alabama-Birmingham,6-6,0.5,970.46,Southeast,Gulf Coast DI,D-I,1001.29,-30.82
+145,NA,SUNY-Buffalo,8-7,0.5333333333333333,968.61,Metro East,Western NY DI,D-I,1001.98,-33.36
+146,NA,Brandeis,15-6,0.7142857142857143,961.68,New England,Metro Boston DIII,D-III,892.79,68.89
+147,NA,Grace,15-8,0.6521739130434783,961.54,,,?,935.76,25.78
+148,NA,Bates College,10-8,0.5555555555555556,958.83,New England,North New England DIII,D-III,882.86,75.97
+149,NA,SUNY-Binghamton,17-13,0.5666666666666667,957.14,Metro East,Western NY DI,D-I,911.75,45.4
+150,NA,Portland State,1-5,0.16666666666666666,956.75,Northwest,Cascadia DI,D-I,1217.04,-260.29
+151,NA,Arizona State,4-12,0.25,955.51,Southwest,Desert DI,D-I,1146.37,-190.86
+152,NA,Jacksonville State,3-8,0.2727272727272727,954.29,Southeast,Gulf Coast DI,D-I,1143.12,-188.83
+153,NA,Johns Hopkins,6-6,0.5,953.29,Atlantic Coast,Colonial DI,D-I,1042.9,-89.61
+154,NA,NYU,18-11,0.6206896551724138,950.57,Metro East,Metro NY DI,D-I,958.04,-7.47
+155,NA,Grinnell,19-11,0.6333333333333333,949.42,,,?,967.33,-17.91
+156,NA,Rhode Island,7-10,0.4117647058823529,934.93,New England,Greater New England DI,D-I,980.04,-45.11
+157,NA,Liberty,10-16,0.38461538461538464,929.3,Atlantic Coast,Virginia DI,D-I,1033.49,-104.19
+158,NA,South Florida,5-17,0.22727272727272727,917.32,Southeast,Florida DI,D-I,1120.3,-202.98
+159,NA,Boise State,4-4,0.5,914.58,Northwest,Big Sky DI,D-I,801.84,112.74
+160,NA,Carthage,10-6,0.625,913.35,,,?,831.27,82.08
+161,NA,Mississippi State,11-14,0.44,903.76,Southeast,Gulf Coast DI,D-I,977.13,-73.37
+162,NA,Massachusetts-Lowell,11-9,0.55,901.86,New England,Metro Boston DI,D-I,760.21,141.65
+163,NA,Michigan Tech,9-7,0.5625,899.82,North Central,Lake Superior DIII,D-III,846.25,53.57
+164,NA,Truman State,11-13,0.4583333333333333,898.32,South Central,Ozarks DIII,D-III,1054.93,-156.61
+165,NA,MIT,6-11,0.35294117647058826,898.08,New England,Metro Boston DI,D-I,1081.51,-183.43
+166,NA,Northern Arizona,3-7,0.3,897.05,Southwest,Desert DI,D-I,1092.23,-195.18
+167,NA,Loyola Marymount,6-7,0.46153846153846156,896.64,,,?,952.49,-55.85
+168,NA,Kennesaw State,7-12,0.3684210526315789,890.93,Southeast,Southern Appalachian DI,D-I,924.76,-33.83
+169,NA,Kansas,14-15,0.4827586206896552,889.88,South Central,Ozarks DI,D-I,842.15,47.73
+170,NA,Ohio,8-7,0.5333333333333333,879.22,Ohio Valley,Ohio DI,D-I,859.99,19.23
+171,NA,Georgia-B,4-1,0.8,876.43,Southeast,Southeast Dev,Dev,589.38,287.05
+172,NA,Wisconsin-Whitewater,6-15,0.2857142857142857,876.37,North Central,Lake Superior DI,D-I,986.61,-110.24
+173,NA,Colorado School of Mines,6-9,0.4,856.94,South Central,Rocky Mountain DIII,D-III,859.75,-2.82
+174,NA,Rochester,15-9,0.625,849.91,Metro East,Western NY DIII,D-III,793.31,56.6
+175,NA,SUNY Cortland,24-9,0.7272727272727273,849.35,,,?,679.14,170.21
+176,NA,"California State University, Chico",7-11,0.3888888888888889,844.82,,,?,981.45,-136.64
+177,NA,Washington State,8-9,0.47058823529411764,842.1,Northwest,Big Sky DI,D-I,701.61,140.49
+178,NA,Montana State,4-11,0.26666666666666666,838.48,Northwest,Big Sky DI,D-I,1074.27,-235.8
+179,NA,West Virginia,11-18,0.3793103448275862,828.6,,,?,957.89,-129.29
+180,NA,Connecticut College,14-10,0.5833333333333334,828.33,,,?,766.52,61.81
+181,NA,Davidson,8-10,0.4444444444444444,826.39,Atlantic Coast,Carolina DIII,D-III,912.44,-86.05
+182,NA,Kalamazoo,5-5,0.5,818.37,,,?,700.37,118
+183,NA,Wesleyan,16-8,0.6666666666666666,815.88,,,?,676.41,139.46
+184,NA,Massachusetts-C,11-4,0.7333333333333333,812.41,New England,Greater New England Dev,Dev,675.39,137.02
+185,NA,Northeastern-B,3-8,0.2727272727272727,810.14,New England,,?,942.31,-132.18
+186,NA,Occidental,4-3,0.5714285714285714,809.64,Southwest,Southwest DIII,D-III,696.78,112.85
+187,NA,Bryant,15-11,0.5769230769230769,802.93,,,?,792.02,10.91
+188,NA,Mary Washington,9-11,0.45,798.38,Atlantic Coast,Northern Atlantic Coast DIII,D-III,984.37,-185.99
+189,NA,Wisconsin-Eau Claire,11-11,0.5,798.26,North Central,Lake Superior DI,D-I,811.55,-13.29
+190,NA,Illinois State,10-19,0.3448275862068966,796.31,Great Lakes,Illinois DI,D-I,995.95,-199.64
+191,NA,Wake Forest,3-9,0.25,791.08,Atlantic Coast,Carolina DI,D-I,1043.06,-251.99
+192,NA,Rowan,12-9,0.5714285714285714,788.03,Metro East,Metro NY DI,D-I,750.29,37.74
+193,NA,Vermont-C,10-7,0.5882352941176471,786.67,New England,,?,769.4,17.27
+194,NA,Western Michigan,4-12,0.25,777.6,Great Lakes,Michigan DI,D-I,964.29,-186.69
+195,NA,Georgia College,7-10,0.4117647058823529,775.91,Southeast,Eastern Southeast DIII,D-III,792.93,-17.02
+196,NA,Pacific Lutheran,5-6,0.45454545454545453,764.37,Northwest,Northwest DIII,D-III,799.58,-35.22
+197,NA,Rice,7-6,0.5384615384615384,764.1,South Central,Texas DIII,D-III,708.79,55.3
+198,NA,George Washington,5-11,0.3125,762.77,Atlantic Coast,Colonial DI,D-I,920.81,-158.05
+199,NA,Air Force,3-10,0.23076923076923078,762.71,South Central,Rocky Mountain DIII,D-III,970.34,-207.63
+200,NA,ETSU,4-2,0.6666666666666666,751.08,,,?,678.59,72.49
+201,NA,Baylor,4-5,0.4444444444444444,747.54,South Central,North Texas DI,D-I,806.42,-58.88
+202,NA,Spring Hill College,6-7,0.46153846153846156,746.71,,,?,747.9,-1.2
+203,NA,Valparaiso,4-7,0.36363636363636365,728.01,Great Lakes,East Plains DIII,D-III,883.8,-155.79
+204,NA,Georgia Tech-B,8-8,0.5,726.99,Southeast,Southeast Dev,Dev,623.76,103.23
+205,NA,Sam Houston State,6-6,0.5,726.13,South Central,South Texas DI,D-I,713.23,12.9
+206,NA,Kenyon,6-11,0.35294117647058826,725.52,Ohio Valley,Ohio DIII,D-III,830.19,-104.67
+207,NA,Clemson,5-17,0.22727272727272727,722.7,Atlantic Coast,Carolina DI,D-I,978.95,-256.25
+208,NA,Nevada-Reno,8-15,0.34782608695652173,722.46,Southwest,NorCal DI,D-I,749.34,-26.88
+209,NA,SUNY-Stony Brook,8-11,0.42105263157894735,715.85,Metro East,Metro NY DI,D-I,860.28,-144.43
+210,NA,Vassar,3-2,0.6,715.56,,,?,418.24,297.32
+211,NA,Franciscan,4-4,0.5,713.07,Ohio Valley,Ohio DIII,D-III,745.06,-31.99
+212,NA,Oregon State-B,2-7,0.2222222222222222,708.48,Northwest,Cascadia DI,Dev,811.82,-103.35
+213,NA,Luther,9-12,0.42857142857142855,706.18,North Central,West Plains DIII,D-III,742.95,-36.77
+214,NA,Wooster,12-13,0.48,702.25,Ohio Valley,,D-III,688.32,13.93
+215,NA,North Carolina-B,5-10,0.3333333333333333,702.02,Atlantic Coast,Southern Atlantic Coast Dev,Dev,953.37,-251.35
+216,NA,DePaul,5-13,0.2777777777777778,701.9,Great Lakes,Illinois DI,D-I,849.29,-147.39
+217,NA,SUNY-Geneseo,14-9,0.6086956521739131,699.49,Metro East,Western NY DIII,D-III,651.14,48.36
+218,NA,Samford,5-7,0.4166666666666667,696.34,Southeast,Western Southeast DIII,D-III,778.48,-82.14
+219,NA,Swarthmore,12-9,0.5714285714285714,694.16,Ohio Valley,East Penn DIII,D-III,660.53,33.63
+220,NA,Minnesota-B,12-6,0.6666666666666666,693.75,North Central,Northwoods DI,Dev,601.54,92.21
+221,NA,Loyola-Chicago,8-9,0.47058823529411764,691.51,Great Lakes,Illinois DI,D-I,714.2,-22.69
+222,NA,Florida Gulf Coast,3-5,0.375,690.23,Southeast,Florida DI,D-I,910.85,-220.62
+223,NA,Montana,6-5,0.5454545454545454,688.49,Northwest,Big Sky DI,D-I,645.44,43.05
+224,NA,Army,9-5,0.6428571428571429,685.65,Metro East,Hudson Valley DIII,D-III,655.86,29.79
+225,NA,Wisconsin- La Crosse,4-9,0.3076923076923077,682.12,North Central,Lake Superior DI,D-I,895.1,-212.98
+226,NA,San Diego State,1-13,0.07142857142857142,680.1,Southwest,SoCal DI,D-I,1053.57,-373.47
+227,NA,Macalester College,9-10,0.47368421052631576,679.73,,,?,740.76,-61.03
+228,NA,Maryland-B,9-3,0.75,676.95,Atlantic Coast,Colonial Dev,Dev,446.51,230.45
+NA,NA,Wichita State University,0-3,0,673.25,,,?,1186.47,-513.22
+229,NA,West Chester,6-12,0.3333333333333333,671.94,Ohio Valley,East Penn DI,D-I,826.18,-154.24
+230,NA,North Park,10-4,0.7142857142857143,666.39,Great Lakes,Illinois DIII,D-III,457.24,209.15
+231,NA,Messiah,10-10,0.5,664.18,Ohio Valley,West Penn DIII,D-III,642.64,21.54
+232,NA,Oklahoma,2-10,0.16666666666666666,660.44,South Central,Ozarks DI,D-I,948.06,-287.62
+233,NA,Navy-B,10-4,0.7142857142857143,656.78,Atlantic Coast,,?,499.86,156.92
+234,NA,Amherst,9-8,0.5294117647058824,655.72,,,?,769.92,-114.2
+235,NA,Vermont-B,8-10,0.4444444444444444,653.78,New England,Greater New England Dev,Dev,705.3,-51.52
+236,NA,Shippensburg,9-13,0.4090909090909091,652.75,Ohio Valley,West Penn DIII,D-III,694.72,-41.97
+237,NA,Grove City,8-6,0.5714285714285714,647.85,Ohio Valley,,D-III,680.13,-32.28
+238,NA,George Mason,2-11,0.15384615384615385,645.39,Atlantic Coast,Virginia DI,D-I,980.35,-334.96
+239,NA,Radford,7-10,0.4117647058823529,639.15,,,?,663.69,-24.54
+240,NA,Dartmouth-B,6-5,0.5454545454545454,634.41,New England,Greater New England Dev,Dev,691.79,-57.37
+241,NA,Cal Poly-SLO-B,10-3,0.7692307692307693,632.84,Southwest,Southwest Dev,D-I,396.67,236.17
+NA,NA,Harding,1-1,0.5,629.49,,,?,815.07,-185.58
+242,NA,Drexel,3-15,0.16666666666666666,625.81,Ohio Valley,East Penn DI,D-I,903.81,-278
+243,NA,Elon,5-10,0.3333333333333333,624.96,Atlantic Coast,Carolina DIII,D-III,863.08,-238.12
+244,NA,California-Irvine,6-6,0.5,622.19,Southwest,SoCal DI,D-I,797.91,-175.71
+245,NA,IUPUI,2-6,0.25,619.21,,,?,770.99,-151.78
+246,NA,Syracuse,5-11,0.3125,613.87,Metro East,Western NY DI,D-I,738.32,-124.46
+247,NA,SUNY-Albany,12-13,0.48,612.9,Metro East,Hudson Valley DI,D-I,732.97,-120.07
+248,NA,Worcester Polytechnic Institute,13-12,0.52,611.08,,,?,661.4,-50.32
+249,NA,St John's,12-11,0.5217391304347826,610.8,,,?,671.63,-60.84
+250,NA,Texas-B,6-7,0.46153846153846156,609.58,South Central,Texas DI,D-I,679.55,-69.97
+251,NA,Wright State,4-7,0.36363636363636365,606.03,Ohio Valley,Ohio DI,D-I,735.2,-129.17
+252,NA,New Hampshire,0-9,0,602.58,New England,Greater New England Dev,D-I,957.74,-355.16
+253,NA,St. Thomas,2-8,0.2,596.7,North Central,Northwoods DIII,D-III,739.66,-142.96
+254,NA,Central Connecticut State,1-5,0.16666666666666666,594.24,,,?,1005.02,-410.78
+255,NA,Creighton,3-9,0.25,584.65,,,?,833.67,-249.01
+256,NA,Penn State-B,16-14,0.5333333333333333,583.9,Ohio Valley,Ohio Valley Dev,Dev,482.96,100.94
+257,NA,Alabama-B,3-8,0.2727272727272727,566.95,Southeast,Southeast Dev,Dev,721.39,-154.44
+258,NA,California-B,6-6,0.5,542.24,Southwest,Southwest Dev,Dev,476.78,65.46
+259,NA,Minnesota-Duluth,6-10,0.375,538.52,North Central,Northwoods DI,D-I,617.05,-78.53
+260,NA,Colorado Mesa,2-7,0.2222222222222222,535.51,South Central,Rocky Mountain DI,D-I,848.68,-313.17
+261,NA,Texas-Arlington,3-3,0.5,533.74,South Central,North Texas DI,D-I,544.82,-11.08
+262,NA,Pittsburgh-B,7-7,0.5,532.82,Ohio Valley,,?,485.29,47.52
+263,NA,Northern Iowa,5-7,0.4166666666666667,530.43,North Central,West Plains DI,D-I,652.58,-122.15
+264,NA,Wisconsin-B,9-12,0.42857142857142855,524.67,North Central,North Central Dev,Dev,615.29,-90.62
+NA,NA,Ball State,0-4,0,511.99,Great Lakes,East Plains DI,D-I,1013.93,-501.93
+NA,NA,Dallas,2-2,0.5,511.53,South Central,Texas DIII,D-III,534.14,-22.61
+265,NA,Cal Poly Humboldt,3-9,0.25,508.74,,,?,782.37,-273.63
+266,NA,East Carolina,5-6,0.45454545454545453,504.16,Atlantic Coast,Carolina DI,D-I,492.42,11.74
+267,NA,Colby,1-7,0.125,503.92,New England,North New England DIII,D-III,861.87,-357.95
+268,NA,James Madison-B,11-6,0.6470588235294118,503.34,Atlantic Coast,Southern Atlantic Coast Dev,Dev,387.8,115.54
+269,NA,Oklahoma State University,1-4,0.2,500.56,,,?,791.43,-290.87
+270,NA,North Texas,5-10,0.3333333333333333,500.12,South Central,North Texas DI,D-I,613.55,-113.43
+271,NA,Cedarville,5-9,0.35714285714285715,498.09,Ohio Valley,Ohio DIII,D-III,663.41,-165.31
+272,NA,Winona State,0-5,0,482.21,North Central,Northwoods DIII,D-III,882.94,-400.72
+273,NA,Rose-Hulman,1-9,0.1,480.09,,,?,791.65,-311.56
+274,NA,Georgia Southern,1-16,0.058823529411764705,479.62,Southeast,Southern Appalachian DI,D-I,862.26,-382.64
+NA,NA,New Mexico,0-4,0,464.76,Southwest,Desert DI,D-I,1014.51,-549.75
+275,NA,College of New Jersey,7-9,0.4375,459.33,Metro East,Metro NY DIII,D-III,517.04,-57.71
+276,NA,Connecticut-B,13-4,0.7647058823529411,457.84,Metro East,Metro East Dev,Dev,294.41,163.42
+277,NA,Villanova,3-3,0.5,447.31,Ohio Valley,East Penn DI,D-I,192.5,254.81
+278,NA,Eastern Michigan,4-8,0.3333333333333333,447.05,,,?,619.41,-172.36
+279,NA,Hofstra,3-14,0.17647058823529413,445.61,Metro East,Metro NY DI,D-I,642,-196.39
+280,NA,Southern California-B,10-9,0.5263157894736842,445.42,Southwest,Southwest Dev,Dev,355.67,89.75
+281,NA,North Carolina State-B,4-12,0.25,432.72,Atlantic Coast,,?,592.56,-159.84
+282,NA,High Point,0-13,0,423.59,Atlantic Coast,Carolina DIII,D-III,890.29,-466.69
+NA,NA,University of Illinois at Chicago,0-4,0,409.49,,,?,698.69,-289.2
+283,NA,Stevens Tech,5-8,0.38461538461538464,409.26,Metro East,Metro NY DIII,D-III,407.45,1.81
+284,NA,Bentley,2-10,0.16666666666666666,405.14,New England,Metro Boston DIII,D-III,778.35,-373.21
+285,NA,Akron,4-10,0.2857142857142857,398.95,,,?,453.11,-54.15
+286,NA,Notre Dame-B,7-5,0.5833333333333334,394.95,Great Lakes,Great Lakes Dev,Dev,432.73,-37.78
+287,NA,Maryland-Baltimore County,1-5,0.16666666666666666,390.29,Atlantic Coast,Colonial DI,D-I,620.78,-230.5
+288,NA,California-San Diego-B,9-6,0.6,389.37,Southwest,Southwest Dev,Dev,292.69,96.68
+289,NA,Salisbury,5-14,0.2631578947368421,383.54,Atlantic Coast,Colonial DI,D-I,621.99,-238.45
+NA,NA,Whitworth,1-2,0.3333333333333333,383.42,Northwest,Northwest DIII,D-III,707.14,-323.72
+290,NA,Stockton University -Upper,6-9,0.4,378.52,,,?,428.69,-50.17
+291,NA,Minnesota-C,7-5,0.5833333333333334,377.11,North Central,North Central Dev,Dev,465.6,-88.49
+292,NA,Drake University,1-9,0.1,375.93,,,?,613.22,-237.28
+293,NA,Fresno State,1-5,0.16666666666666666,373.85,,,?,503.23,-129.39
+294,NA,Tulane-B,3-9,0.25,367.22,Southeast,,?,709.43,-342.21
+295,NA,Haverford,6-10,0.375,367.14,Ohio Valley,East Penn DIII,D-III,548.38,-181.24
+296,NA,Central Washington,1-5,0.16666666666666666,356.07,Northwest,Cascadia DI,D-I,640.26,-284.19
+297,NA,Miami,3-8,0.2727272727272727,354.54,Southeast,Florida DI,D-I,431.03,-76.49
+NA,NA,LeTourneau University,1-3,0.25,352.48,,,?,573.9,-221.42
+NA,NA,Caltech,0-2,0,351.37,Southwest,Southwest DIII,D-III,941.17,-589.8
+298,NA,Colgate,3-7,0.3,347.3,Metro East,Western NY DIII,D-III,591.83,-244.52
+299,NA,North Florida,2-9,0.18181818181818182,328.78,Southeast,Florida DI,D-I,596.22,-267.44
+NA,NA,Southern Methodist,2-2,0.5,324.23,South Central,North Texas DI,D-I,324.23,0
+300,NA,Union,3-6,0.3333333333333333,323.19,,,?,439.08,-115.9
+301,NA,Houston,5-12,0.29411764705882354,316.49,South Central,South Texas DI,D-I,541.25,-224.76
+302,NA,Idaho,2-12,0.14285714285714285,313.39,Northwest,Big Sky DI,D-I,719.36,-405.96
+303,NA,Skidmore College,6-14,0.3,298.24,,,?,493.05,-194.81
+304,NA,Embry-Riddle,4-12,0.25,297.97,,,?,527.62,-229.64
+305,NA,Milwaukee School of Engineering,0-5,0,294.7,North Central,Lake Superior DIII,D-III,776.18,-481.48
+306,NA,Carleton College-Karls,7-11,0.3888888888888889,294.57,North Central,,D-III,476.93,-182.36
+307,NA,Virginia Tech-B,6-10,0.375,293.39,Atlantic Coast,,?,412.91,-119.52
+308,NA,Texas Christian,2-7,0.2222222222222222,282.45,South Central,North Texas DI,D-I,459.5,-177.05
+309,NA,SUNY-Binghamton-B,7-14,0.3333333333333333,281.65,Metro East,Metro East Dev,Dev,403.96,-122.31
+NA,NA,Tufts-B,0-3,0,280.57,New England,Metro Boston Dev,Dev,693.75,-413.17
+310,NA,Texas A&M-B,1-8,0.1111111111111111,270.61,South Central,South Texas DI,Dev,532.82,-262.21
+311,NA,Dickinson,2-8,0.2,267.62,Ohio Valley,West Penn DIII,D-III,531.09,-263.47
+312,NA,Washington University-B,2-12,0.14285714285714285,265.15,South Central,,?,582.1,-316.95
+313,NA,Boston University-B,2-5,0.2857142857142857,258.75,New England,,?,454.59,-195.83
+NA,NA,Santa Clara-B,0-3,0,258.37,Southwest,,?,858.37,-600
+314,NA,Edinboro,5-10,0.3333333333333333,258.18,Ohio Valley,West Penn DI,D-I,471.87,-213.68
+315,NA,Knox,6-14,0.3,257.91,Great Lakes,Illinois DIII,D-III,500.05,-242.14
+316,NA,George Washington-B,9-12,0.42857142857142855,247.2,Atlantic Coast,,?,232.92,14.28
+317,NA,Stonehill,3-6,0.3333333333333333,243.34,New England,Metro Boston DIII,D-III,388.07,-144.74
+318,NA,Virginia-B,8-11,0.42105263157894735,242.62,Atlantic Coast,,?,237.17,5.45
+319,NA,Northwestern-B,6-7,0.46153846153846156,237.27,Great Lakes,Great Lakes Dev,Dev,254.27,-17
+NA,NA,Shenandoah University,1-3,0.25,233.57,,,?,215.97,17.6
+320,NA,Rensselaer Polytechnic Institute,5-11,0.3125,228.64,,,?,461.59,-232.96
+321,NA,San Jose State,1-10,0.09090909090909091,215.04,Southwest,NorCal DI,D-I,546.49,-331.45
+322,NA,Purdue-B,4-13,0.23529411764705882,205.19,Great Lakes,Great Lakes Dev,Dev,363.44,-158.24
+NA,NA,Puget Sound,1-3,0.25,196.4,Northwest,Northwest DIII,D-III,547.56,-351.17
+323,NA,Indiana-B,3-7,0.3,192.99,Great Lakes,Great Lakes Dev,Dev,219.42,-26.43
+324,NA,Xavier,2-8,0.2,189.69,Ohio Valley,Ohio DIII,D-III,568,-378.32
+325,NA,Central Florida-B,2-4,0.3333333333333333,184.87,Southeast,Southeast Dev,Dev,343.89,-159.02
+326,NA,Wisconsin-Stevens Point,0-5,0,179.24,,,?,779.24,-600
+327,NA,Hamilton,2-5,0.2857142857142857,178.29,,,?,219.58,-41.3
+328,NA,Michigan State-B,2-4,0.3333333333333333,174.15,Great Lakes,,?,254.11,-79.97
+329,NA,Princeton-B,1-6,0.14285714285714285,172.92,Metro East,,?,430.7,-257.78
+330,NA,University of Iowa-B,2-4,0.3333333333333333,137.12,,,?,62.82,74.3
+331,NA,Texas Tech,2-7,0.2222222222222222,133.47,South Central,North Texas DI,D-I,387.91,-254.43
+332,NA,Florida-B,2-3,0.4,131.83,Southeast,Southeast Dev,Dev,39.4,92.43
+333,NA,UCLA-B,4-10,0.2857142857142857,127.38,Southwest,Southwest Dev,Dev,379.58,-252.2
+334,NA,Bradley,3-8,0.2727272727272727,123.56,Great Lakes,Illinois DIII,D-III,454.78,-331.22
+335,NA,University of Memphis,0-6,0,122.1,,,?,688.01,-565.91
+336,NA,Slippery Rock,1-6,0.14285714285714285,117.58,,,?,502.88,-385.3
+NA,NA,Lewis & Clark,1-2,0.3333333333333333,114.14,Northwest,Northwest DIII,D-III,77.98,36.16
+337,NA,Siena,4-11,0.26666666666666666,112.49,Metro East,Hudson Valley DIII,D-III,321.96,-209.47
+338,NA,SUNY-Oneonta,2-8,0.2,95.79,Metro East,Western NY DIII,D-III,151.39,-55.61
+NA,NA,Suny Oswego,1-2,0.3333333333333333,90.01,,,?,54.28,35.72
+339,NA,SUNY Binghamton-B,2-3,0.4,90,,,?,76.03,13.97
+340,NA,Illinois-B,4-14,0.2222222222222222,76.66,Great Lakes,Great Lakes Dev,Dev,260.76,-184.1
+341,NA,Temple-B,3-9,0.25,69.83,Ohio Valley,Ohio Valley Dev,Dev,234.87,-165.04
+342,NA,SUNY-Stony Brook-B,3-6,0.3333333333333333,67.57,Metro East,,?,56.37,11.2
+343,NA,Case Western Reserve-B,2-4,0.3333333333333333,61.83,Ohio Valley,Ohio Valley Dev,Dev,248.42,-186.58
+344,NA,Hartford,0-5,0,47.12,,,?,488.66,-441.54
+345,NA,William & Mary-B,3-14,0.17647058823529413,46.4,Atlantic Coast,Southern Atlantic Coast Dev,Dev,362.74,-316.34
+346,NA,Iowa State-B,3-9,0.25,36.25,North Central,,?,284.64,-248.39
+347,NA,California-Santa Barbara-B,4-10,0.2857142857142857,35.04,Southwest,Southwest Dev,Dev,366.57,-331.52
+348,NA,Southeast Missouri State,1-11,0.08333333333333333,18.35,,,?,407.03,-388.68
+349,NA,Trinity University,1-13,0.07142857142857142,-7.44,,,?,422.72,-430.16
+NA,NA,Denver-B,0-4,0,-11.18,South Central,,?,535.51,-546.69
+350,NA,New Jersey Tech,3-4,0.42857142857142855,-16.08,,,?,-7.05,-9.03
+351,NA,Cornell-B,3-12,0.2,-52.51,Metro East,Metro East Dev,Dev,189.57,-242.08
+352,NA,Delaware-B,4-13,0.23529411764705882,-58.12,Atlantic Coast,Colonial Dev,Dev,98.49,-156.61
+353,NA,Cleveland State,0-8,0,-68.06,,,?,469.84,-537.89
+354,NA,Towson -B,3-7,0.3,-130.65,Atlantic Coast,Colonial Dev,Dev,33.44,-164.09
+355,NA,Syracuse-B,3-5,0.375,-132.07,Metro East,,?,66.53,-198.6
+356,NA,Clark,1-11,0.08333333333333333,-134.02,,,?,4.97,-138.99
+357,NA,Ohio Wesleyan,0-5,0,-138.45,Ohio Valley,,D-III,189.69,-328.14
+358,NA,Lehigh-B,4-13,0.23529411764705882,-147.99,Ohio Valley,,?,36.7,-184.68
+359,NA,Georgetown-B,1-10,0.09090909090909091,-157.89,Atlantic Coast,Colonial Dev,Dev,159.48,-317.37
+360,NA,Rutgers-B,5-9,0.35714285714285715,-192.65,Metro East,Metro East Dev,Dev,-107.92,-84.73
+361,NA,South Florida-B,0-6,0,-198.81,Southeast,Southeast Dev,Dev,345.64,-544.45
+362,NA,American-B,1-8,0.1111111111111111,-240.8,Atlantic Coast,Colonial Dev,Dev,-21.33,-219.47
+NA,NA,Dayton-B,0-4,0,-272.08,Ohio Valley,,?,117.58,-389.67
+363,NA,Pennsylvania-B,1-6,0.14285714285714285,-290.28,Ohio Valley,Ohio Valley Dev,Dev,113.15,-403.43
+364,NA,New Haven,0-5,0,-313.53,,,?,240.64,-554.17
+365,NA,LSU-B,0-6,0,-336.11,Southeast,Southeast Dev,Dev,197.61,-533.73
+NA,NA,Portland,0-2,0,-339.46,Northwest,Northwest DIII,D-III,114.14,-453.6
+366,NA,Jefferson,0-6,0,-341.43,,,?,258.57,-600
+367,NA,SUNY-Fredonia,0-10,0,-345.92,Metro East,Western NY DIII,D-III,201.46,-547.38
+368,NA,Muhlenberg College,0-5,0,-347.05,,,?,-137.13,-209.92
+NA,NA,St Mary's (Maryland),0-4,0,-366.43,Atlantic Coast,Northern Atlantic Coast DIII,D-III,233.57,-600
+369,NA,SUNY-Albany-B,3-16,0.15789473684210525,-388.05,Metro East,Metro East Dev,Dev,-82.78,-305.27
+370,NA,Chicago-B,0-6,0,-410.5,Great Lakes,,?,189.5,-600
+371,NA,Arizona State-B,1-5,0.16666666666666666,-414.95,Southwest,Southwest Dev,Dev,-295.17,-119.78
+NA,NA,Carnegie Mellon-B,0-3,0,-415.28,Ohio Valley,,?,-290.28,-125
+NA,NA,Coe,0-3,0,-420.41,North Central,West Plains DIII,D-III,137.12,-557.53
+372,NA,Northeastern-C,0-8,0,-426.45,New England,,?,123.68,-550.13
+373,NA,Sacred Heart,0-6,0,-477.6,Metro East,Hudson Valley DI,D-I,122.4,-600
+374,NA,Wisconsin-Eau Claire-B,1-9,0.1,-481.32,North Central,,?,-268.3,-213.03
+375,NA,Stevens Tech-B,2-5,0.2857142857142857,-505.58,Metro East,,?,-257.7,-247.89
+376,NA,Wisconsin-Milwaukee-B,0-6,0,-899.89,North Central,,?,-481.32,-418.57
+377,NA,California-San Diego-C,0-6,0,-1014.95,Southwest,Southwest Dev,Dev,-414.95,-600
+NA,NA,Grinnell-B,0-3,0,NA,,,?,NA,NA
+NA,NA,Amherst College-B,0-2,0,NA,,,?,NA,NA
+NA,NA,Colorado School of Mines-B,0-4,0,NA,South Central,,?,NA,NA
